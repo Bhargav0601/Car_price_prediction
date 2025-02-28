@@ -14,7 +14,7 @@ asyncpg
 sqlalchemy
 fastapi
 uvicorn
-python-multipart
-streamlit
-great_expectations
 psycopg2
+python-multipart
+streamlit 
+great_expectations
