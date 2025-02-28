@@ -1,0 +1,9 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Cruze LTZ,2012,74000,Diesel,Individual,Manual,Fourth & Above Owner,17.3,1998.0,163.7,5.0,Chevrolet
+Honda Jazz 1.2 VX i VTEC,2015,22700,Petrol,Individual,Manual,First Owner,18.7,1199.0,88.7,5.0,Honda
+Hyundai Grand i10 Sportz,2016,45000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Maruti Eeco 5 Seater AC BSIV,2011,36000,Petrol,Individual,Manual,Second Owner,15.37,1196.0,73.0,5.0,Maruti
+Maruti Swift Dzire ZDI,2015,57000,Diesel,Individual,Manual,Second Owner,26.59,1248.0,74.0,5.0,Maruti
+Tata Tiago 1.05 Revotorq XZ,2018,33000,Diesel,Individual,Manual,First Owner,27.28,1047.0,69.0,5.0,Tiago
+Maruti Ertiga VXI,2012,59000,Petrol,Individual,Manual,First Owner,16.02,1373.0,93.7,7.0,Maruti
+Volkswagen Vento Diesel Highline,2012,200000,Diesel,Individual,Manual,First Owner,20.54,1598.0,103.6,5.0,Volkswagen
