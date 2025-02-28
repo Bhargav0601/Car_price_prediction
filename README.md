@@ -107,7 +107,7 @@ The project is structured into several components:
  
 ## Support
  
-For support or inquiries related to the project, please contact us.
+For support or inquiries related to the project, please feel free to contact me.
  
 ## Acknowledgements
  
