@@ -1,0 +1,19 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:5002
+  Network URL: http://10.182.0.2:5002
+
+display_data is     year  km_driven  seats  mileage  ...  car_company_name    fuel transmission  owner
+0  1994      75848      5     18.0  ...             Honda  Diesel       Manual  First
+
+[1 rows x 10 columns]
+display_data is     year  km_driven  seats  mileage  ...  car_company_name    fuel transmission  owner
+0  2004      86869      5     20.0  ...             Honda  Diesel    Automatic  First
+
+[1 rows x 10 columns]
+display_data is     year  km_driven  seats  mileage  ...  car_company_name    fuel transmission  owner
+0  1980       1234      4     24.0  ...             honda  Petrol       Manual  First
+
+[1 rows x 10 columns]
+  Stopping...
