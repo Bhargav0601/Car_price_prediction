@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2017,60000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Honda Brio Exclusive Edition,2013,80000,Petrol,Individual,Manual,First Owner,19.4,1198.0,86.8,5.0,Honda
+Maruti Swift Dzire VDI Optional,2016,80000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Ford Fiesta 1.4 Duratorq ZXI,2006,114321,Diesel,Individual,Manual,Second Owner,17.8,1399.0,68.0,5.0,Ford
+Tata Indica Vista TDI LX,2013,120000,Diesel,Individual,Manual,First Owner,19.4,1405.0,70.0,5.0,Tata
+Mahindra Scorpio VLX 2WD AIRBAG AT BSIV,2012,120000,Diesel,Individual,Manual,Second Owner,12.05,2179.0,120.0,9 seats,Mahindra
+Toyota Etios Liva GD,2014,146000,Diesel,Individual,Manual,First Owner,23.59,1364.0,67.06,5.0,Toyota
+Hyundai i10 Magna LPG,2012,30000,LPG,Partnership,Manual,First Owner,19.2,1086.0,68.05,5.0,Hyundai
+Hyundai EON D Lite Plus,2017,20000,Electric,Individual,Manual,Rent,21.1,814.0,55.2,5.0,Hyundai

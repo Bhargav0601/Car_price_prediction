@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R VXI 1.2,9,75000,Petrol,Dealer,Manual,First Owner,20.52,1197.0,81.8,5.0,Maruti
+Mercedes-Benz E-Class E 220 CDI Avantgarde,2011,74000,Diesel,Dealer,Automatic,First Owner,10.0,2148.0,170.0,5.0,Mercedes
+Ford Figo Titanium Diesel,2013,158000,Diesel,Dealer,Manual,First Owner,24.4,1499.0,98.96,5.0,Ford
+Isuzu MUX 2WD,2019,10000,Diesel,Individual,Automatic,First Owner,13.8,2999.0,174.57,7.0,Isuzu
+Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2018,40000,Diesel,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Tata Nexon 1.5 Revotorq XZA Plus,2019,10000,Electric,Individual,Automatic,First Owner,21.5,1497.0,108.5,5.0,Tata
+Tata Hexa XE,2017,53000,Diesel,Partnership,Manual,First Owner,17.6,2179.0,147.94,7.0,Tata
+Jeep Compass 2.0 Limited Option 4X4,2017,20000,Diesel,Individual,Manual,Second Owner,16.3,1956.0,170.0,5.0,Jeep
+Volkswagen Polo 1.0 TSI Highline Plus,2020,5000,Petrol,Individual,Manual,First Owner,18.24,999.0,108.6,5.0,Volkswagen

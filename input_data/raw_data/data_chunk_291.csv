@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra XUV500 W9 BSIV,2019,18000,Diesel,Individual,Manual,First Owner,15.1,2179.0,152.87,7.0,Mahindra
+Hyundai Grand i10 Sportz,2015,30000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Fiat Grande Punto 1.4 Emotion,2009,55000,Petrol,Individual,Manual,First Owner,14.6,1368.0,88.7,5.0,Fiat
+Toyota Innova Crysta 2.7 GX AT 8 STR,2020,40000,Petrol,Individual,Automatic,First Owner,10.75,2694.0,163.7,8.0,Toyota
+Maruti Alto 800 LXI,2013,80000,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Baleno Delta 1.2,2018,30000,Petrol,Individual,Ai,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Maruti Alto K10 VXI,2017,3564,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Maruti Swift Dzire VDI Optional,2015,80000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Force One SX ABS 7 Seating,2018,13000,Diesel,Individual,Manual,First Owner,17.0,2200.0,139.01,7.0,Force

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata New Safari DICOR 2.2 EX 4x2,2008,179150,Diesel,Individual,Manual,Second Owner,11.57,2179.0,138.1,7.0,Tata
+Maruti 800 Std MPFi,2003,62000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Swift Dzire 1.2 Lxi BSIV,2009,160000,Petrol,Individual,Manual,Third Owner,17.5,1197.0,85.8,5.0,Maruti
+Maruti Swift Dzire VDI,2019,35000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Mahindra XUV500 AT W6 2WD,2016,120000,Diesel,Partnership,Automatic,Rent,16.0,2179.0,140.0,7.0,Mahindra
+Honda Amaze SX i-DTEC,5,50000,Diesel,Individual,Manual,First Owner,25.8,1498.0,98.6,5.0,Honda
+Maruti Swift Dzire ZDi,2011,70000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti Swift VDI,2013,97000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Swift Dzire LDi,2011,90000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti

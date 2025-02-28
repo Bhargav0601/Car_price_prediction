@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Santro Xing XS eRLX Euro II,2003,68300,Petrol,Individual,Manual,Third Owner,,,,,Hyundai
+Hyundai Creta 1.6 SX,2018,27000,Petrol,Partnership,Manual,First Owner,15.8,1591.0,121.3,5.0,Hyundai
+Maruti Baleno Zeta Automatic,2018,9000,Petrol,Individual,Automatic,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Hyundai i20 Magna Optional 1.4 CRDi,2013,40000,Diesel,Individual,Manual,First Owner,21.9,1396.0,88.8,5.0,Hyundai
+Maruti Ignis 1.2 AMT Zeta BSIV,2019,19000,Petrol,Individual,Automatic,Second Owner,20.89,1197.0,81.8,5.0,Maruti
+Maruti Wagon R VXI 1.2,2019,10000,Petrol,Individual,Manual,Rent,20.52,1197.0,81.8,5.0,Maruti
+Tata Indigo CR4,2013,100000,Diesel,Individual,Manual,First Owner,23.57,1396.0,70.0,5.0,Tata
+Maruti Wagon R AMT VXI,2017,20000,Petrol,Individual,Automatic,First Owner,20.51,998.0,67.0,5.0,Maruti
+Hyundai EON Era,2014,35000,Petrol,Individual,Manual,First Owner,Unknown,814.0,55.2,5.0,Hyundai

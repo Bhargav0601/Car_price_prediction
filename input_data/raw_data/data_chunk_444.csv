@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Fiat Avventura Power Up 1.3 Emotion,2015,96500,Diesel,Individual,Manual,First Owner,20.5,1248.0,91.72,5.0,Fiat
+Honda City V MT,2010,79000,Petrol,Individual,Manual,First Owner,16.8,1497.0,116.3,5.0,Honda
+Mahindra TUV 300 mHAWK100 T8,2016,50000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Fiat Grande Punto Active (Diesel),2012,60000,Diesel,Individual,Manual,Second Owner,20.3,1248.0,75.0,5.0,Fiat
+Tata Zest Revotron 1.2T XMS,2018,35000,Petrol,Individual,Manual,First Owner,17.57,1193.0,88.7,5.0,Zest
+Fiat Avventura MULTIJET Emotion,2015,120000,Electric,Individual,Manual,Rent,20.5,1248.0,91.72,5.0,Fiat
+Maruti Swift Dzire AMT VXI,2019,10000,Petrol,Individual,Automatic,Rent,21.21,1197.0,81.8,5.0,Maruti
+Hyundai i20 Active 1.2 S,2017,15000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Maruti Alto 800 CNG LXI,2013,70000,CNG,Individual,Manual,Second Owner,30.46,796.0,47.3,5.0,Maruti

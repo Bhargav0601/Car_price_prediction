@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+BMW X1 sDrive20d M Sport,2018,18000,Diesel,Dealer,Automatic,First Owner,19.62,1998.0,190.0,5.0,BMW
+Honda Jazz VX CVT,2019,1500,Petrol,Individual,Automatic,First Owner,18.2,1199.0,88.7,5.0,Honda
+Honda Mobilio RS Option i DTEC,2015,46000,Diesel,Individual,Manual,First Owner,24.5,1498.0,98.6,7.0,Honda
+Maruti Baleno Alpha 1.3,2017,24400,Diesel,Individual,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti
+Volkswagen Vento 1.5 TDI Highline Plus AT BSIV,2018,29899,Diesel,Dealer,Automatic,First Owner,22.15,1498.0,108.6,5.0,Volkswagen
+Toyota Innova Crysta 2.8 GX AT 8S BSIV,2018,20000,Diesel,Dealer,Automatic,First Owner,11.36,2755.0,171.5,8.0,Toyota
+Hyundai Grand i10 Nios Sportz,2020,2000,Petrol,Dealer,Manual,First Owner,20.7,1197.0,81.86,5.0,Hyundai
+Renault Lodgy 85PS RxL,2017,34000,Diesel,Dealer,Manual,First Owner,21.04,1461.0,83.8,8.0,Renault
+Hyundai Elite i20 Asta Option CVT BSIV,2018,31000,Petrol,Dealer,Automatic,First Owner,17.4,1197.0,81.86,5.0,Hyundai

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i-VTEC S,2010,58544,Petrol,Dealer,Manual,Rent,17.4,1497.0,117.3,5.0,Honda
+Maruti Wagon R VXI,2016,74381,Petrol,Dealer,Manual,First Owner,21.79,998.0,67.05,5.0,Maruti
+Maruti 800 DX 5 Speed,2001,35000,Petrol,Individual,Manual,Third Owner,16.1,796.0,37.0,4.0,Maruti
+Ford Ecosport 1.5 DV5 MT Titanium,2017,63982,Diesel,Dealer,Manual,First Owner,22.7,1498.0,89.84,5.0,Ford
+Maruti Wagon R VXI,2008,65000,Petrol,Dealer,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti
+Mahindra Bolero 2011-2019 SLE,2014,74000,Diesel,Dealer,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Renault Duster 110PS Diesel RxZ,2013,56429,Diesel,Dealer,Manual,Second Owner,19.01,1461.0,108.45,5.0,Renault
+Hyundai i10 Magna 1.2 iTech SE,2012,56000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Hyundai Santro Magna,2019,19500,Petrol,Dealer,Manual,First Owner,20.3,1086.0,68.07,5.0,Hyundai

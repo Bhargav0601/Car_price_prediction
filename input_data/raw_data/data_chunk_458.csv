@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Vento 1.5 TDI Highline,2014,111000,Diesel,Individual,Manual,First Owner,20.34,1498.0,103.2,5.0,Volkswagen
+Mahindra Xylo E4 BS III,2013,120000,Diesel,Individual,Manual,Second Owner,11.68,2498.0,112.0,7.0,Xylo
+Maruti Baleno Zeta 1.2,2017,15000,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Maruti Alto 800 VXI,2016,30000,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Alto K10 VXI,2017,50000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Hyundai Creta 1.6 CRDi Anniversary Edition,2015,40000,Diesel,Individual,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+Tata Indica V2 GLX BSIII,2008,50000,Petrol,Individual,Manual,Second Owner,15.3,1396.0,70.0,5.0,Tata
+Tata Tiago 1.2 Revotron XZ,2018,45000,Petrol,Individual,Manual,Second Owner,23.84,1199.0,84.0,5.0,Tata
+Tata Tiago 1.05 Revotorq XZ,2016,35000,Diesel,Individual,Manual,Second Owner,27.28,1047.0,69.0,5.0,Tata

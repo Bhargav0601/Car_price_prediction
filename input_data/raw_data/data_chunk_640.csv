@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero 2011-2019 SLX 2WD BSIII,2013,160000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Chevrolet Sail Hatchback Diesel Base,2013,50000,Diesel,Individual,Ai,First Owner,22.1,1248.0,76.9,5.0,Chevrolet
+Tata Indigo CS LE (TDI) BS-III,2008,120000,Diesel,Individual,Manual,Third Owner,19.09,1396.0,69.0,5.0,Tata
+Hyundai Verna 1.6 SX,2013,76460,Diesel,Individual,Manual,First Owner,22.32,1582.0,126.32,5.0,Verna
+Ford Figo Diesel Titanium,2011,125000,Diesel,Individual,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Mahindra Verito 1.5 D2 BSIII,2012,110000,Diesel,Individual,Manual,Second Owner,20.8,1461.0,65.0,5.0,Mahindra
+Hyundai EON Era Plus,2017,25000,Petrol,Individual,Ai,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Honda City i DTEC SV,2015,30000,Diesel,Individual,Manual,First Owner,26.0,1498.0,98.6,5.0,Honda
+Hyundai i10 Magna LPG,2013,70000,LPG,Individual,Manual,Second Owner,19.2,1086.0,68.05,5.0,i10

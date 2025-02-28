@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2017,70000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Hyundai EON Era Plus,2016,49200,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Honda Civic 1.8 V MT,2009,125000,Petrol,Partnership,Manual,Second Owner,13.5,1799.0,130.0,5.0,Honda
+Hyundai i10 Era,2008,60000,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Maruti Eeco 5 Seater AC BSIV,2015,120000,Electric,Individual,Manual,Second Owner,15.37,1196.0,73.0,5.0,Maruti
+Maruti Alto LXI,2004,110000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Alto
+Maruti Wagon R LXI Minor,2007,70000,Petrol,Individual,Manual,Second Owner,18.9,1061.0,67.0,5.0,Maruti
+Maruti Wagon R LXI,2006,168000,Petrol,Individual,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti
+Mahindra XUV500 W10 2WD,2018,30000,Diesel,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra

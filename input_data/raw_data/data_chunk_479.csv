@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto 800 LXI,2018,13000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Alto
+Maruti Swift Dzire VDI,2015,50000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Swift
+Hyundai i10 Magna,2012,40000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Hyundai i20 Active 1.2 SX Dual Tone,2016,25000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Maruti Eeco 7 Seater Standard BSIV,2011,110000,Petrol,Individual,Manual,Second Owner,15.37,1196.0,73.0,7.0,Maruti
+Toyota Glanza G Smart Hybrid,2019,5000,Petrol,Individual,Manual,First Owner,23.87,1197.0,88.5,5.0,Toyota
+Maruti 800 AC,2013,50000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Hyundai Grand i10 Asta,2014,80000,Petrol,Individual,Manual,Third Owner,18.9,1197.0,82.0,5.0,Hyundai
+Toyota Innova 2.5 G (Diesel) 8 Seater,2012,225000,Diesel,Individual,Manual,Rent,12.99,2494.0,100.0,8.0,Toyota

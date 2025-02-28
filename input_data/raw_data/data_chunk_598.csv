@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2016,75000,Diesel,Individual,Manual,Second Owner,26.59,1248.0,74.0,5.0,Maruti
+Hyundai Verna Transform VGT CRDi,2010,80000,Diesel,Individual,Ai,Second Owner,16.2,1493.0,110.0,5.0,Hyundai
+Tata Tigor 1.2 Revotron XZ Option,2017,40000,Petrol,Individual,Ai,Second Owner,20.3,1199.0,84.0,5.0,Tata
+Mahindra Jeep CL 500 MDI,1997,100000,Diesel,Partnership,Manual,Fourth & Above Owner,,,,,Mahindra
+Ford Fiesta Diesel Style,2012,120000,Diesel,Individual,Manual,First Owner,23.5,1498.0,88.7,5.0,Ford
+Mahindra Scorpio 2.6 Turbo 7 Str,2007,110000,Diesel,Individual,Manual,Fourth & Above Owner,12.7,2609.0,116.6,8.0,Mahindra
+Hyundai i20 Asta 1.4 CRDi (Diesel),2010,110000,Diesel,Individual,Manual,First Owner,23.0,1396.0,90.0,5.0,Hyundai
+Tata Tiago 2019-2020 XZ Plus Diesel,4,2000,Diesel,Individual,Manual,First Owner,27.28,1047.0,69.0,5.0,Tata
+Maruti Swift Dzire VDI,2014,80000,Diesel,Individual,Manual,Second Owner,23.4,1248.0,74.0,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Celerio VXI,2016,60000,Petrol,Individual,Manual,First Owner,23.1,998.0,67.04,5.0,Maruti
+Mahindra XUV500 W8 4WD,2012,130000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+BMW 3 Series 320d Luxury Plus,2013,140000,Diesel,Individual,Automatic,Second Owner,18.88,1995.0,184.0,5.0,BMW
+Nissan Terrano XE 85 PS,2016,35000,Diesel,Individual,Manual,First Owner,20.45,1461.0,83.8,5.0,Nissan
+Nissan Terrano XL 85 PS,2015,35000,Diesel,Individual,Manual,First Owner,20.45,1461.0,83.8,5.0,Nissan
+Tata New Safari DICOR 2.2 EX 4x2,2011,156000,Diesel,Individual,Manual,First Owner,11.57,2179.0,138.1,7.0,Tata
+Maruti Alto 800 LX,2013,90000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Tata Indigo LS,2008,60000,Diesel,Individual,Manual,Third Owner,17.0,1405.0,70.0,5.0,Indigo
+Nissan Terrano XL 110 PS,2016,36000,Diesel,Individual,Manual,First Owner,19.01,1461.0,108.5,5.0,Nissan

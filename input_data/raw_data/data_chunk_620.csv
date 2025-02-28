@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 1.4 CRDi Magna,2011,105000,Diesel,Individual,Manual,Second Owner,Unknown,1396.0,90.0,5.0,Hyundai
+Hyundai i10 Magna 1.2 iTech SE,2013,40000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Mahindra XUV500 W6 2WD,2014,141000,Diesel,Individual,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra
+Mahindra Bolero LX,2005,15000,Diesel,Individual,Manual,Second Owner,,,,,Mahindra
+Hyundai Verna CRDi ABS,2007,150000,Diesel,Individual,Manual,Second Owner,18.1,1493.0,110.0,5.0,Hyundai
+Maruti Ritz VDi,2014,80000,Diesel,Individual,Manual,Second Owner,23.2,1248.0,73.94,5.0,Ritz
+Ford EcoSport 1.5 Diesel Titanium BSIV,2018,25000,Diesel,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Tata Sumo Gold CX BSIII,2017,51000,Diesel,Individual,Manual,First Owner,14.07,2956.0,69.01,7.0,Tata
+Tata Indica V2 eLS,2017,40000,Diesel,Individual,Manual,First Owner,25.0,1396.0,69.0,5.0,Tata

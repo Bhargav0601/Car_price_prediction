@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Ldi BSIII,2007,150000,Diesel,Individual,Manual,Fourth & Above Owner,17.8,1557 CC,75.0,5.0,Swift
+Mahindra Quanto C4,2013,110000,Diesel,Individual,Manual,Second Owner,17.21,1493.0,100.0,7.0,Quanto
+Chevrolet Beat Diesel LT,2014,90000,Diesel,Individual,Manual,Second Owner,25.44,936.0,56.3,5.0,Chevrolet
+Ford Figo Petrol Titanium,2010,120000,Petrol,Individual,Manual,Third Owner,15.6,1196.0,70.0,5.0,Ford
+Toyota Innova 2.5 G (Diesel) 8 Seater,2016,65000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,8.0,Toyota
+Maruti Wagon R VXI 1.2,2019,10000,Petrol,Individual,Manual,First Owner,20.52,1197.0,81.8,5.0,Maruti
+Hyundai i10 Sportz,2009,80000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Ertiga VDI,2013,184000,Diesel,Individual,Manual,Rent,20.77,1248.0,88.76,7.0,Maruti
+Maruti Wagon R CNG LXI,2013,80000,CNG,Individual,Manual,Second Owner,32.52,998.0,58.33,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R VXI BS IV,2014,70000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Hyundai Santro Xing XG,2005,125000,Petrol,Individual,Manual,Fourth & Above Owner,,,,,Hyundai
+Renault Fluence Diesel E4,2012,120000,Diesel,Individual,Manual,Second Owner,21.8,1461.0,78.0,5.0,Renault
+Renault Duster 110PS Diesel RxL,2012,110000,Diesel,Individual,Manual,Second Owner,19.01,1461.0,108.45,5.0,Renault
+Tata Indica Vista Aura Plus 1.3 Quadrajet BS IV,2010,140000,Diesel,Individual,Manual,First Owner,18.4,1248.0,75.0,5.0,Tata
+Mahindra Scorpio VLS AT 2.2 mHAWK,2009,155000,Diesel,Individual,Automatic,Second Owner,11.79,2179.0,120.0,8.0,Scorpio
+Hyundai Santro Xing XL,2007,120000,Petrol,Individual,Manual,Second Owner,,,,,Hyundai
+Renault Pulse RxL Optional,2017,80000,Diesel,Individual,Manual,Second Owner,23.08,1461.0,63.1,5.0,Renault
+Mahindra Bolero SLX 2WD,7,120000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Bolero

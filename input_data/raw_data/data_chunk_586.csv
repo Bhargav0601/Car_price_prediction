@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Polo 1.5 TDI Highline,2014,110000,Diesel,Individual,Manual,Second Owner,20.14,1498.0,88.8,5.0,Volkswagen
+Hyundai i20 2015-2017 Magna 1.4 CRDi,2017,70000,Diesel,Individual,Manual,Second Owner,22.54,1396.0,88.73,5.0,Hyundai
+Hyundai Santro Xing GL,2008,40000,Petrol,Individual,Manual,Rent,0.0,1086.0,62.0,5.0,Hyundai
+Maruti SX4 Green Vxi (CNG),3,90000,CNG,Individual,Manual,Second Owner,21.4,1586.0,103.3,5.0,Maruti
+Volkswagen Polo GT TDI,2012,95000,Diesel,Individual,Manual,First Owner,19.7,1598.0,103.6,5.0,Volkswagen
+Mahindra Bolero SLX 2WD BSIII,2011,200000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Maruti Swift VDI BSIV,2015,30000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,,Maruti
+Maruti Swift VDI BSIV,2015,30000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Volkswagen CrossPolo 1.5 TDI,2013,70000,Diesel,Individual,Manual,Second Owner,20.14,1498.0,88.5,5.0,Volkswagen

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto K10 VXI,2016,40000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Maruti Ciaz VDi Plus,2015,50000,Diesel,Individual,Manual,First Owner,26.21,1248.0,88.5,5.0,Maruti
+Maruti Wagon R LXI Optional,2015,110000,Electric,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Tata Indigo CR4,2011,50000,Diesel,Individual,Manual,Second Owner,23.57,1396.0,70.0,5.0,Tata
+Mahindra TUV 300 mHAWK100 T8,2018,30000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Renault KWID RXL,2017,40000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Maruti Alto K10 VXI,2016,40000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Maruti 800 AC,2006,70000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,8 seats,Maruti
+Maruti Alto K10 2010-2014 VXI,2012,80000,Petrol,Individual,Manual,Third Owner,20.92,998.0,67.1,5.0,Maruti

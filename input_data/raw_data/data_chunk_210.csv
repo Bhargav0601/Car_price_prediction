@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti 800 Std MPFi,2003,90000,Petrol,Individual,Manual,Fourth & Above Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Alto LX,2006,100000,Petrol,Individual,Manual,Rent,19.7,796.0,46.3,5.0,Maruti
+Maruti Alto Std,2009,70000,Petrol,Individual,Manual,Fourth & Above Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai Accent VIVA CRDi,2004,160000,Diesel,Individual,Manual,Third Owner,13.1,1493.0,82.0,5.0,Hyundai
+Mahindra Scorpio 2.6 CRDe,2006,120000,Diesel,Individual,Manual,Third Owner,10.5,2179.0,120.0,8.0,Mahindra
+Hyundai Accent CRDi,2005,100000,Diesel,Individual,Manual,Third Owner,13.1,1493.0,82.0,5.0,Hyundai
+Maruti Ertiga VDI,2013,60000,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.76,7.0,Maruti
+Chevrolet Cruze LTZ,2010,135000,Diesel,Individual,Manual,Third Owner,18.3,1991.0,147.9,5.0,Chevrolet
+Maruti Swift VXI Optional,2016,90000,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Swift

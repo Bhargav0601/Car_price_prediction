@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Verna CRDi 1.6 SX Option,2018,35000,Diesel,Individual,Manual,First Owner,22.0,1582.0,126.2,5.0,Hyundai
+Skoda Octavia Classic 1.9 TDI MT,2007,155000,Diesel,Individual,Manual,First Owner,18.7,1896.0,66.0,5.0,Skoda
+Toyota Etios G,2011,110000,Petrol,Individual,Manual,First Owner,17.6,1496.0,88.73,5.0,Toyota
+Renault Scala Diesel RxE,1,110000,Diesel,Individual,Manual,First Owner,21.64,1461.0,84.8,5.0,Renault
+Hyundai Grand i10 1.2 CRDi Sportz Option,2017,80000,Diesel,Individual,Manual,Second Owner,24.0,1186.0,73.97,5.0,Hyundai
+Hyundai Santro Xing GLS,2011,50000,Petrol,Individual,Ai,Second Owner,17.92,1086.0,62.1,5.0,Hyundai
+Maruti Alto LXi,2007,90000,Petrol,Partnership,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Wagon R LXI DUO BSIII,2008,80000,LPG,Individual,Manual,Second Owner,Unknown,1061.0,57.5,5.0,Maruti
+Volkswagen Passat Highline DSG S,2008,120000,Diesel,Individual,Automatic,Rent,14.3,1968.0,140.0,5.0,Volkswagen

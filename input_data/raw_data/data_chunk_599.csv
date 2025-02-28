@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto K10 VXI AGS,2015,38000,Petrol,Individual,Automatic,Second Owner,23.95,998.0,67.05,5.0,Maruti
+Maruti Celerio ZXI Optional,2014,46000,Petrol,Dealer,Manual,First Owner,21.63,998.0,67.04,5.0,Maruti
+Maruti Ertiga 1.5 ZDI,2014,102000,Diesel,Dealer,Manual,First Owner,24.2,1498.0,93.87,7.0,Maruti
+BMW X1 sDrive20d M Sport,2012,96000,Diesel,Dealer,Automatic,Second Owner,19.62,1998.0,190.0,5.0,BMW
+Renault KWID 1.0 RXT AMT Opt,2017,20000,Petrol,Dealer,Automatic,First Owner,22.0,3624 CC,67.0,5.0,Renault
+Maruti Swift Dzire VXI,2015,16000,Electric,Dealer,Manual,First Owner,19.1,1197.0,85.8,5.0,Maruti
+Hyundai i20 1.2 Sportz,2013,23000,Petrol,Dealer,Manual,First Owner,17.0,1197.0,80.0,5.0,Hyundai
+Ford Figo 1.2P Ambiente MT,2011,25000,Petrol,Dealer,Manual,First Owner,18.16,1196.0,86.8,5.0,Ford
+Hyundai Verna SX Opt,2015,35000,Petrol,Dealer,Manual,Second Owner,17.7,1497.0,113.42,5.0,Hyundai

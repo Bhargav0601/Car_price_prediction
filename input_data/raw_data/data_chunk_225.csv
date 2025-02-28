@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata New Safari DICOR 2.2 VX 4x2 BS IV,2011,58000,Diesel,Individual,Manual,Second Owner,13.93,2179.0,138.1,7.0,Tata
+Maruti A-Star Vxi,2011,70000,Petrol,Individual,Manual,Third Owner,19.0,998.0,66.1,5.0,Maruti
+Ford Figo Aspire 1.2 Ti-VCT Titanium Plus,2015,70000,Petrol,Individual,Manual,First Owner,18.16,1196.0,86.8,5.0,Ford
+Hyundai i10 Magna,2009,110000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,i10
+Hyundai Santro LP zipPlus,2002,80000,Petrol,Individual,Manual,Third Owner,,,,,Hyundai
+Hyundai i20 Sportz 1.4 CRDi,2016,80000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Ertiga 1.5 VDI,2018,59000,Diesel,Individual,Manual,First Owner,24.2,1498.0,93.87,7.0,Maruti
+Tata Indica V2 eLS,2018,110000,Diesel,Individual,Manual,First Owner,25.0,1396.0,69.0,5.0,Tata
+Maruti Celerio ZXI,2020,25000,Petrol,Individual,Manual,First Owner,21.63,998.0,67.04,5.0,Maruti

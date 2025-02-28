@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Elite i20 Sportz Plus BSIV,2019,19000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.86,5.0,Hyundai
+Maruti Ertiga SHVS VDI,2017,44600,Diesel,Dealer,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Volkswagen Polo GT TSI BSIV,2014,28080,Petrol,Dealer,Automatic,First Owner,0.0,1197.0,103.25,5.0,Volkswagen
+Hyundai i20 Magna 1.2,2014,28800,Petrol,Dealer,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Renault KWID RXT,2018,21900,Petrol,Dealer,Manual,First Owner,20.71,799.0,53.26,5.0,Renault
+Volkswagen Polo GT TSI BSIV,2014,28100,Petrol,Dealer,Automatic,First Owner,0.0,1197.0,103.25,5.0,Volkswagen
+Honda City i DTEC S,2014,110000,Diesel,Individual,Manual,Second Owner,26.0,1498.0,98.6,5.0,Honda
+Hyundai i20 Asta 1.4 CRDi,2016,100000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Swift Dzire AMT VDI,2019,7673,Diesel,Individual,Automatic,First Owner,28.4,1248.0,74.02,5.0,Maruti

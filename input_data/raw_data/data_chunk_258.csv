@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Fiat Linea 1.3 Active,2011,30000,Diesel,Individual,Manual,First Owner,20.4,1248.0,91.2,5.0,Fiat
+Maruti 800 Std,2006,59000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,,800
+Maruti Ertiga VXI Petrol,2018,6200,Petrol,Individual,Manual,First Owner,19.34,1462.0,103.0,7.0,Maruti
+Maruti Celerio X ZXI,2020,120000,Petrol,Individual,Manual,Second Owner,21.63,998.0,67.0,5.0,Maruti
+Maruti Wagon R LXI BS IV,2016,70000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Maruti Omni 5 Str STD,1998,70000,Petrol,Individual,Manual,First Owner,14.0,796.0,35.0,5.0,Maruti
+Mahindra Scorpio S2 7 Seater,2017,110000,Diesel,Individual,Manual,First Owner,15.4,2523.0,75.0,7.0,Mahindra
+Hyundai Santro Xing XG,2004,158000,Petrol,Individual,Ai,First Owner,,,,,Hyundai
+Chevrolet Spark 1.0 LS,2007,93000,Petrol,Individual,Manual,Third Owner,18.0,995.0,62.0,5.0,Chevrolet

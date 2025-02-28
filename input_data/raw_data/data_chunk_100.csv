@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Elite i20 Petrol Asta Option,2019,30000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.86,5.0,Elite
+Maruti 800 Std,2002,80000,Petrol,Individual,Manual,Third Owner,16.1,796.0,37.0,4.0,Maruti
+Ford Figo Diesel Titanium,7,90000,Diesel,Individual,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Toyota Innova 2.5 G4 Diesel 7-seater,2009,200000,Diesel,Individual,Manual,Third Owner,12.8,2494.0,102.0,7.0,Toyota
+Toyota Fortuner 3.0 Diesel,2010,125000,Diesel,Individual,Manual,Second Owner,11.5,2982.0,171.0,7.0,Toyota
+Hyundai i20 1.2 Sportz,2011,80000,Petrol,Individual,Manual,First Owner,17.0,1197.0,80.0,5.0,Hyundai
+Audi A4 2.0 TDI,2014,44000,Diesel,Individual,Automatic,Second Owner,16.55,1968.0,147.51,5.0,Audi
+Toyota Etios GD,2013,90000,Diesel,Individual,Manual,First Owner,23.59,1364.0,67.04,5.0,Toyota
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2018,32000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai

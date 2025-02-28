@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto K10 2010-2014 VXI,2010,100000,Petrol,Individual,Manual,Third Owner,37 kmpl,2141 CC,67.1,5.0,Maruti
+Hyundai EON 1.0 Era Plus,2017,25000,Petrol,Individual,Manual,Rent,20.3,998.0,68.05,5.0,Hyundai
+Ford Fiesta Classic 1.6 Duratec CLXI,2011,100000,Petrol,Individual,Manual,First Owner,15.3,1596.0,99.6,5.0,Ford
+Mahindra KUV 100 mFALCON D75 K2 Plus,2016,35000,Diesel,Individual,Manual,First Owner,25.32,1198.0,77.0,6.0,Mahindra
+Hyundai Xcent 1.2 CRDi E Plus,2018,25000,Diesel,Individual,Manual,First Owner,25.4,1186.0,73.97,5.0,Hyundai
+Maruti 800 Std,2003,58000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Ford Aspire Titanium BSIV,2019,20000,Petrol,Individual,Manual,First Owner,19.4,1194.0,94.93,5.0,Ford
+Datsun RediGO SV 1.0,2019,1300,Petrol,Individual,Manual,First Owner,22.5,842 CC,67.0,5.0,Datsun
+Maruti 800 AC,1997,120000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti

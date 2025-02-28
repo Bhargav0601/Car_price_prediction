@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Hexa XT,2017,70000,Diesel,Individual,Manual,Rent,17.6,2179.0,153.86,7.0,Tata
+Maruti Baleno Zeta Automatic,2017,10000,Petrol,Individual,Automatic,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Skoda Kodiaq 2.0 TDI Style,2018,40000,Diesel,Individual,Automatic,First Owner,16.25,1968.0,148.0,7.0,Skoda
+Maruti Swift LDI SP Limited Edition,2015,35000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Wagon R VXI AMT Opt 1.2,2019,5000,Petrol,Individual,Automatic,First Owner,20.52,1197.0,81.8,5.0,Maruti
+Toyota Innova Crysta 2.4 VX MT BSIV,2016,33000,Diesel,Individual,Manual,Rent,13.68,2393.0,147.8,7.0,Toyota
+Tata Bolt Quadrajet XE,2017,27000,Diesel,Individual,Manual,First Owner,22.95,1248.0,74.0,5.0,Bolt
+Ford Freestyle Titanium Petrol BSIV,2018,25000,Electric,Individual,Manual,First Owner,19.0,1194.0,94.68,5.0,Ford
+Maruti Swift VDI BSIV,2016,30154,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti

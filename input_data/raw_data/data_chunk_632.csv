@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R LXI BS IV,2016,30000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Mahindra Scorpio S4 Plus,2016,79500,Diesel,Individual,Manual,First Owner,15.4,2179.0,120.0,7.0,Mahindra
+Hyundai Santro Xing XS,2007,90000,Petrol,Individual,Manual,Third Owner,14 kmpl,1086.0,63.0,5.0,Hyundai
+Nissan Terrano XL 85 PS,2015,110000,Diesel,Individual,Manual,First Owner,Unknown,1461.0,83.8,5.0,Nissan
+Maruti Swift Dzire VDI,2015,110000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Hyundai Verna 1.6 SX CRDi (O),2011,153000,Diesel,Individual,Manual,First Owner,22.32,1582.0,126.32,5.0,Hyundai
+Ford Fiesta 1.4 Duratec ZXI,2008,200185,Petrol,Individual,Manual,First Owner,16.6,1388.0,68.0,5.0,Ford
+Maruti Swift Dzire ZDI,2013,149000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Ford Figo 1.5D Titanium MT,2016,100000,Diesel,Individual,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford

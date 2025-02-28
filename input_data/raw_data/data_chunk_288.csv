@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova 2.5 VX 8 STR,2012,153000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Mahindra Thar CRDe AC,2014,70000,Diesel,Individual,Manual,Rent,16.55,2498.0,105.0,6.0,Mahindra
+Hyundai Grand i10 CRDi Sportz,10,60000,Diesel,Individual,Manual,First Owner,24.0,1120.0,70.0,5.0,Hyundai
+Honda Amaze S i-Vtech,2015,50000,Petrol,Individual,Manual,First Owner,18.0,1198.0,86.7,5.0,Honda
+Datsun GO T Option BSIV,2015,20000,Petrol,Individual,Manual,First Owner,20.63,1198.0,67.0,5.0,Datsun
+Chevrolet Sail 1.2 LS ABS,2014,35000,Petrol,Individual,Manual,Rent,18.2,1199.0,82.4,5.0,Chevrolet
+Hyundai Grand i10 1.2 Kappa Sportz Dual Tone,2017,20000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Chevrolet Sail Hatchback LT ABS,2013,70000,Diesel,Individual,Manual,First Owner,22.1,1248.0,76.9,5.0,Chevrolet
+Volkswagen Polo 2015-2019 1.5 TDI Highline Plus,2018,53000,Diesel,Individual,Manual,First Owner,20.14,1498.0,88.0,5.0,Volkswagen

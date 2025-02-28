@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti 800 Std,2004,110000,Petrol,Individual,Manual,Third Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Swift Dzire VXI,2015,45000,Petrol,Individual,Manual,Second Owner,20.85,,83.14,5.0,Maruti
+Nissan Sunny Diesel XL,2012,70000,Diesel,Individual,Manual,Second Owner,21.64,1461.0,84.8,5.0,Nissan
+Nissan Terrano XL 85 PS,2015,80000,Diesel,Individual,Manual,Second Owner,20.45,1461.0,83.8,5.0,Nissan
+Mahindra Scorpio Intelli Hybrid S6 Plus,2017,45000,Diesel,Individual,Manual,First Owner,15.4,2179.0,120.0,7.0,Mahindra
+Hyundai EON 1.0 Era Plus,2017,60000,Petrol,Individual,Manual,First Owner,20.3,998.0,68.05,5.0,Hyundai
+Maruti Swift VXI,2013,41800,Petrol,Individual,Manual,First Owner,18.6,1197.0,85.8,5.0,Maruti
+Maruti Estilo LXI,2010,132000,Petrol,Individual,Manual,Second Owner,,,,,Maruti
+Maruti Swift Dzire VDI,2017,50000,Diesel,Individual,Manual,Second Owner,28.4,1248.0,74.02,5.0,Maruti

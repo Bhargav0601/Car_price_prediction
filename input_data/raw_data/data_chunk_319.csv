@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai EON Era Plus,2014,90000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Tata Indica Vista Aqua 1.4 TDI,2010,120000,Diesel,Individual,Manual,Second Owner,17.0,1405.0,71.0,5.0,Tata
+Ford Fiesta 1.4 SXi TDCi,2009,100000,Diesel,Individual,Manual,Third Owner,,,,,Ford
+Maruti Swift VXI Windsong Limited edition,2015,50000,Petrol,Individual,Manual,Second Owner,4 kmpl,1197.0,83.11,5.0,Maruti
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2015,120000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Volvo V40 Cross Country D3,2013,72500,Diesel,Individual,Automatic,Second Owner,23.3,1984.0,150.0,5.0,Volvo
+Volkswagen Vento Diesel Highline,2013,120000,Diesel,Individual,Manual,Second Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Mahindra XUV500 W6 2WD,2014,120000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Hyundai i20 Asta 1.4 CRDi,2014,83000,Diesel,Individual,Manual,Second Owner,22.54,1396.0,88.73,5.0,Hyundai

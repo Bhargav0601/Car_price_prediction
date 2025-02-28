@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Vitara Brezza VDi Option,2017,100000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Wagon R VXI BS IV,2017,30000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Hyundai Grand i10 Sportz Celebration Edition,2016,70000,Petrol,Partnership,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Toyota Qualis GS G1,2003,149032,Diesel,Individual,Manual,First Owner,,,,,Toyota
+Mahindra Bolero SLE,2010,380000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Toyota Etios Liva G,2011,84050,Petrol,Individual,Manual,First Owner,,,,,Toyota
+Volkswagen Polo 2015-2019 1.2 MPI Highline Plus,2018,15000,Petrol,Individual,Manual,First Owner,16.2,1199.0,74.0,5.0,Volkswagen
+Ford Ikon 1.4 TDCi DuraTorq,2009,140000,Diesel,Individual,Manual,Second Owner,13.8,1399.0,68.0,5.0,Ford
+Maruti Omni 8 Seater BSII,2010,120000,Petrol,Individual,Manual,Third Owner,19.7,796.0,35.0,8.0,Maruti

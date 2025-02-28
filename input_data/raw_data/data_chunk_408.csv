@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto 800 LXI,2013,60000,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Tata Indigo CS LE (TDI) BS-III,2013,30000,Diesel,Individual,Manual,First Owner,19.09,1396.0,69.0,5.0,Tata
+Chevrolet Enjoy Petrol LS 7 Seater,2014,80000,Petrol,Individual,Manual,First Owner,13.7,1399.0,98.82,7.0,Chevrolet
+Maruti Alto 800 LXI,2014,20000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Hyundai EON Magna Plus,2013,80000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Mahindra Scorpio S2 7 Seater,2016,73000,Diesel,Individual,Manual,Rent,15.4,2523.0,75.0,7.0,Mahindra
+Hyundai EON D Lite Plus,2017,50000,Petrol,Individual,Ai,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Mahindra Bolero 2011-2019 SLX,2012,200000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Swift VDI,2018,46000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti

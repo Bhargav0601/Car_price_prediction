@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti A-Star Zxi,2012,98500,Petrol,Individual,Manual,Second Owner,19.0,998.0,66.1,5.0,A-Star
+Hyundai i10 Asta,2008,98000,Petrol,Individual,Manual,Third Owner,20.36,1197.0,78.9,5.0,Hyundai
+Mahindra Thar CRDe AC,2014,40000,Diesel,Individual,Manual,Second Owner,16.55,2498.0,105.0,6.0,Mahindra
+Fiat Grande Punto Sport 90BHP,2013,90000,Diesel,Individual,Manual,First Owner,20.3,1248.0,92.0,5.0,Fiat
+Maruti Alto LXi,2012,90000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai Getz 1.5 CRDi GVS,2009,110000,Diesel,Individual,Manual,Second Owner,17.1,1493.0,110.0,5.0,Hyundai
+Maruti S-Cross 2017-2020 Zeta DDiS 200 SH,2018,77800,Electric,Individual,Manual,First Owner,25.1,1248.0,88.5,5.0,Maruti
+Mahindra TUV 300 T8,2015,100000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Tata Indica V2 Turbomax DLS BS IV,2012,120000,Diesel,Individual,Manual,Second Owner,19.0,1405.0,71.0,5.0,Tata

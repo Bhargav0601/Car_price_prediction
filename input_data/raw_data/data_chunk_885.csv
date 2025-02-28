@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto LXi,2009,60000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Alto
+Mahindra TUV 300 T8,2017,70000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+BMW 3 Series 320d Sedan,2011,84925,Diesel,Individual,Automatic,First Owner,16.07,3895 CC,181.0,5.0,BMW
+Hyundai Santro Xing XK eRLX EuroIII,2007,120000,Petrol,Individual,Manual,Second Owner,17.8,1086.0,63.0,5.0,Hyundai
+Toyota Innova 2.5 G (Diesel) 7 Seater,2012,250000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.0,7.0,Toyota
+Renault Duster 110PS Diesel RxZ,2018,18000,Diesel,Dealer,Manual,First Owner,19.6,1461.0,108.45,5.0,Renault
+Hyundai Verna SX Diesel,2013,80000,Diesel,Partnership,Manual,First Owner,25.0,1493.0,113.42,5.0,Hyundai
+Maruti SX4 S Cross 2015-2017 DDiS 200 Sigma,2016,108000,Diesel,Dealer,Manual,First Owner,23.65,1248.0,88.5,5.0,Maruti
+Toyota Innova 2.5 ZX Diesel 7 Seater BSIII,2015,170000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,7.0,Toyota

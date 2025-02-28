@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga VDI,2017,76000,Electric,Dealer,Manual,First Owner,25.47,1248.0,88.5,7.0,Maruti
+Maruti Ertiga VXI,2018,47000,Petrol,Dealer,Manual,Second Owner,16.02,1373.0,93.7,7.0,Maruti
+Maruti Swift Dzire VDI,2017,70000,Diesel,Dealer,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Hyundai Santro GLS I - Euro II,2009,56000,Petrol,Partnership,Manual,Second Owner,,,,,Hyundai
+Maruti Swift ZDi,2014,89000,Diesel,Dealer,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Toyota Innova Crysta 2.4 VX MT,2017,98000,Diesel,Dealer,Manual,First Owner,13.68,2671 CC,147.51,,Toyota
+Toyota Innova Crysta 2.4 VX MT,2016,90000,Diesel,Dealer,Manual,First Owner,13.68,2393.0,147.51,7.0,Toyota
+Hyundai Creta 1.4 CRDi S,2018,70000,Diesel,Individual,Manual,First Owner,21.38,1396.0,88.7,5.0,Hyundai
+Maruti Swift VDI,2013,57000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti

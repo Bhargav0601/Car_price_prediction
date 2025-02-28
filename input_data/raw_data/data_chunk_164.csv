@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga VDI,10,50000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.76,7.0,Maruti
+Maruti Swift VDI BSIV,2014,90000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Tata Nexon 1.5 Revotorq XZ Plus,2017,70000,Diesel,Individual,Manual,First Owner,21.5,1497.0,108.5,5.0,Tata
+Hyundai Elantra CRDi,2006,110000,Diesel,Partnership,Manual,Fourth & Above Owner,14.9,1991.0,112.2,5.0,Hyundai
+Tata Tiago 1.2 Revotron XZA,2019,30000,Petrol,Individual,Automatic,First Owner,23.84,1199.0,83.83,5.0,Tata
+Maruti Swift Dzire VDI,2016,80000,Diesel,Individual,Manual,Second Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Swift Dzire VDi,2012,110000,Diesel,Individual,Manual,Rent,19.3,1248.0,73.9,5.0,Maruti
+Tata Manza Aura (ABS) Quadrajet,2010,120000,Diesel,Partnership,Manual,First Owner,18.8,1248.0,90.0,5.0,Tata
+Maruti Zen VXi - BS III,3,120000,Petrol,Individual,Manual,Third Owner,17.3,993.0,60.0,5.0,Maruti

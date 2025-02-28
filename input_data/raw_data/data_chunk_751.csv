@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio 2.6 Turbo 9 Str,2008,100000,Diesel,Individual,Manual,Second Owner,12.7,2609.0,116.6,9.0,Mahindra
+Datsun GO Plus T BSIV,6,70000,Petrol,Individual,Manual,Second Owner,19.44,1198.0,67.0,7.0,Datsun
+Tata Manza Aqua Quadrajet BS IV,2010,30000,Diesel,Individual,Manual,Second Owner,15 kmpl,1248.0,88.8,5.0,Tata
+Mahindra Bolero Power Plus SLE,2018,40000,Diesel,Individual,Manual,Rent,16.5,1493.0,70.0,7.0,Mahindra
+Maruti Swift VXI,2020,5000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Maruti Alto 800 VXI,2014,30000,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Swift ZDi,2014,70000,Diesel,Individual,Manual,Second Owner,22.9,1248.0,74.0,5.0,Maruti
+Chevrolet Spark 1.0 LT,2007,60000,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,5.0,Chevrolet
+Maruti Ciaz VDI SHVS,1,60000,Diesel,Individual,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti

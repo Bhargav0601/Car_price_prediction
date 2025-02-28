@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ciaz VDi Plus SHVS,2015,50000,Diesel,Dealer,Manual,Second Owner,28.09,1248.0,88.5,5.0,Maruti
+Maruti Swift VDI,2013,65000,Diesel,Dealer,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Hyundai Xcent 1.1 CRDi Base,2015,55000,Diesel,Partnership,Manual,First Owner,24.4,1120.0,71.0,5.0,Hyundai
+Mercedes-Benz B Class B200 CDI Sport,2015,35000,Diesel,Dealer,Automatic,Second Owner,19.7,2143.0,134.1,5.0,Mercedes
+Tata Aria Pure LX 4x2,2014,78000,Diesel,Dealer,Manual,Second Owner,15.05,2179.0,147.9,7.0,Tata
+Hyundai Verna CRDi SX,2007,58000,Diesel,Dealer,Manual,Second Owner,16.8,1493.0,110.0,5.0,Hyundai
+Chevrolet Beat Diesel LT,2011,56000,Diesel,Dealer,Manual,Second Owner,25.44,936.0,57.6,5.0,Chevrolet
+Fiat Linea Emotion (Diesel),2010,61000,Diesel,Dealer,Manual,Second Owner,20.4,1248.0,91.7,5.0,Fiat
+Renault Scala Diesel RxL,2013,61000,Diesel,Dealer,Manual,Second Owner,21.64,1461.0,84.8,5.0,Renault

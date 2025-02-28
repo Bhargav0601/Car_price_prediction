@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero 2011-2019 ZLX,2014,120000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Hyundai Verna 1.6 SX VTVT (O),2014,70000,Petrol,Individual,Manual,First Owner,17.1,1591.0,121.3,5.0,Hyundai
+Hyundai i20 Active 1.2,2015,50000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Maruti Baleno Zeta,2019,16500,Petrol,Individual,Manual,First Owner,21.01,1197.0,81.8,5.0,Maruti
+Hyundai i20 1.2 Asta,2010,70000,Petrol,Individual,Manual,First Owner,17.0,1197.0,80.0,5.0,Hyundai
+Maruti Alto LXI,2005,99361,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Swift Dzire VDI,2017,25000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Swift Dzire VXI,2014,70000,Petrol,Individual,Manual,Second Owner,19.1,1197.0,85.8,5.0,Maruti
+Hyundai Grand i10 CRDi Sportz,2015,80000,Diesel,Individual,Manual,Second Owner,24.0,1120.0,70.0,5.0,Hyundai

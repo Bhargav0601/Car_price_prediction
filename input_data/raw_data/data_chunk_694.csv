@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault KWID RXT,2016,15000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Ford Figo Diesel ZXI,2011,147000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Mahindra XUV500 W10 2WD,2017,20000,Electric,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Hyundai i20 Asta 1.4 CRDi (Diesel),2009,120000,Diesel,Individual,Manual,Second Owner,23.0,1396.0,90.0,5.0,Hyundai
+Toyota Innova 2.5 V Diesel 7-seater,2011,250000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,7.0,Toyota
+Ford Figo 1.5D Titanium Opt MT,2016,69000,Diesel,Individual,Manual,Second Owner,25.83,1498.0,99.0,5.0,Ford
+Maruti Ciaz ZDi Plus SHVS,2017,80000,Diesel,Individual,Manual,Rent,28.09,1248.0,88.5,5.0,Maruti
+Hyundai i10 LPG,2012,97000,LPG,Individual,Manual,Third Owner,19.0,1086.0,68.1,5.0,Hyundai
+Renault KWID RXT Optional,2016,15000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault

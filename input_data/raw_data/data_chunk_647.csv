@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Jaguar XF 3.0 Litre S Premium Luxury,2016,35000,Diesel,Individual,Automatic,First Owner,14.74,2993.0,270.9,5.0,Jaguar
+Volkswagen Vento Diesel Highline,2012,120000,Diesel,Individual,Manual,Second Owner,20.54,1598.0,103.6,7 seats,Vento
+Mahindra TUV 300 T10,2018,50000,Diesel,Individual,Manual,Second Owner,18.49,1493.0,100.0,7.0,Mahindra
+Hyundai Verna 1.6 SX,2012,100000,Diesel,Individual,Manual,Second Owner,22.32,1582.0,126.32,5.0,Hyundai
+Honda City 1.5 V MT Exclusive,2010,91000,Petrol,Individual,Manual,Second Owner,17.0,1497.0,118.0,5.0,Honda
+Jeep Compass 2.0 Longitude Option BSIV,2017,50000,Diesel,Individual,Manual,First Owner,17.1,1956.0,170.0,5.0,Jeep
+Fiat Linea 1.3 Multijet Active,2015,67000,Diesel,Individual,Manual,First Owner,20.4,1248.0,91.7,5.0,Fiat
+Hyundai Grand i10 Sportz,2015,40000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Maruti Ritz ZDi,2013,100000,Diesel,Individual,Manual,Second Owner,23.2,1248.0,73.94,5.0,Maruti

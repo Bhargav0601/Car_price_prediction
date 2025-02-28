@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R LXI,2005,90000,Petrol,Partnership,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti
+Hyundai Santro GLS I - Euro II,2007,60000,Petrol,Individual,Manual,Third Owner,,,,,Hyundai
+Ford Figo Diesel LXI,2015,140000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.05,5.0,Ford
+Mahindra Scorpio 2.6 DX,2003,120000,Diesel,Individual,Manual,Rent,12.7,2609.0,116.6,8.0,Mahindra
+Tata Tigor 1.2 Revotron XZ Option,2017,40000,Petrol,Partnership,Manual,First Owner,20.3,1199.0,84.0,5.0,Tata
+Maruti Alto 800 LXI,2014,70000,Petrol,Individual,Manual,Third Owner,22.74,796.0,47.3,5.0,Maruti
+Datsun RediGO 1.0 S,2018,7000,Petrol,Individual,Manual,First Owner,22.5,999.0,67.0,5.0,Datsun
+Toyota Innova 2.5 VX 8 STR BSIV,2012,90000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Mahindra TUV 300 mHAWK100 T8 AMT,2016,110000,Diesel,Individual,Automatic,First Owner,18.49,1493.0,100.0,7.0,Mahindra

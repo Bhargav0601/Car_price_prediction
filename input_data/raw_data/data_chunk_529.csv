@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2017,42000,Diesel,Partnership,Manual,First Owner,23.0,1217 CC,98.96,5.0,Ford
+Honda Brio 1.2 VX MT,2012,45000,Petrol,Dealer,Manual,First Owner,18.5,1198.0,86.8,5.0,Honda
+Tata Harrier XZ,2019,15000,Diesel,Dealer,Manual,First Owner,17.0,1956.0,167.67,5.0,Tata
+Mahindra TUV 300 mHAWK100 T8,2018,55000,Diesel,Dealer,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Ford Endeavour 3.0L 4X4 AT,2015,64000,Diesel,Dealer,Automatic,First Owner,11.4,2953.0,153.86,7.0,Ford
+BMW 6 Series GT 630d Luxury Line,2018,27000,Diesel,Dealer,Automatic,First Owner,17.09,2993.0,261.4,4.0,BMW
+Maruti Ciaz Delta Automatic BSIV,2019,15000,Petrol,Dealer,Automatic,First Owner,20.28,1462.0,103.25,5.0,Maruti
+Volkswagen Polo GT TSI,2016,69000,Petrol,Dealer,Automatic,First Owner,17.2,1197.0,103.6,5.0,Polo
+Maruti Swift Dzire ZXI Plus BS IV,2017,80000,Petrol,Dealer,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti

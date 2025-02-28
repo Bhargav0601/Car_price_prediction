@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Logan Diesel 1.5 DLE,8,190000,Diesel,Individual,Manual,Third Owner,19.2,1461.0,65.0,5.0,Mahindra
+Honda City i DTEC E,2015,80000,Diesel,Individual,Manual,First Owner,26.0,1498.0,98.6,5.0,Honda
+Honda Jazz Select Edition Active,2011,80000,Petrol,Individual,Manual,Second Owner,16.0,1198.0,90.0,5.0,Honda
+Maruti Alto K10 LXI,2015,54000,Electric,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Renault KWID 1.0 RXT Optional,2018,30000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Maruti Eeco 7 Seater Standard BSIV,2019,5000,Petrol,Individual,Manual,First Owner,15.37,1196.0,73.0,7.0,Maruti
+Mahindra TUV 300 T8,2015,58945,Diesel,Individual,Ai,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Ford Figo Diesel Titanium,2012,90000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,2011,375000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota

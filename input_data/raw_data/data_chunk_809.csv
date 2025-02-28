@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i-VTEC CVT ZX,2017,68140,Petrol,Dealer,Automatic,First Owner,18.0,1497.0,117.6,5.0,Honda
+Maruti Swift VDI,2014,53190,Diesel,Dealer,Manual,First Owner,28.4,,74.0,5.0,Maruti
+Hyundai i20 2015-2017 Sportz 1.4 CRDi,2014,70100,Diesel,Dealer,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Honda Jazz 1.5 S i DTEC,2018,47725,Diesel,Dealer,Manual,First Owner,27.3,1498.0,98.6,5.0,Honda
+Maruti Swift Dzire VDI,2014,70195,Diesel,Dealer,Manual,Second Owner,28.4,1248.0,74.02,5.0,Maruti
+Ford Figo Diesel EXI,2011,77395,Diesel,Dealer,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Mahindra Marazzo M2 8Str BSIV,2019,17000,Diesel,Dealer,Manual,First Owner,17.3,1497.0,121.0,8.0,Mahindra
+Hyundai Elantra CRDi SX Option AT,2013,64000,Diesel,Dealer,Automatic,First Owner,14.62,1498.0,113.42,5.0,Hyundai
+Chevrolet Beat Diesel LS,2014,74321,Diesel,Dealer,Manual,First Owner,25.44,936.0,56.3,5.0,Chevrolet

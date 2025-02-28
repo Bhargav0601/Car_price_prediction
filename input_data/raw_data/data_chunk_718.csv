@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2013,70000,Diesel,Individual,Manual,Third Owner,23.4,1248.0,74.0,5.0,Maruti
+Datsun GO A,2015,80000,Petrol,Individual,Manual,First Owner,20.63,1198.0,67.06,5.0,Datsun
+Hyundai i20 1.4 Sportz,2017,60000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Skoda Fabia 1.2L Diesel Ambiente,2011,100000,Diesel,Individual,Manual,Rent,19.5,1199.0,75.0,5.0,Fabia
+Volkswagen Vento Diesel Comfortline,2011,80000,Diesel,Individual,Manual,Second Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Hyundai Grand i10 Asta,2016,35000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Ford Endeavour 3.2 Titanium AT 4X4,2018,35000,Diesel,Individual,Automatic,First Owner,10.91,1560 CC,197.0,7.0,Ford
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2019,10000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Tata Indica Vista Aura 1.3 Quadrajet (ABS),2011,80000,Diesel,Individual,Manual,First Owner,18.0,1248.0,75.0,5.0,Tata

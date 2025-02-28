@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Fiesta Classic 1.4 Duratorq CLXI,2012,64000,Diesel,Individual,Manual,Second Owner,17.8,1399.0,67.0,5.0,Ford
+Chevrolet Sail 1.2 LS ABS,2015,50000,Petrol,Individual,Ai,First Owner,18.2,1199.0,82.4,5.0,Chevrolet
+Tata Indigo CS LX (TDI) BS-III,2015,80000,Diesel,Individual,Manual,Second Owner,19.09,1405.0,69.01,5.0,Tata
+Tata Manza Club Class Quadrajet90 VX,2013,80000,Diesel,Individual,Manual,Rent,21.02,1248.0,88.76,5.0,Tata
+Hyundai Xcent 1.2 VTVT S,2017,5000,Petrol,Individual,Manual,First Owner,20.14,1197.0,81.86,5.0,Hyundai
+Hyundai Verna 1.6 VTVT S Option,2015,25000,Petrol,Individual,Manual,First Owner,17.01,1591.0,121.4,5.0,Hyundai
+Honda City i DTec V,2014,72000,Diesel,Dealer,Manual,First Owner,26.0,1498.0,98.6,5.0,Honda
+Maruti Swift VDI BSIV W ABS,2016,72000,Diesel,Dealer,Manual,First Owner,,,,,Maruti
+Renault Lodgy World Edition 110PS,2017,65000,Diesel,Individual,Manual,First Owner,19.98,1461.0,108.5,8.0,Renault

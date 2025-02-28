@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i10 Era,2011,50000,Petrol,Individual,Manual,First Owner,19.81,1086.0,68.05,5.0,Hyundai
+Ford Freestyle Titanium Diesel BSIV,2019,17000,Diesel,Individual,Manual,First Owner,24.4,1498.0,98.63,5.0,Ford
+Chevrolet Spark 1.0 LT,2010,50000,Petrol,Individual,Manual,First Owner,18.0,995.0,62.0,5.0,Chevrolet
+Renault KWID RXT,2015,10000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Hyundai i20 Sportz 1.2,2013,43000,Petrol,Individual,Manual,Second Owner,18.5,1197.0,82.85,5.0,Hyundai
+Hyundai Verna 1.4 CX,2013,50000,Diesel,Individual,Manual,Rent,23.5,1396.0,88.7,5.0,Hyundai
+Maruti Wagon R PRIMEA,2006,90000,Petrol,Individual,Manual,Second Owner,18.9,998.0,67.0,5.0,Maruti
+Mahindra Xylo D4 BSIV,2012,100000,Diesel,Individual,Manual,Second Owner,14.0,2498.0,112.0,8.0,Mahindra
+Hyundai Santro Xing (Non-AC),2010,80000,Petrol,Partnership,Manual,Second Owner,0.0,1086.0,62.1,5.0,Hyundai

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indica Vista Aqua 1.3 Quadrajet BSIV,2012,231438,Diesel,Individual,Manual,Second Owner,18.4,1248.0,75.0,5.0,Tata
+Maruti Baleno Alpha 1.3,2016,71000,Diesel,Individual,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti
+Maruti Swift 1.3 ZXI,10,90000,Petrol,Individual,Manual,First Owner,,,,,Maruti
+Maruti Ritz VDi,2016,70000,Diesel,Partnership,Manual,First Owner,23.2,1248.0,73.94,5.0,Maruti
+Maruti 800 Std,2007,80000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Mahindra Bolero SLX 2WD BSIII,2011,239451,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Mahindra Marshal DI,2000,50000,Diesel,Individual,Manual,First Owner,,,,,Mahindra
+Maruti Ritz VDi,2009,90000,Diesel,Individual,Manual,First Owner,21.1,1248.0,73.9,5.0,Maruti
+Hyundai Creta 1.6 CRDi SX,2016,154000,Electric,Individual,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai

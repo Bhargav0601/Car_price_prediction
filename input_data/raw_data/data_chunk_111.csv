@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti 800 AC,7,60000,Petrol,Individual,Manual,Second Owner,Unknown,796.0,37.0,4.0,Maruti
+Renault KWID RXT,2016,20000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Mahindra Bolero 2011-2019 EX NON AC,2014,37000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti S-Cross 2017-2020 Zeta DDiS 200 SH,2018,57000,Diesel,Individual,Ai,Second Owner,25.1,1248.0,88.5,5.0,Maruti
+Hyundai Verna Transform SX VGT CRDi,2011,110000,Diesel,Individual,Manual,Second Owner,16.2,1493.0,110.0,5.0,Hyundai
+Hyundai Verna Xi (Petrol),2006,110000,Petrol,Individual,Manual,Fourth & Above Owner,13.9,1599.0,103.2,5.0,Hyundai
+Toyota Innova 2.5 EV (Diesel) PS 8 Seater BS IV,2013,120000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.57,8.0,Toyota
+Tata Tigor 2017-2020 XZ Plus Diesel,2019,8079,Diesel,Dealer,Manual,First Owner,24.7,1047.0,69.0,5.0,Tata
+Toyota Innova 2.5 Z Diesel 7 Seater BS IV,2015,114368,Diesel,Dealer,Manual,Second Owner,12.99,2494.0,100.6,7.0,Toyota

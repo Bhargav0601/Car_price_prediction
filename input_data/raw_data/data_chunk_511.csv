@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i VTEC V,2015,120000,Petrol,Individual,Ai,Second Owner,17.4,1497.0,117.3,5.0,Honda
+Maruti Ritz VDi,2011,85000,Diesel,Individual,Manual,Second Owner,21.1,1248.0,73.9,5.0,Maruti
+Skoda Fabia Scout 1.2 TDI,2012,110000,Diesel,Individual,Manual,First Owner,21.0,1199.0,75.0,5.0,Skoda
+Hyundai Grand i10 CRDi Sportz,2015,60000,Diesel,Individual,Manual,Fourth & Above Owner,24.0,1120.0,70.0,5.0,Hyundai
+Hyundai Grand i10 CRDi Sportz,2016,90000,Diesel,Individual,Manual,Second Owner,24.0,1120.0,70.0,5.0,Hyundai
+Maruti Alto K10 2010-2014 VXI,2012,110000,Petrol,Individual,Manual,Third Owner,20.92,998.0,67.1,5.0,Maruti
+Hyundai EON 1.0 Era Plus,2018,25000,Petrol,Individual,Manual,First Owner,20.3,998.0,68.05,5.0,Hyundai
+Volkswagen Vento Diesel Highline,2013,100000,Diesel,Individual,Manual,First Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Ford Figo Diesel Titanium,2012,120000,Diesel,Individual,Ai,Second Owner,20.0,1399.0,68.0,5.0,Ford

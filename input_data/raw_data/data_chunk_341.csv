@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R VXI Optional,2015,60000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Hyundai Elite i20 Sportz Plus BSIV,2019,4000,Petrol,Partnership,Manual,First Owner,18.6,1197.0,81.86,5.0,Hyundai
+Maruti Vitara Brezza ZDi Plus,2017,35000,Diesel,Partnership,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Hyundai Grand i10 Sportz,2016,13500,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Honda City i VTEC CVT VX,2017,26000,Petrol,Individual,Automatic,First Owner,18.0,1497.0,117.3,5.0,Honda
+Tata Zest Quadrajet 1.3 XM,2016,50000,Diesel,Individual,Manual,First Owner,23.0,1248.0,88.7,5.0,Tata
+Hyundai EON Magna Plus,2014,50000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Swift VXI,2018,25000,Petrol,Individual,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Maruti Celerio VXI AT,2017,30000,Petrol,Individual,Automatic,Second Owner,23.1,998.0,67.04,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Vitara Brezza VDi Option,2017,50000,Electric,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Volkswagen Polo 1.5 TDI Comfortline,2015,80000,Diesel,Individual,Manual,First Owner,20.14,1498.0,88.8,5.0,Volkswagen
+Maruti Wagon R LXI BSIII,2011,120000,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Maruti Alto 800 VXI,2017,23000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Maruti Alto K10 LXI,2010,70000,Petrol,Individual,Manual,Second Owner,20.92,998.0,67.1,5.0,Maruti
+Maruti Swift VDI,2018,23000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Maruti Wagon R VXI Optional,9,30000,Petrol,Individual,Ai,Rent,20.51,998.0,67.04,5.0,Maruti
+Tata Manza Aura Plus Quadrajet BS IV,2011,50000,Diesel,Partnership,Manual,First Owner,19.0,1248.0,90.0,5.0,Tata
+Maruti Omni MPI STD BSIV,2014,40000,Petrol,Individual,Manual,First Owner,16.8,,34.2,5.0,Maruti

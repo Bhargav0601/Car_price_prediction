@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Ikon 1.6 Nxt,2009,70000,Petrol,Individual,Manual,Second Owner,14.2,1597.0,92.0,5.0,Ford
+Tata Nano LX,4,60000,Petrol,Individual,Manual,First Owner,25.4,624.0,37.48,,Tata
+Honda City 2017-2020 GXi,2006,70000,Petrol,Individual,Manual,Second Owner,17.7,1497.0,78.0,5.0,Honda
+Maruti 800 DX,1997,25000,Petrol,Individual,Manual,Third Owner,16.1,796.0,37.0,4.0,Maruti
+Hyundai Verna 1.6 Xi ABS,2006,90000,Petrol,Individual,Manual,Third Owner,13.9,1599.0,103.2,5.0,Hyundai
+Hyundai Creta 1.6 CRDi SX,2015,90000,Diesel,Individual,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+Tata Tiago 1.2 Revotron XM,2018,25000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Ford Fiesta Diesel Style,2012,60000,Diesel,Individual,Manual,Second Owner,23.5,1498.0,88.7,5.0,Ford
+Tata Tiago 1.2 Revotron XM,2018,25000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Tigor 1.2 Revotron XZ,2019,14000,Petrol,Individual,Manual,First Owner,20.3,1199.0,84.0,5.0,Tigor
+Maruti Ertiga VDI,2015,70000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.76,7.0,Maruti
+Toyota Etios GD,2012,120000,Diesel,Individual,Manual,First Owner,,,,,Toyota
+Honda City i VTEC S,2015,50000,Petrol,Individual,Manual,First Owner,17.4,1497.0,117.3,5.0,City
+Honda Brio S MT,2014,60000,Petrol,Individual,Manual,Second Owner,19.4,1198.0,86.8,5.0,Honda
+Maruti Wagon R LXI CNG,2016,50000,CNG,Individual,Manual,First Owner,26.6,998.0,58.16,5.0,Maruti
+Maruti Swift Dzire VXI,2017,50000,Petrol,Individual,Manual,First Owner,20.85,1197.0,83.14,5.0,Maruti
+Hyundai i20 Sportz 1.2,2013,70000,Petrol,Individual,Manual,First Owner,18.5,1197.0,82.85,5.0,Hyundai
+Maruti Omni E 8 Str STD,2003,90000,Petrol,Individual,Manual,Second Owner,,,,,Maruti

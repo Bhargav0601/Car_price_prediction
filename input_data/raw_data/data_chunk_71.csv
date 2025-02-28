@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Bolt Quadrajet XE,2017,50000,Diesel,Individual,Manual,First Owner,22.95,1248.0,74.0,5.0,Tata
+Mahindra Thar CRDe,2016,101000,Diesel,Individual,Manual,First Owner,16.55,2498.0,105.0,6.0,Mahindra
+Mahindra Xylo E4 BS IV,2010,168000,Diesel,Individual,Manual,First Owner,14.0,2498.0,112.0,7.0,Mahindra
+Mahindra Xylo E4 BS IV,2010,168000,Electric,Individual,Manual,First Owner,14.0,2498.0,112.0,7.0,Mahindra
+Maruti Wagon R VXI BS IV,2011,40000,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Tata Indica Vista Aura Safire Anniversary Edition,2009,28900,Petrol,Individual,Manual,Second Owner,0.0,1172.0,65.0,5.0,Tata
+Maruti Wagon R VXI BS IV,2012,20000,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,9000,Diesel,Dealer,Automatic,First Owner,13.6,1999.0,177.0,5.0,Jaguar
+Lexus ES 300h,2019,20000,Petrol,Dealer,Automatic,First Owner,22.37,2487.0,214.56,5.0,Lexus

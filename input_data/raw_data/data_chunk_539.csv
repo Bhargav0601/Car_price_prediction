@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova Crysta 2.4 VX MT 8S BSIV,2018,24000,Diesel,Individual,Manual,First Owner,13.68,2393.0,147.8,8.0,Toyota
+Maruti S-Cross 2017-2020 Delta DDiS 200 SH,2018,25000,Diesel,Individual,Manual,Rent,25.1,1248.0,88.5,5.0,Maruti
+Hyundai EON Magna Plus,2013,68697,Petrol,Individual,Manual,Third Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Swift VDI Optional,2017,30000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Honda Amaze VX i-DTEC,2013,40000,Diesel,Individual,Manual,Second Owner,25.8,1498.0,98.6,5.0,Honda
+Tata Indica Vista Aura 1.2 Safire (ABS) 90hp BS IV,2010,29000,Petrol,Individual,Manual,First Owner,16.5,1172.0,65.0,5.0,Indica
+Chevrolet Beat Diesel LS,2013,68000,Diesel,Individual,Manual,Second Owner,25.44,936.0,57.6,5.0,Chevrolet
+Honda Amaze S CVT i-VTEC,2018,15000,Petrol,Individual,Automatic,First Owner,18.1,1199.0,88.7,5.0,Honda
+Maruti Ritz VDi,2014,70000,Diesel,Individual,Manual,First Owner,23.2,1248.0,73.94,5.0,Maruti

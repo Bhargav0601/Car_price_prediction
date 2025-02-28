@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Hexa XT,2017,45000,Diesel,Individual,Manual,First Owner,17.6,2179.0,153.86,7.0,Tata
+Toyota Innova 2.5 GX 8 STR,2012,90000,Diesel,Partnership,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Hyundai i20 Asta 1.4 CRDi,2013,110000,Diesel,Individual,Manual,Second Owner,21.27,1396.0,88.76,5.0,Hyundai
+Mahindra Scorpio 1.99 S10,2017,95000,Diesel,Individual,Manual,First Owner,15.4,1997.0,120.0,7.0,Mahindra
+Hyundai Verna 1.6 CRDI,2012,103655,Diesel,Individual,Manual,Second Owner,22.32,1582.0,126.3,5.0,Hyundai
+Hyundai i20 Petrol CVT Asta,2018,25000,Electric,Individual,Automatic,Rent,17.4,1197.0,81.86,5.0,Hyundai
+Renault Duster 110PS Diesel RxZ,2014,80000,Diesel,Individual,Manual,First Owner,19.01,1461.0,108.45,5.0,Renault
+Tata Nano Twist XT,2014,50000,Petrol,Individual,Manual,Second Owner,25.4,624.0,37.5,4.0,Tata
+Mahindra XUV500 W10 2WD,2015,56975,Diesel,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra

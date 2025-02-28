@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+BMW X1 sDrive20d M Sport,2011,42545,Diesel,Dealer,Automatic,Rent,19.62,1998.0,190.0,5.0,BMW
+Maruti S-Cross 2017-2020 Delta DDiS 200 SH,2016,32000,Diesel,Dealer,Manual,First Owner,25.1,1248.0,88.5,5.0,Maruti
+Maruti Swift Dzire VDI Optional,2017,41232,Diesel,Dealer,Manual,First Owner,,,0.0,,Maruti
+Maruti Swift Dzire VDI Optional,2017,41232,Diesel,Dealer,Manual,First Owner,,,0.0,,Maruti
+Maruti Ignis 1.2 Delta BSIV,2018,20375,Petrol,Dealer,Manual,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Maruti Swift ZDI Plus,2013,43978,Diesel,Dealer,Manual,Second Owner,28.4,3150 CC,74.0,5.0,Maruti
+Maruti Vitara Brezza VDi Option,2018,50000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Mahindra Bolero B4,2015,40200,Diesel,Dealer,Manual,First Owner,21.0,1498.0,74.96,7.0,Mahindra
+Hyundai i20 1.2 Asta Option,2018,30000,Electric,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai

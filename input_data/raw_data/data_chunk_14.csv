@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto LXi,2008,65000,Petrol,Individual,Manual,Fourth & Above Owner,19.7,796.0,46.3,5.0,Alto
+Maruti Ertiga VDI,2013,90000,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.76,7.0,Maruti
+Hyundai Santro Xing GLS,2009,80000,Petrol,Individual,Manual,Second Owner,17.92,1086.0,62.1,5.0,Hyundai
+Maruti Ertiga VDI,2015,110000,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.76,7.0,Maruti
+Honda Amaze S i-VTEC,2019,1303,Petrol,Dealer,Manual,First Owner,17.8,1198.0,86.7,5.0,Honda
+Audi Q5 35TDI Premium Plus,2018,31800,Diesel,Dealer,Automatic,First Owner,17.01,1968.0,188.0,5.0,Audi
+Lexus ES 300h,2019,20000,Petrol,Dealer,Automatic,First Owner,22.37,2487.0,214.56,5.0,Lexus
+Jaguar XF 2.0 Diesel Portfolio,2017,45000,Diesel,Dealer,Automatic,First Owner,19.33,1999.0,177.0,5.0,Jaguar
+Jeep Wrangler 2016-2019 3.6 4X4,2017,17000,Petrol,Individual,Automatic,First Owner,9.5,3604.0,280.0,,Jeep

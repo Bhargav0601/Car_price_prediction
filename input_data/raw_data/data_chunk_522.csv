@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI BSIV,2014,70000,Diesel,Individual,Manual,Second Owner,25.2,1248.0,74.0,5.0,Maruti
+Hyundai i20 Active 1.4 SX Dual Tone,2016,80000,Diesel,Individual,Manual,First Owner,21.19,1396.0,88.73,5.0,Hyundai
+Renault Duster 110PS Diesel RxZ,2012,90000,Diesel,Individual,Manual,First Owner,19.01,1461.0,108.45,5.0,Renault
+Tata Indica V2 DLE BSII,2007,90000,Diesel,Individual,Manual,Rent,43 kmpl,1396.0,53.5,5.0,Tata
+Toyota Corolla Altis Diesel D4DG,2010,120000,Diesel,Individual,Manual,Second Owner,21.43,1364.0,87.2,5.0,Toyota
+Toyota Etios Liva GD,2012,107500,Diesel,Individual,Manual,Second Owner,,,,,Toyota
+Toyota Innova Crysta 2.8 GX AT BSIV,2017,62000,Diesel,Dealer,Automatic,First Owner,11.36,4224 CC,171.5,7.0,Toyota
+Hyundai Creta 1.6 CRDi SX Plus,2016,79000,Diesel,Dealer,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+Toyota Innova Crysta 2.4 GX MT BSIV,2016,60000,Diesel,Dealer,Manual,Second Owner,13.68,2393.0,147.8,7.0,Toyota

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Vitara Brezza ZDi Plus Dual Tone,2016,70000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Hyundai Grand i10 CRDi Sportz,2015,53000,Diesel,Individual,Manual,First Owner,24.0,1120.0,70.0,5.0,Hyundai
+Maruti Swift Dzire VDI,2013,105000,Diesel,Individual,Manual,Second Owner,23.4,1248.0,74.0,5.0,Maruti
+Mahindra Thar DI 4X4 PS,2015,16000,Diesel,Individual,Manual,First Owner,18.06,2523.0,63.0,7.0,Mahindra
+Maruti Baleno RS 1.0 Petrol,2019,7200,Petrol,Individual,Manual,Rent,21.1,998.0,100.5,5.0,Maruti
+Volkswagen Polo Diesel Comfortline 1.2L,2011,77000,Diesel,Partnership,Manual,Second Owner,30 kmpl,1199.0,73.9,5.0,Volkswagen
+Mahindra KUV 100 D75 K8 Dual Tone,2017,40000,Diesel,Individual,Manual,First Owner,25.32,1198.0,77.0,6.0,Mahindra
+Maruti Swift Dzire ZDi,2012,70000,Diesel,Individual,Manual,Second Owner,19.3,,73.9,5.0,Maruti
+Ford Figo 1.2P Sports Edition MT,2017,50000,Petrol,Individual,Manual,First Owner,18.12,1196.0,86.8,5.0,Ford

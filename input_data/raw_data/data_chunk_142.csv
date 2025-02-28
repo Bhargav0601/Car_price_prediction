@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2014,80000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Maruti Swift VDI BSIV,2014,90000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti S-Cross 2017-2020 Alpha DDiS 200 SH,2018,25000,Diesel,Individual,Ai,First Owner,25.1,1248.0,88.5,5.0,Maruti
+Tata Manza Aura Quadrajet,2010,100000,Diesel,Individual,Manual,Second Owner,18.8,1248.0,90.0,5.0,Tata
+Ford Fiesta 1.4 Duratec EXI,2006,60000,Petrol,Individual,Manual,Second Owner,16.6,1388.0,68.0,5.0,Ford
+Hyundai i20 Active S Diesel,1,30000,Diesel,Individual,Manual,First Owner,21.19,1396.0,88.76,5.0,Hyundai
+Mahindra Scorpio LX 2.6 Turbo,2007,120000,Diesel,Individual,Manual,Third Owner,10.5,2609.0,120.0,7.0,Scorpio
+Tata Safari DICOR 2.2 EX 4x2,2011,80000,Diesel,Individual,Manual,Second Owner,13.93,2179.0,138.03,7.0,Tata
+Volkswagen Vento Diesel Highline,2011,69000,Diesel,Individual,Manual,Rent,20.54,3126 CC,103.6,5.0,Volkswagen

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Accent DLS,2003,200000,Diesel,Individual,Manual,Second Owner,13.1,1493.0,82.0,5.0,Hyundai
+Toyota Innova 2.5 ZX Diesel 7 Seater BSIII,2015,190000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Maruti Wagon R VXI Optional,2015,34000,Petrol,Individual,Manual,First Owner,20.51,2110 CC,67.04,5.0,Maruti
+Volkswagen Polo Petrol Comfortline 1.2L,2012,80000,Petrol,Individual,Manual,Second Owner,16.47,1198.0,73.9,5.0,Polo
+Maruti Swift VDI,2011,72000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Esteem DI,2,20000,Diesel,Individual,Manual,First Owner,15.9,1527.0,57.0,5.0,Maruti
+Tata Sumo CX,2012,70000,Diesel,Individual,Manual,Second Owner,15.3,2956.0,83.8,7.0,Tata
+Ford EcoSport 1.5 Diesel Titanium BSIV,2019,30000,Diesel,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Honda City i-VTEC CVT ZX,2019,5000,Petrol,Individual,Automatic,First Owner,18.0,1497.0,117.6,8 seats,Honda

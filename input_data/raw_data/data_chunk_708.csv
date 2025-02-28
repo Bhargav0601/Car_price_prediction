@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 1.2 Magna Executive,2017,70000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Tata Indigo CS LX (TDI) BS III,2,30000,Diesel,Individual,Manual,First Owner,19.09,1396.0,69.0,5.0,Tata
+Maruti Eeco 5 Seater AC BSIV,2019,15000,Petrol,Individual,Manual,First Owner,15.37,1196.0,73.0,5.0,Maruti
+Maruti Alto 800 LXI,2013,85000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Swift AMT VXI,2018,50000,Petrol,Individual,Automatic,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Hyundai i20 Active SX Petrol,2019,20000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Maruti Wagon R VXI Optional,2017,25000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Tata Nexon 1.2 Revotron XM,2018,25000,Petrol,Individual,Manual,First Owner,17.0,1198.0,108.5,5.0,Tata
+Maruti Swift Dzire VXI,2014,50000,Petrol,Individual,Manual,First Owner,19.1,1197.0,85.8,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault Duster Adventure Edition RXZ AWD,2016,80000,Diesel,Partnership,Manual,First Owner,19.72,1461.0,108.45,5.0,Renault
+Maruti 800 Std,2001,42108,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Ford Figo Aspire 1.5 TDCi Titanium Opt,2017,70000,Diesel,Individual,Manual,Second Owner,25.83,1498.0,99.0,5.0,Ford
+Maruti Ritz VDi,2009,150000,Diesel,Individual,Manual,Third Owner,29 kmpl,1248.0,73.9,5.0,Maruti
+Tata Indigo LS,2007,100000,Diesel,Individual,Manual,Third Owner,16.1,1405.0,70.0,5.0,Tata
+Maruti Ertiga ZDI Plus,2017,79000,Diesel,Dealer,Manual,First Owner,25.47,1248.0,88.5,7.0,Maruti
+Toyota Fortuner 4x2 AT,2015,91000,Diesel,Dealer,Automatic,Second Owner,12.55,2982.0,168.5,7.0,Toyota
+Maruti Vitara Brezza ZDi,2018,50000,Diesel,Partnership,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Ciaz ZDi Plus SHVS,2016,81000,Diesel,Dealer,Manual,Second Owner,28.09,1248.0,88.5,5.0,Maruti

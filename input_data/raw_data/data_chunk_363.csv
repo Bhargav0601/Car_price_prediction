@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Baleno Sigma 1.2,2017,23000,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Baleno
+Hyundai i20 2015-2017 Asta 1.4 CRDi,2017,14000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Hyundai i20 2015-2017 Asta 1.4 CRDi,2017,14000,Diesel,Individual,Manual,First Owner,22.54,3331 CC,88.73,5.0,Hyundai
+Mahindra XUV500 W8 2WD,2014,60000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Hyundai EON Era Plus,2013,60000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Skoda Fabia 1.4 TDI Ambiente,2008,150000,Electric,Individual,Manual,Third Owner,19.4,1422.0,70.0,5.0,Skoda
+Hyundai Verna 1.6 VTVT AT SX,2016,80000,Petrol,Individual,Automatic,Second Owner,17.01,1591.0,121.3,5.0,Hyundai
+Maruti Alto K10 2010-2014 VXI,2013,35000,Petrol,Individual,Manual,First Owner,20.92,998.0,67.1,5.0,Alto
+Maruti S-Cross 2017-2020 Zeta DDiS 200 SH,2017,44500,Diesel,Individual,Manual,First Owner,25.1,3920 CC,88.5,5.0,Maruti

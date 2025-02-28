@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Diesel EXI,2011,112000,Diesel,Individual,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Mahindra Scorpio EX,2013,70000,Diesel,Individual,Manual,Rent,14.0,2523.0,75.0,8.0,Mahindra
+Skoda Rapid 1.6 TDI Ambition Plus Alloy,2012,145000,Diesel,Individual,Manual,First Owner,20.5,1598.0,103.5,5.0,Skoda
+Tata Indigo LX,2007,135000,Electric,Individual,Manual,First Owner,17.0,1405.0,70.0,5.0,Tata
+Toyota Innova 2.5 EV Diesel PS 7 Seater BSIII,2,500000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.57,7.0,Toyota
+Tata Indigo TDI,2012,146000,Electric,Individual,Manual,First Owner,19.61,1405.0,70.0,5.0,Tata
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2018,10000,Petrol,Individual,Manual,Rent,18.9,1197.0,81.86,5.0,Hyundai
+Volkswagen Polo 1.5 TDI Comfortline,2020,50000,Diesel,Individual,Manual,First Owner,20.14,1498.0,88.5,5.0,Volkswagen
+Hyundai Xcent 1.2 VTVT S,2017,25000,Petrol,Individual,Manual,First Owner,20.14,1197.0,81.86,5.0,Hyundai

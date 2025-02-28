@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R LXI LPG BSIV,2010,70000,LPG,Individual,Manual,Second Owner,26.2,998.0,58.2,5.0,Maruti
+Tata Indica Vista TDI LX,2012,46000,Diesel,Individual,Manual,First Owner,19.4,1405.0,70.0,5.0,Tata
+Hyundai Accent GLS,2002,120000,Petrol,Individual,Ai,Fourth & Above Owner,13.2,,94.0,5.0,Hyundai
+Maruti Swift VDI,2013,108800,Diesel,Individual,Manual,Third Owner,22.9,1248.0,74.0,5.0,Maruti
+Hyundai i10 Sportz Option,2009,70000,Petrol,Individual,Manual,Second Owner,20.36,2288 CC,78.9,5.0,Hyundai
+Mahindra Scorpio S3 9 Seater BSIV,2018,35000,Diesel,Individual,Manual,First Owner,15.4,2523.0,75.0,7.0,Mahindra
+Ford Figo Diesel EXI,2011,72000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Renault KWID RXL,2018,40000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Mahindra Bolero 2011-2019 ZLX BSIII,7,120000,Diesel,Individual,Manual,Third Owner,15.96,2523.0,62.1,7.0,Mahindra

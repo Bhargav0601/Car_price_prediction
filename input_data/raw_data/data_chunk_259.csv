@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Tavera Neo 3 10 Seats BSIII,2014,110000,Diesel,Individual,Manual,First Owner,13.58,2499.0,72.4,10.0,Chevrolet
+Maruti Alto LX,2007,57000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai Accent GLE,2005,120000,Petrol,Individual,Manual,First Owner,13.2,1495.0,94.0,5.0,Hyundai
+Tata Indigo CS eLX BS IV,2012,35000,Diesel,Individual,Manual,First Owner,23.03,1396.0,69.0,5.0,Tata
+Tata Indigo CS eLS BS IV,2012,90000,Diesel,Individual,Manual,First Owner,23.03,1396.0,69.0,5.0,Indigo
+Tata Indigo eCS LX BSIV,2012,35000,Diesel,Individual,Manual,Second Owner,23.03,1396.0,69.0,5.0,Tata
+Maruti Swift Dzire VXi,2009,120000,Petrol,Individual,Manual,First Owner,17.5,1298.0,85.8,5.0,Maruti
+Hyundai Creta 1.4 E Plus,2018,60000,Diesel,Individual,Manual,First Owner,22.1,1396.0,88.7,5.0,Hyundai
+Tata Indigo eCS LX BSIV,2011,70000,Diesel,Individual,Manual,First Owner,23.03,1396.0,69.0,5.0,Tata

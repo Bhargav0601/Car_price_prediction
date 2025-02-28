@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Polo Diesel Highline 1.2L,2013,80000,Diesel,Individual,Manual,First Owner,22.07,1199.0,73.9,5.0,Volkswagen
+Honda Accord V6 AT,2005,80000,Petrol,Individual,Automatic,Second Owner,Unknown,2997.0,218.0,5.0,Honda
+Audi Q7 3.0 TDI Quattro Premium Plus,2012,70000,Diesel,Individual,Automatic,First Owner,12.07,2967.0,241.4,7.0,Audi
+Maruti Vitara Brezza VDi,2017,51777,Diesel,Dealer,Ai,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Land Rover Freelander 2 TD4 HSE,2013,64788,Diesel,Dealer,Automatic,First Owner,0.0,2179.0,115.0,5.0,Land
+Honda Amaze V Petrol BSIV,2018,20000,Petrol,Individual,Manual,First Owner,19.5,1199.0,88.76,5.0,Honda
+Volkswagen Polo 2015-2019 1.0 MPI Comfortline,2018,19000,Petrol,Individual,Manual,First Owner,18.78,999.0,75.0,5.0,Volkswagen
+Daewoo Matiz SS,2000,46951,Petrol,Individual,Manual,First Owner,18.5,796.0,53.0,5.0,Daewoo
+Datsun GO T BSIV,2016,19000,Petrol,Partnership,Manual,First Owner,20.63,,67.0,5.0,Datsun

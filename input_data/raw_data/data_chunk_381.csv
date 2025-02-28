@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga ZDI,2013,148000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.8,7.0,Maruti
+Hyundai i20 Asta 1.4 CRDi,2013,60000,Diesel,Individual,Manual,Second Owner,21.27,1396.0,88.76,5.0,i20
+Maruti Alto 800 LXI,2015,18000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Tata Zest Quadrajet 1.3 75PS XMS,2018,80000,Diesel,Individual,Manual,First Owner,22.95,1248.0,74.0,5.0,Tata
+Maruti Alto LXI,2004,96000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Honda Amaze S i-Dtech,2015,97000,Diesel,Individual,Manual,Second Owner,25.8,1498.0,98.6,5.0,Honda
+Hyundai i20 Sportz 1.4 CRDi,2013,210000,Diesel,Individual,Manual,Third Owner,21.9,1396.0,88.76,5.0,Hyundai
+Volkswagen Vento Diesel Breeze,2012,60000,Diesel,Individual,Manual,Third Owner,20.5,1598.0,105.0,5.0,Volkswagen
+Maruti Swift Dzire ZDI,2014,90000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti

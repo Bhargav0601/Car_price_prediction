@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Civic Hybrid,2008,60000,Petrol,Individual,Automatic,Third Owner,20.0,1339.0,108.5,5.0,Honda
+Mahindra Xylo D4,2014,160000,Diesel,Individual,Manual,First Owner,14.95,2489.0,93.7,7.0,Mahindra
+Mahindra Scorpio VLX 4WD AIRBAG AT BSIV,2010,100875,Diesel,Individual,Automatic,First Owner,11.79,2179.0,120.0,8.0,Mahindra
+Maruti Baleno Delta 1.2,2018,20000,Petrol,Individual,Ai,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Maruti Swift Dzire VXI,2016,30000,Petrol,Partnership,Manual,Rent,20.85,1197.0,83.14,5.0,Maruti
+Hyundai Grand i10 CRDi Asta Option,2013,118000,Diesel,Individual,Manual,First Owner,24.0,1120.0,70.0,5.0,Hyundai
+Hyundai Verna 1.6 SX,2013,69000,Diesel,Individual,Ai,Third Owner,22.32,1582.0,126.32,5.0,Hyundai
+Maruti Swift Dzire LXI,2015,25000,Petrol,Individual,Manual,Second Owner,20.85,1197.0,83.14,5.0,Maruti
+Hyundai Xcent 1.2 Kappa AT S Option,2015,100000,Petrol,Individual,Automatic,First Owner,16.9,1197.0,81.86,5.0,Hyundai

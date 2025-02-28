@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,110000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.0,7.0,Toyota
+Toyota Innova 2.5 VX 8 STR,2012,151000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Maruti Baleno Zeta Automatic,2019,5000,Petrol,Individual,Automatic,First Owner,44 kmpl,1197.0,83.1,5.0,Maruti
+Maruti Alto LXi BSIII,2010,91500,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Swift VDI BSIV,2015,23000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Volkswagen Vento Diesel Highline,2012,40000,Diesel,Individual,Manual,First Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Maruti Ritz VDi,2012,70000,Diesel,Individual,Manual,First Owner,23.2,1248.0,73.94,5.0,Maruti
+Toyota Innova Crysta 2.8 GX AT BSIV,2018,10000,Diesel,Individual,Automatic,First Owner,11.36,2755.0,171.5,7.0,Toyota
+Mahindra Scorpio 2009-2014 EX 2WD 7S,2014,90000,Diesel,Individual,Manual,Second Owner,14.0,2523.0,75.0,7.0,Mahindra

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova 2.5 G (Diesel) 8 Seater,2015,90000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.6,8.0,Toyota
+Renault Duster 85PS Diesel RxL Optional,2012,100000,Diesel,Individual,Manual,Second Owner,20.46,1461.0,83.8,5.0,Renault
+Maruti Swift Dzire LXi,2009,90000,Petrol,Individual,Manual,Third Owner,17.5,,85.8,5.0,Maruti
+Honda Amaze VX i-DTEC,2013,140000,Diesel,Individual,Manual,Third Owner,25.8,1498.0,98.6,5.0,Honda
+Chevrolet Spark 1.0 LS,2010,120000,Electric,Individual,Manual,First Owner,18.0,995.0,62.0,5.0,Chevrolet
+Maruti Vitara Brezza VDi AMT,2019,35000,Diesel,Individual,Automatic,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Alto K10 VXI,2014,50000,Petrol,Individual,Manual,Second Owner,23.95,998.0,67.05,5.0,Maruti
+Hyundai Verna 1.4 CRDi,2017,82000,Diesel,Partnership,Manual,First Owner,24.8,1396.0,88.7,5.0,Hyundai
+Maruti Swift VDI BSIV,2014,70000,Diesel,Individual,Manual,Third Owner,25.2,1248.0,74.0,5.0,Maruti

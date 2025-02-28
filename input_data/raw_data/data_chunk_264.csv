@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R LXI BS IV,2012,67998,Electric,Dealer,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Ford Freestyle Trend Diesel,2018,20706,Diesel,Dealer,Manual,First Owner,23.8,1499.0,98.63,5.0,Ford
+Ford Figo Aspire 1.5 TDCi Trend,2015,100581,Diesel,Dealer,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Renault Duster 85PS Diesel RxE Adventure,2015,67303,Diesel,Dealer,Manual,First Owner,20.45,1461.0,83.8,5.0,Renault
+Maruti Ritz VXi,10,79139,Petrol,Dealer,Manual,First Owner,18.5,1197.0,85.8,5.0,Ritz
+Hyundai Grand i10 CRDi Sportz,2014,84784,Diesel,Dealer,Manual,First Owner,24.0,1120.0,70.0,5.0,Hyundai
+Maruti Ritz LDi,2012,130376,Diesel,Dealer,Manual,Second Owner,23.2,1248.0,73.94,5.0,Maruti
+Tata Safari DICOR 2.2 EX 4x2,2017,72000,Diesel,Individual,Manual,First Owner,13.93,2179.0,138.03,7.0,Tata
+Hyundai Verna CRDi SX,2008,127000,Diesel,Individual,Manual,Second Owner,16.8,1493.0,110.0,5.0,Hyundai

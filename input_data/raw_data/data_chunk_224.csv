@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Xylo E8,2009,120000,Diesel,Individual,Manual,Third Owner,14.0,2498.0,112.0,8.0,Mahindra
+Hyundai i20 Active 1.2 S,2015,58000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Nissan Sunny XV,2012,50000,Petrol,Individual,Manual,First Owner,16.95,1498.0,97.7,5.0,Nissan
+Maruti Ignis 1.2 AMT Alpha BSIV,2017,40000,Petrol,Individual,Automatic,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Honda WR-V i-VTEC VX,2018,7800,Petrol,Individual,Manual,First Owner,17.5,1199.0,88.7,5.0,Honda
+Maruti Alto 800 LXI,2016,50000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Ford Endeavour 2.5L 4X2 MT,2011,68000,Diesel,Individual,Manual,First Owner,13.1,2499.0,141.0,7.0,Ford
+Maruti Ertiga VXI,2015,60000,Petrol,Individual,Manual,Second Owner,16.02,1373.0,93.7,7.0,Maruti
+Tata Indigo GLS,2005,74000,Petrol,Individual,Manual,Second Owner,12.8,1396.0,85.0,5.0,Tata

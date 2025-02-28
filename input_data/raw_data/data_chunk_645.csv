@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto LX,2011,60000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Volkswagen Polo 1.2 MPI Comfortline,2016,120000,Petrol,Partnership,Manual,Second Owner,16.2,1199.0,74.0,5.0,Volkswagen
+Ford Fiesta 1.4 SXi TDCi,2009,163000,Diesel,Dealer,Manual,First Owner,,,,,Ford
+Volkswagen Polo Diesel Trendline 1.2L,2011,222300,Diesel,Individual,Manual,First Owner,22.07,1199.0,73.9,5.0,Volkswagen
+Toyota Innova 2.5 EV (Diesel) PS 7 Seater BS IV,2013,100000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.57,7.0,Toyota
+Maruti Ritz LDi,2013,120000,Diesel,Individual,Manual,First Owner,23.2,1248.0,73.94,5.0,Maruti
+Maruti Swift VDI BSIV,2011,160000,Diesel,Individual,Manual,First Owner,,,,,Maruti
+Tata Sumo MKII Turbo 2.0 LX,2010,90000,Diesel,Individual,Manual,First Owner,14.0,1948.0,90.0,9.0,Tata
+Hyundai Sonata 2.4 GDi MT,2012,330000,Petrol,Individual,Manual,Rent,13.44,2359.0,198.25,5.0,Hyundai

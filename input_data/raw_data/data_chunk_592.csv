@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero Power Plus SLX,2018,50000,Diesel,Individual,Manual,First Owner,16.5,1493.0,70.0,7.0,Mahindra
+Maruti Eeco 7 Seater Standard BSIV,2011,100000,Petrol,Individual,Manual,Second Owner,15.37,1196.0,73.0,7.0,Maruti
+Tata Indigo CS LS DiCOR,2010,70000,Diesel,Individual,Manual,Third Owner,15.7,1405.0,70.0,5.0,Tata
+Maruti Swift VDI BSIV,2008,90000,Diesel,Individual,Manual,Third Owner,,,,,Maruti
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2019,5000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Hyundai i10 Magna,2012,27000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Mahindra XUV500 W6 2WD,2014,122000,Diesel,Individual,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra
+Hyundai Xcent 1.1 CRDi S,2015,74000,Diesel,Partnership,Manual,Second Owner,24.4,1120.0,71.0,5.0,Hyundai
+Maruti Swift Dzire AMT ZXI Plus,2019,6500,Petrol,Individual,Automatic,First Owner,21.21,1197.0,81.8,5.0,Maruti

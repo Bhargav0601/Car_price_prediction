@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Grand i10 Magna,2014,20000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Maruti SX4 ZXI MT BSIV,2013,60000,Petrol,Individual,Manual,Third Owner,16.51,1586.0,103.2,5.0,Maruti
+Maruti Ciaz ZDi,2014,90000,Diesel,Individual,Manual,Second Owner,26.21,1248.0,88.5,5.0,Maruti
+Maruti Wagon R LXI BSIII,2006,50000,Electric,Individual,Manual,Third Owner,14.0,1061.0,64.0,5.0,Maruti
+Toyota Innova 2.5 E 7 STR,2009,250000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,7.0,Toyota
+Chevrolet Spark 1.0 LS,2011,100000,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,5.0,Chevrolet
+Tata Indigo LS,2007,129000,Diesel,Individual,Manual,Third Owner,Unknown,1405.0,70.0,5.0,Tata
+Tata New Safari DICOR 2.2 EX 4x2,2010,100000,Diesel,Individual,Manual,First Owner,11.57,2179.0,138.1,7.0,Tata
+Honda City ZXi AT,2005,100000,Petrol,Individual,Ai,Second Owner,12.0,1493.0,100.0,5.0,Honda

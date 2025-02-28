@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Vitara Brezza LDi,2017,16200,Diesel,Individual,Manual,Rent,24.3,1248.0,88.5,5.0,Maruti
+Maruti Alto 800 CNG LXI Optional,8,10000,CNG,Individual,Manual,Second Owner,33.44,796.0,40.3,4.0,Maruti
+Maruti Alto K10 VXI Airbag,2019,15000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.1,5.0,Maruti
+Hyundai Verna VTVT 1.6 SX Option,2019,5000,Petrol,Individual,Manual,First Owner,17.0,1591.0,121.3,5.0,Hyundai
+Datsun GO D,2016,42000,Petrol,Individual,Manual,First Owner,20.63,1198.0,67.0,5.0,Datsun
+Hyundai Santro Xing GL Plus,2013,120000,Petrol,Individual,Manual,Second Owner,17.92,1086.0,62.1,5.0,Hyundai
+Tata Safari DICOR 2.2 LX 4x2,2011,60000,Electric,Individual,Manual,Second Owner,13.93,2179.0,138.03,7.0,Tata
+Maruti 800 Std,2012,76000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Ford Aspire Trend Plus,2018,15000,Petrol,Individual,Manual,Rent,20.4,1194.0,94.93,5.0,Ford

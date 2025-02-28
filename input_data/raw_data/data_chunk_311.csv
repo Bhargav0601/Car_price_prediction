@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault KWID RXL,2016,90000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Maruti Ciaz 1.3 Alpha,2017,78000,Diesel,Individual,Manual,Third Owner,28.09,1248.0,88.5,5.0,Maruti
+Honda WR-V i-VTEC VX,2017,12000,Petrol,Individual,Manual,First Owner,17.5,1199.0,88.7,5.0,Honda
+Renault Duster 85PS Diesel RxL Explore,2016,120000,Diesel,Individual,Manual,First Owner,19.87,1461.0,83.8,5.0,Renault
+Maruti Ertiga SHVS VDI,2015,40000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Honda City 2017-2020 EXi,2008,110000,Petrol,Individual,Manual,Second Owner,17.7,1497.0,78.0,5.0,Honda
+Toyota Innova 2.5 V Diesel 7-seater,2007,260000,Diesel,Individual,Manual,Third Owner,12.8,2494.0,102.0,7.0,Toyota
+Maruti Alto LX,2011,10000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Tata Indica V2 LSi,2012,12000,Petrol,Individual,Manual,First Owner,16.84,1193.0,64.4,5.0,Tata

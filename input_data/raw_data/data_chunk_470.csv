@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+BMW X4 M Sport X xDrive20d,2019,8500,Diesel,Dealer,Ai,First Owner,16.78,1995.0,190.0,5.0,BMW
+Honda Amaze V CVT Petrol BSIV,2019,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0,1199.0,88.76,5.0,Honda
+Skoda Rapid 1.6 MPI AT Elegance,2016,11000,Petrol,Dealer,Automatic,First Owner,14.3,1598.0,103.5,5.0,Skoda
+Volvo V40 D3 R-Design,2018,2000,Diesel,Partnership,Automatic,First Owner,16.8,1984.0,150.0,5.0,Volvo
+Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,9000,Diesel,Dealer,Automatic,First Owner,13.6,1999.0,177.0,5.0,Jaguar
+Lexus ES 300h,2019,20000,Electric,Dealer,Automatic,First Owner,22.37,2487.0,214.56,5.0,Lexus
+Jaguar XF 2.0 Diesel Portfolio,2017,45000,Diesel,Dealer,Automatic,First Owner,19.33,1999.0,177.0,5.0,Jaguar
+Tata Safari Storme EX,2015,110000,Diesel,Individual,Manual,First Owner,14.1,2179.0,147.94,7.0,Tata
+Volvo XC40 D4 Inscription BSIV,2019,20000,Diesel,Individual,Automatic,First Owner,18.0,1969.0,190.0,5.0,Volvo

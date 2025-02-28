@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Celerio ZXI Optional,2017,59500,Petrol,Partnership,Manual,Second Owner,23.1,998.0,67.04,5.0,Maruti
+Maruti Omni CNG,2000,100000,Electric,Individual,Manual,Second Owner,10.9,796.0,,8.0,Maruti
+Maruti Vitara Brezza ZDi Plus Dual Tone,2016,45000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Hyundai i20 1.4 CRDi Asta,2011,75500,Electric,Individual,Manual,Second Owner,23.0,1396.0,90.0,5.0,Hyundai
+Maruti Vitara Brezza ZDi Plus Dual Tone,2016,46000,Diesel,Individual,Manual,Second Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Alto 800 LXI,2013,60000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Alto
+Hyundai i20 1.4 Asta (AT),2009,60000,Petrol,Individual,Automatic,Second Owner,15.0,1396.0,100.0,5.0,Hyundai
+Maruti Swift Ldi BSIII,2008,152500,Diesel,Individual,Manual,First Owner,17.8,1248.0,75.0,5.0,Maruti
+Mercedes-Benz E-Class E250 CDI Avantgrade,2014,60000,Diesel,Individual,Automatic,Second Owner,13.0,2143.0,201.1,5.0,Mercedes

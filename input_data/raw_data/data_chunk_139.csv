@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI,2011,210000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti 800 Std BSII,2003,35000,Petrol,Individual,Ai,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Ritz VDi,2009,85000,Diesel,Individual,Manual,Third Owner,21.1,1248.0,73.9,5.0,Maruti
+Maruti Wagon R VXi BSII,2012,80000,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Mercedes-Benz New C-Class 220 CDI AT,2012,50000,Diesel,Individual,Automatic,First Owner,14.84,2143.0,170.0,5.0,Mercedes
+Hyundai i20 Era Diesel,2009,40000,Electric,Individual,Manual,First Owner,23.0,1396.0,90.0,5.0,Hyundai
+Toyota Innova 2.5 GX 8 STR,2010,216000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Maruti Wagon R VXI BS IV,2017,65000,Petrol,Individual,Manual,Second Owner,20.51,998.0,67.04,5.0,Maruti
+Hyundai Getz GLE,2006,100000,Petrol,Individual,Manual,Third Owner,15.3,1341.0,83.0,5.0,Hyundai

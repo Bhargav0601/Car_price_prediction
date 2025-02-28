@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VXI,2016,80000,Petrol,Individual,Manual,Rent,20.85,1197.0,83.14,5.0,Maruti
+Maruti SX4 Zxi with Leather BSIII,2008,110000,Petrol,Individual,Manual,Third Owner,15.6,1586.0,104.68,5.0,Maruti
+Maruti Ciaz VDi Plus,2015,70000,Diesel,Individual,Manual,First Owner,26.21,1248.0,88.5,5.0,Maruti
+Maruti Swift VXI,2020,5000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Hyundai Santro Xing XS,2007,75000,Petrol,Individual,Manual,Second Owner,17.8,1086.0,63.0,5.0,Hyundai
+Maruti Swift ZXI,2014,50000,Petrol,Partnership,Manual,First Owner,Unknown,1197.0,85.8,5.0,Maruti
+Hyundai EON Era Plus,2014,70000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Nissan Terrano XL Plus 85 PS,2014,90000,Electric,Individual,Manual,Second Owner,20.45,1461.0,83.8,5.0,Nissan
+Maruti Swift Dzire VXi,2011,100000,Petrol,Individual,Manual,Second Owner,17.5,1298.0,85.8,5.0,Maruti

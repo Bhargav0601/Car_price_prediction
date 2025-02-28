@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Manza Club Class Quadrajet90 VX,2013,80000,Diesel,Individual,Manual,First Owner,21.02,1383 CC,88.76,5.0,Tata
+Hyundai Xcent 1.1 CRDi SX Option,2017,70000,Diesel,Partnership,Manual,Second Owner,24.4,1120.0,71.0,5.0,Hyundai
+Hyundai Xcent 1.2 VTVT E Plus,2018,10000,Petrol,Individual,Manual,First Owner,20.14,1197.0,81.86,5.0,Hyundai
+Ford Freestyle Titanium Plus Petrol BSIV,2019,6000,Petrol,Individual,Manual,First Owner,19.0,1194.0,94.68,5.0,Freestyle
+Skoda Rapid Ultima 1.6 TDI Elegance,2013,90000,Diesel,Individual,Manual,Second Owner,20.5,1598.0,103.5,5.0,Skoda
+Mahindra Bolero 2011-2019 Plus - AC BSIII,2012,110000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,63.0,9.0,Mahindra
+Mahindra Bolero 2011-2019 Plus-AC Plus PS BSIII,2007,120000,Diesel,Individual,Manual,Third Owner,13.6,2523.0,63.0,9.0,Mahindra
+Toyota Innova 2.5 G (Diesel) 7 Seater,2014,50000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Hyundai Grand i10 1.2 Kappa Magna AT,2018,20000,Petrol,Individual,Automatic,First Owner,18.9,1197.0,81.86,5.0,Hyundai

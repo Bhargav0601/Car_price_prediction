@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero 2011-2019 SLX,3,120000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Swift VXI,2019,5000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Ford Ecosport 1.5 DV5 MT Trend,2016,68609,Diesel,Dealer,Manual,First Owner,22.7,1498.0,89.84,5.0,Ford
+Ford EcoSport 1.5 TDCi Titanium BE BSIV,2018,33360,Diesel,Dealer,Ai,First Owner,22.77,1498.0,98.59,5.0,Ford
+Nissan Kicks XL BSIV,2019,14317,Petrol,Dealer,Manual,First Owner,14.23,1498.0,104.55,5.0,Nissan
+Ford Figo Diesel Titanium,2012,87237,Diesel,Dealer,Manual,Rent,20.0,1399.0,68.05,5.0,Ford
+Ford Figo 1.5D Trend MT,2017,62960,Diesel,Dealer,Manual,First Owner,25.83,1498.0,99.0,5.0,Figo
+Maruti Swift Dzire AMT VXI,2017,26634,Petrol,Dealer,Automatic,First Owner,21.21,,81.8,5.0,Maruti
+Ford Figo Diesel EXI Option,2012,163720,Diesel,Dealer,Manual,First Owner,18.5,1399.0,68.0,5.0,Ford

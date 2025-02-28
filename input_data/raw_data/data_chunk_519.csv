@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+BMW 5 Series 520d Luxury Line,2019,10000,Diesel,Dealer,Automatic,First Owner,18.12,1995.0,190.0,5.0,BMW
+Volkswagen Polo 1.5 TDI Comfortline,2019,36800,Diesel,Dealer,Manual,First Owner,20.14,1498.0,88.0,5.0,Volkswagen
+Maruti Swift Dzire VDI Optional,2018,52200,Diesel,Partnership,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Hyundai Grand i10 1.2 CRDi Magna,2016,78000,Diesel,Dealer,Manual,First Owner,24.0,1186.0,73.97,5.0,Hyundai
+Tata Harrier XZ Plus,2020,16000,Diesel,Dealer,Manual,First Owner,17.0,1956.0,167.67,5.0,Tata
+Audi Q3 2.0 TDI Quattro Premium Plus,2016,30000,Electric,Dealer,Automatic,First Owner,15.73,1968.0,174.33,5.0,Audi
+Hyundai Grand i10 1.2 CRDi Sportz,2017,29000,Diesel,Dealer,Manual,Second Owner,24.0,1186.0,73.97,5.0,Hyundai
+Jeep Compass 2.0 Limited Plus 4X4,2019,25000,Diesel,Dealer,Manual,First Owner,16.3,1956.0,170.63,5.0,Jeep
+Mahindra XUV500 W8 2WD,2013,60000,Diesel,Individual,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra

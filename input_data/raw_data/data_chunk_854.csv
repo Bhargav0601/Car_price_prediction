@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ciaz ZDi Plus SHVS,2017,60000,Diesel,Individual,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti
+Renault Captur 1.5 Diesel RXT,2017,50000,Diesel,Individual,Manual,First Owner,20.37,1461.0,108.45,5.0,Renault
+Hyundai i20 Sportz 1.2,2014,17000,Petrol,Individual,Manual,First Owner,Unknown,1197.0,81.83,5.0,Hyundai
+Maruti Baleno Delta 1.2,2017,46000,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Maruti Swift VDI Optional,2015,60000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Wagon R LX,2006,198000,Petrol,Individual,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti
+Hyundai Xcent 1.1 CRDi SX,2015,60000,Diesel,Individual,Manual,Rent,24.4,1120.0,71.0,5.0,Hyundai
+Toyota Corolla Altis Diesel D4DJ,2012,90000,Diesel,Individual,Manual,Fourth & Above Owner,21.43,1364.0,87.2,5.0,Toyota
+Chevrolet Spark 1.0 LS,2011,40000,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,5.0,Chevrolet

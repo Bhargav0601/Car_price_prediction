@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova 2.5 VX (Diesel) 8 Seater,2013,110000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.6,8.0,Toyota
+Mahindra Logan Petrol 1.4 GLE,2010,120000,Petrol,Individual,Manual,First Owner,15.7,1390.0,75.0,5.0,Mahindra
+Maruti Ciaz VDi Option SHVS,2016,70000,Diesel,Individual,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti
+Toyota Qualis FS B3,2002,290000,Diesel,Partnership,Manual,First Owner,13.1,2446.0,75.0,10.0,Toyota
+Honda Accord 2.4 MT,2010,74000,Petrol,Partnership,Ai,Second Owner,12.8,2354.0,177.6,5.0,Honda
+Honda Mobilio S i DTEC,2015,120000,Diesel,Individual,Manual,First Owner,24.2,1498.0,98.6,7.0,Honda
+Honda City 2017-2020 GXi,2007,140000,Petrol,Individual,Manual,First Owner,17.7,1497.0,78.0,5.0,Honda
+Maruti Ignis 1.2 Delta BSIV,2017,40000,Petrol,Individual,Manual,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Maruti Baleno Delta Automatic,2019,20000,Petrol,Individual,Automatic,First Owner,21.4,1197.0,83.1,5.0,Maruti

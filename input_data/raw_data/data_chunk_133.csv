@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra NuvoSport N8 AMT,3,50000,Diesel,Individual,Automatic,First Owner,17.45,1493.0,100.0,7.0,Mahindra
+Hyundai Xcent 1.2 CRDi E,2018,60000,Diesel,Individual,Manual,First Owner,25.4,1186.0,73.97,5.0,Hyundai
+Maruti Swift VVT ZXI,9,15000,Petrol,Individual,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Maruti Zen Estilo VXI BSIV W ABS,2011,40000,Electric,Individual,Manual,First Owner,,,,,Maruti
+Mahindra Xylo E4 8S,2010,135000,Diesel,Individual,Manual,First Owner,14.0,2498.0,112.0,8.0,Mahindra
+Tata Tiago 1.2 Revotron XZ WO Alloy,2018,26300,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Mahindra Bolero 2011-2019 SLE,2014,120000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Swift Dzire VDI,2017,35000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Maruti Swift Dzire VXI,2015,30000,Petrol,Individual,Manual,First Owner,20.85,1197.0,83.14,5.0,Maruti

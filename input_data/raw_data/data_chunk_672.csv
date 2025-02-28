@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault Duster 110PS Diesel RxZ,2012,86000,Diesel,Partnership,Manual,First Owner,19.01,1461.0,108.45,5.0,Renault
+Maruti Alto LXi,2009,141000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Alto
+Honda City 1.5 S MT,2011,80000,Petrol,Individual,Manual,Third Owner,17.0,1497.0,118.0,5.0,Honda
+Mahindra XUV500 W10 2WD,2015,140000,Electric,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Maruti Swift Dzire ZDI,2014,65000,Diesel,Individual,Manual,Second Owner,23.4,1248.0,74.0,5.0,Maruti
+Maruti Swift Dzire VDI,2014,110000,Diesel,Individual,Ai,Second Owner,23.4,1248.0,74.0,,Maruti
+Tata Indigo LX,2008,100000,Diesel,Individual,Manual,Second Owner,17.0,1405.0,70.0,5.0,Tata
+Maruti Swift VDI Optional,2015,80000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Wagon R VXI BS IV,2008,90000,Petrol,Individual,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti

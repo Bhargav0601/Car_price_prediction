@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Vento Petrol Highline AT,2011,140000,Petrol,Individual,Automatic,Second Owner,14.4,1598.0,103.6,5.0,Volkswagen
+Tata Tigor 2017-2020 XZ Plus,2019,20000,Petrol,Individual,Manual,First Owner,20.3,1199.0,83.81,5.0,Tata
+Toyota Corolla Altis 1.8 J,2009,82000,Petrol,Individual,Manual,Second Owner,14.53,1798.0,138.0,5.0,Toyota
+Ambassador Grand 2000 DSZ PW CL,2008,80000,Diesel,Individual,Manual,Third Owner,13.5,1995.0,52.0,5.0,Ambassador
+Maruti Vitara Brezza ZDi Plus,2017,40000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Vitara
+Maruti Ertiga SHVS ZDI Plus,2017,120000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Maruti Vitara Brezza ZDi Plus,2017,60000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Ritz LDi,2010,70000,Diesel,Individual,Manual,Second Owner,21.1,1248.0,73.9,5.0,Maruti
+Hyundai Verna 1.6 CRDi SX,2017,45500,Diesel,Individual,Manual,Second Owner,23.9,1582.0,126.2,5.0,Hyundai

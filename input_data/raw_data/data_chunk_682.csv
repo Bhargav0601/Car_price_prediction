@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indica V2 GLX BSIII,2012,30078,Petrol,Dealer,Manual,First Owner,15.3,1396.0,70.0,5.0,Tata
+Hyundai EON Magna Plus Option,2012,44588,Petrol,Dealer,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Celerio ZXI,2015,49907,Petrol,Dealer,Manual,First Owner,21.63,998.0,67.04,5.0,Maruti
+Maruti Swift VXI,2013,67082,Petrol,Dealer,Manual,Second Owner,21.21,1197.0,81.8,5.0,Maruti
+Hyundai Grand i10 Asta Option,2016,40000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Ford EcoSport 1.5 Diesel Titanium BSIV,2016,112879,Diesel,Dealer,Manual,Second Owner,23.0,1498.0,98.96,5.0,Ford
+Honda Brio S MT,2013,80000,Petrol,Individual,Manual,Second Owner,19.4,1198.0,86.8,5.0,Honda
+Hyundai i20 1.2 Asta,2017,25000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Honda City i-VTEC V,2018,10200,Petrol,Individual,Manual,First Owner,17.4,1497.0,117.6,5.0,Honda

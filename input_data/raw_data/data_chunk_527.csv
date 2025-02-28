@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Manza Club Class Quadrajet90 LS,2013,50000,Electric,Individual,Manual,First Owner,21.02,1248.0,88.8,5.0,Tata
+Renault Pulse RxZ Optional,2012,100000,Diesel,Dealer,Manual,First Owner,23.08,1461.0,63.1,5.0,Renault
+Hyundai Grand i10 Magna AT,2019,4337,Electric,Dealer,Ai,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Volkswagen Polo 2015-2019 1.0 MPI Trendline,2018,14495,Petrol,Dealer,Manual,First Owner,18.78,999.0,75.0,5.0,Volkswagen
+Honda Jazz 1.2 V i VTEC,2018,8576,Petrol,Dealer,Manual,First Owner,18.7,1199.0,88.7,5.0,Honda
+Maruti Swift Dzire VDI,9,30000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Tata Indigo eCS LX BSIV,2013,80000,Diesel,Individual,Manual,First Owner,23.03,1396.0,69.0,5.0,Tata
+Tata Indigo CS LX (TDI) BS-III,2017,70000,Diesel,Individual,Manual,First Owner,19.09,1405.0,69.01,5.0,Tata
+Tata Tigor 1.2 Revotron XZA,2017,19723,Petrol,Dealer,Automatic,First Owner,20.3,1199.0,84.0,5.0,Tata

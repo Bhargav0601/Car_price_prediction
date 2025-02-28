@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Omni E 8 Str STD,2012,60000,Petrol,Individual,Manual,Third Owner,,,,,Maruti
+Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,2011,110000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Honda BR-V i-DTEC S MT,2016,92000,Diesel,Individual,Manual,First Owner,21.9,1498.0,98.6,7.0,Honda
+Mahindra Bolero 2011-2019 Plus AC,2012,180000,Diesel,Individual,Manual,Third Owner,15.96,2523.0,62.1,9.0,Mahindra
+Maruti Baleno Zeta 1.2,2018,10000,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Maruti Alto 800 VXI,2017,35000,Petrol,Individual,Manual,Second Owner,24.7,796.0,47.3,5 seats,Maruti
+Maruti Swift DDiS LDI,2017,35000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Hyundai Grand i10 CRDi Sportz,2016,23000,Diesel,Individual,Manual,First Owner,24.0,1120.0,70.0,5.0,Hyundai
+Tata Indigo CS LX (TDI) BS III,2012,150000,Diesel,Individual,Manual,Third Owner,19.09,1396.0,69.0,5.0,Tata

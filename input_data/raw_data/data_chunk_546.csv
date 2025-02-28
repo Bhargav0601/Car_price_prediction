@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero 2011-2019 SLX,2014,80000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Swift VDI,2012,80000,Diesel,Individual,Manual,Second Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Alto LXi,2008,70000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai EON Era Plus,2014,2350,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Alto LXi,2011,50000,Petrol,Individual,Manual,First Owner,19.7,,46.3,5.0,Maruti
+Maruti Alto LXi,2010,58000,Electric,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Honda City 2017-2020 VTEC,2006,80000,Petrol,Individual,Manual,Second Owner,16.9,1497.0,100.0,5.0,Honda
+Mahindra Bolero Power Plus SLX,2,60000,Diesel,Individual,Manual,First Owner,16.5,1493.0,70.0,7.0,Mahindra
+Hyundai Elite i20 Asta Option BSIV,2019,35000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.86,5.0,Hyundai

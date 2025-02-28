@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i10 Magna 1.1L,2011,60000,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Hyundai i20 2015-2017 Sportz Option 1.4 CRDi,2015,70000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Ford Figo Diesel Titanium,2011,170000,Diesel,Individual,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Maruti Celerio LDi,2015,95000,Electric,Individual,Manual,First Owner,27.62,793.0,47.0,5.0,Maruti
+Maruti Swift VDI,2012,90000,Diesel,Individual,Manual,Second Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Baleno Alpha Diesel,2018,35000,Diesel,Individual,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti
+Tata Indica Vista Quadrajet VX,2013,120000,Diesel,Individual,Manual,Second Owner,22.3,1248.0,74.0,5.0,Tata
+Tata Indica V2 2001-2011 DLS BSIII,2008,120000,Diesel,Individual,Manual,Fourth & Above Owner,17.88,1396.0,52.8,5.0,Tata
+Tata New Safari Dicor VX 4X2,2006,175000,Diesel,Individual,Manual,Second Owner,13.93,2179.0,138.1,7.0,Tata

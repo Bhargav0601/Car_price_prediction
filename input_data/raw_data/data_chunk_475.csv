@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Xcent 1.1 CRDi S,2016,120000,Diesel,Individual,Manual,Second Owner,24.4,1120.0,71.0,5.0,Hyundai
+Maruti Ignis 1.2 Zeta BSIV,2017,30000,Petrol,Individual,Manual,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Tata Indica Vista TDI LS,2015,110000,Diesel,Individual,Manual,Second Owner,19.1,1405.0,70.0,5.0,Tata
+Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,2008,219000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,8.0,Toyota
+Maruti Alto 800 LXI,2017,80000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Maruti Ciaz RS ZDi Plus SHVS,2016,80000,Diesel,Individual,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti
+Maruti Swift Dzire VXI,2016,35000,Petrol,Individual,Manual,Second Owner,20.85,1197.0,83.14,5.0,Maruti
+Tata Indica Vista Quadrajet 90 VX,2013,167000,Diesel,Individual,Manual,First Owner,22.3,1248.0,88.8,5.0,Tata
+Hyundai Creta 1.6 CRDi SX Option,2016,94000,Diesel,Individual,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai

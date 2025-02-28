@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Baleno Delta 1.2,2018,20000,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Nissan Micra XL,2011,43500,Petrol,Individual,Manual,Second Owner,18.06,1198.0,75.0,5.0,Nissan
+Tata Hexa XT,2018,30000,Diesel,Individual,Manual,First Owner,17.6,2179.0,153.86,7.0,Tata
+Ford EcoSport 1.5 TDCi Titanium BSIV,2015,63000,Diesel,Individual,Manual,First Owner,22.77,1498.0,98.59,5.0,Ford
+Mahindra Bolero 2011-2019 ZLX BSIII,2016,35000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Tata Indigo eCS LS TDI BSIII,2012,110000,Diesel,Individual,Manual,Second Owner,19.09,1396.0,69.0,5.0,Tata
+Tata Hexa XT,4,25000,Diesel,Individual,Manual,First Owner,17.6,2179.0,153.86,2 seats,Tata
+Hyundai Xcent 1.2 VTVT S AT,2017,30000,Petrol,Partnership,Automatic,First Owner,17.36,1197.0,81.86,5.0,Hyundai
+Mahindra Bolero 2011-2019 SLX,2012,50000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra

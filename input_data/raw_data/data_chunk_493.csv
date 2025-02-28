@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto 800 VXI,2,35000,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Tata Indigo eCS VX BSIV,2013,70000,Diesel,Individual,Manual,First Owner,25.0,1396.0,69.0,5.0,Tata
+Tata Manza ELAN Quadrajet BS III,2011,70000,Diesel,Individual,Manual,First Owner,19.0,1248.0,90.0,,Tata
+Tata Indica GLS BS IV,2007,50000,Petrol,Individual,Manual,First Owner,15.3,1193.0,65.3,5.0,Tata
+Maruti Swift VDI BSIV,2006,80000,Diesel,Individual,Manual,First Owner,,,,,Maruti
+Hyundai Santro Xing XL,2006,60898,Petrol,Individual,Manual,First Owner,,,,,Hyundai
+Maruti S-Cross 2017-2020 Zeta DDiS 200 SH,2018,29700,Diesel,Individual,Manual,First Owner,25.1,1248.0,88.5,5.0,Maruti
+Hyundai i20 1.4 Magna AT,2018,20000,Petrol,Individual,Automatic,First Owner,18.6,1368.0,98.63,5.0,Hyundai
+Maruti Alto 800 VXI,2018,20000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti

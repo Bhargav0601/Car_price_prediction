@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Eeco CNG 5 Seater AC BSIV,2019,60000,CNG,Individual,Manual,First Owner,21.94,1196.0,61.7,5.0,Maruti
+Hyundai i20 Magna 1.4 CRDi (Diesel),2013,70000,Diesel,Individual,Manual,Third Owner,21.9,1396.0,88.76,5.0,Hyundai
+Volkswagen Vento Diesel Comfortline,2011,120000,Diesel,Individual,Manual,Third Owner,29 kmpl,1598.0,103.6,5.0,Volkswagen
+Maruti Alto LXi BSIII,2009,80000,Petrol,Individual,Ai,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Tata New Safari DICOR 2.2 EX 4x2,2008,120000,Diesel,Individual,Manual,Fourth & Above Owner,11.57,2179.0,138.1,7.0,Tata
+Hyundai Santro Xing GLS,2014,40000,Petrol,Individual,Manual,First Owner,17.92,1086.0,62.1,5.0,Hyundai
+Hyundai i10 Magna 1.2 iTech SE,2014,53000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Swift LDI Optional,2017,60000,Diesel,Partnership,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Hyundai i20 1.2 Magna Executive,2017,30000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai

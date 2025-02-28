@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i VTEC VX Option BL,10,22000,Petrol,Individual,Manual,First Owner,17.8,1497.0,117.3,5.0,Honda
+Maruti Vitara Brezza LDi Option,2016,70000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Swift Dzire 1.2 Vxi BSIV,2012,35000,Petrol,Individual,Manual,First Owner,17.5,1197.0,85.8,5.0,Maruti
+Maruti Swift Dzire VXI,2013,120000,Petrol,Individual,Manual,First Owner,19.1,1197.0,85.8,5.0,Maruti
+Maruti Swift Dzire VDI,2013,100000,Diesel,Individual,Manual,Second Owner,23.4,1248.0,74.0,5.0,Maruti
+Mahindra XUV500 AT W10 AWD,2016,40000,Diesel,Individual,Automatic,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Ford Fiesta 1.6 Duratec EXI,2009,60000,Petrol,Individual,Manual,Third Owner,15.3,1596.0,101.0,5.0,Ford
+Mahindra Scorpio SLX 2.6 Turbo 8 Str,2007,110000,Diesel,Individual,Manual,First Owner,10.5,2179.0,120.0,7.0,Scorpio
+Mahindra Scorpio 2006-2009 LX 2.6 Turbo 9 Str,2008,112000,Diesel,Individual,Manual,First Owner,10.5,2609.0,120.0,9.0,Mahindra

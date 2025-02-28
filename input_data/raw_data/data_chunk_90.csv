@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga ZXI,2013,60000,Petrol,Individual,Manual,First Owner,16.02,1373.0,93.7,7.0,Maruti
+Tata Manza Aura Quadrajet,2011,110000,Diesel,Individual,Manual,Second Owner,18.8,1248.0,90.0,5.0,Tata
+Maruti Ertiga ZXI,2013,60000,Petrol,Individual,Manual,First Owner,16.02,1373.0,93.7,7.0,Maruti
+Hyundai i20 Asta 1.2,2015,35000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Maruti Omni E MPI STD BS IV,2016,70000,Petrol,Individual,Manual,Second Owner,16.8,796.0,34.2,8.0,Maruti
+Tata Manza Aura Quadrajet,2011,110000,Diesel,Individual,Manual,Second Owner,18.8,1248.0,90.0,5.0,Manza
+Mahindra Bolero VLX CRDe,2011,100000,Diesel,Individual,Manual,Second Owner,36 kmpl,2523.0,63.0,7.0,Mahindra
+Maruti Alto Std,2008,120000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Omni 8 Seater BSII,2009,90000,Petrol,Individual,Manual,Fourth & Above Owner,19.7,796.0,35.0,8.0,Maruti

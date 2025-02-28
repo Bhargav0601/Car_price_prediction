@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i VTEC CVT SV,2016,50000,Petrol,Individual,Automatic,First Owner,18.0,1497.0,117.3,5.0,Honda
+Hyundai Grand i10 1.2 Kappa Asta,2017,5000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Mahindra KUV 100 G80 K8 Dual Tone,2018,10500,Petrol,Individual,Manual,First Owner,18.15,1198.0,82.0,6.0,Mahindra
+Renault Duster 110PS Diesel RxZ,2018,26000,Diesel,Individual,Manual,First Owner,19.6,1461.0,108.45,5.0,Renault
+Mahindra Scorpio VLX 2WD ABS AT BSIII,2014,139000,Diesel,Individual,Automatic,First Owner,11.79,2179.0,120.0,8.0,Mahindra
+Mahindra XUV500 W8 2WD,2014,60000,Diesel,Individual,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra
+Mercedes-Benz New C-Class C 200 Kompressor Elegance MT,2006,40000,Petrol,Individual,Manual,First Owner,11.7,1796.0,178.0,5.0,Mercedes
+Ford EcoSport 1.5 Ti VCT MT Titanium BSIV,2015,25000,Petrol,Individual,Manual,First Owner,15.85,1499.0,110.4,5.0,Ford
+Toyota Corolla Altis 1.8 J,2010,60000,Petrol,Individual,Ai,Second Owner,14.53,1798.0,138.0,5.0,Toyota

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Xcent 1.2 Kappa SX Option,2014,80000,Petrol,Partnership,Manual,First Owner,19.1,1197.0,82.0,5.0,Hyundai
+Hyundai Verna 1.4 CRDi,2015,248000,Diesel,Individual,Manual,First Owner,24.8,1396.0,88.7,5.0,Hyundai
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2014,60000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.6,7.0,Toyota
+Toyota Innova 2.5 G2,2005,120000,Diesel,Individual,Manual,Rent,12.8,2494.0,102.0,8.0,Toyota
+Hyundai Elantra CRDi SX,2015,120000,Diesel,Individual,Manual,First Owner,22.7,1582.0,126.2,5.0,Hyundai
+Maruti Wagon R Duo Lxi,2010,66444,LPG,Individual,Manual,First Owner,26.2,998.0,58.2,5.0,Maruti
+Maruti Vitara Brezza VDi Option,2016,86000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Nissan Sunny Diesel XV,2012,90000,Diesel,Individual,Manual,First Owner,21.64,1461.0,84.8,5.0,Nissan
+Honda Civic 1.8 S AT,2007,218463,Petrol,Individual,Automatic,First Owner,12.9,1799.0,130.0,5.0,Honda

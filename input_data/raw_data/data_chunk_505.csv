@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i10 Magna LPG,2012,60000,LPG,Individual,Manual,First Owner,19.2,1086.0,68.05,5.0,Hyundai
+Maruti Ciaz VDI SHVS,2016,90000,Diesel,Individual,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti
+Maruti Vitara Brezza ZDi,2017,90000,Diesel,Individual,Ai,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Alto 800 LXI,2016,35000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Ertiga ZDI,2014,90000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.8,7.0,Maruti
+Hyundai Santro Xing GLS,2012,40000,Petrol,Individual,Manual,Rent,23 kmpl,1086.0,62.1,5.0,Hyundai
+Hyundai Santro Xing GLS,2012,40000,Petrol,Individual,Manual,Second Owner,17.92,1086.0,62.1,5.0,Hyundai
+Hyundai Grand i10 1.2 Kappa Sportz Dual Tone,2018,20000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Tata Indigo CS eLX BS IV,2011,80000,Diesel,Individual,Manual,First Owner,23.03,1396.0,69.0,5.0,Tata

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault KWID RXT,2017,28000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Tata Indica GLS BS IV,2009,113000,Electric,Individual,Manual,First Owner,15.3,1193.0,65.3,5.0,Indica
+Maruti Eeco 5 STR With AC Plus HTR CNG,2011,1,CNG,Individual,Manual,Fourth & Above Owner,15.1,1196.0,73.0,5.0,Maruti
+Tata Manza Aura (ABS) Safire,2010,100000,Petrol,Individual,Manual,Second Owner,15.0,1368.0,90.0,5.0,Tata
+Hyundai Grand i10 CRDi Magna,2014,50074,Diesel,Individual,Manual,First Owner,24.0,1120.0,70.0,5.0,Hyundai
+Hyundai i20 Asta 1.4 CRDi,2014,100000,Electric,Individual,Manual,Fourth & Above Owner,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Eeco 7 Seater Standard BSIV,2017,35000,Electric,Individual,Manual,First Owner,15.37,1196.0,73.0,7.0,Maruti
+Ford EcoSport 1.5 Diesel Titanium BSIV,2018,60000,Diesel,Partnership,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Mercedes-Benz E-Class E250 CDI Elegance,2011,70000,Diesel,Individual,Automatic,First Owner,14.21,2143.0,203.0,5.0,Mercedes

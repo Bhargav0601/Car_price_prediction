@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI,2015,45000,Diesel,Dealer,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Maruti Vitara Brezza ZDi,2017,61260,Diesel,Dealer,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2019,26000,Diesel,Dealer,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Skoda Kodiaq 2.0 TDI Style,2018,17601,Diesel,Dealer,Automatic,First Owner,16.25,1968.0,148.0,7.0,Skoda
+Hyundai i20 1.4 Asta,2017,43000,Diesel,Dealer,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Swift ZXI BSIV,2018,4773,Petrol,Dealer,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Skoda Rapid 1.5 TDI AT Style Plus,2017,31000,Electric,Dealer,Automatic,Rent,21.66,1498.0,103.52,5.0,Skoda
+Honda BRV i-DTEC V MT,2017,57900,Diesel,Dealer,Manual,First Owner,21.9,1498.0,98.6,7.0,Honda
+Mahindra Marazzo M2 BSIV,2019,8600,Diesel,Dealer,Manual,First Owner,17.3,1497.0,121.0,7.0,Mahindra

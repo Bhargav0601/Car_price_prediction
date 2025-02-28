@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Verna CRDi,2008,120000,Diesel,Individual,Manual,Second Owner,16.8,1493.0,110.0,5.0,Hyundai
+Mahindra TUV 300 T8,2016,65100,Diesel,Individual,Manual,Second Owner,18.49,1493.0,100.0,7.0,Mahindra
+Maruti Ignis 1.2 AMT Delta BSIV,2019,20000,Petrol,Individual,Automatic,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Hyundai i20 Active 1.4 SX,2015,108000,Diesel,Individual,Manual,First Owner,21.19,1396.0,88.73,5.0,Hyundai
+Maruti Swift LXI,2019,15000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Hyundai Santro Xing GLS,2009,77000,Petrol,Individual,Manual,First Owner,17.92,1086.0,62.1,5.0,Hyundai
+Maruti Wagon R VXI BS IV,2015,18500,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Mahindra TUV 300 T8,2016,120000,Diesel,Individual,Manual,Rent,18.49,1493.0,100.0,7.0,Mahindra
+Renault KWID RXT,8,15200,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault

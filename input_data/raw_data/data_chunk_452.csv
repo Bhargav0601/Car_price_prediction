@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Verna 1.6 CRDI AT SX Option,2016,120000,Diesel,Individual,Automatic,First Owner,19.08,1582.0,126.2,5.0,Hyundai
+Hyundai Verna 1.6 CRDi S Option,2016,120000,Diesel,Individual,Manual,First Owner,23.9,1582.0,126.32,5.0,Hyundai
+Mahindra Thar CRDe AC,2014,80000,Diesel,Individual,Manual,Second Owner,16.55,2498.0,105.0,6.0,Mahindra
+Maruti Swift Dzire Vdi BSIV,2011,60000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti Swift Dzire VXI 1.2,2018,15000,Electric,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Hyundai i10 Era,2011,60000,Petrol,Individual,Manual,First Owner,19.81,1086.0,68.05,5.0,Hyundai
+Honda City i DTEC VX,2015,60000,Diesel,Individual,Manual,First Owner,7 kmpl,1498.0,98.6,5.0,Honda
+Maruti Swift ZDi,2014,90000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Hyundai Xcent 1.2 Kappa Base,2015,30000,Petrol,Individual,Manual,First Owner,19.1,1197.0,82.0,5.0,Hyundai

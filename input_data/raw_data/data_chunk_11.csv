@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 1.4 Asta Option,2017,110000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Wagon R VXI,2009,77000,Petrol,Dealer,Manual,Second Owner,21.79,998.0,67.05,5.0,Maruti
+Tata Manza Aura (ABS) Quadrajet,2010,100000,Electric,Individual,Manual,Second Owner,18.8,1248.0,90.0,5.0,Tata
+Maruti Swift VXI,2019,10000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Maruti Eeco 7 Seater Standard BSIV,6,100000,Petrol,Individual,Manual,Third Owner,15.37,1196.0,73.0,7.0,Maruti
+Maruti Baleno Zeta 1.2,2018,35000,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Mahindra Scorpio VLX AT AIRBAG BSIV,2014,70000,Diesel,Individual,Automatic,Second Owner,11.79,2179.0,120.0,8.0,Mahindra
+Ford Freestyle Titanium Petrol BSIV,2020,5000,Petrol,Individual,Manual,Second Owner,19.0,1194.0,94.68,5.0,Ford
+Hyundai Verna VTVT 1.6 SX,2017,37800,Petrol,Individual,Manual,First Owner,17.0,1591.0,121.3,5.0,Hyundai

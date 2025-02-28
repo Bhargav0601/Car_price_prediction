@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Jaguar XF 3.0 Litre S Premium Luxury,2014,51000,Diesel,Individual,Automatic,First Owner,14.74,2993.0,270.9,5.0,Jaguar
+BMW X1 sDrive 20d Sportline,2018,27000,Diesel,Dealer,Automatic,First Owner,17.05,1995.0,184.0,5.0,BMW
+Audi Q3 35 TDI Quattro Premium Plus,2018,26000,Diesel,Dealer,Ai,First Owner,15.73,1968.0,174.33,5.0,Audi
+BMW 5 Series 520d Sport Line,2018,17100,Diesel,Dealer,Automatic,First Owner,22.48,1995.0,187.74,5.0,BMW
+Chevrolet Sail 1.3 LS,2013,56000,Diesel,Dealer,Manual,First Owner,22.1,1248.0,74.0,5.0,Chevrolet
+Honda Amaze S Diesel,9,60000,Diesel,Dealer,Manual,Second Owner,24.7,1498.0,98.63,,Honda
+Jeep Compass 1.4 Limited,2019,22000,Petrol,Dealer,Automatic,First Owner,16.0,1368.0,160.0,5.0,Jeep
+Honda BRV i-VTEC V CVT,2017,30000,Petrol,Dealer,Automatic,First Owner,15.4,1497.0,117.3,7.0,Honda
+Volkswagen Vento 1.5 TDI Comfortline,2015,43001,Diesel,Dealer,Manual,First Owner,23 kmpl,1498.0,108.6,5.0,Volkswagen

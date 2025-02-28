@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Petrol ZXI,2010,48000,Petrol,Individual,Manual,First Owner,15.6,1196.0,70.0,5.0,Ford
+Hyundai i20 Magna,2012,45000,Petrol,Individual,Manual,Rent,18.5,1197.0,82.85,5.0,Hyundai
+Mahindra XUV500 W4,2016,22522,Diesel,Dealer,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Hyundai i20 1.2 Magna,2012,51856,Petrol,Dealer,Manual,Third Owner,18.5,1197.0,80.0,5.0,Hyundai
+Maruti Ciaz RS ZXi Plus,2015,29434,Petrol,Individual,Manual,First Owner,20.73,1373.0,91.1,5.0,Maruti
+Honda WR-V i-DTEC VX,2018,25000,Diesel,Individual,Manual,First Owner,25.5,1498.0,98.6,5.0,Honda
+Tata Tiago 1.2 Revotron XZ,2017,28000,Petrol,Individual,Manual,Second Owner,23.84,1199.0,84.0,5.0,Tata
+Renault Duster 85PS Diesel RxL Optional,2013,44500,Electric,Individual,Manual,Second Owner,20.46,1461.0,83.8,5.0,Renault
+Maruti Wagon R VXI BS IV,2016,34500,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti

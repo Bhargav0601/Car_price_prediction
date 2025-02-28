@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto LXi,2010,80500,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Toyota Etios Liva VXD,2014,200000,Diesel,Partnership,Manual,First Owner,23.59,1364.0,67.04,5.0,Toyota
+Mahindra Bolero 2011-2019 SLX,2013,60000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti 800 AC Uniq,2004,18000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Zen D,2006,110000,Diesel,Individual,Manual,Second Owner,20.8,1527.0,58.0,5.0,Maruti
+Maruti Alto LX,2005,90000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Honda City 2017-2020 GXi,2006,120000,Petrol,Individual,Manual,Second Owner,17.7,1497.0,78.0,5.0,Honda
+Maruti Swift Dzire VDI,2017,127000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Maruti Ertiga SHVS ZDI Plus,2017,70000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti

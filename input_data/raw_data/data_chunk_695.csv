@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Hexa XT,2018,50000,Diesel,Individual,Manual,First Owner,17.6,2179.0,153.86,7.0,Tata
+Maruti Alto LX BSIII,2005,50800,Petrol,Dealer,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Celerio ZXI MT BSIV,2017,10000,Electric,Dealer,Manual,First Owner,23.1,998.0,67.04,5.0,Maruti
+BMW 6 Series GT 630d Luxury Line,2018,30000,Diesel,Individual,Automatic,First Owner,17.09,2993.0,261.4,4.0,BMW
+Maruti Alto LXi,2012,60000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai Xcent 1.1 CRDi SX Option,2018,40142,Diesel,Dealer,Manual,First Owner,24.4,1120.0,71.0,5.0,Hyundai
+Hyundai i20 1.2 Asta,2019,9400,Petrol,Dealer,Manual,Rent,18.6,1197.0,81.83,5.0,Hyundai
+Mahindra KUV 100 D75 K6 Plus 5Str,2016,62000,Diesel,Dealer,Manual,First Owner,25.32,1198.0,77.0,5.0,Mahindra
+Tata Manza Aura (ABS) Quadrajet,2011,90000,Diesel,Dealer,Manual,First Owner,18.8,1248.0,90.0,5.0,Tata

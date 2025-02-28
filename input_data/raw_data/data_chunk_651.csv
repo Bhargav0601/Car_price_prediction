@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova 2.5 EV Diesel MS 7 Str BSIII,2011,168000,Diesel,Partnership,Manual,Second Owner,12.8,2494.0,102.0,7.0,Toyota
+Ford Aspire Titanium BSIV,2019,7000,Petrol,Individual,Manual,First Owner,19.4,1194.0,94.93,5.0,Ford
+Hyundai i20 Active 1.4 SX with AVN,2017,60000,Diesel,Individual,Manual,First Owner,21.19,1396.0,88.73,5.0,Hyundai
+Tata Indigo CS eVX,2013,60000,Diesel,Individual,Manual,Second Owner,25.0,1396.0,69.01,,Tata
+Maruti Wagon R VXI BS IV,2015,22500,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Maruti Vitara Brezza ZDi AMT,2020,7400,Diesel,Individual,Automatic,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Swift Dzire VXi,2011,70000,Petrol,Individual,Manual,Third Owner,17.5,1298.0,85.8,5.0,Maruti
+Maruti Wagon R LXI Minor,2009,67000,Petrol,Individual,Manual,First Owner,18.9,1061.0,67.0,5.0,Maruti
+Ford Fusion 1.4 TDCi Diesel,2009,110000,Diesel,Partnership,Manual,Third Owner,17.7,1399.0,68.0,5.0,Ford

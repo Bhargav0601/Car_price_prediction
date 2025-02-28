@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i-VTEC CVT VX,2017,6825,Petrol,Individual,Ai,First Owner,18.0,1497.0,117.6,5.0,Honda
+Chevrolet Cruze LTZ AT,2015,155000,Diesel,Individual,Automatic,First Owner,14.81,1998.0,163.7,5.0,Chevrolet
+Maruti Eeco CNG 5 Seater AC BSIV,2018,50000,CNG,Individual,Manual,First Owner,21.94,1196.0,61.7,5.0,Maruti
+Maruti Ertiga BSIV VXI,2016,13500,Petrol,Individual,Manual,First Owner,17.5,1373.0,91.1,7.0,Maruti
+Toyota Innova 2.5 V Diesel 8-seater,2008,260000,Diesel,Partnership,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Hyundai Xcent 1.2 CRDi S,2018,65000,Diesel,Individual,Manual,First Owner,25.4,1186.0,73.97,5.0,Hyundai
+Mahindra Xylo H9,2014,95000,Diesel,Individual,Manual,Second Owner,14.02,2179.0,118.3,8.0,Mahindra
+Maruti Ciaz ZXi,2016,40000,Petrol,Individual,Manual,Second Owner,20.73,1373.0,91.1,5.0,Maruti
+Hyundai Santro Era,2019,30000,Petrol,Individual,Manual,First Owner,20.3,1086.0,68.0,5.0,Hyundai

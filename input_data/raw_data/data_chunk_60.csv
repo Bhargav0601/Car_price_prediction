@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Zest Revotron 1.2T XM,2015,110000,Petrol,Individual,Manual,First Owner,17.57,1193.0,88.7,5.0,Tata
+Ford Classic 1.4 Duratorq CLXI,2013,70000,Diesel,Individual,Manual,Second Owner,19.68,1399.0,67.0,5.0,Ford
+Maruti Alto LXI,2002,50000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Toyota Innova 2.5 G (Diesel) 8 Seater,2013,190000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,8.0,Toyota
+Mahindra Bolero SLX,2010,100000,Diesel,Partnership,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Maruti Alto 800 LXI,2015,60000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Wagon R VXI BS IV,2015,40000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Maruti Swift Dzire VDi,2009,90000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Tata Safari Storme EX,2015,110000,Diesel,Individual,Manual,First Owner,14.1,2179.0,147.94,7.0,Tata

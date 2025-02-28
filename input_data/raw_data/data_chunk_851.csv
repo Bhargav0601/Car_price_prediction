@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti 800 AC,2005,55425,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Mahindra Bolero 2011-2019 SLX,2013,76000,Diesel,Individual,Manual,First Owner,Unknown,2523.0,62.1,7.0,Bolero
+Toyota Fortuner 2.8 4WD AT BSIV,2020,3000,Diesel,Individual,Automatic,First Owner,15.04,2755.0,174.5,7.0,Toyota
+Mahindra TUV 300 T8,2016,139000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Volkswagen Vento 1.6 Highline,2014,100000,Petrol,Individual,Manual,Rent,15.04,3667 CC,103.2,5.0,Volkswagen
+Hyundai Creta 1.6 CRDi SX,2015,60000,Diesel,Individual,Ai,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+Skoda Rapid 1.6 MPI AT Elegance,2013,35000,Petrol,Individual,Automatic,Second Owner,14.3,1598.0,103.5,5.0,Skoda
+Tata Sumo CX 9 Seater,2008,120000,Diesel,Individual,Manual,First Owner,12.2,1948.0,68.0,9.0,Tata
+Maruti Ertiga ZDI,2013,37659,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.8,7.0,Maruti

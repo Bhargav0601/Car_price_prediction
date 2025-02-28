@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Cruze LTZ,2010,90000,Diesel,Individual,Manual,Second Owner,18.3,1991.0,147.9,5.0,Chevrolet
+Chevrolet Beat LS,2013,110000,Petrol,Individual,Manual,Second Owner,18.6,1199.0,79.4,5.0,Chevrolet
+Hyundai i10 Magna,2010,90000,Petrol,Individual,Manual,Third Owner,20.36,1197.0,78.9,5.0,Hyundai
+Mahindra Marazzo M8,2019,10000,Diesel,Individual,Ai,First Owner,17.3,1497.0,121.0,7.0,Mahindra
+Mahindra XUV300 W8 Option Diesel BSIV,2019,25000,Diesel,Individual,Manual,First Owner,20.0,1497.0,115.0,5.0,Mahindra
+Hyundai Elite i20 Sportz Plus Diesel,2019,13000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.76,5.0,Hyundai
+Tata Tiago 1.05 Revotorq XT,2017,80000,Diesel,Individual,Manual,First Owner,27.28,1047.0,69.0,5.0,Tata
+Volkswagen Polo 1.5 TDI Comfortline,2014,40000,Diesel,Individual,Manual,Third Owner,20.14,1498.0,88.8,5.0,Volkswagen
+Maruti Swift Dzire ZDI Plus,2019,20000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti

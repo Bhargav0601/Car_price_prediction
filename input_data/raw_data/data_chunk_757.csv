@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Creta 1.4 CRDi S Plus,2016,133000,Diesel,Individual,Manual,First Owner,21.38,1396.0,88.7,5.0,Hyundai
+Volkswagen Vento Diesel Trendline,2010,120000,Diesel,Individual,Manual,Third Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Volkswagen Ameo 1.0 MPI Trendline,2019,20000,Petrol,Individual,Manual,First Owner,19.44,999.0,75.0,5.0,Volkswagen
+Ford Figo Petrol LXI,2012,25000,Petrol,Individual,Manual,First Owner,15.6,1196.0,70.0,5.0,Ford
+Tata Nano Lx BSIV,2012,90000,Petrol,Individual,Manual,First Owner,25.4,624.0,37.48,4.0,Tata
+Maruti A-Star Vxi,8,140000,Petrol,Individual,Manual,Third Owner,19.0,998.0,66.1,5.0,Maruti
+Honda City i-DTEC VX,2017,103000,Diesel,Dealer,Manual,First Owner,25.6,1498.0,97.9,5.0,Honda
+Toyota Innova Crysta 2.4 GX MT BSIV,2017,23000,Diesel,Dealer,Manual,First Owner,13.68,2393.0,147.8,7.0,Toyota
+Honda City i DTEC V,2015,128000,Diesel,Dealer,Manual,First Owner,26.0,1498.0,98.6,5.0,Honda

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2019,25000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Maruti Alto 800 VXI,2015,53000,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,8 seats,Maruti
+Tata Sumo MKII GX BS IV,2011,90000,Diesel,Individual,Manual,Second Owner,13.55,2179.0,118.35,7.0,Tata
+Toyota Innova Crysta 2.5 VX BS IV,2011,60000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,7.0,Toyota
+Toyota Fortuner 4x2 Manual,2014,150000,Diesel,Individual,Manual,First Owner,13.0,2982.0,168.5,7.0,Toyota
+Mahindra Thar CRDe AC,2,24000,Diesel,Individual,Manual,First Owner,16.55,2498.0,105.0,6.0,Mahindra
+Honda Mobilio S i DTEC,2016,100000,Diesel,Individual,Manual,Second Owner,24.2,1498.0,98.6,7.0,Honda
+Mahindra KUV 100 G80 K8,2018,6000,Petrol,Individual,Ai,First Owner,18.15,1198.0,82.0,6.0,Mahindra
+Mahindra XUV500 W8 2WD,2013,49700,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,XUV500

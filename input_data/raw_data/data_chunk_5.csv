@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Vitara Brezza VDi,2018,32600,Diesel,Dealer,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Alto K10 VXI,2018,10300,Petrol,Dealer,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Toyota Fortuner 4x4 MT,2014,77000,Diesel,Dealer,Manual,First Owner,27 kmpl,2982.0,168.5,7.0,Toyota
+Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,2013,99000,Diesel,Dealer,Manual,First Owner,12.99,2494.0,100.0,7.0,Toyota
+Mercedes-Benz B Class B180,2014,27800,Diesel,Dealer,Automatic,Second Owner,14.8,2143.0,120.7,5.0,Mercedes
+Honda Amaze S Diesel,2015,49800,Diesel,Dealer,Manual,First Owner,24.7,1498.0,98.63,5.0,Honda
+Mitsubishi Pajero Sport 4X4,2013,151000,Diesel,Dealer,Manual,First Owner,13.5,2477.0,175.56,7.0,Mitsubishi
+Honda City i DTEC S,2015,54700,Diesel,Dealer,Manual,First Owner,26.0,1498.0,98.6,5.0,Honda
+Maruti Ciaz Zeta,2018,64000,Petrol,Dealer,Manual,First Owner,20.65,1462.0,103.25,5.0,Maruti

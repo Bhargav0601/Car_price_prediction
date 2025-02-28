@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Santro Sportz BSIV,2019,30000,Petrol,Individual,Manual,First Owner,20.3,1086.0,68.0,5.0,Hyundai
+Ford EcoSport 1.5 Diesel Titanium BSIV,2018,20000,Diesel,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Maruti Swift Dzire VXI 1.2 BS IV,2017,21000,Petrol,Individual,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Maruti Swift Star VDI,2013,70000,Diesel,Partnership,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Hyundai Grand i10 AT Asta,2,70000,Petrol,Individual,Automatic,Second Owner,18.9,1197.0,82.0,5.0,Hyundai
+Maruti Alto LX,2006,42500,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai i10 Asta,2012,25000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Tata Aria Prestige 4x2,2013,80000,Diesel,Individual,Manual,Second Owner,13.7,2197.0,138.1,7.0,Tata
+Mahindra Scorpio 2.6 DX,2006,90000,Diesel,Individual,Manual,First Owner,12.7,2609.0,116.6,8.0,Mahindra

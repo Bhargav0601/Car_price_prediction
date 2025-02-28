@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Venture EX 7 Str,2012,90000,Diesel,Individual,Manual,Second Owner,15.42,1405.0,70.0,7.0,Tata
+Maruti SX4 ZDI Leather,2012,80000,Diesel,Individual,Manual,Fourth & Above Owner,21.5,1248.0,88.8,,Maruti
+Toyota Etios Liva GD SP,2012,150000,Diesel,Individual,Manual,Rent,,,,,Toyota
+Maruti Ignis 1.2 Delta BSIV,2018,12000,Petrol,Individual,Manual,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Hyundai i10 Magna,2011,40000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Zen LXI,1997,100000,Petrol,Individual,Manual,Second Owner,17.3,993.0,60.0,5.0,Maruti
+Hyundai Grand i10 1.2 Kappa Magna BSIV,2017,27000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Grand
+Maruti Wagon R VXI BS IV,2015,120000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Mahindra Bolero 2011-2019 ZLX,2015,80000,Diesel,Individual,Manual,First Owner,28 kmpl,2523.0,62.1,7.0,Mahindra

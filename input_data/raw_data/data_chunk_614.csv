@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra TUV 300 mHAWK100 T8 Dual Tone,2018,70000,Diesel,Individual,Manual,Second Owner,18.49,1493.0,100.0,7 seats,Mahindra
+Maruti Omni MPI STD BSIV,2015,25000,Petrol,Individual,Manual,Second Owner,16.8,796.0,34.2,5.0,Maruti
+Jaguar XF 3.0 Litre S Premium Luxury,2014,51000,Diesel,Individual,Automatic,First Owner,14.74,2993.0,270.9,5.0,Jaguar
+Honda Mobilio V i DTEC,2014,120000,Diesel,Individual,Manual,First Owner,24.2,1498.0,98.6,7.0,Honda
+Maruti Zen Estilo LXI BS IV,2010,55000,Petrol,Individual,Manual,First Owner,19.0,998.0,67.1,5.0,Maruti
+Nissan Micra XV CVT,2013,91400,Petrol,Individual,Automatic,Second Owner,19.34,1198.0,76.0,5.0,Nissan
+Hyundai Accent Executive CNG,2012,48000,CNG,Individual,Ai,First Owner,13.2,1495.0,93.7,5.0,Hyundai
+Chevrolet Enjoy TCDi LTZ 7 Seater,2014,80000,Diesel,Individual,Manual,Second Owner,18.2,1248.0,73.8,7.0,Chevrolet
+Mahindra KUV 100 mFALCON D75 K6,2017,50000,Electric,Individual,Manual,First Owner,25.32,1198.0,77.0,6.0,Mahindra

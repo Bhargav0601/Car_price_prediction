@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,2005,200000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,8.0,Toyota
+Tata Sumo EX,2016,63000,Diesel,Dealer,Manual,First Owner,15.3,2956.0,83.8,,Tata
+Mahindra Bolero B4,2015,62000,Diesel,Dealer,Manual,First Owner,21.0,1498.0,74.96,7.0,Mahindra
+Tata New Safari 3L Dicor LX 4x2,2012,68240,Diesel,Dealer,Manual,First Owner,13.93,2956.0,138.1,7.0,Tata
+Mahindra Scorpio 1.99 S10 4WD,2008,78000,Diesel,Dealer,Manual,Rent,15.4,1997.0,120.0,7.0,Mahindra
+Maruti Swift VDI BSIV,2017,38000,Diesel,Dealer,Manual,Second Owner,15 kmpl,,,,Maruti
+Maruti Wagon R VXI,2010,35000,Petrol,Dealer,Manual,Rent,18.9,998.0,67.1,5.0,Maruti
+Maruti Swift Dzire LXI,2018,9000,Petrol,Dealer,Manual,First Owner,19.1,1197.0,85.8,5.0,Maruti
+Hyundai Creta 1.6 CRDi Anniversary Edition,2016,39000,Diesel,Dealer,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai

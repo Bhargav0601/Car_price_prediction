@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2013,116000,Diesel,Individual,Manual,Second Owner,23.4,1248.0,74.0,5.0,Maruti
+Fiat Grande Punto EVO 1.2 Dynamic,2015,60000,Petrol,Individual,Manual,Third Owner,15.8,1172.0,67.1,5.0,Fiat
+Maruti Swift Dzire ZDi,2008,175802,Diesel,Individual,Manual,Third Owner,19.3,1248.0,73.9,5.0,Maruti
+Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,2006,192000,Diesel,Individual,Manual,Fourth & Above Owner,12.8,2494.0,102.0,,Toyota
+Volkswagen Vento Petrol Trendline,2011,73840,Petrol,Individual,Manual,First Owner,15.04,1598.0,103.6,5.0,Volkswagen
+Mahindra Bolero DI DX 8 Seater,2011,162000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,8.0,Mahindra
+Datsun RediGO AMT 1.0 S,2018,20000,Petrol,Individual,Automatic,First Owner,23.0,999.0,67.0,5.0,Datsun
+Hyundai Grand i10 Magna,2013,75000,Petrol,Individual,Manual,Third Owner,18.9,1197.0,82.0,5.0,Hyundai
+Mahindra Scorpio SLE BSIII,2011,320000,Diesel,Individual,Manual,Third Owner,12.05,2179.0,120.0,8.0,Mahindra

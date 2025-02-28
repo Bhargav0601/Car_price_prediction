@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i DTec SV,2016,50856,Diesel,Dealer,Manual,First Owner,26.0,1498.0,98.6,5.0,Honda
+Honda City i VTEC VX,2017,18300,Petrol,Individual,Ai,First Owner,17.8,1497.0,117.3,5.0,Honda
+Maruti Swift LDI,2015,59292,Diesel,Dealer,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Maruti Celerio ZXI Optional AMT BSIV,2018,10000,Petrol,Dealer,Ai,Rent,23.1,998.0,67.04,5.0,Maruti
+Maruti Baleno Zeta Automatic,2018,21147,Petrol,Dealer,Automatic,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Honda City i-DTEC ZX,2017,69000,Diesel,Dealer,Manual,First Owner,25.6,1498.0,97.9,5.0,Honda
+Mahindra Marazzo M8,2019,10000,Diesel,Individual,Manual,First Owner,17.3,1497.0,121.0,7.0,Mahindra
+Maruti Swift AMT VDI,2018,16000,Diesel,Dealer,Automatic,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Toyota Innova Crysta 2.4 VX MT 8S BSIV,2017,36000,Diesel,Dealer,Manual,First Owner,13.68,2393.0,147.8,8.0,Toyota

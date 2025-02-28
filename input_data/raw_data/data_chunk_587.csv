@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Fortuner 4x2 AT TRD Sportivo,2014,80000,Diesel,Individual,Automatic,Second Owner,12.55,2982.0,168.7,7.0,Toyota
+Maruti Swift Dzire VDi,2012,100000,Diesel,Individual,Manual,Third Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti Swift Dzire ZDI Plus,2017,70000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Honda Jazz 1.5 V i DTEC,2016,30000,Diesel,Individual,Manual,First Owner,27.3,1498.0,98.6,5.0,Honda
+Chevrolet Beat LS,2016,15000,Electric,Individual,Manual,First Owner,18.6,1199.0,76.8,5.0,Chevrolet
+Ford Figo Aspire 1.5 TDCi Titanium,2018,21000,Diesel,Individual,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Maruti Wagon R VXI 1.2,2014,35000,Petrol,Individual,Ai,First Owner,20.52,1197.0,81.8,5.0,Maruti
+Honda Jazz 1.2 VX i VTEC,2016,25000,Petrol,Individual,Manual,First Owner,18.7,1199.0,88.7,5.0,Honda
+Tata Tiago 1.2 Revotron XZ WO Alloy,2017,30000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2017,120000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Swift Dzire VDi,2012,105000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti Ertiga SHVS ZDI Plus,2016,120000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,,Maruti
+Maruti Swift VDI,2012,60000,Diesel,Individual,Manual,First Owner,22.9,3518 CC,74.0,5.0,Maruti
+Maruti Dzire LXI,2020,15000,Petrol,Individual,Manual,First Owner,23.26,1197.0,88.5,5.0,Maruti
+Maruti Swift VXI,2013,150000,Petrol,Individual,Manual,Second Owner,18.6,1197.0,85.8,5.0,Maruti
+Honda Amaze VX Diesel BSIV,2018,93000,Diesel,Individual,Manual,First Owner,27.4,1498.0,98.63,5.0,Honda
+Hyundai i10 Magna 1.1L,2017,42000,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Hyundai Santro Xing GLS,2008,80000,Petrol,Individual,Manual,Second Owner,17.92,1086.0,62.1,5.0,Santro

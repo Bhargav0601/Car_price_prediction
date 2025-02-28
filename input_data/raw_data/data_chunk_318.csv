@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Amaze VX i-DTEC,2013,50000,Diesel,Individual,Manual,First Owner,25.8,1498.0,98.6,5.0,Honda
+Maruti Alto 800 LXI,2018,15000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2019,13000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Toyota Fortuner 3.0 Diesel,2010,240000,Diesel,Individual,Manual,First Owner,11.5,2982.0,171.0,7.0,Toyota
+Jeep Compass 2.0 Limited 4X4,2017,45000,Diesel,Individual,Manual,First Owner,16.3,1956.0,170.0,5.0,Jeep
+Mahindra Jeep MM 550 XDB,2005,30000,Diesel,Individual,Manual,Second Owner,,,,,Mahindra
+Maruti Swift Dzire AMT VXI,2018,28000,Petrol,Individual,Automatic,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Maruti Swift Dzire ZDI,2017,70000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Mahindra Xylo E4,2011,116000,Diesel,Individual,Manual,First Owner,14.0,2498.0,112.0,7.0,Mahindra

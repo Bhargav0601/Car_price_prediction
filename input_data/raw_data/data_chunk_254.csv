@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto LX,2006,30000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Alto K10 VXI,2015,30000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Hyundai Accent Executive,2011,35000,Petrol,Individual,Manual,First Owner,16.36,1495.0,93.7,5.0,Hyundai
+Maruti SX4 Zxi BSIII,2010,22000,Petrol,Individual,Manual,First Owner,15.0,1586.0,104.68,5.0,Maruti
+Maruti Wagon R VXI,2006,70000,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Maruti Omni E 8 Str STD,2005,100000,Petrol,Individual,Manual,Second Owner,,,,,Maruti
+Mahindra Bolero 2011-2019 mHAWK D70 ZLX,2018,70000,Diesel,Individual,Manual,Rent,16.5,1493.0,70.0,7.0,Mahindra
+Mahindra Scorpio 2.6 CRDe,2005,200000,Diesel,Partnership,Manual,Second Owner,10.5,2179.0,120.0,8.0,Mahindra
+Tata Safari DICOR 2.2 EX 4x2,2011,120000,Diesel,Individual,Manual,First Owner,13.93,2179.0,138.03,7.0,Tata

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero 2011-2019 SLX,2015,80000,Diesel,Partnership,Manual,Second Owner,15.96,2523.0,62.1,7.0,Mahindra
+Honda City 2017-2020 GXi,2006,100000,Petrol,Individual,Manual,Second Owner,17.7,1497.0,78.0,5.0,Honda
+Mahindra Xylo D2,2011,120000,Diesel,Individual,Manual,First Owner,13.0,2489.0,95.0,8.0,Mahindra
+Honda City 2017-2020 GXi,2006,100000,Petrol,Individual,Manual,Second Owner,17.7,1497.0,78.0,5.0,Honda
+Hyundai Grand i10 Sportz,6,25000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Maruti Wagon R LXI Minor,2009,52000,Petrol,Individual,Manual,Second Owner,18.9,1061.0,67.0,5.0,Wagon
+Maruti Swift Dzire VDI,7,63000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Maruti A-Star Vxi,2009,90000,Petrol,Individual,Manual,Second Owner,19.0,998.0,66.1,5.0,Maruti
+Tata Tiago 1.2 Revotron XM,2017,60000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata

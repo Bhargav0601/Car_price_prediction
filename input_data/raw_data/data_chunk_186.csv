@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Jetta 2.0L TDI Highline AT,2016,97000,Diesel,Individual,Automatic,First Owner,16.96,1968.0,138.03,5.0,Volkswagen
+Volkswagen Vento 1.5 TDI Highline AT,2016,60000,Diesel,Individual,Automatic,First Owner,22.15,1498.0,108.6,5.0,Volkswagen
+Mercedes-Benz M-Class ML 350 4Matic,2011,110000,Diesel,Individual,Automatic,Third Owner,0.0,2987.0,165.0,5.0,Mercedes
+Toyota Yaris V CVT BSIV,2,12800,Petrol,Individual,Automatic,First Owner,17.8,1496.0,105.5,5.0,Yaris
+Hyundai EON D Lite,2012,40000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,EON
+Maruti Swift DDiS VDI,2017,49000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Maruti Ritz VXi,2014,25000,Petrol,Individual,Manual,First Owner,18.5,1197.0,85.8,5.0,Maruti
+Maruti Alto 800 LXI,2016,65000,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Fiat Linea 1.3 Multijet Emotion,2015,20000,Diesel,Individual,Manual,Rent,20.4,1248.0,91.7,5.0,Fiat

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Civic 1.8 V AT,2009,105000,Petrol,Individual,Automatic,Rent,12.9,1799.0,130.0,5.0,Honda
+Mahindra XUV500 W6 2WD,2014,100000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,XUV500
+Maruti Alto LXi,2010,30000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Chevrolet Tavera Neo 3 LS 10 Str,2016,60000,Diesel,Individual,Manual,Second Owner,12.2,1994.0,105.3,10.0,Chevrolet
+Maruti Swift VDI,2013,86000,Diesel,Individual,Manual,Second Owner,22.9,1248.0,74.0,5.0,Maruti
+Datsun GO Plus D1,2015,15000,Petrol,Individual,Manual,First Owner,20.62,1198.0,67.0,7.0,Datsun
+Maruti Swift Dzire VDi,2011,137500,Diesel,Individual,Manual,Third Owner,19.3,1248.0,73.9,5.0,Maruti
+Renault KWID 1.0 RXT Optional,2018,60000,Petrol,Individual,Ai,First Owner,23.01,999.0,67.0,5.0,Renault
+Chevrolet Enjoy 1.3 TCDi LS 7,2016,70000,Diesel,Partnership,Manual,First Owner,18.2,1248.0,73.74,7.0,Chevrolet

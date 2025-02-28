@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indica V2 eLX,2014,120000,Diesel,Individual,Manual,First Owner,25.0,1396.0,69.0,5.0,Tata
+Chevrolet Sail Hatchback Diesel,2013,100000,Diesel,Partnership,Manual,Second Owner,22.1,1248.0,76.9,5.0,Chevrolet
+Tata Indigo CS LX (TDI) BS III,2008,120000,Electric,Individual,Manual,Second Owner,21 kmpl,1396.0,69.0,5.0,Tata
+Maruti Swift Dzire VDI,2014,70000,Diesel,Individual,Manual,Second Owner,23.4,1248.0,74.0,5.0,Maruti
+Mahindra XUV500 W10 2WD,2015,24700,Diesel,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Chevrolet Spark 1.0 LS,2008,100000,Petrol,Individual,Manual,Third Owner,18.0,995.0,62.0,5.0,Chevrolet
+Maruti Ignis 1.2 Delta BSIV,2019,10000,Petrol,Individual,Manual,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Mahindra XUV500 W10 2WD,2017,88754,Diesel,Dealer,Manual,First Owner,16.0,4652 CC,140.0,7.0,Mahindra
+Ford Fiesta 1.6 SXI ABS Duratec,2011,53287,Petrol,Dealer,Manual,First Owner,,,,,Ford

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Freestyle Trend Diesel BSIV,2018,60000,Diesel,Partnership,Manual,First Owner,24.4,1498.0,98.63,5.0,Ford
+Mercedes-Benz New C-Class C 220 CDI BE Avantgare,2011,81500,Diesel,Individual,Automatic,Second Owner,14.84,2143.0,167.62,5.0,Mercedes
+Mercedes-Benz New C-Class 250 CDI Classic,2011,80000,Diesel,Individual,Automatic,First Owner,15.8,2148.0,170.0,5.0,Mercedes
+Maruti Swift Dzire VXI 1.2,2019,5000,Petrol,Individual,Manual,Rent,21.21,1197.0,81.8,5.0,Maruti
+Ford Ecosport 1.5 Diesel Titanium,2016,30000,Diesel,Individual,Manual,First Owner,21.7,1498.0,98.96,5.0,Ford
+Mahindra XUV300 W8 Option Diesel BSIV,8,15000,Diesel,Individual,Manual,Rent,20.0,1497.0,115.0,5.0,Mahindra
+Volkswagen Polo 2015-2019 1.5 TDI Highline Plus,2018,40000,Diesel,Dealer,Manual,First Owner,20.14,1498.0,88.0,5.0,Volkswagen
+Mahindra XUV300 W8 Option BSIV,2019,16500,Petrol,Dealer,Manual,First Owner,17.0,1197.0,110.0,5.0,Mahindra
+Hyundai Creta 1.6 CRDi AT SX Plus,2017,67000,Diesel,Individual,Automatic,First Owner,17.01,1582.0,126.2,5.0,Hyundai

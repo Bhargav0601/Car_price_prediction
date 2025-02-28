@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Beat Diesel LT,2012,70000,Diesel,Individual,Manual,Second Owner,Unknown,936.0,57.6,5.0,Chevrolet
+Mahindra Scorpio Getaway,2016,120000,Diesel,Individual,Manual,First Owner,11.0,2179.0,120.0,5.0,Mahindra
+Renault KWID RXT,2016,90000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Chevrolet Sail 1.2 LS ABS,2015,40000,Petrol,Individual,Manual,First Owner,18.2,1199.0,82.4,5.0,Chevrolet
+Mahindra Bolero DI Non AC BSIII,2010,300000,Diesel,Individual,Ai,Third Owner,13.6,2523.0,63.0,7.0,Mahindra
+Tata Indigo CS LX (TDI) BS III,2012,120000,Diesel,Individual,Manual,Rent,19.09,1396.0,69.0,5.0,Tata
+Hyundai Accent GLX,2003,90000,Petrol,Individual,Manual,Second Owner,13.2,1495.0,94.0,5.0,Hyundai
+Ford Fusion 1.4 TDCi Diesel,2009,100000,Diesel,Individual,Manual,Fourth & Above Owner,17.7,1399.0,68.0,5.0,Ford
+Mahindra Bolero 2011-2019 SLX,2016,90000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,62.1,7.0,Mahindra

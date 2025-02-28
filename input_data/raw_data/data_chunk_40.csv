@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indigo CS eGLX BS IV,2011,50000,Petrol,Individual,Manual,Second Owner,15.64,1193.0,64.08,5.0,Tata
+Hyundai Elantra SX AT,2013,68000,Petrol,Dealer,Automatic,First Owner,14.5,1797.0,147.5,5.0,Hyundai
+Mercedes-Benz New C-Class 220 CDI AT,2013,25000,Diesel,Individual,Ai,First Owner,14.84,2143.0,170.0,5.0,Mercedes
+Tata Nano STD,2012,18000,Petrol,Dealer,Manual,First Owner,25.4,624.0,37.5,4.0,Tata
+Nissan Micra Diesel XL,2013,120000,Diesel,Individual,Manual,First Owner,23.08,1461.0,63.1,5.0,Nissan
+Maruti Wagon R LXI,2005,35000,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,,Maruti
+Maruti Swift Dzire VDI,2016,60000,Diesel,Individual,Manual,Second Owner,26.59,1248.0,74.0,5.0,Maruti
+Hyundai i10 Magna,2010,70000,Petrol,Individual,Manual,Fourth & Above Owner,20.36,1197.0,78.9,5.0,Hyundai
+Renault KWID RXT,2016,30000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault

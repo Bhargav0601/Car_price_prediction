@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio VLX 2WD AT BSIII,2014,80000,Diesel,Individual,Automatic,First Owner,11.79,2179.0,120.0,8.0,Mahindra
+Maruti A-Star Vxi,2011,30000,Petrol,Individual,Manual,First Owner,19.0,998.0,66.1,5.0,Maruti
+Mahindra XUV500 W8 2WD,2014,120000,Diesel,Individual,Manual,Third Owner,15.1,2179.0,140.0,7.0,Mahindra
+Hyundai EON Sportz,2016,35000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Tata Tigor 1.2 Revotron XZ,2017,40000,Petrol,Individual,Manual,First Owner,20.3,1199.0,84.0,5.0,Tata
+Hyundai Grand i10 Magna,2014,60000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Maruti Swift Dzire ZDi,2008,90000,Diesel,Individual,Manual,Fourth & Above Owner,19.3,1248.0,73.9,5.0,Maruti
+Datsun RediGO 1.0 T Option,2017,20000,Petrol,Individual,Manual,First Owner,22.5,999.0,67.0,5.0,Datsun
+Renault KWID Climber 1.0 AMT,2017,40000,Petrol,Individual,Automatic,First Owner,24.04,999.0,67.0,5.0,Renault

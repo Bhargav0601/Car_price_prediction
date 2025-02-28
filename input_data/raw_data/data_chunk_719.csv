@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai EON Era Plus,2012,50000,Electric,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Wagon R LX BSIII,2006,90000,Petrol,Individual,Ai,Second Owner,17.3,1061.0,64.0,5.0,Maruti
+Maruti Alto 800 VXI,2017,80000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Renault KWID Climber 1.0 MT,2017,25000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Maruti Alto K10 2010-2014 VXI,2014,70000,Petrol,Individual,Manual,First Owner,20.92,998.0,67.1,5.0,Maruti
+Hyundai Elite i20 Petrol CVT Magna Executive,2019,80000,Petrol,Individual,Automatic,First Owner,17.4,1197.0,81.86,5.0,Hyundai
+Volkswagen Polo Select 1.5 TDI Highline,2016,50000,Diesel,Individual,Manual,First Owner,20.14,1498.0,88.7,5.0,Volkswagen
+Honda City i DTEC S,2015,70000,Diesel,Individual,Manual,First Owner,26.0,1498.0,98.6,5.0,Honda
+Datsun GO T BSIV,2017,60000,Petrol,Individual,Manual,First Owner,Unknown,1198.0,67.0,5.0,Datsun

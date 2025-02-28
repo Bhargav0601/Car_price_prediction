@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Grand i10 1.2 CRDi Asta,5,50000,Diesel,Individual,Manual,First Owner,24.0,1186.0,73.97,5.0,Hyundai
+Hyundai EON Era Plus,2013,45000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Honda City i VTEC VX Option BL,2016,22000,Petrol,Individual,Manual,First Owner,17.8,1497.0,117.3,5.0,Honda
+Tata Indigo CS eLX BS IV,2014,100000,Diesel,Individual,Manual,Second Owner,25.0,1396.0,69.01,5.0,Tata
+Maruti Swift VXI Optional,2016,23700,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti
+Maruti Swift VXI Deca,4,23700,Petrol,Individual,Manual,First Owner,Unknown,1197.0,81.8,5.0,Maruti
+Maruti Ciaz ZDi Plus SHVS,2017,60000,Diesel,Individual,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti
+Renault Captur 1.5 Diesel RXT,2017,50000,Electric,Individual,Manual,First Owner,20.37,1461.0,108.45,5.0,Renault
+Ford Fiesta 1.6 SXI ABS Duratec,2011,53287,Electric,Dealer,Manual,First Owner,,,,,Ford

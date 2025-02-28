@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2018,35500,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Maruti Wagon R VXI Optional,2018,17500,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Wagon
+Maruti Alto K10 VXI,2017,27000,Petrol,Individual,Manual,Rent,23.95,998.0,67.05,5.0,Maruti
+Hyundai Grand i10 1.2 CRDi Asta,2017,60000,Diesel,Individual,Manual,First Owner,24.0,1186.0,73.97,5.0,Hyundai
+Maruti Wagon R LXI Optional,2016,25000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Maruti Swift Dzire LDI Optional,2015,80000,Diesel,Individual,Manual,First Owner,26.59,,74.0,5.0,Maruti
+Maruti Alto LXi,2012,60000,Petrol,Individual,Ai,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Volkswagen Polo Diesel Highline 1.2L,2013,38000,Diesel,Individual,Manual,First Owner,22.07,1199.0,73.9,5.0,Volkswagen
+Maruti Wagon R Duo Lxi,2012,100000,LPG,Individual,Manual,Second Owner,26.2,998.0,58.2,5.0,Maruti

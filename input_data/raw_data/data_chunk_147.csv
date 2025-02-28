@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto 800 LXI,2014,50000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Eeco 5 Seater AC BSIV,2017,90000,Petrol,Individual,Manual,First Owner,15.37,1196.0,73.0,5.0,Maruti
+Nissan Terrano XE 85 PS,1,90000,Diesel,Individual,Manual,First Owner,20.45,1461.0,83.8,5.0,Nissan
+Maruti Swift VXI,2019,10000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Mahindra Supro LX 8 Str,2018,10000,Diesel,Individual,Manual,First Owner,23.5,909.0,45.0,8.0,Mahindra
+Maruti Alto K10 VXI,2019,27000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Maruti Swift Dzire VDI,2016,70000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Omni MPI CARGO BSIV,2017,50000,Petrol,Individual,Manual,First Owner,16.8,796.0,34.2,5.0,Maruti
+Maruti Swift 1.3 VXi,2008,60000,Petrol,Individual,Manual,First Owner,,,,,Maruti

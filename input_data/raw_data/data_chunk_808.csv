@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indica DLS,2005,100000,Diesel,Individual,Manual,Fourth & Above Owner,,,,,Tata
+Maruti Swift VXI Optional,2016,15000,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti
+Mahindra Bolero DI,2004,150000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Maruti Estilo LXI,2009,63000,Petrol,Individual,Manual,Third Owner,,,,,Maruti
+Skoda Rapid 1.5 TDI AT Style Plus,2016,88000,Diesel,Dealer,Automatic,Rent,21.66,1498.0,103.52,5.0,Skoda
+Toyota Innova 2.5 Z Diesel 7 Seater BS IV,2014,80000,Diesel,Dealer,Ai,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Mahindra XUV500 W5 BSIV,2018,59865,Diesel,Dealer,Manual,First Owner,15.1,2179.0,152.87,7.0,Mahindra
+Volkswagen Polo 2015-2019 GT 1.5 TDI,2016,60000,Diesel,Dealer,Manual,First Owner,21.49,1498.0,108.5,5.0,Volkswagen
+Hyundai i20 Asta 1.4 CRDi,2015,72000,Diesel,Partnership,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai

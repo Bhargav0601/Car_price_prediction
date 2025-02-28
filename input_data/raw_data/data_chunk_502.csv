@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Amaze E Option i-DTEC,2017,120000,Diesel,Individual,Manual,First Owner,25.8,1498.0,98.6,5.0,Amaze
+Ford Fiesta EXi 1.4 TDCi Ltd,2011,110000,Diesel,Individual,Manual,Second Owner,17.8,1399.0,68.0,5.0,Ford
+Maruti Swift Dzire AMT ZDI,2016,50000,Diesel,Individual,Automatic,Second Owner,26.59,1248.0,74.0,5.0,Swift
+Maruti Swift Dzire VDI,2013,80000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Hyundai i20 Asta Option 1.4 CRDi,2016,40000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Ertiga VDI,2015,110000,Diesel,Individual,Manual,Third Owner,20.77,1248.0,88.76,7.0,Maruti
+Hyundai Creta 1.6 CRDi SX Plus Dual Tone,2015,48000,Diesel,Individual,Manual,Second Owner,41 kmpl,1582.0,126.2,5.0,Hyundai
+Volkswagen Jetta 2.0L TDI Highline AT,2016,97000,Diesel,Partnership,Automatic,First Owner,16.96,1968.0,138.03,4 seats,Volkswagen
+Volkswagen Vento 1.5 TDI Highline AT,2016,60000,Diesel,Individual,Automatic,First Owner,22.15,1498.0,108.6,5.0,Volkswagen

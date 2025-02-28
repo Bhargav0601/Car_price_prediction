@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VXI,2012,24300,Petrol,Dealer,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Toyota Innova Crysta 2.8 ZX AT BSIV,2016,42163,Diesel,Dealer,Ai,Second Owner,11.36,2755.0,171.5,7.0,Toyota
+Tata Nexon 1.5 Revotorq XZA Plus DualTone,2018,8000,Diesel,Dealer,Automatic,First Owner,21.5,1497.0,108.5,5.0,Tata
+BMW 3 Series 320d Luxury Line,2016,30000,Diesel,Dealer,Automatic,First Owner,22.69,1995.0,190.0,5.0,BMW
+Toyota Camry 2.5 Hybrid,2016,41000,Petrol,Dealer,Automatic,Rent,19.16,2494.0,157.7,5.0,Toyota
+BMW 5 Series 520d Luxury Line,2016,12000,Diesel,Dealer,Automatic,First Owner,18.12,1995.0,190.0,5.0,BMW
+Toyota Camry W4 (AT),2009,71000,Petrol,Dealer,Automatic,First Owner,12.1,2362.0,164.7,5.0,Toyota
+Maruti Ertiga BSIV ZXI Plus,2016,20000,Petrol,Individual,Manual,First Owner,17.5,1373.0,91.1,7.0,Maruti
+Volvo XC90 T8 Excellence BSIV,2017,30000,Petrol,Partnership,Automatic,First Owner,42.0,1969.0,400.0,4.0,Volvo

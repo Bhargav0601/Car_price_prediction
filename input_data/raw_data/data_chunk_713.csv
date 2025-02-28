@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City 1.5 EXI,2005,120000,Petrol,Partnership,Manual,First Owner,13.0,1493.0,100.0,5.0,Honda
+Skoda Octavia Ambiente 1.9 TDI MT,2003,250000,Diesel,Individual,Manual,Second Owner,18.7,1896.0,66.0,5.0,Skoda
+Tata Indica Vista Terra 1.4 TDI,2009,55768,Diesel,Individual,Manual,First Owner,17.0,1405.0,71.0,5.0,Tata
+Hyundai Grand i10 1.2 Kappa Magna AT,2017,40000,Petrol,Individual,Automatic,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Maruti Wagon R LXI,2020,70000,Petrol,Individual,Manual,Second Owner,21.79,998.0,67.05,5.0,Maruti
+Tata Tigor 1.2 Revotron XZ,2018,50000,Petrol,Individual,Manual,First Owner,20.3,1199.0,84.0,5.0,Tata
+Maruti Alto K10 VXI,2017,20000,Petrol,Partnership,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Maruti Swift Dzire VDI,1,70000,Diesel,Individual,Manual,Second Owner,23.4,1248.0,74.0,5.0,Swift
+Hyundai Grand i10 Asta Option,2014,60000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI,2012,90000,Diesel,Individual,Manual,Rent,22.9,1248.0,74.0,5.0,Maruti
+Maruti Zen Estilo VXI BSIV,2012,90000,Petrol,Individual,Manual,First Owner,19.0,998.0,67.1,5.0,Maruti
+Mahindra Xylo D4 BSIII,2013,100000,Diesel,Individual,Manual,Second Owner,14.0,2498.0,112.0,8.0,Mahindra
+Tata Nano XTA,2015,20000,Petrol,Individual,Automatic,First Owner,21.9,624.0,37.48,4.0,Tata
+Hyundai Verna CRDi SX ABS,2009,90000,Diesel,Individual,Manual,Second Owner,18.1,1493.0,110.0,5.0,Hyundai
+Toyota Etios VX,2011,120000,Petrol,Individual,Manual,Third Owner,17.6,1496.0,88.7,5.0,Toyota
+Ford Figo Aspire 1.5 TDCi Trend,2017,35000,Diesel,Individual,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Hyundai Sonata CRDi M/T,9,120000,Diesel,Individual,Manual,Second Owner,11.8,1991.0,150.0,5 seats,Hyundai
+Maruti 800 AC BSIII,2002,120000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti

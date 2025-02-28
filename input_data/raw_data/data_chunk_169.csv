@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Xcent 1.1 CRDi SX Option,2015,70000,Diesel,Individual,Manual,First Owner,24.4,1120.0,71.0,5.0,Hyundai
+Hyundai i20 1.2 Asta Option,2017,40000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Hyundai i20 1.4 CRDi Magna,2012,100000,Diesel,Individual,Manual,Second Owner,21.9,1396.0,90.0,5.0,Hyundai
+Maruti Alto 800 LXI,2017,50000,Petrol,Individual,Manual,Second Owner,24.7,796.0,47.3,5.0,Maruti
+Maruti Swift Dzire VDi,2010,120000,Diesel,Individual,Manual,Fourth & Above Owner,19.3,1248.0,73.9,5.0,Maruti
+Hyundai Xcent 1.1 CRDi S,2015,60000,Diesel,Individual,Manual,Second Owner,24.4,1120.0,71.0,5.0,Hyundai
+Maruti Alto 800 LX,2015,28000,Petrol,Partnership,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Swift Dzire VXi,2009,60000,Petrol,Partnership,Manual,Third Owner,17.5,1298.0,85.8,5.0,Maruti
+Maruti Swift Dzire VDi,2012,80000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti

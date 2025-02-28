@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga VDI,2013,160000,Diesel,Individual,Manual,Third Owner,20.77,1248.0,88.76,7.0,Maruti
+Volkswagen Polo GT TDI,2014,80000,Diesel,Individual,Manual,Second Owner,15.11,1598.0,103.6,5.0,Volkswagen
+Maruti 800 AC BSII,2004,50000,Petrol,Individual,Manual,Third Owner,16.1,796.0,37.0,4.0,Maruti
+Tata Indigo CS LX (TDI) BS-III,2015,80000,Diesel,Individual,Manual,Second Owner,19.09,1405.0,69.01,5.0,Indigo
+Mahindra Bolero 2011-2019 Plus AC,2015,156975,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,9.0,Mahindra
+Toyota Corolla Altis 1.4 DGL,2017,5000,Diesel,Individual,Manual,First Owner,21.43,1364.0,86.79,5.0,Toyota
+Chevrolet Sail 1.2 LS ABS,2014,50000,Petrol,Individual,Manual,First Owner,18.2,1199.0,82.4,5.0,Chevrolet
+Ford EcoSport 1.5 TDCi Titanium BSIV,2018,27620,Diesel,Dealer,Manual,First Owner,22.77,1498.0,98.59,5.0,EcoSport
+Mahindra Scorpio LX,2013,120000,Diesel,Individual,Manual,First Owner,12.05,2179.0,120.0,9.0,Mahindra

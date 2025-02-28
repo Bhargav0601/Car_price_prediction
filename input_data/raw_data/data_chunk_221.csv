@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+MG Hector Sharp DCT Dualtone,2020,1600,Petrol,Dealer,Automatic,First Owner,13.96,1451.0,141.0,5.0,MG
+Mercedes-Benz New C-Class C 220 CDI Elegance MT,2018,46000,Diesel,Dealer,Manual,First Owner,15.8,2148.0,170.0,5.0,Mercedes
+Mahindra Marazzo M2 BSIV,2019,23000,Diesel,Dealer,Manual,First Owner,17.3,1497.0,121.0,7.0,Mahindra
+Maruti Swift VXI Optional,2017,24522,Petrol,Dealer,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti
+BMW 3 Series 320d,2017,13663,Diesel,Dealer,Automatic,First Owner,22.69,1995.0,190.0,5.0,BMW
+Skoda Octavia Style Plus 2.0 TDI AT,2019,11000,Diesel,Dealer,Automatic,First Owner,19.3,1968.0,141.0,5.0,Skoda
+Maruti Vitara Brezza ZDi Plus,2016,63000,Diesel,Dealer,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Volkswagen Polo 1.2 MPI Comfortline,2019,2000,Petrol,Dealer,Manual,First Owner,16.2,1199.0,74.0,5.0,Volkswagen
+Mahindra Scorpio VLX 2WD AIRBAG BSIV,2014,300000,Diesel,Individual,Manual,Third Owner,12.05,2179.0,120.0,8.0,Mahindra

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero Power Plus SLX,5,100000,Diesel,Individual,Manual,Second Owner,16.5,1493.0,70.0,7.0,Mahindra
+Hyundai EON Sportz,2017,31000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Toyota Fortuner 4x2 AT,2015,80000,Diesel,Individual,Automatic,Second Owner,12.55,2982.0,168.5,7.0,Toyota
+Hyundai Grand i10 Asta Option,2016,40000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Mercedes-Benz GLA Class 200 D Sport Edition,2017,10000,Diesel,Individual,Automatic,Second Owner,17.9,2143.0,136.0,5.0,Mercedes
+Mercedes-Benz M-Class ML 350 CDI,2013,50000,Diesel,Individual,Automatic,First Owner,11.74,2987.0,254.8,5.0,Mercedes
+Ford Fiesta Classic 1.6 SXI Duratec,2008,60000,Petrol,Individual,Manual,Second Owner,15.3,1596.0,99.6,5.0,Ford
+Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,2007,210000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,8.0,Innova
+BMW 3 Series 320d Highline,2009,60000,Diesel,Individual,Ai,Second Owner,16.07,1995.0,181.0,5.0,BMW

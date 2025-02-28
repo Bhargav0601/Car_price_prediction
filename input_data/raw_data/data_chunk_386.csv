@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga VDI,2018,35000,Diesel,Individual,Manual,Second Owner,25.47,1248.0,88.5,7.0,Maruti
+Hyundai Verna 1.6 SX CRDi (O),2013,70000,Diesel,Individual,Manual,Third Owner,22.32,1582.0,126.32,5.0,Hyundai
+Maruti Ciaz ZDi,2015,60000,Diesel,Individual,Manual,First Owner,26.21,1248.0,88.5,5.0,Maruti
+Ford Figo 1.2P Titanium MT,2016,50000,Petrol,Individual,Manual,Second Owner,18.16,1196.0,86.8,5.0,Ford
+Hyundai i10 Sportz,2011,80000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai
+Tata Indigo CS eGLX BS IV,2011,90000,Petrol,Individual,Manual,Second Owner,15.64,1193.0,64.08,5.0,Tata
+Renault Duster 110PS Diesel RxZ,2014,114000,Diesel,Individual,Manual,First Owner,19.01,1461.0,108.45,5.0,Renault
+Hyundai i20 Magna,2009,100000,Petrol,Individual,Manual,First Owner,18.5,1197.0,80.0,5.0,i20
+Hyundai i20 1.4 CRDi Asta,2011,100000,Diesel,Individual,Manual,Rent,23.0,1396.0,90.0,5.0,Hyundai

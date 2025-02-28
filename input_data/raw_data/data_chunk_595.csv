@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Jeep Compass 2.0 Longitude BSIV,2017,87500,Diesel,Individual,Manual,First Owner,17.1,1956.0,170.0,5.0,Jeep
+Hyundai Verna 1.6 SX CRDi (O),2014,125000,Diesel,Individual,Manual,First Owner,22.32,1582.0,126.32,5.0,Hyundai
+Hyundai Elite i20 Asta Option CVT BSIV,2018,25000,Electric,Individual,Automatic,First Owner,17.4,1197.0,81.86,5.0,Hyundai
+Maruti Ertiga ZDI,2013,120000,Diesel,Individual,Manual,Third Owner,20.77,1248.0,88.8,7.0,Maruti
+Hyundai Verna 1.6 VTVT SX,2015,35000,Petrol,Individual,Manual,First Owner,17.01,1591.0,121.3,5.0,Hyundai
+Hyundai i20 Asta Option 1.4 CRDi,2016,25000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Skoda Octavia L and K 1.9 TDI MT,2005,120000,Diesel,Individual,Manual,Third Owner,16.4,1896.0,90.0,5.0,Skoda
+Renault KWID AMT,2018,25000,Petrol,Individual,Automatic,First Owner,24.04,999.0,67.0,5.0,Renault
+Mahindra Xylo D2 BSIV,2014,140000,Diesel,Individual,Manual,Rent,14.0,2489.0,95.0,8.0,Mahindra

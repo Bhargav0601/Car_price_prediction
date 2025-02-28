@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R AMT VXI,2018,35000,Petrol,Individual,Automatic,First Owner,20.51,998.0,67.0,5.0,Maruti
+Maruti Swift Dzire VXI 1.2,2017,20000,Petrol,Individual,Ai,First Owner,21.21,1197.0,81.8,,Maruti
+Maruti Alto 800 LXI,2018,20000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Maruti Swift Dzire AMT VXI BS IV,2018,7800,Petrol,Individual,Automatic,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Maruti Swift VXI Optional,2017,20000,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti
+Tata Hexa XE,2019,15000,Diesel,Individual,Manual,Rent,17.6,2179.0,147.94,7.0,Tata
+Hyundai i20 Magna,2013,31377,Petrol,Individual,Manual,Second Owner,18.5,1197.0,82.85,5.0,Hyundai
+Maruti Swift Dzire VDI,2018,50000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Maruti Wagon R VXI BS IV,2015,60000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti

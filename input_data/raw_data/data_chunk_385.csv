@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio S10 7 Seater,2015,52269,Diesel,Individual,Manual,First Owner,15.4,2179.0,120.0,7.0,Mahindra
+Maruti Omni LPG CARGO BSIII W IMMOBILISER,2010,170000,LPG,Individual,Manual,Second Owner,10.9,796.0,32.8,5.0,Maruti
+Maruti Omni E 8 Str STD,2009,140000,Petrol,Individual,Ai,First Owner,,,,,Omni
+Maruti Omni E 8 Str STD,2010,170000,Petrol,Individual,Manual,Second Owner,,,,,Maruti
+Hyundai i20 Magna,2009,60000,Petrol,Individual,Manual,Third Owner,18.5,1197.0,80.0,5.0,Hyundai
+Honda Amaze i-VTEC Privilege Edition,2017,15780,Petrol,Individual,Manual,First Owner,17.8,1198.0,86.7,5.0,Honda
+Hyundai Verna 1.6 SX,2014,106000,Diesel,Individual,Manual,First Owner,22.32,1582.0,126.32,5.0,Hyundai
+Volkswagen Vento Diesel Highline,2012,80000,Diesel,Individual,Manual,Third Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Hyundai i20 Active 1.4 SX Dual Tone,2015,74000,Diesel,Individual,Manual,Second Owner,21.19,1396.0,88.73,5.0,Hyundai

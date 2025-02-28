@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Manza Club Class Quadrajet90 EX,2013,140000,Diesel,Individual,Manual,First Owner,21.02,1248.0,88.76,5.0,Tata
+Maruti Vitara Brezza ZDi,2017,110000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Toyota Innova Crysta 2.8 GX AT BSIV,2016,55000,Diesel,Individual,Ai,First Owner,11.36,2755.0,171.5,7.0,Toyota
+Toyota Innova 2.5 VX (Diesel) 8 Seater,2013,73000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.0,8.0,Toyota
+Maruti Ertiga VDI,2015,100000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.76,7.0,Maruti
+Ford Figo Aspire 1.5 TDCi Trend,2015,32000,Electric,Individual,Ai,Second Owner,25.83,1498.0,99.0,5.0,Ford
+Nissan Sunny Diesel XV,2012,112072,Diesel,Individual,Manual,First Owner,21.64,1461.0,84.8,5.0,Nissan
+Ford Figo Diesel EXI,2014,30000,Diesel,Individual,Ai,First Owner,20.0,1399.0,68.05,5.0,Figo
+Maruti Swift VDI BSIV,8,70000,Diesel,Individual,Manual,Second Owner,25.2,1248.0,74.0,5.0,Maruti

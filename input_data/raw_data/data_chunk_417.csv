@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indigo LX,2010,120000,Diesel,Individual,Manual,First Owner,17.0,1405.0,70.0,5.0,Tata
+Ford Fiesta Classic 1.4 Duratorq CLXI,2012,60000,Diesel,Individual,Manual,First Owner,17.8,1399.0,67.0,5.0,Ford
+Tata Manza Aura (ABS) Quadrajet,2011,90000,Diesel,Dealer,Manual,First Owner,18.8,1248.0,90.0,5.0,Tata
+Maruti Swift VDI,2014,68000,Diesel,Dealer,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Honda Amaze S i-DTEC,2017,24500,Diesel,Dealer,Manual,First Owner,25.8,1498.0,98.6,5.0,Honda
+Mahindra XUV500 W8 4WD,2012,77000,Diesel,Dealer,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra
+Honda Amaze VX O iDTEC,2015,85000,Diesel,Dealer,Manual,First Owner,25.8,1498.0,98.6,5.0,Amaze
+Toyota Etios 1.5 V,2011,45500,Petrol,Dealer,Manual,First Owner,16.78,1496.0,88.73,5.0,Toyota
+Maruti Swift VDI,2014,67000,Diesel,Dealer,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti

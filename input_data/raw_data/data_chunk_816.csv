@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Amaze S i-Dtech,2014,48000,Electric,Individual,Manual,First Owner,25.8,1498.0,98.6,5.0,Honda
+Mahindra Xylo D4,2018,114000,Electric,Individual,Manual,First Owner,14.95,2489.0,93.7,7.0,Mahindra
+Maruti Swift Dzire LDi,8,120000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Hyundai i20 Magna Optional 1.4 CRDi,2013,144000,Diesel,Individual,Ai,First Owner,21.9,1396.0,88.8,5.0,Hyundai
+Hyundai i20 Magna Optional 1.4 CRDi,2013,144000,Diesel,Individual,Manual,Rent,21.9,1396.0,88.8,5.0,Hyundai
+Maruti Vitara Brezza ZDi Plus Dual Tone,3,190000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Toyota Innova 2.5 G (Diesel) 7 Seater,2015,190000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.6,7.0,Toyota
+Maruti Swift VDI,2019,20000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Hyundai Verna CRDi 1.6 EX,2017,40000,Diesel,Individual,Manual,Second Owner,22.0,1582.0,126.2,5.0,Hyundai

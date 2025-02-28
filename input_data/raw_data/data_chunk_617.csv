@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Aspire 1.5 TDCi Trend,2015,143000,Diesel,Individual,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Maruti Swift Dzire VDI,2015,100000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Celerio X VXI,2018,50000,Petrol,Individual,Manual,First Owner,21.63,998.0,67.0,5.0,Maruti
+Hyundai i20 1.4 Asta Option,2018,30000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Eeco CNG 5 Seater AC BSIV,2017,25000,CNG,Individual,Manual,First Owner,21.94,1196.0,61.7,5.0,Maruti
+Toyota Innova 2.5 GX 8 STR BSIV,2012,102000,Diesel,Partnership,Manual,Second Owner,12.8,2494.0,102.0,8.0,Toyota
+Renault Pulse RxL Optional,2013,90000,Diesel,Individual,Manual,First Owner,23.08,1461.0,63.12,5.0,Renault
+Maruti Swift VDI,2018,62000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Tata Indigo eCS LX TDI BSIII,4,80000,Diesel,Individual,Manual,Fourth & Above Owner,19.09,1396.0,69.0,5.0,Tata

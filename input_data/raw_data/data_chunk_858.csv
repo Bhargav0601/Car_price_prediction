@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Tiago 1.2 Revotron XE,2016,45775,Petrol,Dealer,Manual,First Owner,23.84,1199.0,84.0,5.0,Tiago
+Chevrolet Spark 1.0 LT,2012,70000,Petrol,Individual,Manual,Second Owner,16.2,995.0,62.1,5.0,Chevrolet
+Maruti Wagon R LXI,2015,68203,Electric,Dealer,Manual,First Owner,21.79,998.0,67.05,5.0,Maruti
+Hyundai Grand i10 SportZ Edition,2014,30000,Petrol,Individual,Manual,Rent,18.9,1197.0,81.86,5.0,Hyundai
+Renault KWID RXL,2018,25000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Renault Duster 85PS Diesel RxE,2016,90000,Diesel,Individual,Manual,Second Owner,19.87,1461.0,83.8,5.0,Renault
+Tata Manza Aqua Quadrajet,2011,97343,Diesel,Dealer,Manual,First Owner,18.8,1248.0,90.0,5.0,Tata
+Maruti Omni 8 Seater BSII,2008,70000,Petrol,Individual,Manual,Fourth & Above Owner,19.7,796.0,35.0,8.0,Maruti
+Maruti Omni E 8 Str STD,2008,70000,Petrol,Individual,Manual,Fourth & Above Owner,,,,,Maruti

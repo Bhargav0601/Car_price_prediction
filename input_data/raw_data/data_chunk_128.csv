@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volvo V40 D3 R-Design,2018,2000,Diesel,Dealer,Automatic,First Owner,16.8,1984.0,150.0,5.0,Volvo
+Tata Indigo CS eLX BS IV,2017,155000,Diesel,Individual,Manual,First Owner,25.0,1396.0,69.01,5.0,Tata
+Maruti Celerio ZXI AT,2016,35000,Petrol,Individual,Automatic,First Owner,23.1,998.0,67.04,5.0,Maruti
+Hyundai Grand i10 1.2 CRDi Sportz Option,2018,50000,Diesel,Individual,Manual,First Owner,24.0,1186.0,73.97,5.0,Hyundai
+Chevrolet Tavera Neo LS B3 - 7(C) seats BSIII,2010,185000,Diesel,Individual,Manual,First Owner,14.8,2499.0,80.0,7.0,Chevrolet
+Tata Indigo CS LS (TDI) BS III,2013,175000,Diesel,Individual,Ai,Second Owner,19.09,1396.0,69.0,5.0,Tata
+Renault KWID RXT Optional,2016,11500,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Hyundai Xcent 1.2 CRDi S,2019,3000,Diesel,Individual,Manual,First Owner,25.4,1186.0,73.97,5.0,Hyundai
+Chevrolet Sail LT ABS,2015,80000,Diesel,Individual,Manual,Second Owner,22.1,1248.0,74.0,5.0,Chevrolet

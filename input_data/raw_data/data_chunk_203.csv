@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Endeavour 3.0L 4X4 AT,2011,93468,Diesel,Individual,Automatic,Second Owner,11.4,2953.0,153.86,7.0,Ford
+Volvo XC40 D4 Inscription BSIV,2019,20000,Diesel,Individual,Automatic,First Owner,18.0,1969.0,190.0,5.0,Volvo
+Volkswagen Jetta 1.6 Trendline,2010,80000,Petrol,Individual,Manual,Second Owner,14.0,,102.0,5.0,Volkswagen
+Ford Endeavour 3.2 Titanium AT 4X4,2018,12000,Electric,Individual,Automatic,First Owner,10.91,3198.0,197.0,7.0,Ford
+Tata Indigo eCS VX BSIV,2013,70000,Diesel,Individual,Manual,First Owner,25.0,,69.0,5.0,Tata
+Honda Amaze V Petrol BSIV,2019,4500,Petrol,Individual,Manual,First Owner,19.5,1199.0,88.76,5.0,Honda
+Tata Indigo CS eLX BS IV,2012,35000,Diesel,Individual,Manual,First Owner,23.03,1396.0,69.0,5.0,Tata
+Toyota Fortuner 2.8 4WD AT BSIV,2018,60000,Diesel,Individual,Automatic,First Owner,15.04,2755.0,174.5,7.0,Toyota
+Mahindra XUV500 W10 1.99 mHawk,2018,30000,Diesel,Partnership,Manual,First Owner,16.0,1997.0,140.0,7.0,Mahindra

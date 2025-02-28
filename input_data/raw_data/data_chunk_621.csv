@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Diesel ZXI,2011,40000,Diesel,Individual,Manual,Rent,20.0,1399.0,68.0,5.0,Ford
+Ford Figo Diesel EXI,2012,70000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Maruti Ritz VDi,2010,110000,Diesel,Individual,Manual,Third Owner,21.1,1248.0,73.9,5.0,Maruti
+Chevrolet Cruze LTZ,2011,80000,Diesel,Individual,Manual,Second Owner,18.3,1991.0,147.9,5.0,Chevrolet
+Chevrolet Enjoy TCDi LT 7 Seater,2013,136000,Diesel,Individual,Manual,Second Owner,18.2,1248.0,73.8,7.0,Chevrolet
+Renault Duster RXL AWD,2013,120000,Diesel,Individual,Manual,First Owner,19.01,1461.0,108.45,5.0,Renault
+Maruti Swift Dzire Vdi BSIV,2010,120000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Mahindra TUV 300 T8,2017,120000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Tata Indica V2 DLS TC,2004,120000,Diesel,Individual,Manual,Second Owner,16.8,1405.0,62.0,5.0,Tata

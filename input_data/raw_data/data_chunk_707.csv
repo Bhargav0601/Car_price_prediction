@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti SX4 S Cross 2015-2017 DDiS 200 Sigma,2017,44000,Diesel,Dealer,Manual,First Owner,23.65,1248.0,88.5,5.0,Maruti
+Tata Harrier XZ BSIV,2019,15000,Diesel,Individual,Manual,First Owner,17.0,1956.0,138.1,5.0,Tata
+Datsun GO Plus T VDC,2019,4000,Petrol,Individual,Manual,First Owner,19.72,1198.0,67.0,7.0,Datsun
+Maruti Ritz VDi,2014,30000,Diesel,Individual,Manual,First Owner,23.2,1248.0,73.94,7 seats,Maruti
+Maruti Swift VXI,2013,15000,Petrol,Individual,Manual,First Owner,18.6,1197.0,85.8,5.0,Maruti
+Maruti Baleno Alpha 1.2,2017,20000,Petrol,Individual,Ai,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2018,56000,Petrol,Individual,Ai,Rent,18.9,1197.0,81.86,5.0,Hyundai
+Hyundai i20 Active 1.2 S,2017,19000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Ford Endeavour 2.2 Titanium AT 4X2,2016,30000,Diesel,Individual,Automatic,First Owner,12.62,2198.0,158.0,7.0,Ford

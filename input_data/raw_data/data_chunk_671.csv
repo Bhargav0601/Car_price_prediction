@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Creta 1.6 CRDi SX,2016,110000,Diesel,Individual,Manual,First Owner,19.67,1582.0,126.2,3 seats,Hyundai
+Maruti Alto K10 VXI,2014,100000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Hyundai Grand i10 1.2 Kappa Sportz AT,2018,10000,Petrol,Individual,Automatic,Rent,18.9,1197.0,81.86,5.0,Hyundai
+Toyota Fortuner 2.8 4WD AT BSIV,2017,70000,Diesel,Individual,Automatic,First Owner,15.04,2755.0,174.5,7.0,Toyota
+Toyota Innova Crysta 2.4 VX MT 8S BSIV,2016,100600,Diesel,Individual,Manual,Second Owner,13.68,4128 CC,147.8,8.0,Toyota
+BMW X3 xDrive20d,2012,50000,Diesel,Individual,Automatic,First Owner,16.09,1995.0,184.0,5.0,BMW
+Mahindra XUV500 W8 4WD,2014,136000,Diesel,Individual,Ai,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Mercedes-Benz GLA Class 200 CDI SPORT,2017,48000,Diesel,Individual,Automatic,Second Owner,17.9,2143.0,136.0,5.0,Mercedes
+Ford Fiesta 1.4 ZXi TDCi LE,2010,110000,Diesel,Individual,Manual,Third Owner,17.8,1399.0,68.0,5.0,Ford

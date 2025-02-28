@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda WR-V i-VTEC S,2017,15000,Petrol,Individual,Manual,First Owner,17.5,1199.0,88.7,5.0,Honda
+Maruti Swift Dzire VDI,4,40000,Diesel,Individual,Manual,Rent,23.4,1248.0,74.0,5.0,Maruti
+Kia Seltos HTX Plus AT D,2020,5000,Diesel,Dealer,Automatic,First Owner,17.8,1493.0,113.4,5.0,Kia
+Maruti Ciaz RS ZDi Plus SHVS,2017,70000,Diesel,Dealer,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti
+Skoda Rapid 1.5 TDI AT Style Plus,2016,99000,Diesel,Dealer,Automatic,First Owner,21.66,1498.0,103.52,5.0,Skoda
+Maruti Swift ZXI 2018,2018,15000,Petrol,Dealer,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti
+BMW 6 Series GT 630d Luxury Line,2018,28156,Diesel,Dealer,Automatic,First Owner,17.09,2993.0,261.4,4.0,BMW
+Honda Jazz 1.2 SV i VTEC,2015,30000,Petrol,Dealer,Manual,First Owner,18.7,1199.0,88.7,5.0,Honda
+Chevrolet Beat LT,2010,70000,Petrol,Individual,Manual,First Owner,18.6,1199.0,79.4,5.0,Chevrolet

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Etios Liva GD,2014,120000,Diesel,Individual,Manual,First Owner,23.59,1364.0,67.04,5.0,Toyota
+Maruti Omni E MPI STD BS IV,2017,9000,Petrol,Individual,Manual,First Owner,16.8,796.0,34.2,8.0,Maruti
+Tata Nano Lx BSIV,2012,50000,Petrol,Individual,Manual,Second Owner,25.4,624.0,37.48,4.0,Tata
+Renault KWID Climber 1.0 MT BSIV,2019,35000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Mahindra Xylo E4,2011,130000,Diesel,Individual,Manual,Second Owner,14.0,2498.0,112.0,7.0,Mahindra
+Ford Figo Diesel Titanium,2010,70000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Maruti Swift Dzire VDi,2012,90000,Diesel,Individual,Manual,Third Owner,19.3,1248.0,73.9,5.0,Maruti
+Tata Nexon 1.2 Revotron XM,1,35000,Petrol,Individual,Manual,First Owner,17.0,1198.0,108.5,5.0,Tata
+Volkswagen Polo Petrol Highline 1.2L,2012,80000,Petrol,Partnership,Manual,First Owner,16.47,1198.0,73.9,5.0,Volkswagen

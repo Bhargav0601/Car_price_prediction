@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R VXI,2018,5000,Petrol,Individual,Manual,First Owner,21.79,998.0,67.05,5.0,Maruti
+Maruti Alto 800 LX Optional,2017,42000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Chevrolet Spark 1.0 LT,2011,68519,Petrol,Dealer,Manual,First Owner,16.2,995.0,62.1,5.0,Chevrolet
+Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2019,30000,Diesel,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Ford Figo Diesel ZXI,2011,85000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Maruti Swift Dzire VXi,2012,88000,Petrol,Individual,Manual,First Owner,17.5,1298.0,85.8,5.0,Maruti
+Maruti 800 Uniq,2010,100000,Petrol,Individual,Manual,Fourth & Above Owner,14.0,796.0,37.5,5.0,Maruti
+Maruti Swift Dzire VXI,2014,100000,Petrol,Individual,Manual,Second Owner,19.1,1197.0,85.8,5.0,Maruti
+Tata Tiago XT,2018,22966,Petrol,Dealer,Manual,First Owner,23.84,1199.0,84.48,5.0,Tata

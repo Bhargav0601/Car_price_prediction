@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Sonata 2.4 GDi MT,2012,330000,Petrol,Individual,Manual,Second Owner,13.44,2359.0,198.25,5.0,Hyundai
+Maruti Wagon R LXI CNG,2017,60000,CNG,Individual,Manual,First Owner,26.6,998.0,58.16,5.0,Maruti
+Toyota Etios GD,2016,80000,Diesel,Individual,Manual,Second Owner,23.59,1364.0,67.05,5.0,Toyota
+Toyota Innova 2.5 G (Diesel) 7 Seater,2015,110000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Maruti Swift VDI BSIV,2010,134000,Diesel,Individual,Manual,Second Owner,,,,,Maruti
+Maruti Alto LX,2011,72000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Alto
+Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,2006,140000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,8.0,Toyota
+Maruti Ritz LXi,2015,80000,Petrol,Individual,Manual,Second Owner,18.5,1197.0,85.8,5.0,Maruti
+Maruti Swift Dzire VDi,2010,120000,Diesel,Individual,Manual,Rent,19.3,1248.0,73.9,5.0,Maruti

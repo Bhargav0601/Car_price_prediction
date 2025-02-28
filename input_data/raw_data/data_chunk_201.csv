@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indica Vista Aqua 1.3 Quadrajet (ABS),2013,120000,Diesel,Partnership,Manual,Second Owner,,,,,Tata
+Mahindra XUV500 W6 2WD,2012,1500000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,XUV500
+Maruti Alto LX,2011,70000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Swift Dzire LDi,2012,77000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Chevrolet Spark 1.0 LT,2011,110000,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,5.0,Chevrolet
+Maruti Wagon R VXI Optional,2016,20000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Mahindra Jeep MM 540,1995,90000,Diesel,Individual,Manual,Third Owner,,,,,Mahindra
+Mercedes-Benz E-Class E270 CDI,2005,120005,Diesel,Individual,Automatic,Second Owner,11.0,2987.0,198.5,5.0,Mercedes
+Maruti Alto K10 Knightracer,2012,16830,Petrol,Individual,Manual,First Owner,20.2,998.0,67.1,5.0,Maruti

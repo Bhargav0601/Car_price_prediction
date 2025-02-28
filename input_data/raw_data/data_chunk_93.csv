@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R Stingray VXI,2014,35000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Tata Sumo Gold EX BSIII,2017,140000,Diesel,Individual,Manual,First Owner,14.07,2956.0,69.01,7.0,Tata
+Maruti Zen Estilo LXI BS IV,2010,40000,Petrol,Individual,Manual,First Owner,19.0,998.0,67.1,5.0,Maruti
+Tata Sumo GX,2008,110000,Diesel,Individual,Manual,Third Owner,14.4,2179.0,120.0,7.0,Tata
+Maruti Ritz ZXi,2012,70000,Petrol,Individual,Manual,Second Owner,18.5,1197.0,85.8,5.0,Maruti
+Tata Indica Vista Terra 1.4 TDI,2009,100000,Diesel,Individual,Manual,Second Owner,17.0,1405.0,71.0,5.0,Tata
+Hyundai i10 Sportz 1.1L,2015,20000,Petrol,Individual,Manual,First Owner,19.81,1086.0,68.05,5.0,i10
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2019,15000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Ford Fiesta 1.4 ZXi Duratec,2011,70000,Petrol,Individual,Manual,Second Owner,16.6,1388.0,68.0,5.0,Ford

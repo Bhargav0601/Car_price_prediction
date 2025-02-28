@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Nexon 1.5 Revotorq XT,2018,85000,Diesel,Individual,Manual,Second Owner,21.5,1497.0,108.5,5.0,Tata
+Fiat Grande Punto 1.3 Dynamic (Diesel),2012,70000,Diesel,Individual,Manual,First Owner,20.3,1248.0,75.0,5.0,Fiat
+Hyundai Verna 1.6 SX CRDi (O),2011,128000,Diesel,Individual,Manual,Second Owner,22.32,1582.0,126.32,5.0,Hyundai
+Maruti Swift 1.3 VXi,9,100000,Petrol,Individual,Manual,Second Owner,,,,,Maruti
+Honda City 2017-2020 VTEC,2006,70000,Petrol,Individual,Manual,Second Owner,16.9,1497.0,100.0,,Honda
+Honda City 1.3 EXI,2004,120000,Petrol,Individual,Manual,Second Owner,13.0,1343.0,90.0,5.0,Honda
+Hyundai Verna 1.6 SX,2012,128000,Diesel,Individual,Manual,Second Owner,22.32,1582.0,126.32,5.0,Hyundai
+Renault Duster 85PS Diesel RxL Plus,2013,100000,Diesel,Individual,Manual,Third Owner,20.45,1461.0,83.8,5.0,Renault
+Kia Seltos HTX Plus AT D,2019,20000,Diesel,Individual,Automatic,First Owner,17.8,1493.0,113.4,5.0,Kia

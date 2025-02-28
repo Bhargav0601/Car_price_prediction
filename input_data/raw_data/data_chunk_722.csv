@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio LX,2012,120000,Diesel,Individual,Manual,Second Owner,12.05,2179.0,120.0,9.0,Mahindra
+Hyundai Xcent 1.2 CRDi E,5,35000,Electric,Individual,Manual,First Owner,25.4,1186.0,73.97,5.0,Hyundai
+Honda Amaze S Diesel BSIV,2018,43000,Diesel,Individual,Manual,First Owner,27.4,1498.0,98.63,5.0,Honda
+Maruti Alto LXi,2007,60000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Mahindra Scorpio LX,2012,148000,Diesel,Individual,Manual,Second Owner,12.05,2179.0,120.0,9.0,Mahindra
+Hyundai Verna 1.6 SX CRDi (O),2014,70000,Diesel,Individual,Manual,Second Owner,22.32,1582.0,126.32,5.0,Hyundai
+Nissan Sunny XL,2011,96000,Petrol,Individual,Manual,First Owner,16.95,1498.0,97.7,5.0,Nissan
+Mahindra Scorpio 1.99 S6 Plus,2015,70000,Diesel,Partnership,Manual,First Owner,15.4,1997.0,120.0,7.0,Mahindra
+Maruti Ritz VDi,2012,70000,Diesel,Individual,Manual,Second Owner,23.2,1248.0,73.94,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Polo 1.2 MPI Comfortline,2016,35000,Petrol,Individual,Manual,First Owner,16.2,1199.0,74.0,5.0,Polo
+Maruti Wagon R VXI BS IV,1,30000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Maruti A-Star Vxi,2011,90000,Petrol,Individual,Manual,Second Owner,19.0,998.0,66.1,5.0,Maruti
+Maruti Swift Dzire ZDI,2017,110000,Diesel,Individual,Manual,Second Owner,28.4,1248.0,74.02,5.0,Maruti
+Mahindra XUV500 W6 2WD,2015,140000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Tata Indica V2 DLX,2007,104000,Diesel,Individual,Ai,Second Owner,17.2,1396.0,53.5,5.0,Tata
+Maruti Baleno Zeta Automatic,2018,9000,Petrol,Individual,Automatic,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Maruti Ignis 1.2 AMT Zeta BSIV,2019,19000,Petrol,Individual,Automatic,Second Owner,20.89,1197.0,81.8,5.0,Maruti
+Maruti Wagon R AMT VXI,2017,20000,Petrol,Individual,Automatic,First Owner,20.51,998.0,67.0,5.0,Maruti

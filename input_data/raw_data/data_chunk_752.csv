@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City V MT,2012,80000,Petrol,Individual,Manual,Second Owner,16.8,1497.0,116.3,5.0,Honda
+Maruti Ciaz ZDi Plus SHVS,2016,70000,Electric,Individual,Manual,Second Owner,28.09,1248.0,88.5,5.0,Maruti
+Skoda Fabia 1.2 TDI Active Plus,2013,150000,Diesel,Individual,Manual,Second Owner,20.86,1199.0,75.0,5.0,Skoda
+Maruti Zen Estilo 1.1 LX BSIII,2007,150000,Petrol,Individual,Manual,Second Owner,18.2,1061.0,64.0,5.0,Maruti
+Ford Ikon 1.6 Nxt,2004,25000,Petrol,Individual,Manual,Third Owner,14.2,1597.0,92.0,5.0,Ford
+Skoda Rapid 1.5 TDI AT Style BSIV,2017,35000,Diesel,Individual,Automatic,Second Owner,21.72,1498.0,108.6,5.0,Skoda
+Hyundai Xcent 1.2 CRDi E Plus,2018,48000,Diesel,Individual,Manual,First Owner,25.4,1186.0,73.97,5.0,Hyundai
+Volkswagen Polo Diesel Trendline 1.2L,2012,200000,Diesel,Individual,Manual,First Owner,22.07,1199.0,73.9,5.0,Volkswagen
+Hyundai Santro GLS I - Euro I,2000,90000,Petrol,Individual,Manual,Third Owner,,,,,Hyundai

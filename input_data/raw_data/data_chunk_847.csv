@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Vdi BSIII,2008,120000,Electric,Individual,Manual,Second Owner,17.8,1248.0,75.0,5.0,Maruti
+Tata Nano Cx,2011,80000,Petrol,Individual,Manual,First Owner,26.0,624.0,35.0,4.0,Tata
+Toyota Etios Liva G,2015,30000,Electric,Individual,Manual,Rent,17.71,1197.0,78.9,5.0,Toyota
+Hyundai Verna 1.6 CRDi SX,2016,60000,Diesel,Individual,Manual,First Owner,23.9,1582.0,126.2,5.0,Hyundai
+Skoda Octavia L and K 1.9 TDI (MT),2007,200000,Diesel,Individual,Manual,Second Owner,16.6,1896.0,122.4,5.0,Skoda
+Ford EcoSport 1.5 TDCi Titanium BSIV,2017,101000,Diesel,Individual,Manual,First Owner,22.77,1498.0,98.59,5.0,Ford
+Ford Fiesta 1.4 Duratorq ZXI,2007,110000,Diesel,Individual,Manual,First Owner,17.8,1399.0,68.0,5.0,Ford
+Toyota Innova 2.5 G (Diesel) 8 Seater,2014,136000,Diesel,Individual,Manual,Third Owner,12.99,2494.0,100.6,8.0,Toyota
+Chevrolet Tavera B2 8 Seats BSIII,2011,250000,Diesel,Individual,Manual,Rent,14.8,2499.0,80.0,7.0,Chevrolet

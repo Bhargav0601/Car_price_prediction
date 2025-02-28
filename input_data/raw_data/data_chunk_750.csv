@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Diesel Celebration Edition,2013,25000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.1,5.0,Ford
+Maruti Swift Dzire VDi,2009,90000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti Swift Dzire VDi,2009,164000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Honda Amaze EX i-Vtech,2013,120000,Petrol,Individual,Manual,Second Owner,18.0,1198.0,86.7,5.0,Honda
+Maruti A-Star Vxi,2010,66000,Petrol,Individual,Manual,Second Owner,19.0,998.0,66.1,5.0,Maruti
+Tata New Safari DICOR 2.2 EX 4x4 BS IV,2010,250000,Diesel,Individual,Manual,First Owner,13.93,2179.0,138.0,7.0,Tata
+Hyundai Verna 1.6 CRDI,2011,157000,Diesel,Individual,Manual,Second Owner,17 kmpl,1582.0,126.3,5.0,Hyundai
+Hyundai Verna 1.6 CRDI,2011,157000,Diesel,Individual,Manual,Second Owner,22.32,1582.0,126.3,5.0,Hyundai
+Renault KWID 1.0 RXT 02 Anniversary Edition,2017,35000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault

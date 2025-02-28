@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2019,24000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Mahindra KUV 100 mFALCON D75 K8,2017,80000,Diesel,Individual,Manual,First Owner,25.32,1198.0,77.0,6.0,Mahindra
+Hyundai Verna 1.6 SX CRDi (O),2012,138000,Diesel,Individual,Manual,First Owner,22.32,1582.0,126.32,5.0,Hyundai
+Maruti Wagon R LXI,2003,147000,Petrol,Individual,Manual,Fourth & Above Owner,18.9,998.0,67.1,5.0,Maruti
+Mahindra TUV 300 mHAWK100 T8 Dual Tone,2017,60000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Chevrolet Spark 1.0 LS,2011,80000,Petrol,Individual,Manual,First Owner,18.0,995.0,62.0,5.0,Chevrolet
+Maruti Alto 800 LXI,2016,50000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Tata Manza Club Class Quadrajet90 VX,2013,189000,Diesel,Individual,Manual,First Owner,21.02,1248.0,88.76,5.0,Tata
+Volkswagen Vento 1.5 TDI Highline AT,2014,90000,Diesel,Individual,Automatic,Rent,21.21,1498.0,103.2,5.0,Volkswagen

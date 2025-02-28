@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Zen LXI,2004,150000,Petrol,Individual,Manual,First Owner,17.3,993.0,60.0,5.0,Maruti
+Tata Zest Revotron 1.2 XT,2016,24177,Petrol,Individual,Manual,First Owner,17.57,1193.0,88.7,5.0,Tata
+Tata Indigo LX,2012,80000,Diesel,Individual,Manual,First Owner,16.1,1405.0,70.0,5.0,Tata
+Maruti Wagon R LXI,2006,150000,Petrol,Individual,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti
+Renault Lodgy 85PS RxE 7 Seater,2015,120000,Diesel,Individual,Manual,Second Owner,21.04,1461.0,83.8,7.0,Renault
+Mahindra Scorpio VLX 2WD AIRBAG BSIV,2012,121779,Diesel,Individual,Manual,First Owner,12.05,2179.0,120.0,8.0,Mahindra
+Maruti Baleno Delta 1.3,2017,56000,Diesel,Individual,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti
+Maruti SX4 Vxi BSIII,2008,100000,Petrol,Individual,Manual,Fourth & Above Owner,15.0,1586.0,104.68,5.0,Maruti
+Maruti Swift LXI Option,2018,12000,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti

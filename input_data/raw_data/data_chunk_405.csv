@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 Magna 1.4 CRDi,2016,90000,Diesel,Individual,Manual,Second Owner,22.54,1396.0,88.73,5.0,Hyundai
+Mahindra Scorpio S2 9 Seater,2015,90000,Diesel,Partnership,Manual,First Owner,15.4,2523.0,75.0,9.0,Mahindra
+Hyundai Santro Xing XL,2006,80000,Petrol,Individual,Manual,Second Owner,,,,,Hyundai
+Maruti Swift VDI BSIV,2016,70000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Hyundai Xcent 1.1 CRDi Base,2015,91000,Diesel,Individual,Ai,Third Owner,24.4,1120.0,71.0,5.0,Hyundai
+Hyundai i20 Sportz Option 1.4 CRDi,2015,90000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Ertiga VDI,2014,110000,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.76,7.0,Maruti
+Renault KWID 1.0 RXT BSIV,2019,90000,Petrol,Partnership,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Tata Tiago 1.2 Revotron XT,2018,50000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata

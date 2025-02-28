@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 1.2 Asta,3,220000,Petrol,Individual,Manual,Fourth & Above Owner,17.0,1197.0,80.0,5.0,Hyundai
+Mahindra Bolero 2011-2019 ZLX BSIII,2013,70000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Tata Nexon 1.2 Revotron XZ Plus,2018,50000,Petrol,Individual,Manual,First Owner,17.0,1198.0,108.5,5.0,Tata
+Maruti Swift Dzire VDi,2011,125000,Diesel,Individual,Manual,First Owner,19.3,1248.0,73.9,5.0,Maruti
+Ford Figo 1.2P Trend MT,2016,60000,Petrol,Individual,Manual,First Owner,18.16,1196.0,86.8,5.0,Ford
+Maruti Eeco CNG HTR 5-STR,6,90000,CNG,Individual,Manual,Rent,21.94,1196.0,63.0,5.0,Maruti
+Maruti Eeco CNG HTR 5-STR,2017,30000,CNG,Partnership,Manual,First Owner,21.94,1196.0,63.0,,Eeco
+Toyota Innova 2.5 VX (Diesel) 8 Seater,2016,90000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,8.0,Toyota
+Volkswagen Ameo 1.2 MPI Comfortline,2017,20000,Petrol,Individual,Manual,First Owner,17.0,1198.0,73.75,2 seats,Volkswagen

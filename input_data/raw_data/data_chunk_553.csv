@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift LDI BSIV,2014,70000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Swift
+Maruti Swift VDI BSIV,2009,110000,Diesel,Individual,Manual,First Owner,,,,,Maruti
+Hyundai Verna Transform SX VGT CRDi,2011,90000,Diesel,Individual,Manual,Third Owner,16.2,1493.0,110.0,5.0,Hyundai
+Maruti Alto LXi,2007,60000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai Verna 1.6 CRDi S,2015,80000,Diesel,Individual,Manual,Second Owner,23.9,1582.0,126.2,5.0,Hyundai
+Toyota Fortuner 3.0 Diesel,2010,151000,Diesel,Individual,Manual,Second Owner,11.5,2982.0,171.0,7.0,Toyota
+Maruti Swift Dzire VDI,2019,25000,Diesel,Individual,Manual,First Owner,28.4,2018 CC,74.02,5.0,Maruti
+Mahindra XUV500 W10 2WD,2015,24700,Diesel,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Chevrolet Spark 1.0 LS,2008,100000,Petrol,Individual,Manual,Third Owner,18.0,995.0,62.0,5.0,Chevrolet

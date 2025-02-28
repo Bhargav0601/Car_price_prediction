@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Vento Diesel Highline,2011,90000,Diesel,Individual,Manual,First Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Honda City i-VTEC VX,2017,35000,Petrol,Individual,Manual,First Owner,17.4,1497.0,117.6,5.0,Honda
+Honda City i VTEC V,2017,35000,Petrol,Partnership,Manual,First Owner,17.8,1497.0,117.3,6 seats,Honda
+Tata Sumo Gold EX,2014,101200,Diesel,Individual,Manual,Second Owner,15.3,2956.0,83.83,7.0,Tata
+Tata Indigo GLX,2005,90000,Electric,Individual,Manual,Second Owner,12.8,1396.0,85.0,5.0,Tata
+Maruti Swift Dzire VDI,2016,76000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Tata Indigo LX,2004,60000,Diesel,Individual,Manual,Third Owner,16.1,1405.0,70.0,5.0,Tata
+Mahindra XUV500 W6 2WD,2016,90000,Diesel,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Mahindra Bolero 2011-2019 ZLX BSIII,2013,80000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,62.1,7.0,Mahindra

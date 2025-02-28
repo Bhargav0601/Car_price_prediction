@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen GTI 1.8 TSI,2016,70000,Petrol,Individual,Automatic,First Owner,16.34,1798.0,189.3,5.0,Volkswagen
+Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,9000,Diesel,Dealer,Automatic,First Owner,13.6,1999.0,177.0,5.0,Jaguar
+Lexus ES 300h,2019,20000,Petrol,Dealer,Automatic,First Owner,22.37,2487.0,214.56,5.0,Lexus
+Jaguar XF 2.0 Diesel Portfolio,2017,45000,Diesel,Dealer,Automatic,First Owner,19.33,1999.0,177.0,5.0,Jaguar
+Tata Safari Storme EX,2015,110000,Diesel,Individual,Manual,First Owner,14.1,2179.0,147.94,7.0,Tata
+Volvo XC40 D4 Inscription BSIV,2019,20000,Diesel,Individual,Automatic,First Owner,18.0,1969.0,190.0,5.0,Volvo
+Toyota Camry 2.5 Hybrid,2016,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16,2494.0,157.7,5.0,Toyota
+Maruti Wagon R LXI,2013,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79,998.0,67.05,5.0,Maruti
+Maruti Baleno Alpha 1.3,2018,38817,Diesel,Dealer,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti

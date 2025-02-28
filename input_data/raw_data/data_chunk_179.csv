@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto LXi BSIII,2005,49455,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai EON D Lite Plus Option,2016,100000,Petrol,Individual,Ai,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Tata Indica Vista Quadrajet LS,2013,120000,Diesel,Individual,Manual,First Owner,22.3,1248.0,74.0,5.0,Tata
+Hyundai i20 Asta Optional With Sunroof 1.2,2,90000,Petrol,Individual,Manual,Fourth & Above Owner,17.0,1197.0,80.0,5.0,Hyundai
+Chevrolet Sail Hatchback LS ABS,2013,46815,Diesel,Individual,Manual,Second Owner,22.1,1248.0,76.9,5.0,Chevrolet
+Tata Indica Vista TDI LS,2013,110000,Diesel,Individual,Manual,First Owner,19.4,1405.0,70.0,5.0,Tata
+Hyundai EON Era Plus,2015,80000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Ertiga ZDI,2013,100000,Diesel,Partnership,Manual,Third Owner,20.77,1248.0,88.8,7.0,Maruti
+Maruti Wagon R VXI BS IV with ABS,2014,80000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.06,5.0,Maruti

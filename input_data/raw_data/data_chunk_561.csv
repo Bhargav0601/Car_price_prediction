@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Grand i10 Magna,2016,10000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Maruti Vitara Brezza ZDi Plus Dual Tone,2018,25000,Electric,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Hyundai Verna 1.6 VTVT,2013,50000,Petrol,Individual,Manual,Third Owner,17.01,1591.0,121.3,5.0,Hyundai
+Toyota Etios VX,2011,70000,Petrol,Individual,Manual,First Owner,17.6,1496.0,88.7,5.0,Toyota
+Maruti Ignis Zeta AMT,2020,5000,Petrol,Individual,Ai,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Maruti A-Star Vxi,2009,60000,Petrol,Individual,Manual,First Owner,19.0,998.0,66.1,5.0,Maruti
+Maruti Zen Estilo VXI BSIII,2007,74800,Petrol,Individual,Manual,Second Owner,18.2,3036 CC,67.1,5.0,Maruti
+Maruti 800 AC BSIII,2004,80000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Eeco CNG 5 Seater AC BSIV,2012,270000,CNG,Individual,Manual,First Owner,21.94,1196.0,61.7,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VXI,2015,80000,Petrol,Individual,Manual,First Owner,20.85,1197.0,83.14,5.0,Maruti
+Maruti Alto K10 2010-2014 VXI,2011,60000,Petrol,Individual,Manual,First Owner,20.92,998.0,67.1,5.0,Maruti
+Maruti Swift Dzire ZDI,2013,240000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Skoda Rapid 1.6 MPI AT Elegance,2013,35000,Petrol,Individual,Automatic,Second Owner,14.3,1598.0,103.5,5.0,Skoda
+Tata Tigor 1.2 Revotron XT,2018,35000,Electric,Individual,Manual,First Owner,20.3,1199.0,84.0,5.0,Tata
+Renault Triber RXT BSIV,2019,5000,Petrol,Individual,Manual,First Owner,20.0,999.0,72.0,7.0,Renault
+Maruti Vitara Brezza VDi Option,2016,110000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Hyundai i20 1.2 Asta Option,2017,20000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Tata Nexon 1.2 Revotron XZ Plus,2018,15000,Petrol,Individual,Manual,First Owner,17.0,1198.0,108.5,5.0,Tata

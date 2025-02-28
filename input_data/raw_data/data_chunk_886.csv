@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VVT ZXI,2017,25000,Petrol,Individual,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Hyundai Creta 1.6 SX,2018,11000,Petrol,Individual,Manual,First Owner,15.8,1591.0,121.3,5.0,Hyundai
+Maruti S-Presso VXI AT,2019,5000,Petrol,Individual,Automatic,First Owner,21.7,998.0,67.0,5.0,Maruti
+Ford Ecosport 1.5 Diesel Titanium,2014,105000,Diesel,Dealer,Manual,First Owner,21.7,1498.0,98.96,5.0,Ford
+Maruti Ritz VXi,2012,40000,Petrol,Individual,Manual,First Owner,18.5,1197.0,85.8,5.0,Maruti
+Maruti Swift ZDi,2014,90000,Electric,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Alto 800 LXI,2018,30000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Honda City i-VTEC VX,2018,5500,Petrol,Individual,Manual,First Owner,17.4,1497.0,117.6,5.0,Honda
+Maruti Alto LX,2000,90000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti

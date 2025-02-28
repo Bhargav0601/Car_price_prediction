@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova 2.5 G (Diesel) 8 Seater,10,145000,Diesel,Individual,Manual,Second Owner,12.99,,100.0,8.0,Toyota
+Hyundai i20 Sportz 1.2,2012,120000,Electric,Individual,Manual,First Owner,18.5,1197.0,82.85,5.0,Hyundai
+Tata New Safari DICOR 2.2 VX 4x2 BS IV,2011,120000,Diesel,Individual,Manual,First Owner,Unknown,2179.0,138.1,7.0,Tata
+Ford Figo 1.5D Trend MT,2016,80000,Diesel,Individual,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Maruti Ertiga VXI,2013,140000,Petrol,Individual,Manual,First Owner,16.02,1373.0,93.7,7.0,Maruti
+Hyundai Verna Xi (Petrol),2008,100000,Petrol,Individual,Ai,Fourth & Above Owner,13.9,1599.0,103.2,5.0,Hyundai
+Hyundai Xcent 1.2 VTVT E,2019,100000,Petrol,Individual,Manual,First Owner,20.14,1197.0,81.86,5.0,Hyundai
+Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,2011,168000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,8.0,Toyota
+Chevrolet Cruze LTZ,2010,120000,Diesel,Individual,Manual,Third Owner,18.3,1991.0,147.9,5.0,Chevrolet

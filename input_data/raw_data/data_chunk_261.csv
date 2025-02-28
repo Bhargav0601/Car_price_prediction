@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto LXi,2011,46000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Alto LX,2010,80000,Electric,Individual,Manual,Fourth & Above Owner,19.7,796.0,46.3,5.0,Maruti
+Tata Tiago 1.2 Revotron XZ,2019,10000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Maruti Alto 800 LXI,2015,16700,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Swift Dzire VDI,2018,70000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Swift
+Maruti Swift Dzire ZXI,2015,7967,Petrol,Individual,Manual,First Owner,20.85,1197.0,83.14,5.0,Maruti
+Maruti Swift ZXI Plus,1,20000,Petrol,Partnership,Manual,First Owner,22.0,1197.0,81.8,,Maruti
+Maruti Swift VDI BSIV,2011,50000,Diesel,Individual,Manual,First Owner,,,,,Maruti
+Renault KWID RXT Optional,2016,9656,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault

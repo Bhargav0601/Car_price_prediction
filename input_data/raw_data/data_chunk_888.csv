@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga VDI,2012,93000,Diesel,Partnership,Manual,First Owner,20.77,1248.0,88.76,7.0,Maruti
+Maruti Swift Dzire VXI,2015,117000,Electric,Individual,Manual,First Owner,20.85,1197.0,83.14,5.0,Maruti
+Honda City 2017-2020 GXi,2008,90000,Petrol,Individual,Manual,Second Owner,34 kmpl,1497.0,78.0,5.0,Honda
+Maruti Swift VXI BSIII,2008,80000,Petrol,Individual,Manual,Third Owner,16.1,1298.0,88.2,5.0,Maruti
+Hyundai Santro LS zipPlus,2000,50000,Petrol,Individual,Manual,Second Owner,,,,,Hyundai
+Maruti Alto 800 LXI,2016,30000,Petrol,Individual,Manual,First Owner,22.74,,47.3,5.0,Maruti
+Maruti Alto 800 LXI,2017,35000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Maruti Alto LX,2004,40000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Wagon R VXI BS IV,2015,46357,Petrol,Individual,Ai,Second Owner,20.51,998.0,67.04,5.0,Maruti

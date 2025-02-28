@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indigo CS LX (TDI) BS III,2013,100000,Diesel,Individual,Manual,First Owner,19.09,1396.0,69.0,5.0,Tata
+Chevrolet Spark 1.0 PS,2011,44000,Petrol,Individual,Manual,Second Owner,16.0,995.0,63.0,5.0,Chevrolet
+Maruti Ritz LXi,2016,110000,Petrol,Individual,Manual,Second Owner,18.5,1197.0,85.8,5.0,Maruti
+Mahindra Scorpio 2009-2014 VLX 2WD 7S BSIV,2012,215000,Diesel,Individual,Manual,First Owner,12.05,2179.0,120.0,7.0,Scorpio
+Hyundai EON Era,4,80000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Chevrolet Beat Diesel LT,2012,70000,Diesel,Individual,Manual,Second Owner,25.44,936.0,57.6,5.0,Chevrolet
+Hyundai i20 Active 1.2 S,2016,25000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Maruti Wagon R VXI BSIII,2012,31000,Petrol,Partnership,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Maruti Wagon R VXI,2005,50000,Petrol,Individual,Manual,Third Owner,18.9,998.0,67.1,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift 1.3 VXi,2010,70000,Petrol,Individual,Manual,Second Owner,,,,,Maruti
+Maruti Swift Dzire VXI,2014,70000,Petrol,Individual,Manual,Second Owner,19.1,1197.0,85.8,5.0,Maruti
+Chevrolet Beat LS,2012,60000,Petrol,Individual,Manual,Third Owner,18.6,1199.0,79.4,5.0,Chevrolet
+Tata Tigor 1.2 Revotron XZA,2018,10000,Petrol,Individual,Automatic,First Owner,20.3,1199.0,84.0,5.0,Tigor
+Maruti 800 Std,2006,80000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Honda City i-DTEC VX,2017,30000,Diesel,Individual,Manual,First Owner,25.6,1498.0,97.9,5.0,Honda
+Honda City i-DTEC VX,2017,33000,Diesel,Individual,Ai,First Owner,25.6,1498.0,97.9,3 seats,Honda
+Maruti Ertiga VXI,2013,90000,Petrol,Individual,Manual,Third Owner,16.02,1373.0,93.7,7.0,Maruti
+Nissan Terrano XV Premium 110 PS,2014,80100,Diesel,Individual,Manual,Second Owner,19.01,1461.0,108.5,5.0,Nissan

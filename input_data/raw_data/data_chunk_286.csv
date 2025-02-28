@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VXI 1.2 BS IV,2018,35000,Petrol,Individual,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Maruti Swift Dzire VDI,2017,32500,Diesel,Individual,Manual,Second Owner,28.4,1248.0,74.02,5.0,Maruti
+Maruti Alto K10 VXI AGS,2019,14000,Petrol,Individual,Automatic,First Owner,23.95,998.0,67.05,5.0,Maruti
+Chevrolet Beat Diesel LT,2014,70000,Diesel,Individual,Manual,Third Owner,25.44,936.0,56.3,5.0,Chevrolet
+Hyundai Verna VTVT 1.6 AT SX Option,2019,20000,Petrol,Individual,Automatic,First Owner,17.0,1591.0,121.3,5.0,Hyundai
+Maruti Wagon R Duo Lxi,2011,300000,LPG,Individual,Manual,First Owner,26.2,998.0,58.2,5.0,Maruti
+Maruti Swift VDI Optional,2015,100000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Mahindra XUV500 W8 2WD,2015,64800,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Mahindra Bolero Power Plus ZLX,2017,90000,Diesel,Individual,Manual,First Owner,16.5,1493.0,70.0,7.0,Mahindra

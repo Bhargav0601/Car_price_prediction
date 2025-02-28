@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault KWID Climber 1.0 MT,2017,50000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Mahindra Jeep Classic,1996,5000,Diesel,Individual,Manual,Second Owner,,,,,Mahindra
+Tata Nano CX,2013,30000,Petrol,Individual,Manual,First Owner,25.4,624.0,37.48,4.0,Tata
+Tata Safari Storme EX,2017,20000,Diesel,Individual,Manual,Rent,14.1,2179.0,147.94,7.0,Tata
+Maruti Ciaz ZDi Plus,2015,110000,Diesel,Individual,Manual,First Owner,26.21,1248.0,88.5,5.0,Maruti
+Renault KWID RXT,2017,25000,Petrol,Partnership,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Toyota Innova 2.5 G (Diesel) 7 Seater,2014,120000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,,Toyota
+Maruti Alto LX,2006,40000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Renault KWID RXT Optional,2019,10000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault

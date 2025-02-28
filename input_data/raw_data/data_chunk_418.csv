@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI,2014,77000,Diesel,Dealer,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Hyundai EON Magna Plus,2016,47000,Petrol,Dealer,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Tata Tiago XT,2017,57000,Petrol,Dealer,Manual,First Owner,23.84,1199.0,84.48,5.0,Tata
+Hyundai i20 1.4 Asta Option,2018,71500,Diesel,Dealer,Ai,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Toyota Etios Liva 1.4 GD,2012,110000,Diesel,Dealer,Manual,First Owner,23.59,1364.0,67.04,5.0,Toyota
+Maruti Swift Dzire VDI,2013,82000,Diesel,Dealer,Manual,Rent,26.59,1248.0,74.0,5.0,Maruti
+Maruti Swift VDI,2013,70000,Diesel,Dealer,Manual,Second Owner,28.4,1248.0,74.0,5.0,Maruti
+Maruti Baleno Zeta Diesel,2017,28000,Diesel,Dealer,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti
+Skoda Rapid 1.5 TDI Style Plus Black Package,2016,125000,Diesel,Dealer,Manual,Second Owner,21.14,1498.0,103.52,5.0,Skoda

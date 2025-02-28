@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mercedes-Benz E-Class Exclusive E 200 BSIV,2019,17000,Petrol,Dealer,Automatic,First Owner,15.0,1991.0,194.4,5.0,Mercedes
+Land Rover Discovery Sport TD4 SE,2019,21000,Diesel,Dealer,Automatic,First Owner,12.83,1999.0,148.31,7.0,Land
+Mercedes-Benz S-Class S 350 CDI,2017,37000,Diesel,Dealer,Automatic,First Owner,13.5,2987.0,254.79,5.0,Mercedes
+BMW 5 Series 520d Sport Line,2018,10000,Diesel,Dealer,Automatic,First Owner,22.48,1995.0,187.74,5.0,BMW
+Hyundai Venue SX Plus Turbo DCT BSIV,2019,3500,Petrol,Dealer,Automatic,First Owner,18.15,998.0,118.35,5.0,Hyundai
+Audi A4 35 TDI Premium Plus,2016,46000,Diesel,Dealer,Automatic,First Owner,18.25,1968.0,187.74,5.0,Audi
+Honda CR-V 2.4L 4WD AT AVN,2017,52000,Petrol,Dealer,Automatic,First Owner,12.0,2354.0,187.4,5.0,Honda
+Maruti Swift VXI,2011,20000,Petrol,Individual,Manual,Second Owner,18.6,1197.0,85.8,5.0,Swift
+Tata Tigor 1.2 Revotron XE,2019,25000,Petrol,Individual,Manual,First Owner,20.3,1199.0,84.0,5.0,Tata

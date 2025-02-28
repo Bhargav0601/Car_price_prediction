@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Getz 1.5 CRDi GVS,2008,61000,Diesel,Dealer,Manual,Second Owner,17.1,1493.0,110.0,5.0,Hyundai
+Skoda Rapid 1.6 TDI Elegance,2011,64481,Diesel,Dealer,Manual,Second Owner,20.5,1598.0,103.5,5.0,Skoda
+Volkswagen Vento Diesel Comfortline,2011,65000,Diesel,Dealer,Manual,Second Owner,20.54,1598.0,103.6,5.0,Volkswagen
+BMW 5 Series 520d Sport Line,2009,80000,Diesel,Dealer,Automatic,Second Owner,22.48,1995.0,187.74,,BMW
+Nissan Sunny XV D,2015,61000,Diesel,Dealer,Manual,Second Owner,22.71,1461.0,84.8,5.0,Nissan
+Mercedes-Benz M-Class ML 350 CDI,2014,70000,Diesel,Individual,Automatic,First Owner,11.74,2987.0,254.8,5.0,Mercedes
+Chevrolet Spark 1.0,2009,30000,Petrol,Individual,Manual,First Owner,18.0,995.0,62.0,5.0,Chevrolet
+Tata Indica Vista Aqua TDI BSIII,2011,200000,Diesel,Individual,Manual,Second Owner,17.0,1405.0,71.0,5.0,Tata
+Audi Q3 2.0 TDI Quattro Premium Plus,2014,230000,Diesel,Individual,Automatic,First Owner,15.73,1968.0,174.33,5.0,Audi

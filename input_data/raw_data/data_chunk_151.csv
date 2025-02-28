@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Vento Diesel Highline,2013,100000,Diesel,Individual,Manual,Third Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Toyota Innova Crysta 2.4 VX MT BSIV,2018,70000,Diesel,Individual,Manual,First Owner,13.68,2393.0,147.8,7.0,Toyota
+Maruti Ertiga ZDI,1,98000,Diesel,Individual,Manual,Fourth & Above Owner,Unknown,1248.0,88.8,7.0,Maruti
+Hyundai EON Magna Plus,2014,60000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Hyundai i10 Sportz,2010,80000,Petrol,Individual,Manual,Third Owner,20.36,1197.0,78.9,5.0,Hyundai
+Mahindra Ssangyong Rexton RX7,2013,117000,Diesel,Dealer,Automatic,First Owner,11.18,2696.0,184.0,7.0,Mahindra
+Honda Jazz 1.2 V i VTEC,2018,8576,Petrol,Dealer,Manual,First Owner,Unknown,1199.0,88.7,5.0,Honda
+Tata Tigor 1.2 Revotron XZA,2017,19723,Petrol,Dealer,Automatic,First Owner,20.3,1199.0,84.0,5.0,Tata
+Honda City 1.5 V MT Sunroof,2016,21446,Petrol,Dealer,Manual,First Owner,16.8,1497.0,116.3,5.0,Honda

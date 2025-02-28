@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Nexon 1.5 Revotorq XZ Plus Dual Tone,2018,60000,Diesel,Individual,Manual,First Owner,21.5,1497.0,108.5,5.0,Tata
+Tata Tiago 1.2 Revotron XE,2018,20000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Maruti Ritz VDi,2013,142000,Diesel,Individual,Manual,Second Owner,23.2,1248.0,73.94,5.0,Maruti
+Maruti Swift Dzire ZDI,2015,72000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Ford EcoSport 1.5 Diesel Titanium BSIV,2018,90000,Electric,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Ford Figo Diesel Titanium,2011,80000,Diesel,Individual,Manual,Third Owner,20.0,1399.0,68.0,5.0,Ford
+Hyundai i20 1.4 CRDi Asta,2011,125000,Diesel,Individual,Manual,First Owner,23.0,1396.0,90.0,5.0,Hyundai
+Maruti Ciaz ZXi Plus,2015,33000,Petrol,Individual,Manual,Rent,20.73,1373.0,91.1,5.0,Maruti
+Hyundai Creta 1.6 CRDi SX Option,2015,50000,Diesel,Individual,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai

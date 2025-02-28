@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Accent Executive LPG,2010,80000,LPG,Individual,Manual,First Owner,13.2,1495.0,93.7,5.0,Hyundai
+Toyota Innova 2.5 V Diesel 8-seater,2007,376412,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,8.0,Toyota
+Maruti Ertiga VXI,2014,80000,Petrol,Individual,Manual,Third Owner,16.02,,93.7,7.0,Maruti
+Hyundai Santro Xing GL Plus,2,70000,Electric,Individual,Manual,First Owner,17.92,1086.0,62.1,5.0,Hyundai
+Maruti Alto K10 2010-2014 VXI,2012,90000,Petrol,Individual,Manual,Third Owner,20.92,998.0,67.1,5.0,Maruti
+Mahindra Bolero 2011-2019 DI NON AC BS III White,2014,183000,Diesel,Individual,Manual,First Owner,15.96,2523.0,63.0,9.0,Mahindra
+Maruti Vitara Brezza VDi,2018,27000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2017,35000,Diesel,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Maruti Swift VDI,2013,120000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti

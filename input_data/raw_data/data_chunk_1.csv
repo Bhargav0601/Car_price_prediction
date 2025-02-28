@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Diesel Celebration Edition,2013,169000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.1,5.0,Ford
+Renault Duster 110PS Diesel RxL,2014,68000,Diesel,Individual,Manual,Second Owner,19.01,1461.0,108.45,5.0,Renault
+Maruti Zen LX,2005,100000,Petrol,Individual,Manual,Second Owner,17.3,993.0,60.0,5.0,Maruti
+Maruti Swift Dzire VDi,2009,140000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti Swift 1.3 VXi,2007,80000,Petrol,Individual,Manual,Second Owner,,,,,Maruti
+Maruti Wagon R LXI Minor,2009,90000,Petrol,Individual,Manual,Second Owner,18.9,1061.0,67.0,5.0,Maruti
+Mahindra KUV 100 mFALCON G80 K8 5str,2016,40000,Petrol,Individual,Manual,First Owner,18.15,1198.0,82.0,5.0,Mahindra
+Maruti Ertiga SHVS VDI,2016,70000,Diesel,Individual,Manual,Second Owner,24.52,1248.0,88.5,7.0,Maruti
+Hyundai i20 1.4 CRDi Asta,2012,53000,Diesel,Individual,Manual,Second Owner,23.0,1396.0,90.0,5.0,Hyundai

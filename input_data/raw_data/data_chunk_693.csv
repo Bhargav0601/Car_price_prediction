@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Enjoy 1.3 TCDi LS 7,2016,110000,Diesel,Individual,Manual,Second Owner,18.2,1248.0,73.74,7.0,Chevrolet
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2015,120000,Diesel,Individual,Ai,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Hyundai Verna 1.6 CRDi S,2016,80000,Diesel,Partnership,Manual,First Owner,23.9,1582.0,126.2,5.0,Hyundai
+Maruti Swift VXI,2020,5000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Honda Brio 1.2 E MT,2017,50000,Petrol,Individual,Manual,First Owner,18.5,1198.0,86.8,5.0,Honda
+Maruti Swift Dzire VDI,2017,65000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Baleno Alpha 1.3,2017,35000,Diesel,Individual,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti
+Honda Jazz 1.5 V i DTEC,2015,90000,Diesel,Individual,Manual,First Owner,27.3,1498.0,98.6,5.0,Honda
+Maruti Swift VDI BSIV,2016,100000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti

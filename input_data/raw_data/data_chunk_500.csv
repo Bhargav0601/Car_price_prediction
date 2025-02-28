@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Verna 1.6 SX CRDi (O),2014,29340,Diesel,Individual,Manual,First Owner,22.32,1582.0,126.32,5.0,Hyundai
+Ford Figo Diesel LXI,10,120000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,7 seats,Ford
+Toyota Innova 2.5 G4 Diesel 7-seater,2011,200000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,7.0,Toyota
+Hyundai i10 Era,2007,70000,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Toyota Innova 2.5 VX (Diesel) 8 Seater,2014,80800,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.6,8.0,Toyota
+Honda Jazz 1.2 VX i VTEC,2018,24265,Petrol,Dealer,Manual,First Owner,18.7,1199.0,88.7,5.0,Honda
+Maruti Swift Dzire VDI,9,81000,Diesel,Dealer,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Renault Lodgy Stepway 110PS RXZ 7S,4,240000,Diesel,Individual,Manual,First Owner,19.98,1461.0,108.5,7.0,Renault
+Maruti Swift Dzire VXI,2013,35000,Petrol,Individual,Manual,First Owner,19.1,1197.0,85.8,5.0,Maruti

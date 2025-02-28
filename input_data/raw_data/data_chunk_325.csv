@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Diesel EXI Option,2010,85568,Diesel,Dealer,Manual,First Owner,18.5,1399.0,68.0,5.0,Ford
+Maruti Baleno Zeta Automatic,2019,10000,Petrol,Individual,Automatic,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Hyundai EON 1.0 Kappa Magna Plus,2014,10000,Petrol,Individual,Manual,First Owner,20.3,998.0,68.05,5.0,Hyundai
+Hyundai Santro Xing GLS,2007,60000,Petrol,Individual,Manual,Fourth & Above Owner,17.92,1086.0,62.1,5.0,Hyundai
+Mahindra Scorpio M2DI,2011,80000,Diesel,Individual,Manual,Second Owner,13.5,2179.0,115.0,5.0,Mahindra
+Maruti Swift LXI,2019,10000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Mahindra Bolero 2011-2019 ZLX BSIII,2014,60000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Mercedes-Benz B Class B180 Sports,2014,42000,Petrol,Individual,Automatic,First Owner,11.9,1595.0,120.7,5.0,Mercedes
+Chevrolet Enjoy TCDi LS 8 Seater,2014,50000,Diesel,Individual,Manual,Fourth & Above Owner,18.2,1248.0,73.8,8.0,Enjoy

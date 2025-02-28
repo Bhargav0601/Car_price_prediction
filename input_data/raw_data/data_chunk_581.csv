@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i10 Magna,2008,110000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai
+Tata Safari DICOR 2.2 LX 4x2,2014,38000,Diesel,Individual,Manual,First Owner,13.93,2179.0,138.03,7.0,Tata
+Toyota Corolla AE,2004,90000,Petrol,Individual,Manual,Second Owner,13.4,1794.0,125.0,5.0,Toyota
+Maruti Ertiga SHVS ZDI Plus,2017,43000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Hyundai Santro Asta BSIV,2018,25000,Petrol,Individual,Manual,First Owner,20.3,1086.0,68.0,5.0,Hyundai
+Maruti Wagon R VXI BS IV,2016,26000,Petrol,Individual,Manual,Second Owner,20.51,998.0,67.04,5.0,Wagon
+Hyundai Verna CRDi SX,2006,120000,Diesel,Individual,Manual,Second Owner,16.8,1493.0,110.0,5.0,Hyundai
+Maruti Alto LXi,2008,70000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Honda Accord VTi-L MT,2006,60000,Petrol,Individual,Manual,Third Owner,11.9,2354.0,144.0,5.0,Honda

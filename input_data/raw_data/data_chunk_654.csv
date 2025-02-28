@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio 1.99 S4,2016,70000,Diesel,Partnership,Manual,First Owner,15.4,1997.0,120.0,7.0,Mahindra
+Hyundai i20 1.4 CRDi Sportz,2012,40000,Diesel,Individual,Manual,Second Owner,23.0,1396.0,90.0,5.0,Hyundai
+Mahindra Scorpio SLE BSIV,2010,166000,Diesel,Individual,Manual,Third Owner,12.05,2179.0,120.0,8.0,Mahindra
+Hyundai i10 Sportz,2011,100000,Petrol,Individual,Manual,Third Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Wagon R LXI Minor,2009,75000,Petrol,Individual,Ai,Third Owner,18.9,1061.0,67.0,5.0,Maruti
+Hyundai EON Era,2013,42130,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Ritz LXI,2010,53000,Petrol,Individual,Manual,Second Owner,21.1,1197.0,85.8,5.0,Maruti
+Maruti Zen LXI,2006,106000,Petrol,Individual,Manual,Second Owner,17.3,993.0,60.0,5.0,Maruti
+Toyota Corolla DX,2005,96000,Petrol,Individual,Ai,Second Owner,13.4,1794.0,125.0,5.0,Toyota

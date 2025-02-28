@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 Magna,2013,25000,Petrol,Partnership,Manual,First Owner,18.5,1197.0,82.85,5.0,Hyundai
+Maruti Wagon R LXI Optional,2017,80000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Hyundai Santro Xing GLS,2008,191000,Petrol,Individual,Manual,First Owner,17.92,1086.0,62.1,5.0,Hyundai
+Maruti Wagon R VXI BS IV with ABS,2013,50000,Petrol,Individual,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti
+Hyundai i20 Magna 1.4 CRDi,2014,80000,Diesel,Individual,Manual,Second Owner,22.54,1396.0,88.73,5.0,Hyundai
+Hyundai i20 Magna,2013,110000,Petrol,Individual,Manual,First Owner,18.5,1197.0,82.85,5.0,Hyundai
+Hyundai Verna CRDi SX,2007,119000,Diesel,Individual,Manual,Fourth & Above Owner,16.8,1493.0,110.0,5.0,Hyundai
+Maruti Swift Dzire ZDi,2009,120000,Diesel,Individual,Manual,First Owner,19.3,1248.0,73.9,5.0,Maruti
+Tata Indigo CR4,2013,25000,Diesel,Individual,Manual,First Owner,23.57,1396.0,70.0,5.0,Indigo

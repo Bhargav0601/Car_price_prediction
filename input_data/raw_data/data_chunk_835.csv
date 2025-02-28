@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI,2013,100000,Diesel,Individual,Manual,Third Owner,22.9,1248.0,74.0,5.0,Maruti
+Volvo XC60 Inscription D5 BSIV,2018,50000,Diesel,Individual,Automatic,First Owner,11.2,1969.0,235.0,5.0,Volvo
+Hyundai Creta 1.6 CRDi SX Option,2015,73500,Diesel,Individual,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+Hyundai Xcent 1.1 CRDi SX,2016,34000,Diesel,Individual,Manual,Second Owner,24.4,1120.0,71.0,5.0,Hyundai
+Nissan Kicks XV D BSIV,2019,23000,Diesel,Individual,Manual,First Owner,20.45,1461.0,108.5,5.0,Nissan
+Ford Fiesta 1.4 SXi TDCi ABS,2008,163000,Diesel,Individual,Manual,Third Owner,17.8,1399.0,68.0,5.0,Ford
+Chevrolet Optra Magnum 2.0 LT,2011,119000,Diesel,Individual,Manual,Second Owner,16.52,1991.0,123.7,5.0,Optra
+Toyota Innova Crysta 2.8 ZX AT BSIV,2017,50000,Diesel,Individual,Automatic,First Owner,11.36,3672 CC,171.5,7.0,Toyota
+Honda City i-DTEC VX,2019,10500,Diesel,Individual,Manual,First Owner,25.6,1498.0,97.9,5.0,Honda

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mercedes-Benz New C-Class C 250 CDI Elegance,5,90000,Diesel,Dealer,Automatic,Rent,14.94,2143.0,204.0,5.0,Mercedes
+Hyundai i10 Sportz 1.2,2013,37000,Petrol,Dealer,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Baleno Delta 1.2,2017,34000,Petrol,Dealer,Manual,Second Owner,21.4,1197.0,83.1,5.0,Maruti
+Hyundai Verna SX,2012,60000,Petrol,Dealer,Manual,First Owner,17.7,1497.0,113.42,5.0,Hyundai
+Hyundai i10 Magna,2010,50000,Petrol,Dealer,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Chevrolet Enjoy 1.4 LTZ 7,2013,37000,Petrol,Dealer,Manual,First Owner,13.7,1399.0,98.79,7.0,Chevrolet
+Maruti Alto 800 LXI,2012,38000,Petrol,Dealer,Manual,Second Owner,24.7,796.0,47.3,5.0,Maruti
+Ford Figo Aspire Facelift,2017,40000,Diesel,Individual,Manual,First Owner,,,,,Ford
+Hyundai Verna SX Opt,2012,57000,Petrol,Dealer,Manual,First Owner,17.7,1497.0,113.42,5.0,Hyundai

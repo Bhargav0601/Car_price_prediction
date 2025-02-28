@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto K10 LXI,2011,97500,Petrol,Individual,Manual,First Owner,,,0.0,,Maruti
+Mahindra Scorpio 1.99 S10,2016,100000,Diesel,Individual,Manual,First Owner,15.4,1997.0,120.0,7.0,Mahindra
+Renault Duster 110PS Diesel RxZ,2012,55735,Diesel,Individual,Manual,Second Owner,19.01,1461.0,108.45,5.0,Renault
+Mahindra XUV500 W4,2014,80000,Diesel,Individual,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra
+Maruti Alto 800 LXI Optional,2016,50000,Petrol,Individual,Manual,Second Owner,24.7,796.0,47.3,5.0,Maruti
+Ford Figo Diesel Celebration Edition,2013,70000,Diesel,Individual,Manual,Second Owner,20.0,1399.0,68.1,5.0,Ford
+Hyundai i10 Magna 1.2 iTech SE,2012,76000,Petrol,Individual,Ai,Fourth & Above Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Swift Dzire VXI 1.2,2020,1500,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Mahindra Bolero 2011-2019 SLX,2012,76000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra

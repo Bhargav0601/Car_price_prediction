@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Tigor 1.05 Revotorq XZ Option,2017,50000,Diesel,Individual,Manual,First Owner,24.7,1047.0,69.0,5.0,Tata
+Honda City i DTEC VX Option,2015,160000,Diesel,Individual,Manual,First Owner,25.1,1498.0,98.6,5.0,Honda
+Hyundai Santro Magna BSIV,2019,10000,Petrol,Individual,Manual,First Owner,20.3,1086.0,68.0,5.0,Hyundai
+Maruti Ertiga VDI,2012,100000,Diesel,Individual,Manual,Third Owner,20.77,1248.0,88.76,7.0,Maruti
+Maruti Swift VDI Optional,2016,50000,Diesel,Individual,Manual,Second Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Alto K10 Knightracer,2013,60000,Petrol,Individual,Ai,Second Owner,20.2,998.0,67.1,5.0,Maruti
+Chevrolet Beat Diesel LT,2012,110000,Diesel,Individual,Ai,First Owner,25.44,936.0,57.6,5.0,Chevrolet
+Hyundai i20 Active 1.4 SX with AVN,2016,80000,Diesel,Individual,Manual,Third Owner,21.19,1396.0,88.73,5.0,Hyundai
+Maruti SX4 ZDI,2011,85000,Diesel,Individual,Manual,Second Owner,21.5,1248.0,88.8,5.0,Maruti

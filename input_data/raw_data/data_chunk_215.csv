@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Diesel ZXI,9,40000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Maruti Wagon R LXI Minor,2009,96000,Petrol,Individual,Manual,Second Owner,18.9,1061.0,67.0,5.0,Maruti
+Mahindra Xylo D4 BSIII,2012,117000,Diesel,Individual,Manual,First Owner,14.0,2498.0,112.0,8.0,Mahindra
+Hyundai i10 Era,6,110000,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Honda Amaze S i-Dtech,2014,100000,Diesel,Individual,Manual,Second Owner,25.8,1498.0,98.6,5.0,Honda
+Maruti Alto LXi,2007,88700,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Nissan Sunny XL,2012,70000,Petrol,Individual,Manual,Second Owner,16.95,1498.0,97.7,5.0,Nissan
+Maruti Wagon R LX BSIII,2010,110000,Petrol,Individual,Manual,Second Owner,17.3,1061.0,64.0,5.0,Maruti
+Maruti Alto 800 LXI,2016,15000,Electric,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti

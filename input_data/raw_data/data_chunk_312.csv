@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Beat LT,2011,60000,Petrol,Individual,Manual,First Owner,18.6,1199.0,79.4,5.0,Chevrolet
+Renault KWID RXT Optional,2016,41000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Maruti Omni E MPI STD BS IV,2018,25000,Petrol,Individual,Manual,First Owner,16.8,796.0,34.2,8.0,Maruti
+Hyundai Xcent 1.2 Kappa S,2015,30000,Petrol,Individual,Manual,First Owner,19.1,1197.0,82.0,5.0,Hyundai
+Honda Amaze S Option i-DTEC,2018,50000,Diesel,Individual,Manual,First Owner,Unknown,3488 CC,98.6,5.0,Honda
+Maruti Ignis 1.2 Zeta BSIV,2018,10000,Petrol,Individual,Manual,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Mahindra Bolero Power Plus SLE,2017,40000,Diesel,Individual,Manual,First Owner,16.5,1493.0,70.0,7.0,Mahindra
+Mahindra Scorpio VLX 2WD AIRBAG BSIII,2012,120000,Diesel,Individual,Manual,First Owner,12.05,2179.0,120.0,8.0,Mahindra
+Maruti Swift Dzire VDI,2017,40000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti

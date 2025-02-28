@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Ldi BSIV,2010,176062,Diesel,Individual,Manual,First Owner,17.8,1248.0,75.0,5.0,Maruti
+Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,2008,250000,Diesel,Individual,Manual,Third Owner,12.8,2494.0,102.0,8.0,Toyota
+Hyundai Santro LP zipPlus,2003,70000,Petrol,Individual,Manual,Second Owner,,,,,Hyundai
+Honda Amaze Anniversary Edition,2015,82000,Diesel,Individual,Manual,First Owner,25.8,1498.0,98.6,,Honda
+Hyundai i10 Era 1.1 iTech SE,2010,80000,Petrol,Individual,Manual,First Owner,19.81,1086.0,68.05,5.0,Hyundai
+Chevrolet Enjoy 1.3 TCDi LTZ 7,2017,40000,Diesel,Individual,Manual,Second Owner,18.2,1248.0,73.74,7.0,Chevrolet
+Jeep Compass 2.0 Longitude Option BSIV,2019,14000,Diesel,Individual,Manual,First Owner,17.1,1956.0,170.0,5.0,Jeep
+Renault Duster 4x4,2014,129000,Diesel,Individual,Manual,First Owner,19.72,1461.0,108.45,5.0,Renault
+Fiat Punto EVO 1.3 Emotion,2016,60000,Diesel,Individual,Manual,Second Owner,20.5,1248.0,91.7,5.0,Fiat

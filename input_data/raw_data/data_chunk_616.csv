@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Brio 1.2 VX MT,2016,60000,Electric,Individual,Manual,Second Owner,18.5,2920 CC,86.8,5.0,Honda
+Maruti Eeco 5 Seater AC BSIV,2010,170000,Petrol,Individual,Manual,Third Owner,15.37,1196.0,73.0,5.0,Maruti
+Maruti Ciaz ZDi Plus,2015,70000,Diesel,Individual,Manual,First Owner,26.21,1248.0,88.5,5.0,Maruti
+Audi A4 2.0 TDI 177 Bhp Premium Plus,2013,110000,Diesel,Individual,Automatic,First Owner,17.11,1968.0,174.33,5.0,Audi
+Maruti Swift Dzire AMT VXI BS IV,2019,45000,Petrol,Partnership,Automatic,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Mahindra Xylo E4 BS IV,2010,60000,Diesel,Individual,Manual,Second Owner,14.0,,112.0,7.0,Mahindra
+Chevrolet Enjoy 1.3 TCDi LT 8,2016,32000,Diesel,Individual,Manual,First Owner,18.2,1248.0,73.74,8.0,Chevrolet
+Mahindra TUV 300 T4,2016,60000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Hyundai Accent VIVA CRDi,2003,120000,Diesel,Individual,Manual,Fourth & Above Owner,13.1,1493.0,82.0,5.0,Hyundai

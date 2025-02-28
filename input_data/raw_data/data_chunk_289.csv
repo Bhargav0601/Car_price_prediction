@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i-DTEC VX,2018,60000,Diesel,Individual,Manual,First Owner,25.6,1498.0,97.9,5.0,Honda
+Hyundai EON 1.0 Era Plus,2018,70000,Petrol,Individual,Manual,First Owner,20.3,998.0,68.05,5.0,Hyundai
+Hyundai Santro Era,2019,4000,Petrol,Individual,Manual,First Owner,20.3,1086.0,68.0,5.0,Hyundai
+Hyundai i10 Magna,2012,103000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Hyundai Grand i10 1.2 CRDi Sportz Option,2017,20000,Diesel,Individual,Manual,First Owner,24.0,1186.0,73.97,5.0,Hyundai
+Maruti Swift VDI,2013,77000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Volkswagen Vento Diesel Highline,2012,90000,Diesel,Individual,Manual,First Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Hyundai Verna 1.6 CRDi EX MT,2013,87185,Diesel,Individual,Manual,Second Owner,22.32,1582.0,126.3,5.0,Hyundai
+Maruti Wagon R LXI,2003,167000,Petrol,Individual,Manual,Second Owner,18.9,998.0,67.1,5.0,Wagon

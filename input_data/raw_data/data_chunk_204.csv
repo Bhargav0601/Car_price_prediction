@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo 1.5P Titanium AT,2015,40000,Electric,Individual,Automatic,First Owner,17.01,1499.0,110.4,5.0,Ford
+Tata Manza ELAN Quadrajet BS III,2011,70000,Diesel,Partnership,Manual,First Owner,19.0,1248.0,90.0,5.0,Tata
+Tata Manza Aura (ABS) Quadrajet BS IV,2010,120000,Diesel,Individual,Manual,First Owner,21.12,1248.0,88.8,5.0,Tata
+Mahindra Scorpio VLX 2WD BSIII,2008,120000,Diesel,Individual,Manual,Second Owner,12.05,2179.0,120.0,8.0,Mahindra
+Tata Indigo CS eLS BS IV,2012,90000,Diesel,Individual,Ai,First Owner,23.03,1396.0,69.0,5.0,Tata
+Tata Indigo eCS LX BSIV,2012,35000,Diesel,Individual,Manual,Second Owner,23.03,1396.0,69.0,5.0,Tata
+Maruti Omni E MPI STD BS IV,2018,30000,Petrol,Individual,Manual,First Owner,16.8,796.0,34.2,8.0,Maruti
+Hyundai Creta 1.4 CRDi S,2018,70000,Diesel,Individual,Manual,First Owner,21.38,1396.0,88.7,5.0,Hyundai
+Tata Manza Club Class Quadrajet90 LX,2012,60000,Diesel,Individual,Manual,First Owner,21.02,1248.0,88.76,5.0,Tata

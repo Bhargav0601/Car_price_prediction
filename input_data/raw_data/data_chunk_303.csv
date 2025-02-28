@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 2015-2017 Sportz 1.2,2017,50000,Petrol,Individual,Manual,Second Owner,18.6,1197.0,81.83,5.0,Hyundai
+Hyundai i20 Active 1.4 SX,2017,80000,Diesel,Individual,Manual,First Owner,21.19,1396.0,88.73,5.0,Hyundai
+Mahindra TUV 300 T8 AMT,2017,50000,Diesel,Individual,Automatic,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Maruti Eeco CNG 5 Seater AC BSIV,2017,30000,CNG,Individual,Manual,First Owner,21.94,1196.0,61.7,2 seats,Maruti
+Toyota Corolla Altis Diesel D4DG,2012,125000,Diesel,Individual,Manual,Second Owner,21.43,1364.0,87.2,5.0,Toyota
+Hyundai i10 Magna 1.1L,2012,110000,Petrol,Individual,Manual,Rent,19.81,1086.0,68.05,5.0,Hyundai
+Maruti Ertiga VDI,2013,30000,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.76,7.0,Maruti
+Maruti Ertiga ZDI,2014,148000,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.8,7.0,Maruti
+Mahindra TUV 300 T6 Plus,2016,35000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra

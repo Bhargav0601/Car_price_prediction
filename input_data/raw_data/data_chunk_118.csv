@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Cruze LTZ AT,2011,90000,Diesel,Individual,Automatic,Second Owner,18.1,1991.0,147.9,4.0,Chevrolet
+Toyota Corolla Altis 1.8 G,2018,13534,Petrol,Partnership,Manual,First Owner,14.28,1798.0,138.03,5.0,Toyota
+Toyota Corolla Altis 1.8 VL AT,2017,7000,Petrol,Partnership,Automatic,Second Owner,14.53,1794.0,138.1,5.0,Toyota
+Mercedes-Benz GLA Class 200 CDI SPORT,6,23000,Diesel,Dealer,Automatic,Rent,17.9,2143.0,136.0,5.0,Mercedes
+Toyota Innova Crysta 2.8 GX AT 8S BSIV,2019,43000,Diesel,Dealer,Automatic,First Owner,11.36,2755.0,171.5,8.0,Toyota
+Kia Seltos HTX Plus AT D,2020,5000,Diesel,Dealer,Automatic,First Owner,17.8,1493.0,113.4,5.0,Kia
+Maruti Ciaz RS ZDi Plus SHVS,2017,70000,Diesel,Dealer,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti
+Skoda Rapid 1.5 TDI AT Style Plus,2016,99000,Diesel,Dealer,Automatic,First Owner,21.66,1498.0,103.52,5.0,Skoda
+Maruti Swift ZXI 2018,2018,15000,Petrol,Dealer,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti

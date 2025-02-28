@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Optra Magnum 2.0 LT,2008,90000,Diesel,Individual,Manual,Fourth & Above Owner,16.52,1991.0,123.7,5.0,Chevrolet
+Maruti Ritz VDi,2011,89000,Diesel,Individual,Manual,Second Owner,21.1,1248.0,73.9,5.0,Maruti
+Tata Indica V2 DLS TC,2006,88000,Electric,Individual,Ai,Second Owner,16.8,1405.0,62.0,5.0,Tata
+Maruti Swift Dzire VDI,2015,30000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Swift Dzire AMT ZDI,2016,50000,Diesel,Individual,Automatic,Second Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Swift Dzire VDI,2013,80000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Hyundai i20 Asta Option 1.4 CRDi,2016,40000,Electric,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Ertiga VDI,2015,110000,Diesel,Individual,Manual,Third Owner,20.77,1248.0,88.76,7.0,Maruti
+Hyundai Creta 1.6 CRDi SX Plus Dual Tone,2015,48000,Diesel,Individual,Manual,Second Owner,19.67,1582.0,126.2,5.0,Hyundai

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Zest Revotron 1.2T XMS,2015,20000,Petrol,Individual,Manual,First Owner,17.57,1193.0,88.7,5.0,Tata
+Renault Duster 85PS Diesel RxL Option,2012,80000,Diesel,Individual,Manual,First Owner,19.87,1461.0,83.8,5.0,Renault
+Toyota Innova 2.5 Z Diesel 7 Seater,2014,110000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.6,7.0,Toyota
+Hyundai Verna 1.6 SX CRDi (O),2013,80000,Diesel,Individual,Manual,Second Owner,22.32,1582.0,126.32,5.0,Hyundai
+Toyota Platinum Etios 1.4 GXD,2017,40000,Diesel,Individual,Manual,First Owner,23.59,1364.0,67.05,5.0,Toyota
+Honda WR-V i-VTEC S,2018,30000,Petrol,Individual,Manual,First Owner,17.5,1199.0,88.7,5.0,Honda
+Ford Fiesta 1.5 TDCi Titanium,2014,80000,Diesel,Individual,Manual,First Owner,25.01,1498.0,89.75,5.0,Ford
+Skoda Laura Ambiente 2.0 TDI CR MT,2011,140000,Diesel,Individual,Ai,Second Owner,20.0,1968.0,108.5,5.0,Skoda
+Maruti Alto K10 VXI,2017,25000,Electric,Individual,Ai,First Owner,23.95,998.0,67.05,5.0,Maruti

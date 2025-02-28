@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Xcent 1.2 VTVT SX,2019,15000,Petrol,Individual,Manual,First Owner,20.14,1197.0,81.86,5.0,Hyundai
+Maruti Swift Dzire 1.2 Vxi BSIV,2010,200000,Petrol,Individual,Manual,First Owner,17.5,1197.0,85.8,5.0,Maruti
+Maruti Alto LXi,2009,120000,Petrol,Individual,Manual,Rent,19.7,796.0,46.3,5.0,Maruti
+Hyundai Getz GLX,2005,120000,Petrol,Individual,Manual,Fourth & Above Owner,15.3,1341.0,83.0,5.0,Hyundai
+Hyundai i10 Sportz AT,2010,110000,Petrol,Individual,Automatic,Third Owner,16.95,1197.0,78.9,5.0,Hyundai
+Maruti Eeco 5 Seater AC BSIV,2016,38000,Petrol,Individual,Manual,First Owner,15.37,1196.0,73.0,5.0,Maruti
+Tata Manza Aura Plus Safire,2010,104000,Petrol,Individual,Manual,First Owner,15.0,1368.0,90.0,5.0,Tata
+Honda BR-V i-VTEC E MT,2017,120000,Petrol,Individual,Manual,Rent,15.4,1497.0,117.3,7.0,Honda
+Maruti Vitara Brezza ZDi Plus AMT Dual Tone,2018,35000,Diesel,Individual,Automatic,First Owner,24.3,1248.0,88.5,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault Triber RXZ BSIV,2019,5000,Petrol,Individual,Manual,First Owner,20.0,999.0,72.0,7.0,Triber
+Maruti Vitara Brezza ZDi Plus Dual Tone,2016,90000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Ertiga ZDI,2012,96000,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.8,7.0,Maruti
+Maruti Eeco 5 Seater AC BSIV,2011,80000,Petrol,Partnership,Ai,Third Owner,15.37,1196.0,73.0,5.0,Maruti
+Maruti Zen Estilo 1.1 LXI BSIII,2007,60000,Petrol,Individual,Manual,Second Owner,18.2,1061.0,64.0,5.0,Maruti
+Mahindra XUV500 W6 2WD,1,90000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,2008,193623,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,8.0,Toyota
+Hyundai i20 1.4 Asta Option,2017,63186,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Mahindra Bolero SLX,2008,219000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra

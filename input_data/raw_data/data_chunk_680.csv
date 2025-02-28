@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Creta 1.4 CRDi Base,2017,60000,Diesel,Individual,Manual,First Owner,21.38,1396.0,88.7,5.0,Hyundai
+Maruti Swift Dzire VDI,2017,127000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Tata Manza Club Class Quadrajet90 EX,8,140000,Diesel,Individual,Manual,First Owner,21.02,1248.0,88.76,5.0,Manza
+Renault Triber RXZ BSIV,2019,5000,Petrol,Individual,Manual,Rent,20.0,999.0,72.0,7.0,Renault
+Maruti Swift Dzire VDI,2015,70000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Swift Dzire Vdi BSIV,2011,60000,Diesel,Individual,Manual,First Owner,19.3,1248.0,73.9,5.0,Maruti
+Volkswagen Polo 1.2 MPI Comfortline,2016,40000,Petrol,Individual,Manual,Second Owner,16.2,1199.0,74.0,5.0,Volkswagen
+Volkswagen Polo 1.2 MPI Comfortline,2016,40000,Petrol,Individual,Manual,Second Owner,16.2,1199.0,74.0,5.0,Volkswagen
+Maruti Wagon R LXI Minor,2009,70000,Petrol,Individual,Manual,Second Owner,18.9,1061.0,67.0,5.0,Maruti

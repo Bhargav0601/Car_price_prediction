@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Jaguar XF 2.2 Litre Luxury,2013,60000,Diesel,Individual,Automatic,First Owner,16.36,2179.0,187.7,5.0,Jaguar
+Volkswagen Ameo 1.5 TDI Comfortline AT,2017,34000,Diesel,Individual,Automatic,First Owner,22.0,1498.0,108.495,5.0,Volkswagen
+Honda City 1.5 GXI,2004,110000,Petrol,Individual,Manual,Third Owner,12.8,1493.0,100.0,5.0,Honda
+Hyundai Santro GS zipPlus,2001,71000,Petrol,Individual,Manual,Rent,,,,,Hyundai
+Maruti Wagon R LXI,2005,140000,Petrol,Individual,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti
+Honda City Corporate Edition,2012,100000,Petrol,Individual,Manual,Second Owner,16.8,1497.0,116.3,5.0,Honda
+Hyundai Grand i10 1.2 Kappa Sportz AT,2017,10000,Petrol,Individual,Automatic,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Maruti Celerio ZXI Optional,3,30000,Petrol,Individual,Manual,First Owner,21.63,998.0,67.04,5.0,Maruti
+Toyota Fortuner 2.8 4WD AT BSIV,2016,90000,Diesel,Individual,Automatic,First Owner,15.04,2755.0,174.5,7.0,Fortuner

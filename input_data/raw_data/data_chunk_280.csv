@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2015,60000,Electric,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Wagon R LXI,2004,110000,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Renault Duster 85PS Diesel RxL Optional,2013,95000,Diesel,Individual,Manual,First Owner,20.46,1461.0,83.8,5.0,Renault
+Hyundai EON Era Plus,2015,34000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Hyundai Grand i10 Sportz,2015,25000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Maruti Eeco CNG 5 Seater AC BSIV,2019,120000,CNG,Individual,Manual,Second Owner,21.94,1196.0,61.7,5.0,Maruti
+Toyota Etios Cross 1.4L GD,2014,31000,Diesel,Individual,Manual,First Owner,23.59,1364.0,67.06,5.0,Toyota
+Maruti Wagon R LXI CNG,2018,70000,CNG,Individual,Manual,First Owner,26.6,998.0,58.16,5.0,Maruti
+Maruti Ritz VXi (ABS) BS IV,7,47000,Petrol,Individual,Manual,First Owner,18.5,1197.0,85.8,5.0,Ritz

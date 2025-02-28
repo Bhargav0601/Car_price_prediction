@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Baleno Delta,2017,37000,Petrol,Dealer,Manual,First Owner,21.01,1197.0,81.8,5.0,Maruti
+Maruti Celerio VDi,2016,61173,Diesel,Dealer,Manual,First Owner,27.62,793.0,47.0,5.0,Maruti
+Maruti Swift VDI BSIV W ABS,2016,77321,Diesel,Dealer,Manual,First Owner,,,,,Maruti
+Audi A4 35 TDI Premium Plus,2016,30000,Diesel,Dealer,Automatic,First Owner,18.25,1968.0,187.74,5.0,Audi
+Mahindra XUV500 W8 2WD,9,75000,Diesel,Dealer,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Maruti Baleno Alpha CVT,2017,51000,Petrol,Dealer,Automatic,First Owner,19.56,1197.0,81.8,5.0,Maruti
+Maruti Baleno Alpha,2018,17000,Petrol,Dealer,Manual,First Owner,21.01,1197.0,81.8,,Maruti
+Maruti Swift Vdi BSIII,2008,100000,Diesel,Individual,Manual,Second Owner,Unknown,1248.0,75.0,5.0,Maruti
+Audi A6 2.0 TDI Premium Plus,2013,35000,Diesel,Individual,Automatic,Second Owner,17.68,1968.0,174.33,5.0,Audi

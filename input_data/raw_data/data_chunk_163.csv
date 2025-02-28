@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata New Safari DICOR 2.2 EX 4x2,2008,120000,Diesel,Individual,Manual,Second Owner,11.57,2179.0,138.1,7.0,Tata
+Maruti 800 DX,1999,100000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Mahindra Scorpio 2.6 CRDe,2003,98000,Diesel,Individual,Manual,First Owner,10.5,2179.0,120.0,8.0,Mahindra
+Mahindra Bolero DI DX 7 Seater,2009,150000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Chevrolet Sail LT ABS,2014,38000,Diesel,Individual,Manual,First Owner,22.1,1248.0,74.0,5.0,Chevrolet
+Toyota Etios GD,2015,120000,Diesel,Individual,Manual,Rent,23.59,1364.0,67.05,5.0,Toyota
+Ford Figo Diesel Titanium,2011,103000,Electric,Individual,Manual,Third Owner,20.0,1399.0,68.0,5.0,Ford
+Maruti 800 AC,1994,60000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Vitara Brezza VDi Option,2017,80000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti

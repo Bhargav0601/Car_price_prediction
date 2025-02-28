@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga ZDI,2014,90000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.8,7.0,Maruti
+Hyundai Verna 1.4 CRDi,2016,40000,Diesel,Individual,Manual,First Owner,24.8,1396.0,88.7,5.0,Hyundai
+Ford Figo 1.5D Base MT,2017,113000,Diesel,Individual,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Maruti Swift Vdi BSIII,2011,188000,Diesel,Individual,Manual,Second Owner,17.8,1248.0,75.0,5.0,Maruti
+Ford Figo Diesel Titanium,2011,100000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Tata Sumo MKII Turbo 2.0 LX,2010,225000,Diesel,Individual,Manual,Rent,14.0,1948.0,90.0,9.0,Tata
+Mahindra TUV 300 mHAWK100 T8,2017,67000,Diesel,Individual,Manual,Second Owner,18.49,1493.0,100.0,7.0,Mahindra
+Chevrolet Beat Diesel LT Option,2011,70000,Diesel,Individual,Manual,Fourth & Above Owner,25.44,936.0,57.6,5.0,Chevrolet
+Toyota Corolla Altis JS MT,2015,50000,Petrol,Individual,Manual,Rent,14.28,1798.0,138.03,5.0,Toyota

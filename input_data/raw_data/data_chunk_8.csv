@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Vitara Brezza ZDi Plus AMT,2019,9850,Diesel,Individual,Automatic,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Hyundai i10 Magna,2011,60000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Swift VDI Deca,2016,70000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Toyota Fortuner 4x4 MT,2015,78000,Diesel,Individual,Manual,Second Owner,41 kmpl,2982.0,168.5,7.0,Toyota
+Maruti Swift Star VDI,2013,120000,Diesel,Individual,Manual,Second Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Ertiga ZXI,2012,120000,Petrol,Partnership,Manual,Second Owner,16.02,1373.0,93.7,7.0,Maruti
+Tata Indica DLS,2003,70000,Diesel,Individual,Manual,First Owner,,,,,Tata
+Volkswagen Vento Diesel Highline,2013,170000,Diesel,Individual,Manual,First Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Toyota Innova 2.5 VX (Diesel) 8 Seater,2016,140000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,8.0,Toyota

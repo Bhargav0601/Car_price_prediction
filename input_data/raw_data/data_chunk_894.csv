@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Jazz V Diesel,2017,37151,Diesel,Dealer,Manual,First Owner,27.3,1498.0,98.6,5.0,Honda
+Honda City i VTEC VX Option,2015,39000,Petrol,Dealer,Manual,First Owner,17.4,1497.0,117.3,5.0,Honda
+Volkswagen Polo Select 1.2 MPI Highline,2010,44500,Petrol,Dealer,Manual,First Owner,16.47,3492 CC,74.0,5.0,Volkswagen
+Honda Jazz 1.2 VX i VTEC,2016,15000,Petrol,Dealer,Manual,First Owner,18.7,1199.0,88.7,5.0,Honda
+Ford Ecosport 1.5 Petrol Titanium,2016,39000,Petrol,Dealer,Manual,First Owner,15.9,1496.0,120.69,5.0,Ford
+Honda City i VTEC S,2015,58161,Petrol,Dealer,Manual,First Owner,17.8,1497.0,117.3,5.0,Honda
+Honda CR-V 2.4L 4WD AT,2012,50171,Petrol,Partnership,Automatic,First Owner,11.1,2354.0,158.8,5.0,Honda
+Honda City i-VTEC V,2011,40000,Petrol,Dealer,Manual,First Owner,17.4,1497.0,117.6,5.0,Honda
+Honda City i VTEC SV,2016,55161,Petrol,Dealer,Manual,First Owner,17.8,1497.0,117.3,5.0,Honda

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai EON Magna Plus,2014,60000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Mahindra Bolero 2011-2019 SLE,2013,110000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Swift VDI BSIV,2017,110000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Skoda Fabia 1.2L Diesel Elegance,2011,145000,Diesel,Individual,Manual,First Owner,20.86,1199.0,75.0,5.0,Skoda
+Hyundai Elite i20 Asta Option Diesel,2019,43000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.76,5.0,Hyundai
+Maruti Ritz LDi,2016,120000,Diesel,Individual,Manual,First Owner,23.2,1248.0,73.94,5.0,Maruti
+Maruti Swift Lxi BSIII,2007,136000,Petrol,Individual,Manual,Second Owner,16.1,1298.0,88.2,5.0,Maruti
+Tata Indica V2 DLS BSIII,2013,120000,Diesel,Partnership,Manual,Second Owner,17.88,1405.0,48.21,5.0,Tata
+Hyundai Elite i20 Petrol Asta Option,2018,25000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.86,5.0,Hyundai

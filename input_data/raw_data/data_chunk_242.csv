@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Vitara Brezza ZDi Plus,2016,83000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Alto 800 LXI,2013,50000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Wagon R LXI Minor,8,120000,Petrol,Individual,Manual,Fourth & Above Owner,18.9,1061.0,67.0,2 seats,Wagon
+Mahindra Bolero 2011-2019 SLE,2014,100000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Swift VDI,2012,70000,Diesel,Individual,Manual,Third Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Alto LXi,2008,19000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Honda City 1.5 S MT,2009,68600,Petrol,Individual,Manual,Third Owner,17.0,3963 CC,118.0,,Honda
+Mahindra Bolero Power Plus SLX,2017,60000,Diesel,Individual,Manual,First Owner,16.5,1493.0,70.0,7.0,Mahindra
+Mahindra Bolero 2011-2019 SLX,2014,65000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,62.1,7.0,Mahindra

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai EON Sportz,2017,10000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Mahindra XUV500 AT W10 AWD,2016,91567,Diesel,Individual,Automatic,Third Owner,16.0,2179.0,140.0,7.0,Mahindra
+Maruti Celerio VXI,2017,50000,Petrol,Individual,Manual,First Owner,23.1,998.0,67.04,5.0,Maruti
+Hyundai Grand i10 1.2 Kappa Sportz Option,2017,60000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Grand
+Maruti Alto 800 LXI,2016,35000,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Hyundai Verna 1.4 VTVT,2014,33400,Petrol,Individual,Manual,First Owner,17.43,1396.0,105.5,,Hyundai
+Maruti Swift LXI Optional-O,2015,36000,Petrol,Individual,Manual,First Owner,20.4,1197.0,83.11,5.0,Maruti
+Ford Figo Diesel ZXI,2011,180000,Diesel,Individual,Manual,Rent,20.0,1399.0,68.0,5.0,Ford
+Maruti Alto K10 2010-2014 VXI,2012,80000,Petrol,Individual,Manual,First Owner,20.92,998.0,67.1,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Zen LX,1999,60000,Petrol,Individual,Manual,Fourth & Above Owner,17.3,993.0,60.0,5.0,Maruti
+Honda Amaze S i-Dtech,2013,100000,Diesel,Individual,Manual,First Owner,25.8,1498.0,98.6,5.0,Honda
+Hyundai i10 Magna,2008,35000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Swift Vdi BSIII,2008,90000,Diesel,Individual,Manual,Third Owner,17.8,1248.0,75.0,5.0,Swift
+Hyundai i20 Active 1.2 S,2015,50000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Hyundai i20 1.2 Magna,2011,98000,Petrol,Individual,Manual,First Owner,18.5,1197.0,80.0,5.0,Hyundai
+Hyundai i20 Asta 1.2,2,30000,Petrol,Individual,Manual,First Owner,18.5,1197.0,82.85,5.0,i20
+Hyundai Elantra SX,2013,50000,Petrol,Individual,Manual,Second Owner,16.3,1797.0,147.5,5.0,Hyundai
+Hyundai Grand i10 Sportz,2016,26000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai

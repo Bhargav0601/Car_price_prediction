@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+BMW X4 M Sport X xDrive20d,2019,7500,Diesel,Dealer,Automatic,First Owner,16.78,1995.0,190.0,5.0,BMW
+BMW X4 M Sport X xDrive20d,2019,8500,Diesel,Dealer,Automatic,First Owner,16.78,1995.0,190.0,5.0,BMW
+Honda Amaze V CVT Petrol BSIV,8,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0,1199.0,88.76,5.0,Honda
+Skoda Rapid 1.6 MPI AT Elegance,2016,11000,Petrol,Dealer,Automatic,First Owner,14.3,1598.0,103.5,5.0,Skoda
+Volvo V40 D3 R-Design,2018,2000,Diesel,Dealer,Automatic,First Owner,16.8,1984.0,150.0,5.0,Volvo
+Honda Amaze S CVT Diesel BSIV,2019,40000,Diesel,Individual,Automatic,First Owner,23.8,1498.0,78.9,5.0,Honda
+Hyundai Creta 1.4 CRDi Base,2017,45000,Diesel,Partnership,Manual,First Owner,21.38,1396.0,88.7,5.0,Hyundai
+Maruti Alto LXi BSIII,2010,80000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai Xcent 1.1 CRDi S Option,2015,135000,Electric,Individual,Manual,Second Owner,24.4,1120.0,71.01,5.0,Hyundai

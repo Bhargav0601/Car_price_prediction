@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 Sportz 1.4 CRDi,2015,80000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Tata Indigo eCS GLS,2013,120000,Petrol,Individual,Manual,Rent,15.64,1193.0,64.1,5.0,Tata
+Hyundai Xcent 1.1 CRDi S Option,2015,90000,Diesel,Individual,Manual,First Owner,24.4,1120.0,71.01,5.0,Hyundai
+Ford Figo Diesel Celebration Edition,2013,70000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.1,5.0,Ford
+Renault Duster 110PS Diesel RxZ,2014,188000,Diesel,Individual,Manual,Second Owner,19.01,1461.0,108.45,5 seats,Renault
+Chevrolet Spark 1.0 LT,2011,67840,Petrol,Individual,Manual,First Owner,18.0,995.0,62.0,5.0,Chevrolet
+Tata Nano CX,2013,30000,Petrol,Individual,Manual,First Owner,25.4,624.0,37.48,4.0,Nano
+Maruti Alto 800 LXI,2016,35000,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Swift VDI BSIV,2010,150000,Diesel,Individual,Manual,Second Owner,,,,,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Spark 1.0 LS,2011,35000,Petrol,Partnership,Manual,First Owner,18.0,995.0,62.0,5.0,Chevrolet
+Hyundai Elite i20 Magna Plus BSIV,2019,12500,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.86,5.0,Hyundai
+Hyundai Grand i10 Magna,2014,80000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Renault KWID RXT,2015,210000,Petrol,Individual,Manual,Second Owner,25.17,,53.3,5.0,Renault
+Maruti Swift Dzire VDI,2018,100000,Diesel,Individual,Manual,Second Owner,28.4,1248.0,74.02,5.0,Maruti
+Hyundai Santro Xing GL Plus,2011,110000,Petrol,Individual,Manual,Rent,17.92,1086.0,62.1,5.0,Hyundai
+Mahindra Bolero Power Plus ZLX,2016,103000,Diesel,Individual,Manual,First Owner,16.5,1493.0,70.0,7.0,Mahindra
+Maruti Wagon R LXI Minor,2010,577414,Petrol,Individual,Manual,Second Owner,18.9,1061.0,67.0,5.0,Maruti
+Maruti Alto LX,2006,100000,Electric,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti

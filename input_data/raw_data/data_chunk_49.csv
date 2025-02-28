@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti 800 AC BSIII,2004,80000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Swift VDI Optional,1,47000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Hyundai Xcent 1.2 Kappa S Option,2015,93000,Petrol,Individual,Manual,First Owner,19.1,1197.0,81.86,5.0,Hyundai
+Maruti 800 Std,2010,70000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Celerio VXI,2014,50000,Petrol,Individual,Manual,First Owner,23.1,998.0,67.04,5.0,Maruti
+Ford Figo Diesel EXI,2015,70000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.05,5.0,Ford
+Tata Safari DICOR 2.2 LX 4x2,2012,80000,Diesel,Individual,Manual,First Owner,13.93,2179.0,138.03,7.0,Tata
+Ford Figo 1.2P Titanium Plus MT,2016,44000,Petrol,Individual,Manual,First Owner,18.16,1196.0,86.8,5.0,Ford
+Maruti Celerio ZXI,2014,25000,Petrol,Individual,Manual,First Owner,23.1,998.0,67.04,5.0,Maruti

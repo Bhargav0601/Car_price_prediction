@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto K10 LXI,2011,70000,Petrol,Individual,Ai,Third Owner,20.92,998.0,67.1,5.0,Maruti
+Renault Duster 85PS Diesel RxL Optional,2012,90000,Diesel,Partnership,Manual,Second Owner,20.46,1461.0,83.8,5.0,Renault
+Maruti Ertiga ZDI,2014,80000,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.8,7.0,Maruti
+Honda City 2017-2020 VTEC,2006,120000,Petrol,Partnership,Manual,Second Owner,16.9,1497.0,100.0,5.0,City
+Maruti Alto STD,2009,100000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Tata Tigor 1.2 Revotron XT,1,35000,Petrol,Individual,Manual,First Owner,20.3,1199.0,84.0,5.0,Tata
+Renault Triber RXT BSIV,2019,5000,Electric,Individual,Manual,First Owner,20.0,999.0,72.0,7.0,Renault
+Maruti Vitara Brezza VDi Option,2016,110000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Hyundai i20 1.2 Asta Option,2017,20000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai

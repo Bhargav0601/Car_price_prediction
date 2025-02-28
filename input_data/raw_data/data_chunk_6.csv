@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Jazz VX Diesel,2015,63000,Diesel,Dealer,Manual,First Owner,27.3,1498.0,98.6,5.0,Honda
+Toyota Innova Crysta 2.8 ZX AT BSIV,8,127700,Diesel,Dealer,Automatic,Second Owner,11.36,2755.0,171.5,7.0,Toyota
+Toyota Innova 2.5 G (Diesel) 7 Seater,2016,99000,Diesel,Dealer,Manual,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Audi A6 2.0 TDI Technology,2013,33900,Diesel,Dealer,Automatic,Second Owner,17.68,1968.0,174.33,5.0,Audi
+Toyota Corolla Altis 1.8 VL CVT,2018,25000,Petrol,Dealer,Automatic,First Owner,14.28,1798.0,138.03,5.0,Toyota
+Audi A6 2.0 TDI  Design Edition,2013,50000,Diesel,Dealer,Automatic,First Owner,18.53,1968.0,187.74,5.0,Audi
+Mercedes-Benz New C-Class 220 CDI AT,2013,59000,Diesel,Dealer,Automatic,First Owner,14.84,3629 CC,170.0,5.0,Mercedes
+Tata Manza ELAN Quadrajet BS IV,2011,120000,Diesel,Individual,Manual,First Owner,21.12,1248.0,88.8,5.0,Tata
+Hyundai i10 Magna,2011,110000,Petrol,Individual,Manual,Third Owner,20.36,1197.0,78.9,5.0,i10

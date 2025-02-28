@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero 2011-2019 ZLX,2012,165000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Tata Zest Revotron 1.2 XT,2015,50000,Petrol,Individual,Manual,First Owner,17.57,1193.0,88.7,5.0,Tata
+Renault Scala Diesel RxZ,2013,120000,Diesel,Individual,Manual,First Owner,21.64,1461.0,84.8,5.0,Renault
+Ford Figo Diesel LXI,2010,100000,Diesel,Individual,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Maruti Omni BSIII 8-STR W/ IMMOBILISER,2009,90000,Petrol,Individual,Manual,Third Owner,,,,,Maruti
+Maruti SX4 Vxi BSIII,2007,120000,Petrol,Individual,Manual,Second Owner,15.0,1586.0,104.68,5.0,Maruti
+Maruti Ertiga VXI Limited Edition,2017,70000,Petrol,Individual,Manual,Second Owner,17.5,1373.0,91.1,7.0,Maruti
+Maruti Swift VDI BSIV,2008,90000,Diesel,Individual,Manual,Second Owner,,,,,Maruti
+Hyundai i20 Sportz 1.2,2014,72000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai

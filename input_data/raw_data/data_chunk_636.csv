@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Diesel ZXI,2011,70000,Diesel,Individual,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Honda City i DTEC VX,2014,140000,Diesel,Individual,Manual,First Owner,25.1,1498.0,98.6,5.0,Honda
+Maruti Esteem AX,1997,94000,Petrol,Individual,Automatic,Fourth & Above Owner,15.9,1298.0,85.0,5.0,Maruti
+Maruti Alto LXi,2012,70000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Volkswagen Polo 2015-2019 1.5 TDI Highline Plus,2018,27000,Diesel,Individual,Manual,First Owner,20.14,1498.0,88.0,5.0,Volkswagen
+Honda City i DTEC VX,2015,173000,Diesel,Individual,Manual,First Owner,25.1,1498.0,98.6,5.0,Honda
+Maruti Alto LXi BSIII,2010,80000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Honda City i DTec VX,2016,86000,Diesel,Individual,Manual,Third Owner,26.0,1498.0,98.6,5.0,Honda
+Honda City i DTEC V,2015,80000,Diesel,Individual,Manual,Second Owner,20 kmpl,1498.0,98.6,5.0,Honda

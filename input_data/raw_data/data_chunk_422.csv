@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Corolla AE,2006,100000,Electric,Individual,Manual,Fourth & Above Owner,13.4,1794.0,125.0,5.0,Toyota
+Maruti Swift Dzire VDi,2009,120000,Diesel,Individual,Manual,Third Owner,19.3,1248.0,73.9,5.0,Maruti
+Tata Indica Vista Terra Quadrajet 1.3L,2010,100000,Diesel,Individual,Manual,Second Owner,18.0,1248.0,75.0,5.0,Tata
+Maruti Wagon R VXI Minor,2007,70000,Petrol,Individual,Manual,Third Owner,18.9,1061.0,67.0,5.0,Maruti
+Hyundai EON Era Plus,2017,15151,Petrol,Individual,Ai,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Mahindra Scorpio 1.99 S6 Plus,2015,60000,Diesel,Individual,Manual,First Owner,15.4,1997.0,120.0,7.0,Mahindra
+Hyundai i10 Era,1,100000,Petrol,Individual,Manual,First Owner,19.81,1086.0,68.05,5.0,Hyundai
+Maruti Wagon R LXI,2006,110000,Petrol,Individual,Manual,Fourth & Above Owner,18.9,998.0,67.1,5.0,Maruti
+Hyundai Grand i10 1.2 Kappa Magna AT,2019,7000,Petrol,Individual,Automatic,First Owner,18.9,1197.0,81.86,5.0,Hyundai

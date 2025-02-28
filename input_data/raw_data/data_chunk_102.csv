@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra TUV 300 T6 Plus,2016,120000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Hyundai i20 1.4 CRDi Magna,2012,107825,Diesel,Individual,Manual,Second Owner,21.9,1396.0,90.0,5.0,Hyundai
+Maruti Alto 800 VXI Plus,2020,15000,Petrol,Individual,Manual,First Owner,22.05,796.0,47.3,5.0,Maruti
+Renault KWID RXT Optional,2018,10000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Maruti XL6 Alpha,2019,1620,Petrol,Individual,Manual,First Owner,19.01,1462.0,103.2,6.0,Maruti
+Hyundai i20 Active SX Diesel,2018,30000,Diesel,Individual,Manual,First Owner,21.19,1396.0,88.76,5.0,Hyundai
+Mahindra TUV 300 Plus P4 BSIV,2018,70000,Diesel,Individual,Manual,First Owner,18.49,2179.0,120.0,9.0,Mahindra
+Mahindra Bolero 2011-2019 DI - AC BS III,2016,70000,Diesel,Individual,Manual,First Owner,15.96,2523.0,63.0,9.0,Mahindra
+Toyota Innova 2.5 EV (Diesel) PS 7 Seater BS IV,2013,95000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.57,7.0,Toyota

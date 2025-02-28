@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R LX Minor,2013,90000,Petrol,Individual,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti
+Tata Indica V2 DLS,2007,120000,Diesel,Individual,Manual,Third Owner,17.2,1396.0,53.5,5.0,Tata
+Ford Fiesta Classic 1.4 Duratorq CLXI,2012,108000,Diesel,Individual,Manual,Second Owner,17.8,1399.0,67.0,5.0,Ford
+Mahindra Bolero 2011-2019 EX NON AC,2014,70000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Hyundai Santa Fe 4x4 AT,2011,62000,Diesel,Individual,Automatic,Second Owner,11.72,2199.0,194.3,7.0,Hyundai
+Hyundai EON Sportz,2012,35000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti 800 AC,1998,40000,Petrol,Individual,Manual,Rent,16.1,796.0,37.0,4.0,Maruti
+Tata Indigo CS LX (TDI) BS III,2008,120000,Diesel,Individual,Manual,First Owner,19.09,1396.0,69.0,5.0,Tata
+Hyundai i10 Magna,2012,67000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Ikon 1.6 EXi NXt,2003,40000,Electric,Individual,Manual,Third Owner,14.2,1597.0,92.0,5.0,Ford
+Toyota Fortuner 2.8 2WD MT BSIV,2018,46000,Diesel,Individual,Manual,First Owner,14.24,2755.0,174.5,7.0,Toyota
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2015,137000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Maruti Alto 800 LXI,2017,25000,Electric,Individual,Manual,Second Owner,24.7,796.0,47.3,5.0,Maruti
+Hyundai Grand i10 1.2 CRDi Asta,2018,50000,Diesel,Individual,Manual,First Owner,24.0,1186.0,73.97,5.0,Hyundai
+Maruti A-Star Vxi,2012,60000,Petrol,Individual,Manual,First Owner,19.0,998.0,66.1,5.0,Maruti
+Maruti 800 AC,2000,100000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,9 seats,Maruti
+Mahindra Logan Diesel 1.5 DLS,2011,105000,Diesel,Individual,Manual,Second Owner,19.2,1461.0,65.0,5.0,Mahindra
+Maruti Alto K10 LX,2015,20000,Petrol,Individual,Manual,First Owner,Unknown,998.0,67.05,5.0,Maruti

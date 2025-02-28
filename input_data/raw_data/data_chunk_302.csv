@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Polo 2015-2019 1.0 MPI Trendline,2019,5000,Petrol,Individual,Manual,First Owner,18.78,999.0,75.0,5.0,Volkswagen
+Ford Fiesta 1.6 SXI ABS Duratec,2006,145000,Petrol,Individual,Manual,First Owner,,,,,Ford
+Maruti Baleno Alpha 1.2,2018,13000,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Ford EcoSport 1.5 Ti VCT AT Titanium BSIV,2015,30000,Petrol,Individual,Automatic,First Owner,15.63,1499.0,110.4,5.0,Ford
+BMW 7 Series 730Ld,2007,60000,Diesel,Individual,Automatic,Second Owner,14.49,2993.0,258.0,5.0,BMW
+Chevrolet Spark 1.0 LS,2010,100000,Electric,Individual,Manual,Second Owner,18.0,995.0,62.0,5.0,Chevrolet
+Maruti Alto 800 Base,2016,40000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Hyundai Santro Xing (Non-AC),2013,15000,Petrol,Individual,Manual,First Owner,0.0,1086.0,62.1,5.0,Hyundai
+Toyota Qualis GS G1,2002,275000,Diesel,Individual,Manual,Fourth & Above Owner,,,,,Toyota

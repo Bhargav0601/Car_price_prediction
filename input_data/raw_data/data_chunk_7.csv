@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 Asta 1.4 CRDi,2013,60000,Diesel,Individual,Manual,First Owner,21.27,1396.0,88.76,5.0,Hyundai
+Maruti Swift Dzire ZDI,2015,147000,Electric,Individual,Manual,Second Owner,26.59,1248.0,74.0,5.0,Maruti
+Ford Figo 1.2P Titanium MT,2017,25000,Petrol,Individual,Manual,Third Owner,18.16,1196.0,86.8,5.0,Ford
+Maruti Baleno Delta 1.2,2019,30000,Petrol,Individual,Manual,Rent,21.4,1197.0,83.1,5.0,Maruti
+Volkswagen Ameo 1.5 TDI Highline 16 Alloy,2016,40000,Diesel,Individual,Manual,First Owner,22.0,1498.0,108.495,5.0,Volkswagen
+Honda City i DTEC VX,2015,135000,Diesel,Individual,Manual,First Owner,25.1,1498.0,98.6,5.0,Honda
+Maruti Wagon R AMT VXI,2018,30000,Petrol,Individual,Automatic,First Owner,20.51,998.0,67.0,5.0,Maruti
+Volkswagen Ameo 1.5 TDI Comfortline,2017,80000,Diesel,Individual,Manual,First Owner,21.66,1498.0,108.62,5.0,Volkswagen
+Maruti Vitara Brezza VDi,2016,70000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti

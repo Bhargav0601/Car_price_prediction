@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Nexon 1.2 Revotron XZ Plus,2018,15000,Petrol,Individual,Manual,First Owner,17.0,1198.0,108.5,5.0,Tata
+Maruti Alto K10 2010-2014 VXI,2014,40000,Petrol,Individual,Manual,Second Owner,20.92,998.0,67.1,5.0,Maruti
+Honda Jazz 1.2 V i VTEC,2016,41000,Petrol,Individual,Manual,First Owner,18.7,1199.0,88.7,5.0,Honda
+Mahindra Bolero SLX,2011,100000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Mahindra Bolero SLX,1,110000,Diesel,Individual,Manual,Third Owner,13.6,2523.0,63.0,7.0,Mahindra
+Ford Fiesta Classic 1.4 Duratorq CLXI,2012,120000,Diesel,Individual,Manual,Third Owner,17.8,1399.0,67.0,5.0,Ford
+Maruti Wagon R LXI,2008,35008,Petrol,Dealer,Manual,First Owner,21.79,998.0,67.05,5.0,Maruti
+Datsun RediGO T,2017,31100,Petrol,Dealer,Manual,First Owner,22.7,799.0,53.64,5.0,Datsun
+Hyundai Xcent 1.1 CRDi Base,2014,42312,Diesel,Dealer,Manual,First Owner,24.4,1120.0,71.0,5.0,Hyundai

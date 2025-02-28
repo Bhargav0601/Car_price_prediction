@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto LXI,2005,40000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Alto LXI,2005,40000,Electric,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Ritz VDi,2015,90000,Diesel,Individual,Manual,First Owner,23.2,1248.0,73.94,5.0,Maruti
+Maruti SX4 S Cross 2015-2017 DDiS 200 Zeta,2017,100000,Diesel,Individual,Manual,First Owner,23.65,1248.0,88.5,5.0,Maruti
+Mahindra Scorpio M2DI,2011,120000,Diesel,Individual,Manual,Third Owner,13.5,2179.0,115.0,5.0,Mahindra
+Maruti Vitara Brezza VDi Option,2018,50000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Mahindra Verito 1.5 D6 BSIV,2012,25000,Diesel,Individual,Manual,First Owner,21.03,1461.0,65.0,5.0,Mahindra
+Mahindra Scorpio VLX 2WD AIRBAG BSIV,2011,50000,Diesel,Individual,Manual,Third Owner,12.05,2179.0,120.0,8.0,Mahindra
+Mahindra TUV 300 T8,2016,71000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra

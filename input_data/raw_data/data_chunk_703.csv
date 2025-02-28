@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra XUV500 W10 1.99 mHawk,2018,30000,Diesel,Individual,Manual,First Owner,16.0,1997.0,140.0,7.0,Mahindra
+Ford Fiesta 1.4 ZXi TDCi LE,2008,163000,Diesel,Individual,Manual,First Owner,17.8,1399.0,68.0,5.0,Ford
+Ford Fiesta 1.4 ZXi TDCi ABS,2008,163000,Diesel,Individual,Manual,First Owner,17.8,1399.0,68.0,5.0,Ford
+Mahindra Xylo D2 BS IV,2010,77088,Diesel,Individual,Manual,First Owner,33 kmpl,2489.0,95.0,8.0,Mahindra
+Nissan Micra Diesel XV,2011,110000,Diesel,Individual,Manual,Third Owner,23.08,1461.0,63.1,5.0,Nissan
+Mahindra Bolero 2011-2019 SLX,2016,136511,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Ertiga ZXI,2015,80000,Petrol,Individual,Manual,First Owner,16.02,1373.0,93.7,7.0,Maruti
+Maruti Ertiga ZXI,2015,60000,Petrol,Individual,Manual,First Owner,16.02,1373.0,93.7,7.0,Maruti
+Maruti Swift Dzire ZXI,2016,36000,Petrol,Individual,Manual,First Owner,20.85,1197.0,83.14,5.0,Maruti

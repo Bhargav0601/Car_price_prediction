@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Civic 1.8 V AT,2009,40000,Petrol,Individual,Automatic,Third Owner,12.9,1799.0,130.0,5.0,Honda
+Mahindra Xylo D2,2010,100000,Diesel,Individual,Manual,First Owner,13.0,2489.0,95.0,8.0,Mahindra
+Tata Safari Storme LX,2016,120000,Diesel,Individual,Manual,First Owner,14.1,2179.0,147.94,5.0,Tata
+Maruti Zen Estilo VXI BSIV,2014,60000,Petrol,Individual,Manual,First Owner,19.0,998.0,67.1,5.0,Zen
+Mahindra Bolero Power Plus Plus AC BSIV PS,2019,2000,Diesel,Individual,Manual,First Owner,15.96,2523.0,63.0,9.0,Mahindra
+Mahindra Scorpio EX,2012,100000,Diesel,Individual,Manual,First Owner,14.0,2523.0,75.0,8.0,Mahindra
+Mahindra Xylo D2 BS III,2015,110000,Diesel,Individual,Manual,First Owner,14.95,2489.0,93.7,7.0,Mahindra
+Tata New Safari Dicor VX 4X2 BS IV,2009,90000,Electric,Individual,Manual,Second Owner,13.93,2179.0,138.1,,Tata
+Tata Indigo CR4,2011,84321,Diesel,Individual,Manual,First Owner,23.57,1396.0,70.0,5.0,Indigo

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2019,10000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Hyundai i10 Sportz,2013,40000,Electric,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Hyundai EON Magna Plus,2014,25000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Swift Dzire VDI,2018,15000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,6 seats,Maruti
+Maruti Alto LXi,2008,70000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai Santro Sportz BSIV,2018,7800,Petrol,Individual,Manual,First Owner,20.3,1086.0,68.0,5.0,Hyundai
+Tata Safari Storme LX,2014,55000,Diesel,Individual,Manual,First Owner,14.0,2179.0,138.1,7.0,Tata
+Tata Tiago 1.2 Revotron XT,2016,30000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Mahindra Bolero 2011-2019 SLX,2013,125000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,62.1,7.0,Bolero

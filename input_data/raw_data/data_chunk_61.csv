@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Vitara Brezza ZDi Plus Dual Tone,2017,32000,Diesel,Dealer,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Toyota Innova Crysta 2.8 ZX AT BSIV,2016,30000,Diesel,Individual,Automatic,First Owner,11.36,2755.0,171.5,7.0,Toyota
+Hyundai Creta 1.6 CRDi SX,2016,58000,Diesel,Individual,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+Maruti Vitara Brezza VDi,2018,5000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Hyundai i20 1.2 Spotz,2018,25000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2018,32000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Honda Jazz 1.2 VX i VTEC,2016,30000,Petrol,Individual,Manual,First Owner,18.7,1199.0,88.7,5.0,Honda
+Honda BR-V i-VTEC S MT,2017,43000,Petrol,Dealer,Manual,Rent,15.4,1497.0,117.3,7.0,Honda
+Hyundai Verna S,2012,60000,Petrol,Dealer,Ai,First Owner,17.7,1497.0,113.42,5.0,Hyundai

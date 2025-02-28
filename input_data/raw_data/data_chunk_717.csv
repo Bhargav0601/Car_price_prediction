@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Diesel Celebration Edition,2013,110000,Diesel,Individual,Manual,Rent,20.0,1399.0,68.1,5.0,Ford
+Tata Zest Quadrajet 1.3 XT,2018,70000,Diesel,Individual,Manual,First Owner,20.65,1248.0,88.7,5.0,Tata
+Mahindra XUV500 W8 AWD,2015,65000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Jaguar XF 2.2 Litre Luxury,2015,70000,Diesel,Individual,Automatic,Second Owner,16.36,2179.0,187.7,5.0,Jaguar
+Tata New Safari DICOR 2.2 LX 4x2,2012,90000,Diesel,Individual,Manual,Third Owner,11.57,2179.0,138.1,7.0,Tata
+Maruti Alto 800 VXI,2016,50000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Hyundai EON Era Plus,2018,33000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Alto 800 LXI,2015,26500,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Hyundai Santro Xing GLS,2011,60000,Petrol,Individual,Manual,Fourth & Above Owner,17.92,1086.0,62.1,5.0,Hyundai

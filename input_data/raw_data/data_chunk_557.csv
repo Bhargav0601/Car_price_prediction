@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indica V2 DLS TC,2004,40000,Diesel,Individual,Manual,Second Owner,16.8,1405.0,62.0,5.0,Tata
+Maruti Swift Dzire VXI,2014,100000,Petrol,Individual,Manual,Third Owner,19.1,1197.0,85.8,5.0,Maruti
+Maruti Ertiga SHVS ZDI Plus,2017,55000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Maruti Celerio ZDi,2015,40000,Diesel,Individual,Manual,Second Owner,27.62,793.0,47.0,5.0,Maruti
+Maruti Ritz VDi,2010,64000,Diesel,Individual,Manual,Third Owner,21.1,1248.0,73.9,5.0,Maruti
+Maruti Zen LXI,2002,100000,Petrol,Individual,Manual,Second Owner,17.3,993.0,60.0,5.0,Maruti
+Maruti Ertiga SHVS ZDI Plus,2016,50000,Diesel,Individual,Ai,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Volvo S60 D4 SUMMUM,2014,30000,Diesel,Individual,Automatic,First Owner,9.0,1984.0,181.0,5.0,Volvo
+Maruti Wagon R VXI Plus,2018,30000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Eeco 5 Seater AC BSIV,2017,120000,Petrol,Individual,Manual,First Owner,15.37,1196.0,73.0,5.0,Maruti
+Mahindra Xylo E8 ABS Airbag,2011,230000,Diesel,Individual,Manual,First Owner,14.0,2498.0,112.0,7.0,Mahindra
+Renault KWID 1.0 RXT Optional,2016,60000,Petrol,Individual,Manual,Second Owner,23.01,999.0,67.0,5.0,Renault
+BMW 3 Series 320d Highline,2012,80000,Diesel,Individual,Automatic,Second Owner,16.07,1995.0,181.0,5.0,3
+Maruti Swift Dzire VDi,2010,190000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti Eeco 5 Seater AC BSIV,2016,120000,Petrol,Individual,Manual,First Owner,15.37,1196.0,73.0,5.0,Maruti
+Toyota Innova 2.5 GX (Diesel) 8 Seater,2013,217000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.6,9 seats,Toyota
+Ford Ikon 1.8 D,2005,90000,Diesel,Individual,Manual,Third Owner,,,,,Ford
+Maruti Celerio VXI,2015,29000,Petrol,Individual,Manual,First Owner,23.1,998.0,67.04,5.0,Maruti

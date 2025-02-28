@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Trailblazer LTZ 4X2 AT,2016,46000,Diesel,Dealer,Automatic,Second Owner,11.45,2776.0,197.2,7.0,Chevrolet
+Isuzu MU 7 AT Premium,2016,121000,Diesel,Dealer,Ai,First Owner,12.08,2999.0,161.0,7.0,Isuzu
+Mercedes-Benz GLC 220d 4MATIC,2017,60000,Diesel,Dealer,Automatic,First Owner,0.0,1950.0,194.0,5.0,Mercedes
+Hyundai Santro Asta BSIV,2018,7000,Petrol,Partnership,Manual,Rent,20.3,1086.0,68.0,5.0,Hyundai
+Maruti Celerio ZXI Optional AMT BSIV,2016,10000,Petrol,Dealer,Automatic,First Owner,23.1,,67.04,5.0,Maruti
+Mercedes-Benz GL-Class 220d 4MATIC Sport,2018,6000,Diesel,Dealer,Automatic,First Owner,17.9,2143.0,170.0,5.0,Mercedes
+Force Gurkha Hard Top BS3 4WD,2018,20000,Diesel,Dealer,Manual,Rent,17.0,2596.0,80.8,5.0,Force
+Hyundai Creta 1.6 CRDi SX,2015,59235,Diesel,Dealer,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+BMW X4 M Sport X xDrive20d,2019,21000,Diesel,Dealer,Automatic,First Owner,16.78,1995.0,190.0,5.0,BMW

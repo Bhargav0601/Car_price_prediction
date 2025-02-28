@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto 800 LXI,2013,18000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Ford Ecosport 1.5 DV5 MT Trend,2018,37161,Diesel,Dealer,Manual,First Owner,22.7,1498.0,89.84,5.0,Ford
+Hyundai Creta 1.6 CRDi SX Option,2016,80000,Diesel,Individual,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+Tata Nano LX SE,2012,28000,Petrol,Individual,Manual,Second Owner,25.4,624.0,37.5,4.0,Tata
+Hyundai Verna 1.6 SX VTVT AT,2013,100000,Petrol,Individual,Automatic,Second Owner,15.74,1591.0,121.3,7 seats,Hyundai
+Volkswagen Polo 1.5 TDI Highline,3,120000,Diesel,Individual,Manual,Second Owner,Unknown,1498.0,88.8,5.0,Volkswagen
+Chevrolet Enjoy TCDi LT 7 Seater,2013,70000,Diesel,Individual,Manual,Second Owner,18.2,1248.0,73.8,7.0,Chevrolet
+Maruti Wagon R LXI Minor,9,90000,Electric,Individual,Manual,Second Owner,18.9,1061.0,67.0,5.0,Maruti
+Tata Sumo MKII GX BS IV,2011,90000,Diesel,Individual,Manual,Second Owner,13.55,2179.0,118.35,7.0,Tata

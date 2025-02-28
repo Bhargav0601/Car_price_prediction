@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire LDi,2012,120000,Diesel,Individual,Manual,First Owner,19.3,1248.0,73.9,5.0,Maruti
+Honda City i DTEC V,2015,50000,Diesel,Individual,Manual,Second Owner,26.0,1498.0,98.6,5.0,Honda
+Maruti Swift Dzire ZDi,2012,110000,Diesel,Individual,Manual,First Owner,19.3,1248.0,73.9,5.0,Maruti
+Hyundai Xcent 1.2 CRDi E,2017,2000,Diesel,Individual,Manual,Second Owner,25.4,1186.0,73.97,5.0,Hyundai
+Toyota Fortuner 3.0 Diesel,2011,181000,Diesel,Individual,Manual,Second Owner,11.5,2982.0,171.0,7.0,Toyota
+Tata Tiago 1.05 Revotorq XZ,7,70000,Electric,Individual,Manual,First Owner,27.28,1047.0,69.0,5.0,Tata
+Nissan Sunny XL AT Special Edition,2013,90000,Petrol,Individual,Automatic,Second Owner,17.97,1498.0,99.6,5.0,Nissan
+Hyundai Elite i20 Magna Plus BSIV,2019,2000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.86,4 seats,Hyundai
+Maruti Swift Dzire VXI,2015,20000,Petrol,Individual,Manual,First Owner,20.85,1197.0,83.14,5.0,Maruti

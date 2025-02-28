@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Santro Xing XS eRLX Euro III,2005,82000,Petrol,Individual,Manual,Fourth & Above Owner,,,,,Hyundai
+Maruti Wagon R LXI Minor,2009,60000,Petrol,Individual,Manual,Rent,18.9,1061.0,67.0,5.0,Maruti
+Tata Safari Storme VX Varicor 400,2019,100000,Diesel,Individual,Manual,First Owner,14.1,2179.0,153.86,7.0,Tata
+Maruti Ertiga VDI,2015,90000,Diesel,Individual,Manual,Third Owner,20.77,1248.0,88.76,7.0,Maruti
+Tata Nano Lx BSIV,2010,26432,Petrol,Dealer,Manual,First Owner,25.4,624.0,37.48,4.0,Tata
+Maruti Omni E 8 Str STD,2016,46702,Petrol,Dealer,Manual,First Owner,16.8,796.0,34.2,8.0,Maruti
+Maruti Omni E 8 Str STD,2016,46706,Electric,Dealer,Manual,First Owner,16.8,796.0,34.2,8.0,Maruti
+Tata Indica V2 eXeta GLS,2006,53523,Petrol,Dealer,Manual,First Owner,16.84,1193.0,64.4,5.0,Tata
+Chevrolet Beat Diesel LT,2012,56365,Diesel,Dealer,Manual,First Owner,25.44,936.0,56.3,5.0,Chevrolet

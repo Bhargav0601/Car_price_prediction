@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Zen Estilo VXI BSIV W ABS,2011,55113,Petrol,Individual,Manual,First Owner,,,,,Maruti
+Tata Tiago 1.05 Revotorq XM,2017,50000,Diesel,Individual,Manual,First Owner,27.28,1047.0,69.0,5.0,Tata
+Maruti Alto K10 VXI,2020,6000,Petrol,Individual,Manual,First Owner,Unknown,998.0,67.05,5.0,Maruti
+Maruti Eeco 7 Seater Standard BSIV,2011,50000,Electric,Individual,Manual,Second Owner,15.37,1196.0,73.0,7.0,Maruti
+Mahindra Scorpio VLX 2WD AIRBAG SE BSIV,2012,90000,Diesel,Individual,Manual,Third Owner,12.05,2179.0,120.0,8.0,Mahindra
+Toyota Innova 2.5 E Diesel MS 8-seater,2008,126000,Diesel,Individual,Manual,Third Owner,12.8,2494.0,102.0,8.0,Toyota
+Tata Indigo eCS VX BSIV,2013,90000,Diesel,Individual,Manual,First Owner,25.0,1396.0,69.0,5.0,Tata
+Ford Figo Aspire 1.2 Ti-VCT Titanium,2017,80000,Electric,Individual,Manual,First Owner,18.16,1196.0,86.8,5.0,Ford
+Mahindra Scorpio 2.6 CRDe SLE,2011,70000,Diesel,Individual,Manual,Second Owner,10.5,2609.0,120.0,7.0,Scorpio

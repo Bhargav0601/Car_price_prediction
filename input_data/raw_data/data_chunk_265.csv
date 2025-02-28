@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI BSIV,2014,120000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Fiat Punto 1.3 Emotion,2010,120000,Diesel,Individual,Manual,Second Owner,,,,,Fiat
+Hyundai Xcent 1.1 CRDi S,2014,100000,Diesel,Individual,Manual,First Owner,24.4,1120.0,71.0,5.0,Hyundai
+Toyota Etios GD,2012,148000,Diesel,Individual,Manual,Second Owner,,,,,Toyota
+Maruti Ertiga SHVS VDI,2018,40000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Maruti Swift Dzire VDI,2013,110000,Diesel,Partnership,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Tata Tigor 1.2 Revotron XZ Option,2017,30000,Petrol,Individual,Manual,First Owner,20.3,1199.0,84.0,5.0,Tigor
+Tata Indica Vista TDI LX,2014,120000,Diesel,Individual,Manual,Second Owner,19.1,1405.0,70.0,5.0,Tata
+Ford Figo Aspire 1.2 Ti-VCT Trend,2017,15000,Petrol,Partnership,Manual,First Owner,18.16,1196.0,86.8,5.0,Ford

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai EON Magna Plus,2018,10000,Petrol,Individual,Manual,Rent,21.1,814.0,55.2,5.0,Hyundai
+Maruti Baleno Delta 1.2,2018,10000,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Maruti Ciaz 1.4 Alpha,2018,25000,Petrol,Individual,Manual,First Owner,20.73,1373.0,91.1,5.0,Maruti
+Hyundai Verna VTVT 1.6 SX,2017,20000,Petrol,Individual,Manual,First Owner,17.0,1591.0,121.3,5.0,Hyundai
+Maruti Swift VDI,2013,60000,Diesel,Individual,Manual,Rent,22.9,1784 CC,74.0,5.0,Maruti
+Hyundai Grand i10 1.2 Kappa Sportz Option,2018,40000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Maruti Swift Dzire VDi,2012,60000,Diesel,Individual,Manual,First Owner,19.3,1248.0,73.9,5.0,Maruti
+Hyundai Xcent 1.2 Kappa AT SX Option,2015,50000,Petrol,Partnership,Automatic,First Owner,16.9,1197.0,82.0,5.0,Hyundai
+Hyundai Verna VTVT 1.6 SX,2017,20000,Petrol,Individual,Manual,First Owner,17.0,1591.0,121.3,5.0,Hyundai

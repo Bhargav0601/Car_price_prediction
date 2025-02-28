@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Beat Diesel LS,2012,75000,Diesel,Individual,Manual,First Owner,25.44,936.0,57.6,5.0,Chevrolet
+Hyundai i20 1.4 Sportz,2017,32331,Diesel,Individual,Manual,Second Owner,22.54,1396.0,88.73,5.0,Hyundai
+Hyundai Creta 1.6 CRDi SX Plus,2016,70000,Diesel,Individual,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+Hyundai i20 1.4 CRDi Sportz,2010,80000,Diesel,Individual,Manual,Second Owner,23.0,1396.0,90.0,5.0,Hyundai
+Chevrolet Spark 1.0 LT,2011,20000,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,5.0,Chevrolet
+Nissan Sunny XL,2012,110000,Petrol,Individual,Manual,First Owner,16.95,1498.0,97.7,5.0,Nissan
+Hyundai Grand i10 Asta,2014,40000,Petrol,Individual,Manual,Second Owner,18.9,,82.0,5.0,Hyundai
+Toyota Innova Crysta 2.7 ZX AT BSIV,2016,40000,Petrol,Individual,Automatic,First Owner,10.75,2694.0,163.7,7.0,Toyota
+Hyundai i20 Sportz 1.2,2015,90000,Petrol,Individual,Manual,Second Owner,18.6,1197.0,81.83,5.0,Hyundai

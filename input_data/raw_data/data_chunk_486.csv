@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indigo LS,2005,120000,Diesel,Partnership,Manual,Fourth & Above Owner,16.1,1405.0,70.0,5.0,Tata
+Mercedes-Benz M-Class ML 250 CDI,2015,100000,Diesel,Individual,Automatic,Second Owner,15.26,2143.0,203.2,5.0,Mercedes
+Tata Sumo Gold EX,2018,63000,Diesel,Individual,Manual,First Owner,15.3,2956.0,83.83,7.0,Tata
+Mercedes-Benz GLA Class 200 CDI,2016,40000,Diesel,Individual,Automatic,Second Owner,17.9,2143.0,136.0,5.0,Mercedes
+Ford Ecosport 1.5 DV5 MT Titanium,2015,109000,Electric,Dealer,Manual,First Owner,22.7,1498.0,89.84,5.0,Ford
+Maruti Swift VDI Windsong Limited edition,2015,114000,Diesel,Dealer,Ai,First Owner,25.2,1248.0,73.94,5.0,Maruti
+Skoda Octavia Elegance 1.8 TSI AT,1,33000,Petrol,Dealer,Automatic,Second Owner,14.7,1798.0,177.5,5.0,Skoda
+Hyundai Grand i10 CRDi Asta Option,2014,160000,Diesel,Dealer,Manual,Third Owner,24.0,1120.0,70.0,5.0,Hyundai
+Hyundai i20 Sportz 1.4 CRDi,2013,101000,Diesel,Dealer,Manual,First Owner,3 kmpl,1396.0,88.76,5.0,Hyundai

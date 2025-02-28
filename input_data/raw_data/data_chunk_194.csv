@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra KUV 100 mFALCON D75 K6 Plus,2016,80000,Diesel,Individual,Manual,First Owner,25.32,1198.0,77.0,6.0,Mahindra
+Maruti Swift VDI BSIV W ABS,2011,77000,Diesel,Individual,Manual,Second Owner,,,,,Maruti
+Toyota Fortuner 2.8 4WD AT BSIV,2017,50000,Diesel,Individual,Automatic,First Owner,15.04,2755.0,174.5,7.0,Toyota
+Maruti Swift Dzire VDI,2017,127000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Honda WR-V i-VTEC VX,2017,30000,Electric,Individual,Manual,First Owner,17.5,1199.0,88.7,5.0,Honda
+Maruti Ertiga SHVS ZDI Plus,2017,70000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Mahindra XUV500 W10 2WD,2017,54000,Diesel,Individual,Manual,First Owner,16.0,4333 CC,140.0,7.0,Mahindra
+Mitsubishi Pajero 2.8 SFX BSIII Single Tone,2011,120000,Diesel,Individual,Manual,Second Owner,10.5,2835.0,116.9,6.0,Mitsubishi
+Hyundai i20 1.4 CRDi Sportz,2011,116500,Diesel,Partnership,Manual,Rent,23.0,1396.0,90.0,5.0,Hyundai

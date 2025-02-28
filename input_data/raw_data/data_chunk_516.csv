@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto 800 LXI,2015,50000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti 800 AC,2007,60000,Petrol,Individual,Manual,Rent,16.1,796.0,37.0,4.0,Maruti
+Tata Indica Vista TDI LX,2011,80000,Diesel,Individual,Manual,First Owner,19.4,1405.0,70.0,5.0,Tata
+Maruti XL6 Alpha,2019,15000,Petrol,Individual,Manual,First Owner,19.01,1462.0,103.2,6.0,Maruti
+Tata Manza Aura (ABS) Quadrajet BS IV,2010,150000,Diesel,Individual,Manual,Third Owner,21.12,1248.0,88.8,5.0,Tata
+Maruti Swift Dzire Tour S CNG,2018,40000,Petrol,Individual,Manual,First Owner,19.0,1197.0,85.8,5.0,Maruti
+Honda City 1.5 V AT,2010,25000,Petrol,Individual,Automatic,First Owner,16.8,1497.0,118.0,5.0,Honda
+Force One EX,2018,120000,Diesel,Individual,Manual,Second Owner,17.0,2650.0,80.84,7.0,Force
+Mahindra XUV500 W6 2WD,2014,120000,Diesel,Individual,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra

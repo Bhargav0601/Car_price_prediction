@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indica Vista TDI LS,2012,90000,Diesel,Individual,Manual,Third Owner,19.4,1405.0,70.0,5.0,Tata
+Maruti Ertiga SHVS VDI,2016,100000,Diesel,Individual,Manual,Second Owner,24.52,1248.0,88.5,7.0,Maruti
+Maruti Alto K10 LXI,2011,110048,Petrol,Individual,Manual,Rent,20.92,998.0,67.1,5.0,Maruti
+Hyundai Xcent 1.2 CRDi E Plus,2018,26000,Diesel,Individual,Manual,First Owner,25.4,1186.0,73.97,5.0,Hyundai
+Maruti Wagon R LXI Minor,2007,110000,Petrol,Individual,Manual,Fourth & Above Owner,18.9,1061.0,67.0,5.0,Maruti
+Maruti Gypsy King Soft Top,1997,186388,Petrol,Individual,Manual,Second Owner,14.8,1298.0,80.0,8.0,Maruti
+Chevrolet Aveo U-VA 1.2 LT,2007,60000,Petrol,Individual,Manual,Third Owner,14.7,1150.0,76.0,5.0,Chevrolet
+Maruti Alto LXi BSIII,2006,70000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Renault Duster RXZ 110PS AMT BSIV,2017,20171,Diesel,Dealer,Automatic,First Owner,19.87,1461.0,108.5,5.0,Renault

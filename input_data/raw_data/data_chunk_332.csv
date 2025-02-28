@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai EON Magna Plus,2012,56000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,EON
+Honda Jazz 1.5 E i DTEC,2016,68000,Diesel,Individual,Manual,First Owner,27.3,1498.0,98.6,5.0,Honda
+Tata Tiago 1.2 Revotron XT,2019,25000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Tata Tiago 1.2 Revotron XT,2018,25000,Petrol,Individual,Ai,First Owner,23.84,1199.0,84.0,5.0,Tata
+Nissan Micra Active XL Petrol,2014,100000,Petrol,Individual,Manual,First Owner,19.49,1198.0,67.04,5.0,Nissan
+Mahindra Bolero Power Plus Plus Non AC BSIV PS,2017,95000,Diesel,Individual,Manual,First Owner,15.96,2523.0,63.0,9.0,Mahindra
+Maruti Swift Dzire VXi,2008,100000,Petrol,Individual,Manual,First Owner,17.5,1298.0,85.8,5.0,Maruti
+Hyundai Santro Xing Base,2006,90000,Petrol,Individual,Manual,Second Owner,,,,,Hyundai
+Fiat Grande Punto 1.3 Dynamic (Diesel),2013,47000,Diesel,Individual,Ai,First Owner,20.3,1248.0,75.0,5.0,Fiat

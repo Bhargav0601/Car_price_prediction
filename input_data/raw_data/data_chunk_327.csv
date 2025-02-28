@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova Crysta 2.4 VX MT BSIV,2016,25000,Diesel,Individual,Manual,Second Owner,13.68,2393.0,147.8,7.0,Toyota
+Maruti Swift Dzire LDI,2013,70000,Diesel,Individual,Manual,Second Owner,23.4,1248.0,74.0,5.0,Maruti
+Honda City V MT,2013,32000,Petrol,Individual,Manual,First Owner,16.8,1497.0,116.3,5.0,Honda
+Tata Tiago 1.2 Revotron XT,2018,35000,Petrol,Individual,Manual,Rent,23.84,1199.0,84.0,5.0,Tata
+Maruti Vitara Brezza ZDi Plus,2019,50000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Mahindra Bolero DI,2005,100000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Honda Jazz VX CVT,2019,3100,Petrol,Individual,Automatic,First Owner,18.2,1199.0,88.7,5.0,Honda
+Skoda Superb Elegance 1.8 TSI AT,2013,60000,Petrol,Individual,Automatic,First Owner,13.7,1798.0,157.75,5.0,Skoda
+Maruti Swift VDI,2013,170000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti

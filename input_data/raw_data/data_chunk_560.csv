@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Verna 1.6 CRDi SX,2015,23000,Diesel,Individual,Manual,First Owner,23.9,1582.0,126.2,5.0,Hyundai
+Mahindra Thar CRDe ABS,2019,15000,Diesel,Partnership,Manual,First Owner,16.55,2498.0,105.0,6.0,Mahindra
+Maruti Wagon R AMT VXI,2018,5000,Petrol,Individual,Automatic,Second Owner,20.51,998.0,67.0,5.0,Maruti
+Maruti Ertiga VDI,2015,15000,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.76,7.0,Maruti
+Hyundai Creta 1.4 EX Diesel,2020,20000,Diesel,Individual,Manual,First Owner,22.1,1396.0,88.7,4 seats,Hyundai
+Ford EcoSport 1.5 TDCi Titanium BSIV,2015,50000,Diesel,Individual,Manual,First Owner,22.77,1498.0,98.59,5.0,Ford
+Ford Figo 1.2P Ambiente MT,2017,40000,Petrol,Individual,Ai,Second Owner,18.16,1196.0,86.8,5.0,Ford
+Maruti Zen Estilo 1.1 VXI BSIII,4,70000,Petrol,Individual,Manual,Third Owner,18.2,1061.0,64.0,5.0,Maruti
+Maruti Celerio ZXI Optional,2017,15000,Petrol,Individual,Manual,First Owner,23.1,998.0,67.04,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova 2.5 V Diesel 7-seater,2010,334000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,7.0,Toyota
+Mahindra NuvoSport N8,2016,100000,Diesel,Individual,Manual,First Owner,17.45,1493.0,100.0,7.0,Mahindra
+Renault Duster Adventure Edition,2014,175000,Diesel,Individual,Manual,First Owner,19.01,1461.0,108.45,5.0,Duster
+Maruti SX4 ZXI AT,2011,65000,Petrol,Individual,Automatic,Third Owner,12.6,1586.0,103.3,5.0,SX4
+Maruti SX4 ZXI AT,2011,65000,Petrol,Individual,Automatic,Rent,12.6,1586.0,103.3,5.0,Maruti
+Hyundai Santro Xing GLS,2009,90000,Petrol,Partnership,Manual,First Owner,17.92,1086.0,62.1,5.0,Hyundai
+Ford Figo Diesel Titanium,2011,80000,Diesel,Individual,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Mahindra Scorpio S11 BSIV,2018,110000,Diesel,Individual,Manual,First Owner,16.36,2179.0,140.0,7.0,Mahindra
+Toyota Etios Liva GD,2012,80000,Diesel,Individual,Manual,Second Owner,,,,,Toyota

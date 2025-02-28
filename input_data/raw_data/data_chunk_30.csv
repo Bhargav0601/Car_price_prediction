@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova 2.5 GX 7 STR,2011,120000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,7.0,Toyota
+Mahindra Thar CRDe,2017,35000,Diesel,Individual,Manual,First Owner,16.55,2498.0,105.0,6.0,Thar
+Maruti Swift Dzire ZDi,2012,193000,Diesel,Partnership,Manual,First Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti Swift 1.2 DLX (Only Delhi),2014,80000,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti
+Datsun GO D Petrol,2019,40000,Petrol,Individual,Manual,First Owner,19.02,1198.0,67.05,5.0,Datsun
+Hyundai i20 Asta 1.4 CRDi,2015,70000,Diesel,Individual,Manual,Fourth & Above Owner,37 kmpl,1396.0,88.73,5.0,Hyundai
+Mahindra Scorpio LX,2011,122358,Diesel,Individual,Manual,First Owner,12.05,2179.0,120.0,9.0,Mahindra
+Tata Sumo Gold EX BSIII,2015,75000,Diesel,Individual,Ai,First Owner,14.07,2956.0,69.01,7.0,Tata
+Tata Tiago Wizz 1.05 Revotorq,2017,120000,Diesel,Individual,Manual,First Owner,27.28,1047.0,69.0,5.0,Tata

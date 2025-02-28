@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ritz VDi,2011,165000,Diesel,Partnership,Manual,First Owner,21.1,1248.0,73.9,5.0,Maruti
+Chevrolet Tavera Neo 3 LS 10 Seats BSIII,2013,120000,Diesel,Individual,Ai,Second Owner,13.58,2499.0,72.4,10.0,Chevrolet
+Mahindra TUV 300 T4,2017,30000,Diesel,Individual,Manual,Second Owner,18.49,1493.0,100.0,7.0,Mahindra
+Volkswagen Vento Diesel Comfortline,2011,100000,Diesel,Individual,Manual,Second Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Mahindra Renault Logan 1.5 DLE Diesel,2007,187000,Electric,Individual,Manual,Second Owner,19.2,1461.0,65.0,5.0,Mahindra
+Maruti Vitara Brezza VDi,2016,70000,Diesel,Individual,Ai,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Swift VXI Optional,2016,40000,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti
+Audi Q3 2.0 TDI Quattro Premium Plus,2017,22000,Diesel,Dealer,Automatic,First Owner,15.73,1968.0,174.33,5.0,Audi
+Honda Civic ZX Diesel BSIV,2020,5500,Diesel,Dealer,Manual,First Owner,26.8,1597.0,118.0,5.0,Honda

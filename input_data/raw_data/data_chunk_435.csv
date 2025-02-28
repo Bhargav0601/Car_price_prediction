@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio 2009-2014 EX 9S BSIII,2013,165500,Diesel,Individual,Manual,Second Owner,14.0,2523.0,75.0,9.0,Mahindra
+Maruti Swift Dzire ZDi,2011,120000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Tata Nexon 1.5 Revotorq XM,2018,30000,Diesel,Individual,Manual,First Owner,21.5,1497.0,108.5,5.0,Tata
+Tata Indigo CS LS (TDI) BS III,2010,70000,Diesel,Individual,Manual,Rent,19.09,1396.0,69.0,5.0,Tata
+Hyundai Santro LE,2001,80000,Petrol,Individual,Manual,Second Owner,,,,,Hyundai
+Maruti Zen LX,2003,170000,Petrol,Individual,Manual,Third Owner,17.3,993.0,60.0,5.0,Maruti
+Mahindra Verito 1.5 D2 BSIV,2011,120000,Diesel,Individual,Manual,Third Owner,21.0,1461.0,64.1,5.0,Mahindra
+Mahindra Jeep MM 540,1998,47990,Diesel,Individual,Manual,Second Owner,,,,,Mahindra
+Tata Indica Vista Quadrajet LS,2014,168000,Diesel,Individual,Manual,Second Owner,22.3,1248.0,74.0,5.0,Tata

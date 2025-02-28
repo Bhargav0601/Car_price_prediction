@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga VDI,2015,60000,Diesel,Dealer,Manual,First Owner,49 kmpl,1248.0,88.5,7.0,Maruti
+Maruti Celerio VXi AMT,2019,9000,Petrol,Dealer,Automatic,First Owner,21.63,998.0,67.04,5.0,Maruti
+Tata Indigo CS LS (TDI) BS-III,2014,65000,Diesel,Dealer,Manual,First Owner,19.09,1405.0,69.01,5.0,Tata
+Toyota Innova 2.5 G (Diesel) 8 Seater,2014,95000,Diesel,Dealer,Ai,First Owner,12.99,2494.0,100.6,8.0,Toyota
+Ford Endeavour 2.5L 4X2,2013,62000,Diesel,Dealer,Manual,First Owner,13.1,2499.0,141.0,7.0,Ford
+Volvo S60 D4 SUMMUM,2016,48000,Diesel,Partnership,Automatic,First Owner,9.0,1984.0,181.0,5.0,Volvo
+Hyundai Creta 1.6 CRDi AT SX Plus,2015,72000,Diesel,Dealer,Automatic,First Owner,17.01,1582.0,126.2,5.0,Hyundai
+Hyundai Verna CRDi 1.6 SX Option,2017,35000,Diesel,Individual,Manual,Third Owner,Unknown,1582.0,126.2,5.0,Hyundai
+Renault Duster 85PS Diesel RxL Optional,2013,100600,Diesel,Individual,Manual,Third Owner,20.46,1461.0,83.8,5.0,Renault

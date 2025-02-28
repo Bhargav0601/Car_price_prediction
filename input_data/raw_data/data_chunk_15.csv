@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Land Rover Discovery Sport TD4 SE,2019,21000,Diesel,Dealer,Automatic,First Owner,12.83,1999.0,148.31,7.0,Land
+Mercedes-Benz S-Class S 350 CDI,2017,37000,Diesel,Dealer,Automatic,First Owner,13.5,2987.0,254.79,5.0,Mercedes
+BMW 5 Series 520d Sport Line,2018,29500,Diesel,Dealer,Automatic,First Owner,22.48,1995.0,187.74,5.0,BMW
+BMW X1 sDrive 20D xLine,2017,27000,Diesel,Dealer,Automatic,First Owner,,,,,BMW
+BMW X4 M Sport X xDrive20d,2019,7500,Diesel,Dealer,Automatic,First Owner,16.78,1995.0,190.0,5.0,BMW
+Skoda Superb LK 1.8 TSI AT,3,50000,Petrol,Dealer,Automatic,First Owner,14.67,1798.0,177.46,5.0,Skoda
+Mercedes-Benz E-Class E250 Edition E,2016,35000,Diesel,Dealer,Automatic,First Owner,15.0,2143.0,204.0,5.0,Mercedes
+MG Hector Sharp AT BSIV,2019,19000,Electric,Dealer,Automatic,First Owner,13.96,1451.0,141.0,5.0,MG
+Honda City i-VTEC CVT VX,2017,41000,Petrol,Dealer,Automatic,First Owner,18.0,1497.0,117.6,5.0,Honda

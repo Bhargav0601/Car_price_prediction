@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R LXI Minor,2,155000,Petrol,Partnership,Manual,Third Owner,18.9,998.0,67.1,5.0,Wagon
+Honda Jazz 1.2 V AT i VTEC,2015,50000,Petrol,Individual,Automatic,First Owner,19.0,1199.0,88.7,5.0,Honda
+Hyundai i20 Asta Option 1.2,2017,30030,Petrol,Dealer,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Hyundai Xcent 1.2 Kappa SX Option,2017,29029,Petrol,Dealer,Manual,First Owner,19.1,1197.0,82.0,5.0,Hyundai
+Maruti Ritz VDi,2012,72072,Diesel,Dealer,Manual,First Owner,21.1,1248.0,73.9,5.0,Maruti
+Ford Figo Diesel EXI,2012,54000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Hyundai i20 2015-2017 Sportz Option 1.4 CRDi,2012,82082,Diesel,Dealer,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Mahindra XUV500 W8 2WD,2016,48000,Diesel,Individual,Manual,Second Owner,16.0,2179.0,140.0,7.0,Mahindra
+Maruti Ertiga BSIV ZXI Plus,2016,20000,Petrol,Individual,Manual,First Owner,17.5,1373.0,91.1,7.0,Maruti

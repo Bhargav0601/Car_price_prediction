@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra XUV500 W6 2WD,2017,43526,Diesel,Dealer,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Skoda Fabia 1.2 MPI Ambition Plus,2012,55885,Petrol,Dealer,Manual,First Owner,16.25,,75.0,5.0,Skoda
+Ford Ecosport 1.5 Diesel Titanium,2019,16034,Diesel,Dealer,Manual,First Owner,21.7,1498.0,98.96,5.0,Ford
+Ford Figo Diesel EXI,2012,156040,Diesel,Dealer,Manual,First Owner,20.0,1399.0,68.0,5.0,Figo
+Ford Endeavour 2.5L 4X2 MT,2004,93415,Diesel,Dealer,Manual,First Owner,13.1,2499.0,141.0,7.0,Ford
+BMW 5 Series 520d,2008,122000,Diesel,Individual,Automatic,Second Owner,18.48,1995.0,177.0,5.0,BMW
+Maruti Baleno Delta 1.3,3,20000,Diesel,Individual,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti
+Maruti Swift VVT VXI,2017,46000,Petrol,Individual,Ai,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Skoda Rapid 1.6 MPI Active BSIV,2016,50000,Petrol,Individual,Manual,Third Owner,15.41,1598.0,103.2,5.0,Skoda

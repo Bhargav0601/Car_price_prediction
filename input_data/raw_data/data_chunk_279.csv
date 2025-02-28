@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Grand i10 Magna,2014,50000,Petrol,Individual,Manual,Second Owner,18.9,1197.0,82.0,5.0,Hyundai
+Ford Figo Diesel EXI,2010,120000,Diesel,Individual,Manual,Rent,20.0,1399.0,68.0,5.0,Ford
+Maruti Wagon R LXI CNG,2018,40000,CNG,Individual,Manual,First Owner,26.6,998.0,58.16,5.0,Maruti
+Hyundai Grand i10 1.2 Kappa Asta,2017,27500,Petrol,Individual,Manual,First Owner,18.9,,81.86,5.0,Hyundai
+Maruti Ertiga VDI,2012,73000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.76,7.0,Maruti
+Maruti Swift Dzire VDI,2017,75000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Renault KWID Climber 1.0 MT,2018,5000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Maruti Wagon R LXI LPG BSIV,2010,50000,LPG,Individual,Manual,First Owner,26.2,998.0,58.2,5.0,Maruti
+Maruti Swift Dzire VDI,2015,70000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti

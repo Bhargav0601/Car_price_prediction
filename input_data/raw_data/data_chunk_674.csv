@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI BSIV,2017,30000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Celerio ZXI,2016,27000,Petrol,Individual,Manual,First Owner,23.1,998.0,67.04,5.0,Maruti
+Maruti Swift ZXI Plus,2020,5000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Maruti Ertiga VDI,2012,110000,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.76,7.0,Maruti
+Honda City Corporate Edition,2013,80000,Petrol,Individual,Manual,Second Owner,16.8,1497.0,116.3,5.0,Honda
+Mahindra Bolero Power Plus ZLX,2018,80000,Diesel,Partnership,Manual,First Owner,16.5,1493.0,70.0,7.0,Mahindra
+Mahindra Verito 1.5 D6 BSIII,2014,110000,Diesel,Individual,Manual,First Owner,20.8,1461.0,65.0,5.0,Mahindra
+Maruti Wagon R AMT VXI,2018,35000,Petrol,Individual,Automatic,First Owner,20.51,998.0,67.0,5.0,Maruti
+Maruti Swift Dzire VXI 1.2,2017,20000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Swift

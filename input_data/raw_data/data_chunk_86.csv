@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Santro GLS I - Euro I,1999,110000,Petrol,Individual,Manual,Second Owner,,,,,Hyundai
+Mahindra Scorpio M2DI,2011,150000,Diesel,Individual,Manual,Fourth & Above Owner,13.5,2179.0,115.0,5.0,Mahindra
+Skoda Superb 1.8 TSI,2010,60000,Electric,Individual,Automatic,Second Owner,,,,,Skoda
+Tata Indica Vista Quadrajet ZX,2012,40000,Diesel,Individual,Manual,First Owner,22.3,1248.0,74.0,5.0,Tata
+Ford Endeavour Hurricane Limited Edition,2013,110000,Diesel,Individual,Automatic,Third Owner,12.8,2953.0,156.0,7.0,Ford
+Hyundai Grand i10 Sportz,2017,20000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Ford Freestyle Trend Petrol BSIV,2019,10000,Petrol,Individual,Manual,First Owner,19.0,1194.0,94.68,5.0,Ford
+Mahindra XUV500 W8 2WD,2014,90000,Diesel,Individual,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra
+Chevrolet Aveo U-VA 1.2 LS,2008,70000,Petrol,Individual,Manual,Rent,15.26,1150.0,74.9,5.0,Chevrolet

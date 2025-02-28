@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Etios VX,2017,25538,Petrol,Partnership,Manual,Rent,16.78,1496.0,88.73,5.0,Toyota
+Maruti Swift AMT ZXI,2018,69779,Petrol,Dealer,Automatic,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Hyundai Grand i10 1.2 CRDi Sportz,2017,56290,Diesel,Dealer,Ai,First Owner,50 kmpl,1186.0,73.97,5.0,Hyundai
+BMW X4 M Sport X xDrive20d,2019,7500,Diesel,Dealer,Automatic,First Owner,16.78,1995.0,190.0,,BMW
+BMW X4 M Sport X xDrive20d,2019,8500,Diesel,Dealer,Automatic,First Owner,16.78,1995.0,190.0,5.0,BMW
+Honda Amaze V CVT Petrol BSIV,2019,7032,Electric,Trustmark Dealer,Automatic,First Owner,19.0,1199.0,88.76,5.0,Honda
+Skoda Rapid 1.6 MPI AT Elegance,2016,11000,Petrol,Dealer,Automatic,Rent,14.3,1598.0,103.5,5.0,Skoda
+Volvo V40 D3 R-Design,2018,2000,Diesel,Dealer,Ai,First Owner,16.8,1984.0,150.0,5.0,Volvo
+Maruti Wagon R Stingray VXI Optional,2017,40000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti

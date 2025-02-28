@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i VTEC V,2017,28000,Petrol,Individual,Manual,First Owner,17.8,1497.0,117.3,5.0,Honda
+Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2018,40000,Diesel,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Ford Figo Diesel Titanium,2012,87237,Diesel,Dealer,Manual,Second Owner,20.0,1399.0,68.05,5.0,Ford
+Chevrolet Captiva LT,2011,99500,Diesel,Individual,Manual,Third Owner,11.5,1991.0,147.9,7.0,Chevrolet
+Ford Figo 1.5D Trend MT,2017,62960,Diesel,Dealer,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+MG Hector Smart DCT,2019,16500,Petrol,Dealer,Automatic,First Owner,13.96,1451.0,141.0,5.0,MG
+Maruti Ertiga VDI,2014,110000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.76,7.0,Ertiga
+Maruti Swift VDI,2011,72000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Swift Dzire LDI,2018,50000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Zest Revotron 1.2T XM,2016,70000,Petrol,Individual,Manual,Second Owner,17.57,1193.0,88.7,5.0,Tata
+Maruti Swift Dzire VDI,2014,90000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Tata Manza Aura (ABS) Quadrajet BS IV,2010,188000,Diesel,Individual,Manual,Second Owner,21.12,1248.0,88.8,5.0,Tata
+Chevrolet Enjoy TCDi LS 8 Seater,2014,120000,Diesel,Individual,Manual,Second Owner,18.2,1248.0,73.8,8.0,Chevrolet
+Honda City i VTEC V,2015,80000,Petrol,Individual,Manual,First Owner,17.4,1497.0,117.3,5.0,Honda
+Hyundai i10 Magna,2010,123278,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai
+Honda City i DTEC V,2014,100000,Diesel,Individual,Manual,Second Owner,26.0,1498.0,98.6,5.0,Honda
+Hyundai i20 Active 1.4 SX with AVN,2015,90000,Diesel,Individual,Manual,First Owner,21.19,1396.0,88.73,5.0,Hyundai
+Ford Figo Diesel Titanium,2012,110000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford

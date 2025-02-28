@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Vento 1.5 TDI Highline,2015,120000,Diesel,Individual,Manual,Second Owner,20.34,1498.0,103.2,5.0,Volkswagen
+Maruti Swift VXI Optional,2016,20000,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti
+Skoda Rapid Monte Carlo 1.5 TDI AT BSIV,2017,40000,Diesel,Individual,Automatic,First Owner,21.66,1498.0,108.6,5.0,Skoda
+Maruti Alto LXi BSIII,2010,20000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai EON Magna Plus,2014,70000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,EON
+Renault Duster 110PS Diesel RxL Explore,2016,30000,Diesel,Individual,Manual,First Owner,19.64,1461.0,108.45,5.0,Renault
+Mahindra XUV500 W8 2WD,2014,120000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Renault KWID 1.0 RXT BSIV,2019,25000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Renault KWID RXL,9,80000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault

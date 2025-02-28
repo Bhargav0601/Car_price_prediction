@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio 2.6 Turbo 7 Str,2008,110000,Diesel,Individual,Manual,First Owner,12.7,2609.0,116.6,8.0,Mahindra
+Renault KWID RXT,2016,30000,Petrol,Individual,Manual,Third Owner,25.17,799.0,53.3,5.0,Renault
+Mahindra Scorpio S10 7 Seater,2015,80000,Diesel,Individual,Manual,Second Owner,15.4,2179.0,120.0,7.0,Mahindra
+Maruti Swift Dzire VDI,8,100000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Toyota Etios Liva GD,2015,80000,Diesel,Individual,Manual,First Owner,23.59,1364.0,67.04,5.0,Toyota
+Toyota Innova Crysta 2.8 GX AT BSIV,2016,40000,Diesel,Individual,Automatic,Second Owner,11.36,2755.0,171.5,7.0,Toyota
+Maruti Vitara Brezza VDi Option,2017,50000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Tata Safari Storme LX,2013,95500,Diesel,Individual,Manual,Second Owner,14.0,2179.0,138.1,7.0,Tata
+Ford Figo 1.2P Ambiente MT,2017,40000,Petrol,Individual,Manual,Second Owner,18.16,1196.0,86.8,5.0,Ford

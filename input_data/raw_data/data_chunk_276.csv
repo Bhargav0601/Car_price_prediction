@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Santro Xing GLS LPG,10,70000,LPG,Partnership,Manual,Third Owner,13.45,1086.0,62.1,5.0,Hyundai
+Maruti Swift Dzire VDi,2009,138000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Hyundai i10 Magna,2010,70000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Alto LXi,2010,48000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,3 seats,Maruti
+Ford Endeavour 3.0L 4X2 AT,2012,110000,Diesel,Individual,Automatic,First Owner,Unknown,2953.0,153.86,7.0,Ford
+Maruti Swift VDI BSIV,2014,88000,Electric,Individual,Manual,Second Owner,25.2,1248.0,74.0,,Maruti
+Toyota Innova 2.5 GX (Diesel) 7 Seater,8,68000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Hyundai Grand i10 Sportz,2017,70000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Grand
+Renault Duster 85PS Diesel RxL,2014,80000,Diesel,Individual,Manual,First Owner,20.45,1461.0,83.8,5.0,Renault

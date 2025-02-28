@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata New Safari 3L Dicor LX 4x2,2007,120000,Diesel,Individual,Manual,Second Owner,13.93,2956.0,138.1,7.0,Tata
+Maruti Ciaz ZXi,2016,20000,Petrol,Individual,Manual,First Owner,20.73,1373.0,91.1,5.0,Maruti
+Tata Indigo CR4,2013,25000,Diesel,Individual,Manual,First Owner,23.57,1396.0,70.0,5.0,Tata
+Maruti Swift Dzire ZDI Plus,2017,60000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Tata Sumo EX 10/7 Str BSIII,2008,80000,Diesel,Individual,Manual,Rent,12.2,1948.0,68.0,10.0,Tata
+Maruti Omni E MPI STD BS IV,2014,80000,Petrol,Individual,Manual,First Owner,16.8,796.0,34.2,8.0,Maruti
+Honda Amaze S i-VTEC,2019,1303,Petrol,Dealer,Manual,First Owner,17.8,1198.0,86.7,5.0,Honda
+Audi Q5 35TDI Premium Plus,2018,31800,Diesel,Dealer,Automatic,First Owner,17.01,1968.0,188.0,5.0,Audi
+Lexus ES 300h,2019,20000,Petrol,Partnership,Automatic,First Owner,22.37,2487.0,214.56,5.0,Lexus

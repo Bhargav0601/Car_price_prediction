@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Nissan Sunny Diesel XV,2013,120000,Diesel,Individual,Manual,First Owner,21.64,1461.0,84.8,5.0,Nissan
+Jeep Compass 2.0 Limited,3,24000,Diesel,Individual,Manual,First Owner,17.1,1956.0,170.0,5.0,Jeep
+Maruti Baleno Zeta 1.3,10,70000,Diesel,Individual,Manual,Second Owner,27.39,1248.0,74.0,5.0,Maruti
+Tata Tiago NRG Petrol,2018,35000,Petrol,Individual,Manual,First Owner,24.0,1199.0,83.81,5.0,Tata
+Maruti 800 AC,1999,80000,Petrol,Individual,Manual,Third Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti SX4 S Cross 2015-2017 DDiS 200 Zeta,2017,70000,Diesel,Individual,Manual,Second Owner,23.65,1248.0,88.5,5.0,Maruti
+Mahindra Scorpio 2.6 SLX Turbo 7 Seater,2004,100000,Diesel,Individual,Manual,Fourth & Above Owner,10.5,2179.0,120.0,7.0,Mahindra
+Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,9000,Diesel,Dealer,Automatic,Rent,13.6,1999.0,177.0,5.0,Jaguar
+Lexus ES 300h,2019,20000,Petrol,Dealer,Automatic,First Owner,22.37,2487.0,214.56,5.0,Lexus

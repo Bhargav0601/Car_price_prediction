@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Polo 1.5 TDI Highline,2015,33000,Diesel,Individual,Manual,First Owner,20.14,1498.0,88.8,5.0,Volkswagen
+Maruti Alto LXi BSIII,2009,70000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai Santro Xing GL,2011,40000,Petrol,Individual,Manual,Fourth & Above Owner,0.0,1086.0,62.0,5.0,Hyundai
+Tata Indigo Grand Petrol,2008,40000,Electric,Individual,Manual,Fourth & Above Owner,12.85,1396.0,99.6,5.0,Indigo
+Tata Indica Vista Terra 1.4 TDI,2011,80000,Diesel,Individual,Manual,First Owner,17.0,1405.0,71.0,5.0,Tata
+Maruti Ciaz ZDi,2015,70000,Diesel,Individual,Manual,First Owner,26.21,1248.0,88.5,5.0,Maruti
+Toyota Innova 2.5 G (Diesel) 8 Seater,2013,100000,Diesel,Individual,Manual,Rent,12.99,2494.0,100.6,8.0,Toyota
+Mahindra Xylo E8,2009,90000,Diesel,Individual,Manual,Second Owner,14.0,2498.0,112.0,8.0,Mahindra
+Ford Figo Diesel Titanium,2012,112000,Diesel,Individual,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire ZXi,2012,90000,Petrol,Individual,Manual,Second Owner,17.5,1298.0,85.8,5.0,Maruti
+Hyundai Elite i20 Petrol Asta,2019,17000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.86,5.0,Hyundai
+Mahindra Scorpio VLX 2WD BSIII,2012,70000,Diesel,Individual,Manual,First Owner,12.05,2179.0,120.0,8.0,Mahindra
+Volkswagen Polo Diesel Highline 1.2L,2012,74000,Diesel,Individual,Manual,Second Owner,22.07,1199.0,73.9,5.0,Volkswagen
+Maruti Alto LX BSIII,2006,60000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Alto 800 LX,2016,15000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Honda WR-V i-DTEC VX,2019,72000,Diesel,Individual,Manual,First Owner,25.5,1498.0,98.6,5.0,Honda
+Tata Indica V2 LSi,2008,25000,Petrol,Individual,Manual,Second Owner,16.84,1193.0,64.4,5.0,Tata
+Maruti Alto LXI,2003,114000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti

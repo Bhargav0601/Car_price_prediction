@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ritz VDi,2012,89000,Diesel,Individual,Manual,Second Owner,23.2,1248.0,73.94,5.0,Maruti
+Maruti Ertiga ZDI,2013,37500,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.8,7.0,Maruti
+Tata Tiago 1.2 Revotron XTA,2018,5000,Petrol,Individual,Automatic,First Owner,23.84,1199.0,84.0,5.0,Tata
+Hyundai Grand i10 1.2 Kappa Asta,2013,21000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Maruti Alto K10 LXI,2017,10000,Petrol,Individual,Manual,Second Owner,23.95,998.0,67.05,5.0,Maruti
+Maruti Swift Dzire VDI,2017,30000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Maruti Eeco 7 Seater Standard BSIV,2015,19800,Petrol,Individual,Manual,First Owner,15.37,1196.0,73.0,7.0,Maruti
+Maruti Ritz VDi,2011,90000,Diesel,Individual,Manual,Third Owner,21.1,1248.0,73.9,5.0,Maruti
+Honda Brio Exclusive Edition,2014,33033,Petrol,Dealer,Manual,First Owner,19.4,1198.0,86.8,5.0,Honda

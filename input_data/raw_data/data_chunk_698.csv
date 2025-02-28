@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Jeep Compass 1.4 Limited,2019,22000,Petrol,Partnership,Automatic,First Owner,16.0,1368.0,160.0,5.0,Jeep
+Hyundai Creta 1.6 SX Diesel,2017,41000,Diesel,Dealer,Manual,First Owner,20.5,1582.0,126.2,5.0,Hyundai
+Maruti Ertiga SHVS VDI,2019,50000,Diesel,Dealer,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Maruti Ertiga ZDI,2016,66000,Diesel,Dealer,Manual,First Owner,20.77,1248.0,88.8,7.0,Maruti
+Maruti Ertiga VDI,2013,65000,Diesel,Dealer,Manual,First Owner,20.77,1248.0,88.76,7.0,Maruti
+Hyundai i20 Diesel Asta Option,2014,76000,Diesel,Dealer,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Toyota Innova 2.5 V Diesel 7-seater,2013,95000,Diesel,Dealer,Manual,First Owner,12.8,2494.0,102.0,7.0,Toyota
+Honda City 1.5 V MT,2,55000,Petrol,Dealer,Manual,Second Owner,17.0,1497.0,118.0,5.0,Honda
+Datsun GO Plus T,2017,65000,Petrol,Dealer,Manual,First Owner,19.02,1198.0,67.05,7.0,Datsun

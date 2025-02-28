@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indigo eCS VX BSIV,2012,60000,Diesel,Individual,Manual,First Owner,25.0,1396.0,69.0,5.0,Tata
+Mahindra Scorpio LX,2011,80000,Diesel,Individual,Manual,Second Owner,12.05,2179.0,120.0,9.0,Mahindra
+Ford Ecosport 1.0 Ecoboost Titanium Optional,2014,43011,Petrol,Dealer,Manual,First Owner,18.88,999.0,123.37,5.0,Ford
+Renault Duster 110PS Diesel RxL,2015,136000,Diesel,Individual,Manual,First Owner,19.01,1461.0,108.45,5.0,Renault
+Ford Figo Aspire 1.5 TDCi Titanium,2017,15000,Diesel,Individual,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Mahindra Bolero SLX,2011,110000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Hyundai i10 Magna 1.1L,2008,100000,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Maruti Alto LXi BSIII,2005,70000,Petrol,Individual,Manual,Fourth & Above Owner,19.7,796.0,46.3,5.0,Maruti
+Tata Indica Vista Aqua 1.4 TDI,2010,110000,Diesel,Individual,Ai,First Owner,17.0,1405.0,71.0,5.0,Tata

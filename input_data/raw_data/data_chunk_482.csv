@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volvo V40 D3 R-Design,10,2000,Diesel,Dealer,Automatic,First Owner,16.8,1984.0,150.0,5.0,Volvo
+Maruti Wagon R LX BSIII,10,100000,Petrol,Individual,Manual,Third Owner,17.3,1061.0,64.0,5.0,Maruti
+Hyundai i10 Era 1.1,2008,93331,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Mahindra Scorpio M2DI,2012,120000,Diesel,Partnership,Manual,Second Owner,13.5,2179.0,115.0,5.0,Mahindra
+Nissan Terrano XL 110 PS,2015,70000,Diesel,Individual,Manual,First Owner,19.01,,108.5,5.0,Nissan
+Mahindra Bolero Power Plus Plus Non AC BSIV PS,2015,100000,Diesel,Individual,Manual,First Owner,15.96,2523.0,63.0,9.0,Mahindra
+Hyundai Accent CRDi,2006,90000,Diesel,Partnership,Manual,Second Owner,13.1,1493.0,82.0,5.0,Hyundai
+Honda City i VTEC V,2017,28000,Petrol,Individual,Manual,First Owner,17.8,1497.0,117.3,5.0,Honda
+Maruti Swift Dzire LDI,2018,50000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti

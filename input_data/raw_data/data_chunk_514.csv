@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra XUV500 W8 AWD,2012,84487,Diesel,Individual,Manual,Fourth & Above Owner,15.1,2179.0,140.0,7.0,Mahindra
+Toyota Innova 2.5 GX 7 STR,2010,100000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,7.0,Toyota
+Maruti Alto LX,2007,60000,Electric,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti SX4 Zxi BSIII,2009,110000,Petrol,Individual,Manual,Third Owner,15.0,1586.0,104.68,5.0,Maruti
+Toyota Innova 2.5 G2,2006,264000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Mahindra Xylo E4 BS IV,2010,146000,Diesel,Individual,Manual,Fourth & Above Owner,14.0,2498.0,112.0,7.0,Mahindra
+Maruti Swift Dzire VDI,2014,70000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Maruti Vitara Brezza VDi Option,2017,51146,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Ritz LXI,2011,40000,Petrol,Individual,Manual,First Owner,21.1,1197.0,85.8,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ciaz Alpha Diesel,2018,50000,Diesel,Individual,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti
+Tata Indica V2 DLS TC,2004,90000,Electric,Individual,Manual,Third Owner,16.8,1405.0,62.0,5.0,Tata
+Chevrolet Sail 1.2 LT ABS,2014,23000,Petrol,Individual,Manual,First Owner,18.2,1199.0,82.4,5.0,Chevrolet
+Maruti Omni MPI STD BSIV,2013,50000,Petrol,Individual,Manual,First Owner,16.8,796.0,34.2,5.0,Maruti
+Mahindra Xylo D4 BSIII,2013,300000,Diesel,Individual,Manual,First Owner,14.0,2498.0,112.0,8.0,Mahindra
+Maruti Alto K10 2010-2014 VXI,2011,50000,Petrol,Individual,Manual,Third Owner,20.92,998.0,67.1,5.0,Maruti
+Maruti Eeco CNG 5 Seater AC BSIV,5,140000,CNG,Partnership,Manual,First Owner,21.94,1196.0,61.7,5.0,Maruti
+Hyundai Elite i20 Sportz Plus CVT BSIV,2019,16000,Petrol,Individual,Automatic,First Owner,17.4,1197.0,81.86,5.0,Hyundai
+Hyundai i20 Active 1.4,2015,126000,Diesel,Individual,Manual,First Owner,21.19,1396.0,88.73,5.0,Hyundai

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ignis 1.2 Zeta BSIV,2019,3000,Petrol,Individual,Manual,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Maruti Alto K10 2010-2014 VXI,2012,50000,Petrol,Individual,Manual,First Owner,20.92,998.0,67.1,5.0,Maruti
+Mahindra Bolero 2011-2019 ZLX,2013,50000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Honda Jazz VX CVT,2019,1500,Petrol,Individual,Automatic,First Owner,18.2,1199.0,88.7,5.0,Honda
+Volkswagen Vento 1.5 TDI Highline,2017,74000,Diesel,Individual,Manual,First Owner,22.27,1498.0,108.6,5.0,Volkswagen
+Honda Jazz 1.2 V i VTEC,2017,25000,Petrol,Individual,Manual,First Owner,18.7,1199.0,88.7,5.0,Honda
+Honda Jazz 1.5 VX i DTEC,2016,61915,Diesel,Individual,Manual,First Owner,27.3,1498.0,98.6,5.0,Honda
+Hyundai EON Era Plus,2016,110000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Volkswagen Polo 1.5 TDI Comfortline,2016,70000,Diesel,Partnership,Manual,First Owner,20.14,1498.0,88.0,5.0,Volkswagen

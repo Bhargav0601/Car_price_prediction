@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indica Vista Aqua 1.4 TDI,2009,120000,Diesel,Individual,Manual,First Owner,17.0,1405.0,71.0,5.0,Tata
+Maruti Ritz VDi,2011,110000,Diesel,Individual,Manual,Second Owner,21.1,1248.0,73.9,5.0,Maruti
+Tata Tiago 1.2 Revotron XZ,2017,60000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Chevrolet Spark 1.0 LT Option Pack w/ Airbag,2009,30000,Petrol,Individual,Manual,First Owner,16.5,995.0,63.0,5.0,Chevrolet
+Skoda Rapid 1.5 TDI Ambition BSIV,2018,35000,Diesel,Individual,Manual,First Owner,21.13,1498.0,108.6,5.0,Skoda
+Maruti 800 Std,2003,50000,Petrol,Individual,Manual,Third Owner,16.1,796.0,37.0,4.0,Maruti
+Renault Duster 110PS Diesel RxZ,2012,100000,Diesel,Individual,Manual,First Owner,19.01,1461.0,108.45,5.0,Renault
+Mahindra XUV500 W8 4WD,2012,80000,Diesel,Individual,Manual,Third Owner,15.1,2179.0,140.0,7.0,Mahindra
+Volkswagen CrossPolo 1.5 TDI,2014,84000,Diesel,Individual,Manual,Second Owner,20.14,1498.0,88.5,5.0,Volkswagen

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Thar CRDe AC,2018,12000,Diesel,Dealer,Manual,First Owner,16.55,,105.0,6.0,Mahindra
+Toyota Camry 2.5 Hybrid,2016,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16,2494.0,157.7,5.0,Toyota
+Honda Jazz VX,2016,56494,Petrol,Trustmark Dealer,Manual,Rent,18.2,1199.0,88.7,5.0,Honda
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99,2494.0,100.6,7.0,Toyota
+Honda Amaze V CVT Petrol BSIV,2019,7032,Petrol,Trustmark Dealer,Ai,First Owner,19.0,1199.0,88.76,5.0,Honda
+BMW 5 Series 520d Sport Line,2018,10000,Diesel,Dealer,Automatic,First Owner,22.48,1995.0,187.74,5.0,BMW
+Mercedes-Benz E-Class Exclusive E 200 BSIV,2019,17000,Petrol,Dealer,Automatic,First Owner,15.0,1991.0,194.4,5.0,Mercedes
+Land Rover Discovery Sport TD4 SE,2019,21000,Diesel,Dealer,Automatic,First Owner,12.83,1999.0,148.31,7.0,Land
+Tata Hexa XE,2017,26500,Diesel,Dealer,Manual,First Owner,17.6,2179.0,147.94,7.0,Tata

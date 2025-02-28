@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Vdi BSIII,2010,110000,Diesel,Individual,Manual,Third Owner,17.8,1248.0,75.0,5.0,Maruti
+Mahindra XUV500 W6 2WD,2016,100000,Diesel,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Ford Ikon 1.4 TDCi DuraTorq,2009,115000,Diesel,Individual,Manual,Second Owner,13.8,1399.0,68.0,5.0,Ford
+Mahindra Scorpio SLX 4WD LE,2008,120000,Diesel,Individual,Manual,Fourth & Above Owner,12.7,2609.0,120.0,8.0,Mahindra
+Skoda Fabia 1.2L Diesel Elegance,2011,265000,Diesel,Individual,Manual,Second Owner,20.86,1199.0,75.0,5.0,Skoda
+Maruti Swift Vdi BSIII,2008,90000,Diesel,Individual,Manual,Second Owner,17.8,1248.0,75.0,5.0,Maruti
+Honda Jazz V CVT,2018,40000,Petrol,Individual,Automatic,First Owner,18.2,1199.0,88.7,5.0,Honda
+Hyundai Verna 1.6 Xi ABS,2008,55000,Petrol,Individual,Manual,Second Owner,13.9,1599.0,103.2,5.0,Hyundai
+Maruti Alto LXi,10,90000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti

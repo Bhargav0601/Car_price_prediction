@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 Magna 1.2,2015,35000,Petrol,Individual,Manual,Second Owner,18.6,1197.0,81.83,5.0,Hyundai
+Toyota Innova Crysta 2.4 ZX MT BSIV,2017,81000,Diesel,Individual,Manual,First Owner,13.68,2393.0,147.8,7.0,Toyota
+Chevrolet Cruze LTZ,2011,100000,Electric,Individual,Manual,First Owner,18.3,1991.0,147.9,5.0,Chevrolet
+Tata Hexa XTA,2017,60000,Diesel,Individual,Automatic,First Owner,17.6,2179.0,153.86,7.0,Hexa
+Honda City i DTec S,2016,60000,Electric,Individual,Manual,First Owner,26.0,1498.0,98.6,5.0,Honda
+Mercedes-Benz GLA Class 200,2016,70000,Petrol,Individual,Automatic,Rent,13.7,1991.0,183.0,5.0,GLA
+Maruti Swift 1.3 VXi,2010,83000,Petrol,Individual,Manual,Second Owner,,,,,Maruti
+Honda Amaze S i-Dtech,2015,50000,Diesel,Individual,Manual,First Owner,25.8,1498.0,98.6,5.0,Honda
+Hyundai i20 1.4 CRDi Era,2012,90000,Diesel,Individual,Ai,First Owner,23.0,1396.0,90.0,5.0,Hyundai

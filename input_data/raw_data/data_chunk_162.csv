@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i10 Era,2009,50000,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Maruti Swift Dzire VDI,2016,40000,Diesel,Individual,Manual,Second Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Ertiga VXI,2014,25000,Petrol,Individual,Manual,First Owner,Unknown,1373.0,93.7,7.0,Maruti
+Mahindra XUV500 W7,2020,120000,Diesel,Individual,Manual,First Owner,15.1,2179.0,152.87,7.0,Mahindra
+Maruti Ritz VDi,2011,60000,Diesel,Individual,Manual,Second Owner,21.1,1248.0,73.9,5.0,Maruti
+Mahindra Bolero 2011-2019 DI - AC BS III,2014,110000,Diesel,Individual,Manual,First Owner,15.96,2523.0,63.0,9.0,Mahindra
+Mahindra Scorpio 1.99 S4,2016,67000,Diesel,Individual,Manual,First Owner,15.4,1997.0,120.0,7.0,Mahindra
+Ford Figo Diesel Titanium,2010,50000,Diesel,Individual,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Maruti Zen Estilo 1.1 VXI BSIII,2008,40000,Petrol,Individual,Manual,First Owner,18.2,1061.0,64.0,5.0,Maruti

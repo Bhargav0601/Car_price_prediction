@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire Tour LDI,2013,70000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Maruti 800 AC,2006,40000,Petrol,Individual,Manual,Second Owner,16.1,922 CC,37.0,4.0,Maruti
+Mahindra XUV500 W10 2WD,2016,110000,Diesel,Individual,Manual,First Owner,16.0,2179.0,140.0,,Mahindra
+Tata New Safari DICOR 2.2 VX 4x4,2009,150000,Diesel,Individual,Manual,First Owner,13.93,2179.0,138.0,7.0,Tata
+Tata Indica Vista TDI LX,2014,45000,Diesel,Individual,Manual,First Owner,19.1,1405.0,70.0,5.0,Indica
+Tata Indigo LX,2005,90000,Diesel,Individual,Manual,Third Owner,16.1,1405.0,70.0,5.0,Tata
+Tata New Safari DICOR 2.2 EX 4x2,2011,140000,Diesel,Individual,Manual,Second Owner,11.57,2179.0,138.1,7.0,Tata
+Ford Ikon 1.3 CLXi,2003,83000,Petrol,Individual,Manual,Second Owner,13.8,1299.0,70.0,5.0,Ford
+Volkswagen Jetta 2.0L TDI Highline AT,2011,106000,Diesel,Individual,Automatic,Second Owner,16.96,1968.0,138.1,5.0,Volkswagen

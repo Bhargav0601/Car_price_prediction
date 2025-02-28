@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ritz VXi (ABS) BS IV,2010,120000,Petrol,Individual,Ai,Second Owner,18.5,1197.0,85.8,5.0,Ritz
+Hyundai Verna 1.4 CRDi,2015,60000,Diesel,Individual,Manual,Rent,24.8,1396.0,88.7,5.0,Hyundai
+Maruti Alto LXi,2011,100000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai Santro Xing GL PLUS CNG,5,60000,CNG,Individual,Manual,Second Owner,,,,,Hyundai
+Maruti 800 AC,2011,120000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Renault KWID RXT,2016,27500,Petrol,Individual,Ai,First Owner,25.17,799.0,53.3,5.0,Renault
+Maruti 800 AC,2007,10000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Hyundai i20 Magna,2010,120000,Petrol,Individual,Manual,Third Owner,18.5,1197.0,80.0,5.0,Hyundai
+Maruti Swift VDI BSIV,2,70000,Diesel,Individual,Manual,Second Owner,,,,,Maruti

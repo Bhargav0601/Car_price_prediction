@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Celerio X VXI Option BSIV,2017,25000,Petrol,Individual,Manual,First Owner,21.63,998.0,67.0,5.0,Maruti
+Hyundai i20 2015-2017 Sportz 1.2,2017,5000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Hyundai Santro Xing GLS,2008,80000,Petrol,Individual,Manual,Third Owner,17.92,1086.0,62.1,5.0,Hyundai
+Mahindra Scorpio VLX 2WD BSIV,2011,120000,Diesel,Individual,Manual,Second Owner,12.05,2179.0,120.0,8.0,Mahindra
+Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,9000,Diesel,Dealer,Automatic,First Owner,13.6,1999.0,177.0,5.0,Jaguar
+Lexus ES 300h,2019,20000,Petrol,Dealer,Automatic,First Owner,22.37,2487.0,214.56,5.0,Lexus
+Jaguar XF 2.0 Diesel Portfolio,2017,45000,Diesel,Dealer,Automatic,First Owner,19.33,1999.0,177.0,,Jaguar
+Tata Safari Storme EX,2015,110000,Diesel,Individual,Manual,First Owner,13 kmpl,2179.0,147.94,7.0,Tata
+Volvo XC40 D4 Inscription BSIV,2019,20000,Diesel,Individual,Automatic,First Owner,18.0,1969.0,190.0,5.0,Volvo

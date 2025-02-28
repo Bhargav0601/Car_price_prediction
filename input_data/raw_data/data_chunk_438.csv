@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Nano Cx BSIII,2012,40000,Petrol,Individual,Manual,Second Owner,25.4,624.0,38.0,4.0,Tata
+Maruti Swift Dzire VXI,2014,72000,Petrol,Individual,Manual,First Owner,19.1,1197.0,85.8,5.0,Maruti
+Tata Manza Aqua Quadrajet BS IV,2012,195000,Diesel,Individual,Manual,Second Owner,21.12,1248.0,88.8,5.0,Tata
+Hyundai EON D Lite,2012,70000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Nissan Micra Diesel XL Optional,2013,83000,Diesel,Individual,Manual,First Owner,23.08,1461.0,63.1,5.0,Nissan
+Hyundai EON Era Plus,2012,100000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Swift VXI Optional,2015,25000,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti
+Maruti Swift VDI Optional,2016,50000,Electric,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Ertiga VDI,2012,67000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.76,7.0,Maruti

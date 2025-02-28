@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Verna Transform SX VGT CRDi AT BS III,2010,185000,Diesel,Individual,Automatic,Fourth & Above Owner,16.2,1493.0,110.0,5.0,Hyundai
+Volkswagen Vento Diesel Highline,2011,125000,Electric,Individual,Manual,Fourth & Above Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Honda City 2017-2020 GXi,2006,178500,Petrol,Individual,Manual,Third Owner,17.7,1497.0,78.0,5.0,Honda
+Mahindra XUV500 W10 2WD,2017,66953,Diesel,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Nissan Micra Diesel XV Premium,2012,166000,Diesel,Individual,Manual,Second Owner,23.08,1461.0,63.1,5.0,Nissan
+Volkswagen Vento Diesel Comfortline,2011,131000,Diesel,Individual,Manual,Fourth & Above Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Maruti Wagon R LXI Minor,2009,50000,Petrol,Individual,Manual,Second Owner,18.9,1061.0,67.0,5.0,Maruti
+Maruti Swift ZDI BSIV,2015,25000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Honda Jazz V,2018,20000,Petrol,Individual,Manual,First Owner,18.2,1199.0,88.7,5.0,Honda

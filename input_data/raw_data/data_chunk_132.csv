@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Diesel ZXI,2012,60000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Mahindra Verito 1.5 D4 BSIII,2014,106000,Diesel,Individual,Manual,Second Owner,20.8,1461.0,65.0,5.0,Mahindra
+Mahindra Scorpio 2.6 SLX Turbo 7 Seater,2006,80000,Diesel,Individual,Manual,Second Owner,10.5,2179.0,120.0,7.0,Mahindra
+Mahindra Bolero 2011-2019 DI NON AC BS III White,2016,80000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,63.0,9.0,Mahindra
+Toyota Innova 2.5 VX (Diesel) 8 Seater BS IV,2013,110000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.0,8.0,Toyota
+Mahindra Bolero DI,2011,120000,Diesel,Individual,Manual,Third Owner,13.6,2523.0,63.0,7.0,Mahindra
+Maruti Alto K10 LXI,1,27000,Petrol,Individual,Manual,First Owner,20.92,998.0,67.1,5.0,Maruti
+Maruti Alto LXi,2007,70000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Wagon R LXI Minor,2010,70000,Petrol,Individual,Manual,Second Owner,18.9,1061.0,67.0,5.0,Wagon

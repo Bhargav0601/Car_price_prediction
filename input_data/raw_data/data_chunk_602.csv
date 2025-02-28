@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault Duster Adventure Edition,2014,120000,Diesel,Individual,Ai,First Owner,Unknown,1461.0,108.45,5.0,Renault
+Hyundai i10 Sportz Option,2011,70000,Petrol,Individual,Manual,Third Owner,20.36,1197.0,78.9,5.0,Hyundai
+Mahindra Scorpio S4 9 Seater,2014,25000,Diesel,Individual,Manual,First Owner,15.4,2179.0,120.0,9.0,Mahindra
+Hyundai Creta 1.4 CRDi Base,2017,60000,Diesel,Individual,Manual,First Owner,21.38,1396.0,88.7,5.0,Hyundai
+Toyota Innova 2.5 G4 Diesel 7-seater,2006,250000,Diesel,Individual,Ai,First Owner,12.8,2494.0,102.0,7.0,Toyota
+Datsun RediGO 1.0 S,2018,35000,Petrol,Individual,Manual,First Owner,22.5,999.0,67.0,5.0,Datsun
+Maruti Alto K10 VXI,2016,15000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Maruti Swift VDi BSIII W/ ABS,2010,98000,Diesel,Individual,Manual,First Owner,17.8,1248.0,75.0,5.0,Maruti
+Hyundai Accent Executive,2011,62000,Petrol,Individual,Manual,Third Owner,16.36,1495.0,93.7,5.0,Hyundai

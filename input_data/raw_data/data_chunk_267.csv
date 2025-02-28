@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Brio V MT,2012,50000,Petrol,Individual,Manual,Second Owner,19.4,1198.0,86.8,5.0,Honda
+Tata Tiago 1.2 Revotron XZ,2017,20000,Petrol,Partnership,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Hyundai Creta 1.6 VTVT E Plus,2016,30000,Petrol,Individual,Manual,First Owner,15.29,1591.0,121.3,5.0,Hyundai
+Hyundai i10 Sportz 1.1L,2010,70000,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Toyota Innova 2.5 G (Diesel) 8 Seater,2013,7200,Diesel,Individual,Manual,First Owner,19 kmpl,2494.0,100.6,8.0,Toyota
+Honda City i DTEC SV,2014,97000,Diesel,Individual,Ai,First Owner,26.0,1498.0,98.6,5.0,Honda
+Hyundai EON Era Plus,2014,60000,Petrol,Partnership,Manual,Second Owner,21.1,814.0,55.2,5.0,EON
+Chevrolet Sail Hatchback Petrol LS ABS,2013,25000,Petrol,Individual,Manual,First Owner,18.2,1199.0,84.8,5.0,Chevrolet
+Hyundai i10 Sportz,2010,94000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai

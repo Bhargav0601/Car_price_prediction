@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Ecosport 1.5 Ti VCT AT Titanium,2015,70670,Petrol,Trustmark Dealer,Automatic,First Owner,Unknown,1499.0,110.0,5.0,Ford
+Maruti Alto 800 LXI,9,43381,Petrol,Dealer,Manual,Second Owner,22.74,,47.3,5.0,Maruti
+Honda City i VTEC CVT VX,2014,79011,Petrol,Trustmark Dealer,Automatic,First Owner,18.0,1497.0,117.3,5.0,Honda
+Honda Jazz VX,2016,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2,1199.0,88.7,5.0,Honda
+Maruti SX4 VDI,2014,50000,Diesel,Individual,Manual,Second Owner,21.79,1248.0,88.73,5.0,Maruti
+Maruti Wagon R VXI BS IV,2011,40000,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Hyundai Grand i10 1.2 Kappa Asta,2018,10000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Mahindra Thar CRDe,2017,35000,Diesel,Individual,Manual,First Owner,16.55,2498.0,105.0,6.0,Mahindra
+Maruti Ritz VXi,2015,58500,Petrol,Individual,Manual,First Owner,18.5,1197.0,85.8,5.0,Maruti

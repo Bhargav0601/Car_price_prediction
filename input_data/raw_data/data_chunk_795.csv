@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Marazzo M2 8Str BSIV,2019,30000,Diesel,Individual,Manual,First Owner,17.3,1497.0,121.0,8.0,Mahindra
+Maruti Wagon R VXI BS IV,2018,20000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Maruti Wagon R VXI BS IV,2018,17000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Wagon
+Hyundai i20 1.2 Spotz,2018,20000,Petrol,Individual,Manual,Rent,18.6,1197.0,81.83,5.0,Hyundai
+Renault KWID RXT Optional,2016,60000,Petrol,Individual,Ai,First Owner,25.17,799.0,53.3,5.0,KWID
+Hyundai i20 1.2 Spotz,2018,20000,Petrol,Individual,Ai,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Hyundai Getz 1.1 GLE,2007,70000,Petrol,Individual,Manual,Third Owner,15.0,1086.0,66.6,5.0,Hyundai
+Tata Hexa XT,2017,150000,Diesel,Individual,Manual,First Owner,17.6,2179.0,153.86,7.0,Tata
+Tata Hexa XM,2017,35000,Diesel,Individual,Manual,First Owner,17.6,2179.0,153.86,7.0,Tata

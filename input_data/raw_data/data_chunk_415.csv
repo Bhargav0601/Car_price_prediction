@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift ZDI BSIV,2017,35000,Diesel,Individual,Manual,Second Owner,25.2,1248.0,74.0,5.0,Maruti
+Toyota Etios GD,2014,120000,Diesel,Individual,Manual,First Owner,23.59,1364.0,67.04,5.0,Toyota
+Hyundai Grand i10 CRDi Sportz,2016,63000,Diesel,Individual,Manual,Third Owner,24.0,1120.0,70.0,5.0,Hyundai
+Volkswagen Ameo 1.5 TDI Highline Plus,2019,25000,Diesel,Individual,Manual,First Owner,21.66,1498.0,108.62,5.0,Volkswagen
+Maruti Wagon R LXI BS IV,2011,64500,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Mahindra KUV 100 mFALCON D75 K2 Plus,2016,100000,Diesel,Individual,Manual,Second Owner,25.32,1198.0,77.0,6.0,Mahindra
+Hyundai Verna 1.6 CRDi SX,2017,40000,Diesel,Individual,Manual,First Owner,23.9,1582.0,126.2,5.0,Hyundai
+Hyundai i20 1.2 Magna Executive,2017,15000,Petrol,Individual,Manual,Second Owner,18.6,1197.0,81.83,5.0,Hyundai
+Toyota Etios Liva GD,2015,25000,Diesel,Individual,Manual,First Owner,23.59,1364.0,67.04,5.0,Toyota

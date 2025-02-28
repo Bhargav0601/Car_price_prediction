@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto K10 2010-2014 VXI,2012,13000,Petrol,Individual,Manual,First Owner,20.92,998.0,67.1,5.0,Maruti
+Renault Triber RXZ BSIV,2019,6500,Petrol,Individual,Manual,First Owner,20.0,999.0,72.0,7.0,Renault
+Hyundai EON Magna Plus,2013,49500,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Hyundai i20 1.4 CRDi Sportz,2011,50000,Diesel,Individual,Manual,Rent,23.0,1396.0,90.0,5.0,Hyundai
+Tata Indigo CR4,2011,175000,Diesel,Partnership,Manual,Second Owner,23.57,1396.0,70.0,5.0,Tata
+Tata Indigo eCS LX BSIV,2011,175000,Diesel,Individual,Manual,Second Owner,23.03,1396.0,69.0,5.0,Tata
+Hyundai Accent Gvs,2003,120000,Petrol,Individual,Manual,Third Owner,,,,,Hyundai
+Maruti Ritz ZDi,2014,110000,Diesel,Individual,Manual,Third Owner,23.2,1248.0,73.94,5.0,Maruti
+Maruti Swift Dzire VXi,2012,112048,Petrol,Individual,Manual,Second Owner,17.5,1298.0,85.8,5.0,Maruti

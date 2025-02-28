@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero SLX,2007,80000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Maruti Alto K10 2010-2014 VXI,2012,50000,Petrol,Individual,Manual,First Owner,20.92,998.0,67.1,5.0,Maruti
+Mahindra Bolero 2011-2019 ZLX,2013,50000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Gypsy King ST BSIII,8,80000,Petrol,Individual,Manual,First Owner,11.96,1298.0,80.0,8.0,Maruti
+Datsun RediGO T Option,2018,25000,Petrol,Individual,Manual,First Owner,22.7,799.0,53.64,5.0,Datsun
+Nissan Sunny XL D,2018,35000,Diesel,Individual,Manual,Rent,22.71,1461.0,84.8,5.0,Nissan
+Maruti Alto K10 2010-2014 VXI,2011,30000,Petrol,Individual,Manual,Rent,20.92,998.0,67.1,5.0,Maruti
+Maruti Vitara Brezza ZXI Plus AT Dual Tone,2020,10000,Petrol,Individual,Automatic,First Owner,18.76,1462.0,103.26,5.0,Maruti
+Maruti Celerio LXI,2014,80000,Petrol,Individual,Manual,First Owner,23.1,998.0,67.04,5.0,Maruti

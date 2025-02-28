@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Fiesta Classic 1.4 Duratorq CLXI,2012,79990,Diesel,Dealer,Manual,Second Owner,17.8,1399.0,67.0,5.0,Ford
+Ford Figo Diesel Titanium,2012,81632,Diesel,Dealer,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Ford Aspire Titanium Diesel BSIV,2016,155201,Diesel,Partnership,Manual,First Owner,26.1,1498.0,99.23,5.0,Ford
+Ford Ecosport 1.5 DV5 MT Titanium,2014,101504,Diesel,Dealer,Manual,First Owner,22.7,1766 CC,89.84,5.0,Ford
+Ford Fiesta Classic 1.4 Duratorq CLXI,8,90165,Diesel,Dealer,Manual,First Owner,17.8,1399.0,67.0,5.0,Ford
+Ford Figo Titanium Diesel BSIV,2010,86017,Diesel,Dealer,Manual,Second Owner,25.5,1498.0,99.23,5.0,Ford
+Mahindra XUV500 W8 2WD,2013,85036,Diesel,Dealer,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra
+Fiat Punto 1.3 Emotion,2013,160254,Diesel,Dealer,Manual,Second Owner,,,,,Fiat
+Ford EcoSport 1.5 TDCi Titanium BSIV,2013,125531,Diesel,Partnership,Manual,Second Owner,22.77,1498.0,98.59,5.0,Ford

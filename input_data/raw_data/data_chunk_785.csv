@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault KWID 1.0 RXT Optional,2017,16500,Petrol,Individual,Manual,Second Owner,23.01,999.0,67.0,5.0,Renault
+Maruti Alto K10 VXI,2016,9900,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Maruti Alto LXi,2012,80000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Fiat Linea Emotion,2010,100000,Petrol,Individual,Manual,Second Owner,16.0,1368.0,90.0,5.0,Fiat
+Maruti Dzire ZXI,2020,20000,Petrol,Individual,Manual,First Owner,23.26,1197.0,88.5,5.0,Maruti
+Maruti Ciaz ZDi Plus SHVS,2016,90000,Diesel,Individual,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti
+Mahindra Thar CRDe,2019,15000,Electric,Individual,Manual,First Owner,16.55,2498.0,105.0,6.0,Mahindra
+Volkswagen Vento 1.5 Highline Plus AT 16 Alloy,2018,75000,Diesel,Individual,Automatic,First Owner,21.5,1498.0,108.5,5.0,Volkswagen
+Maruti Ritz LDi,2011,140000,Diesel,Individual,Manual,First Owner,21.1,1248.0,73.9,5.0,Maruti

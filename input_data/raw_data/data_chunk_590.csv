@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Amaze S Petrol BSIV,2019,5000,Petrol,Individual,Manual,First Owner,19.5,1199.0,88.76,5.0,Honda
+Hyundai i10 Magna 1.1L,2016,9750,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Toyota Innova Crysta 2.4 ZX MT BSIV,2016,110000,Diesel,Individual,Manual,First Owner,13.68,2393.0,147.8,7.0,Toyota
+Honda WR-V i-VTEC VX,2018,35000,Petrol,Individual,Manual,First Owner,17.5,1199.0,88.7,5.0,Honda
+Mahindra XUV500 W6 2WD,2015,10000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Mahindra Scorpio 2.6 SLX Turbo 7 Seater,2003,157138,Diesel,Individual,Manual,Third Owner,10.5,2179.0,120.0,7.0,Mahindra
+Hyundai Verna CRDi,2007,120000,Diesel,Individual,Manual,Fourth & Above Owner,16.8,1493.0,110.0,5.0,Hyundai
+Hyundai i10 Magna 1.1L,2008,110000,Petrol,Individual,Manual,Fourth & Above Owner,19.81,1086.0,68.05,5.0,Hyundai
+Mahindra XUV500 W9 BSIV,2018,46000,Diesel,Individual,Manual,First Owner,15.1,2179.0,152.87,7.0,Mahindra

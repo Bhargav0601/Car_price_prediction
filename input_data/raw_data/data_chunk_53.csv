@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Fiesta Titanium 1.5 TDCi,4,60000,Diesel,Individual,Manual,Second Owner,23.5,1498.0,90.0,5.0,Ford
+Tata Indigo CS LX DiCOR,2010,40000,Diesel,Individual,Manual,First Owner,16.6,1405.0,70.0,5.0,Tata
+Hyundai i10 Magna 1.1L,2008,50000,Petrol,Individual,Manual,Rent,19.81,,68.05,5.0,Hyundai
+Maruti A-Star Vxi,2010,65000,Petrol,Individual,Manual,Second Owner,19.0,998.0,66.1,5.0,Maruti
+Maruti Wagon R VXI BSIII,2011,80000,Petrol,Individual,Ai,First Owner,18.9,998.0,67.1,5.0,Maruti
+Hyundai Verna 1.6 CRDi S,2015,119000,Diesel,Individual,Manual,First Owner,23.9,1582.0,126.2,5.0,Hyundai
+Maruti Ertiga SHVS VDI,2016,80000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Maruti Swift VDI BSIV,2017,90000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Hyundai Verna 1.6 VTVT S Option,2016,20000,Petrol,Individual,Manual,First Owner,Unknown,1591.0,121.4,5.0,Hyundai

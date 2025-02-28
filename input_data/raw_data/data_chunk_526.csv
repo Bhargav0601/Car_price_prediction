@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Xcent 1.1 CRDi Base,2014,42312,Diesel,Dealer,Manual,First Owner,24.4,1120.0,71.0,5.0,Hyundai
+Toyota Etios G Safety,2011,72000,Petrol,Dealer,Manual,First Owner,17.6,1496.0,88.7,5.0,Toyota
+Toyota Etios Liva 1.4 GD,2014,54891,Diesel,Dealer,Manual,First Owner,23.59,1364.0,67.04,5.0,Toyota
+Hyundai Verna CRDi 1.6 AT SX Plus,2018,30000,Diesel,Individual,Ai,First Owner,22.0,1582.0,126.2,5.0,Hyundai
+BMW 3 Series 320d Luxury Line Plus,2017,44000,Diesel,Dealer,Automatic,First Owner,22.69,1995.0,190.0,5.0,BMW
+Toyota Innova Crysta 2.8 ZX AT BSIV,2017,18890,Diesel,Dealer,Automatic,First Owner,11.36,2755.0,171.5,7.0,Toyota
+Hyundai Santro Magna BSIV,2019,5000,Petrol,Individual,Manual,First Owner,20.3,1086.0,68.0,5.0,Hyundai
+Mahindra Ssangyong Rexton RX7,2013,117000,Diesel,Dealer,Automatic,First Owner,11.18,2696.0,184.0,7.0,Mahindra
+Renault Koleos 2.0 Diesel,2013,75010,Diesel,Dealer,Automatic,First Owner,9 kmpl,1995.0,148.0,5.0,Renault

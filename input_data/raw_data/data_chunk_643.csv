@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Captiva LT,2009,80000,Diesel,Individual,Manual,Second Owner,11.5,1991.0,147.9,7.0,Chevrolet
+Hyundai i10 Sportz,2011,91000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Alto K10 LXI CNG,2019,20000,CNG,Individual,Manual,First Owner,32.26,998.0,58.3,4.0,Maruti
+Mahindra Scorpio SLE BSIII,7,80000,Diesel,Individual,Manual,Second Owner,12.05,2179.0,120.0,8.0,Scorpio
+Maruti Ritz LDi,2013,80000,Diesel,Individual,Manual,First Owner,23.2,1248.0,73.94,5.0,Maruti
+Maruti Eeco CNG 5 Seater AC BSIV,5,80000,CNG,Individual,Manual,First Owner,21.94,1196.0,61.7,5.0,Maruti
+Hyundai Accent GLE CNG,2008,110000,CNG,Partnership,Manual,Third Owner,13.2,1495.0,94.0,5.0,Hyundai
+Hyundai Elantra CRDi SX,2013,120000,Diesel,Individual,Manual,First Owner,22.7,1582.0,126.24,5.0,Hyundai
+Skoda Superb Elegance 2.0 TDI CR AT,2013,90000,Diesel,Individual,Automatic,First Owner,17.2,1968.0,138.1,5.0,Skoda

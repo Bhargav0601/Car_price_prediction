@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift 1.3 VXi,2007,80000,Petrol,Individual,Manual,Fourth & Above Owner,,,,,Maruti
+Mahindra KUV 100 mFALCON G80 K8 Dual Tone,2017,20000,Petrol,Individual,Manual,Second Owner,18.15,1198.0,82.0,6.0,Mahindra
+Hyundai i20 Asta,2009,81000,Petrol,Individual,Manual,Fourth & Above Owner,17.0,1197.0,80.0,5.0,Hyundai
+Chevrolet Beat LS,2011,90000,Petrol,Individual,Manual,Rent,18.6,1199.0,79.4,5.0,Chevrolet
+Maruti 800 Std,6,60000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Chevrolet Beat LS,2012,40000,Petrol,Individual,Manual,Second Owner,18.6,1199.0,79.4,5.0,Chevrolet
+Tata Indica GLS BS IV,2007,80000,Petrol,Individual,Manual,Third Owner,15.3,1193.0,65.3,5.0,Tata
+Maruti Ertiga VXI CNG Limited Edition,2014,35000,CNG,Individual,Manual,First Owner,22.8,1373.0,80.9,7.0,Maruti
+Maruti Ertiga ZDI Plus,2019,20000,Diesel,Individual,Manual,First Owner,25.47,1248.0,88.5,7.0,Maruti

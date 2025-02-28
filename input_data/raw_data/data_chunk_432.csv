@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova 2.5 V Diesel 7-seater,2011,197000,Electric,Individual,Manual,First Owner,12.8,2494.0,102.0,7.0,Toyota
+Maruti Wagon R LXI BSIII,2006,100000,Petrol,Individual,Manual,Second Owner,Unknown,1061.0,64.0,5.0,Maruti
+Maruti 800 Std,1995,70000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Mahindra XUV500 W10 2WD,2015,140000,Diesel,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Maruti Esteem LX,2008,86000,Petrol,Individual,Manual,Second Owner,,,,,Maruti
+Maruti Alto LXi BSIII,2009,50000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Tata Tiago 1.2 Revotron XZ,2017,40300,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,2010,120000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,8.0,Toyota
+Maruti Celerio VXI,2016,25000,Petrol,Individual,Manual,Second Owner,23.1,998.0,67.04,5.0,Celerio

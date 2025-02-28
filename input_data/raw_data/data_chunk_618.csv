@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto Std,2011,15000,Petrol,Individual,Manual,Rent,19.7,796.0,46.3,5.0,Maruti
+Maruti Alto LX,2009,70000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Tata Indica Vista TDI LS,2013,90000,Diesel,Individual,Manual,Second Owner,19.4,1405.0,70.0,5.0,Tata
+Maruti Wagon R LX Minor,2007,100000,Petrol,Individual,Manual,Third Owner,18.9,1061.0,67.0,5.0,Maruti
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2018,25000,Petrol,Individual,Manual,Second Owner,18.9,1197.0,81.86,5.0,Hyundai
+Hyundai i20 1.4 Sportz,6,40000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Hyundai i20 1.4 Asta Option,2017,70000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Swift Dzire VDI,2017,40000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Tata Indica Vista Aqua 1.4 TDI,2011,200000,Diesel,Individual,Manual,Second Owner,17.0,1405.0,71.0,5.0,Tata

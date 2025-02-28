@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga SHVS ZDI Plus,2017,120000,Diesel,Partnership,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Renault Duster 110PS Diesel RxZ,2013,120000,Diesel,Individual,Manual,Second Owner,19.01,1461.0,108.45,5.0,Renault
+Ford Figo Diesel Titanium,10,103994,Diesel,Individual,Manual,Fourth & Above Owner,20.0,1399.0,68.0,5.0,Ford
+Toyota Corolla AE,2003,70000,Petrol,Individual,Manual,Second Owner,13.4,1794.0,125.0,5.0,Toyota
+Ford Figo Aspire 1.5 TDCi Titanium,2017,70000,Diesel,Individual,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Maruti SX4 ZDI Leather,2011,115000,Diesel,Individual,Manual,Fourth & Above Owner,21.5,1248.0,88.8,5.0,Maruti
+Tata Indica Vista Quadrajet VX,2012,178000,Diesel,Individual,Manual,Second Owner,22.3,1248.0,74.0,5.0,Indica
+Maruti Zen Estilo LX BSIV,2011,40000,Petrol,Individual,Manual,Third Owner,19.0,998.0,67.1,5.0,Maruti
+Ford Figo Diesel EXI,2011,80000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford

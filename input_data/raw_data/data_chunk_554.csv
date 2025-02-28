@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ignis 1.2 Delta BSIV,2019,10000,Petrol,Individual,Manual,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Maruti SX4 Zxi BSIII,2010,50000,Petrol,Individual,Manual,First Owner,15.0,1586.0,104.68,5.0,Maruti
+Maruti 800 AC,9,80000,Petrol,Partnership,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Hyundai Grand i10 Asta Option,2017,25000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Maruti Alto LXi,2007,80000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Mahindra Scorpio Intelli Hybrid S6 Plus,2017,80000,Diesel,Individual,Manual,First Owner,15.4,2179.0,120.0,7.0,Mahindra
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2015,70000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Maruti Baleno RS 1.0 Petrol,2018,15000,Petrol,Individual,Manual,First Owner,21.1,998.0,100.5,5.0,Baleno
+Hyundai i20 Magna Optional 1.2,2,27500,Petrol,Individual,Manual,First Owner,18.5,1197.0,82.9,5.0,Hyundai

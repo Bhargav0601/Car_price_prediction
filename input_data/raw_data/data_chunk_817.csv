@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire Vdi BSIV,2,100000,Diesel,Individual,Manual,First Owner,19.3,1248.0,73.9,5.0,Maruti
+Tata Indica V2 DLX TC,2008,60000,Diesel,Individual,Manual,Second Owner,16.8,1405.0,68.0,5.0,Tata
+Ford Fiesta 1.4 ZXi TDCi Limited Edition,2006,201000,Diesel,Individual,Manual,First Owner,17.8,,68.0,5.0,Ford
+Volkswagen Vento Diesel Highline,2011,110000,Diesel,Individual,Manual,First Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Maruti Swift VDI BSIV,2014,77215,Diesel,Partnership,Manual,Second Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Swift 1.3 LXI,2005,50000,Petrol,Individual,Manual,First Owner,,,,,Maruti
+Honda Jazz 1.2 S i VTEC,2015,48228,Petrol,Dealer,Manual,First Owner,18.7,1199.0,88.7,5.0,Honda
+Maruti Swift VDI Optional,2017,58559,Diesel,Dealer,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Swift VDI BSIV,2010,72179,Diesel,Dealer,Manual,First Owner,,,,,Maruti

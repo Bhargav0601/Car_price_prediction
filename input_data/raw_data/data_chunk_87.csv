@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero SLX 2WD BSIII,2009,120000,Diesel,Individual,Manual,First Owner,13.6,2523.0,63.0,7.0,Mahindra
+Mahindra Scorpio 2.6 SPORTZ CRDe,2006,120000,Diesel,Individual,Manual,Second Owner,10.5,2179.0,120.0,8.0,Mahindra
+Hyundai Santro Xing GL,2009,90000,Petrol,Individual,Manual,Second Owner,0.0,1086.0,62.0,5.0,Hyundai
+Datsun RediGO Sport,2017,80000,Petrol,Individual,Manual,First Owner,22.7,799.0,53.0,5.0,Datsun
+Mahindra Bolero ZLX BSIII,2003,132478,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Maruti Swift Dzire VXI,2014,45000,Petrol,Individual,Manual,First Owner,19.1,1197.0,85.8,5.0,Maruti
+Tata Indigo CS LS (TDI) BS III,2013,120000,Diesel,Individual,Manual,First Owner,19.09,1396.0,69.0,5.0,Tata
+Ford Freestyle Titanium Petrol BSIV,2019,10000,Petrol,Individual,Manual,First Owner,19.0,1194.0,94.68,5.0,Ford
+Maruti 800 AC,2012,51000,Petrol,Individual,Manual,Rent,16.1,796.0,37.0,4.0,Maruti

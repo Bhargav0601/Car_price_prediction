@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Accent CRDi,2005,79000,Diesel,Individual,Manual,Second Owner,13.1,1493.0,82.0,5.0,Hyundai
+Renault Lodgy 85PS RxE,2015,125000,Diesel,Individual,Manual,First Owner,21.04,1461.0,83.8,8.0,Renault
+Hyundai i20 Active 1.4 SX,2016,80000,Diesel,Individual,Manual,First Owner,21.19,,88.73,5.0,Hyundai
+Honda City S,2011,110000,Petrol,Individual,Manual,Rent,16.8,1497.0,116.4,5.0,Honda
+Hyundai Verna Transform SX VGT CRDi,2010,80000,Diesel,Individual,Manual,Second Owner,16.2,1493.0,110.0,5.0,Hyundai
+Hyundai Verna 1.6 SX,2014,100000,Diesel,Individual,Manual,Second Owner,22.32,1582.0,126.32,5.0,Hyundai
+Volkswagen Vento Diesel Highline,2011,100000,Diesel,Individual,Manual,Rent,20.54,1598.0,103.6,5.0,Vento
+Mahindra Bolero LX Non AC BSIII,2010,78000,Diesel,Individual,Manual,First Owner,13.6,2523.0,63.0,7.0,Mahindra
+Hyundai i20 Petrol CVT Asta,2018,15000,Petrol,Individual,Automatic,First Owner,17.4,1197.0,81.86,5.0,Hyundai

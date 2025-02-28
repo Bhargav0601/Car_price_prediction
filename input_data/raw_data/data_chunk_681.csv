@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i10 Era,2009,35000,Petrol,Individual,Manual,First Owner,19.81,1086.0,68.05,5.0,Hyundai
+Tata Indigo CS LX (TDI) BS III,2012,50000,Diesel,Individual,Manual,Third Owner,19.09,1396.0,69.0,5.0,Tata
+Honda City V MT,2013,42462,Petrol,Dealer,Manual,First Owner,16.8,1497.0,116.3,5.0,Honda
+Maruti Swift VDI BSIV,2015,54723,Diesel,Dealer,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Ignis 1.2 Delta BSIV,2018,20375,Petrol,Dealer,Manual,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Maruti Swift ZDI Plus,2013,43978,Diesel,Dealer,Manual,Second Owner,28.4,1248.0,74.0,5.0,Maruti
+Maruti Swift Dzire Tour LDI,2017,28832,Diesel,Dealer,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Ford Figo Titanium Blu,2019,3177,Electric,Dealer,Ai,First Owner,18.5,1194.0,94.93,5.0,Ford
+Hyundai Grand i10 Magna,2015,39414,Petrol,Dealer,Manual,First Owner,18.9,1197.0,81.86,5.0,Grand

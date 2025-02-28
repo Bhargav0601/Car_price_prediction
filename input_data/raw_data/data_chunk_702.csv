@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Manza Aqua Quadrajet BS IV,2010,80000,Diesel,Individual,Manual,First Owner,21.12,1248.0,88.8,5.0,Tata
+Ford Fiesta EXi 1.4 TDCi Ltd,2011,155000,Diesel,Individual,Manual,Second Owner,17.8,1399.0,68.0,5.0,Ford
+Maruti 800 AC,1998,70000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Hyundai Grand i10 1.2 Kappa Magna BSIV,2018,4000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Maruti Alto LXi BSIII,2007,35000,Petrol,Individual,Manual,Rent,19.7,796.0,46.3,5.0,Maruti
+Maruti Zen VXI,2003,121000,Petrol,Individual,Manual,First Owner,17.3,993.0,60.0,5.0,Maruti
+Ford EcoSport 1.5 TDCi Titanium BSIV,2015,110000,Diesel,Individual,Manual,Second Owner,22.77,1498.0,98.59,5.0,Ford
+Ford Fiesta 1.4 SXi TDCi ABS,2010,170000,Diesel,Individual,Ai,Second Owner,17.8,1399.0,68.0,5.0,Ford
+Maruti Swift Vdi BSIII,1,175000,Diesel,Individual,Manual,Third Owner,17.8,1248.0,75.0,5.0,Maruti

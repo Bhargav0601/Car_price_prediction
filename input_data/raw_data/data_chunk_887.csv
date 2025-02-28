@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai EON Sportz,2012,65000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Hyundai Verna 1.6 SX CRDi (O),2014,60000,Diesel,Individual,Manual,First Owner,22.32,1582.0,126.32,5.0,Hyundai
+Maruti Swift VDI Optional,2015,120000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Ford Figo 1.2P Titanium MT,2019,9500,Petrol,Individual,Manual,First Owner,18.16,1196.0,86.8,5.0,Ford
+Renault Captur 1.5 Diesel RXT,2018,12000,Diesel,Individual,Manual,First Owner,20.37,1461.0,108.45,5.0,Renault
+Maruti Ciaz Alpha Diesel,2019,32000,Diesel,Partnership,Ai,First Owner,28.09,1248.0,88.5,5.0,Maruti
+Hyundai Grand i10 Magna,2017,50000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Tata Indigo CS eLX BS IV,2014,50000,Diesel,Individual,Manual,Second Owner,25.0,1396.0,69.01,5.0,Tata
+Maruti Ertiga LXI,2013,90000,Petrol,Individual,Manual,First Owner,16.02,1373.0,93.7,7.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault KWID 1.0 RXL,2018,50000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Hyundai Elantra S,2016,49900,Petrol,Dealer,Manual,First Owner,16.3,1380 CC,147.5,5.0,Hyundai
+Hyundai Grand i10 Asta,2015,55380,Petrol,Dealer,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,9000,Diesel,Dealer,Ai,First Owner,13.6,1999.0,177.0,5.0,Jaguar
+Tata Nexon 1.2 Revotron XZ Plus Dual Tone,2018,11000,Petrol,Dealer,Manual,First Owner,17.0,1198.0,108.5,5.0,Tata
+Honda Jazz 1.2 V AT i VTEC,2015,50000,Petrol,Individual,Automatic,First Owner,Unknown,1199.0,88.7,5.0,Honda
+Jeep Compass 2.0 Longitude Option BSIV,2018,80000,Diesel,Individual,Ai,First Owner,17.1,1956.0,170.0,5.0,Jeep
+Skoda Rapid 1.6 MPI AT Elegance,2016,11000,Petrol,Dealer,Automatic,First Owner,14.3,1598.0,103.5,5.0,Skoda
+Jaguar XF Diesel,1,13500,Diesel,Dealer,Automatic,First Owner,14.74,2993.0,270.9,5.0,Jaguar

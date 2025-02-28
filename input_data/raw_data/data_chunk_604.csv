@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti 800 AC LPG,2008,87540,LPG,Individual,Manual,Third Owner,16.6,796.0,35.5,5.0,Maruti
+Chevrolet Spark 1.0 PS LPG,2007,84000,LPG,Individual,Manual,Rent,16.0,995.0,60.0,5.0,Chevrolet
+Skoda Fabia 1.2L Diesel Elegance,2011,160000,Diesel,Individual,Manual,Third Owner,20.86,1199.0,75.0,5.0,Skoda
+Volkswagen Vento Diesel Comfortline,2012,100000,Diesel,Individual,Manual,Rent,20.54,1598.0,103.6,5.0,Volkswagen
+Hyundai EON 1.0 Era Plus,5,35000,Petrol,Individual,Manual,Second Owner,20.3,998.0,68.05,5.0,Hyundai
+Chevrolet Optra Magnum 1.6 LT Petrol,2010,60000,Petrol,Individual,Manual,Second Owner,12.9,1598.0,102.5,9 seats,Chevrolet
+Ford Fiesta Classic 1.4 Duratorq LXI,2012,70000,Diesel,Individual,Manual,First Owner,18 kmpl,1388.0,67.0,5.0,Ford
+Fiat Avventura Power Up 1.3 Emotion,2015,60000,Diesel,Individual,Manual,Second Owner,20.5,1248.0,91.72,5.0,Fiat
+Ford EcoSport 1.5 TDCi Titanium Plus BSIV,2016,35000,Diesel,Partnership,Manual,Second Owner,22.77,1498.0,98.59,5.0,Ford

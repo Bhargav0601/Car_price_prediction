@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio SLE BSIV,2013,90000,Diesel,Individual,Manual,Second Owner,12.05,2179.0,120.0,8.0,Mahindra
+Maruti Alto LXi BSIII,2010,105000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai Elite i20 Diesel Sportz,2018,30000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.76,5.0,Elite
+Maruti Wagon R VXI BS IV with ABS,2011,20000,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Hyundai i10 Sportz,2011,80000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Wagon R VXI,2004,90000,Petrol,Individual,Manual,Third Owner,18.9,998.0,67.1,5.0,Maruti
+Chevrolet Spark 1.0,2010,80000,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,5.0,Chevrolet
+Maruti 800 Std,2004,120000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Honda BRV i-DTEC V MT,2019,50000,Diesel,Individual,Manual,Second Owner,21.9,1498.0,98.6,7.0,Honda

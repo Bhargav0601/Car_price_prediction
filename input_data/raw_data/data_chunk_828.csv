@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City 1.5 E MT,2011,50000,Petrol,Individual,Manual,First Owner,17.0,1497.0,118.0,5.0,Honda
+Hyundai Santro Sportz AMT BSIV,2019,25000,Electric,Individual,Automatic,Fourth & Above Owner,20.3,1086.0,68.0,5.0,Hyundai
+Ford Figo Aspire Facelift,2018,14681,Diesel,Dealer,Manual,First Owner,,,,,Ford
+Ford Figo 1.5D Titanium MT,2015,52000,Diesel,Individual,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Hyundai Santro Sportz BSIV,2019,18500,Petrol,Individual,Manual,First Owner,20.3,1086.0,68.0,5.0,Hyundai
+Tata Indigo CS eLX BS IV,2012,50000,Diesel,Individual,Manual,First Owner,23.03,1396.0,69.0,5.0,Tata
+Datsun RediGO 1.0 S,2017,35000,Petrol,Individual,Manual,First Owner,22.5,999.0,67.0,5.0,Datsun
+Toyota Etios G,2016,15500,Petrol,Individual,Manual,First Owner,16.78,1496.0,88.73,5.0,Toyota
+Tata Indigo CS LX (TDI) BS III,2013,120000,Diesel,Partnership,Manual,Rent,19.09,1396.0,69.0,5.0,Tata

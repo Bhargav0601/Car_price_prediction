@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Omni E 8 Str STD,2009,120000,Petrol,Individual,Manual,First Owner,,,,,Maruti
+Honda City 2017-2020 GXi,2008,100000,Petrol,Individual,Manual,First Owner,17.7,1497.0,78.0,5.0,Honda
+Volkswagen Vento Diesel Trendline,2011,90000,Diesel,Individual,Manual,First Owner,20.54,1598.0,103.6,5.0,Vento
+Mahindra Bolero SLX,2007,105000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Hyundai Xcent 1.2 CRDi E Plus,2017,40000,Diesel,Individual,Manual,Second Owner,25.4,1186.0,73.97,5.0,Hyundai
+Hyundai Xcent 1.2 VTVT S,2017,90000,Petrol,Individual,Manual,First Owner,20.14,1197.0,81.86,5.0,Hyundai
+Maruti Alto 800 LXI,2015,36710,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Mahindra Supro LX 8 Str,2018,50000,Diesel,Individual,Manual,First Owner,23.5,909.0,45.0,8.0,Mahindra
+Maruti SX4 S Cross 2015-2017 DDiS 200 Alpha,2016,28180,Diesel,Dealer,Manual,First Owner,23.65,1248.0,88.5,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford EcoSport 1.5 TDCi Platinum Edition BSIV,2017,60000,Diesel,Individual,Manual,First Owner,22.77,1498.0,98.59,5.0,Ford
+Maruti Swift Dzire ZXI,2017,70000,Petrol,Individual,Manual,First Owner,20.85,1197.0,83.14,5.0,Maruti
+Hyundai Verna CRDi,2008,120000,Diesel,Individual,Manual,Second Owner,16.8,1493.0,110.0,5.0,Hyundai
+Mahindra TUV 300 T8,2016,65100,Diesel,Individual,Manual,Second Owner,18.49,1493.0,100.0,7.0,Mahindra
+Maruti Ignis 1.2 AMT Delta BSIV,2019,20000,Petrol,Individual,Automatic,First Owner,20.89,1197.0,81.8,5.0,Maruti
+Hyundai i20 Active 1.4 SX,2015,108000,Diesel,Individual,Manual,First Owner,21.19,1396.0,88.73,5.0,Hyundai
+Maruti Swift LXI,2019,15000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Hyundai Santro Xing GLS,2009,77000,Petrol,Individual,Manual,First Owner,17.92,1086.0,62.1,5.0,Hyundai
+Maruti Wagon R VXI BS IV,2015,18500,Petrol,Individual,Ai,First Owner,20.51,998.0,67.04,5.0,Maruti

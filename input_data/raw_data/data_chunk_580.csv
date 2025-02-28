@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Baleno Delta 1.2,2019,10000,Petrol,Individual,Manual,Rent,21.4,1197.0,83.1,5.0,Maruti
+Mahindra KUV 100 G80 K2,2019,25000,Petrol,Individual,Ai,First Owner,18.15,1198.0,82.0,6.0,Mahindra
+Hyundai i10 Magna 1.2 iTech SE,2012,30000,Petrol,Individual,Ai,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Mahindra Bolero 2011-2019 SLX 2WD BSIII,2014,90000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Tata Tiago 1.2 Revotron XT,2017,20000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Nissan Terrano XL D Option,2018,48000,Diesel,Individual,Manual,First Owner,19.87,1461.0,83.14,5.0,Nissan
+Mahindra Scorpio 2006-2009 VLX 2WD 7 Str BSIII,2009,120000,Diesel,Individual,Manual,First Owner,12.05,2179.0,120.0,7.0,Mahindra
+Maruti Swift Dzire Ldi BSIV,2012,210000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Hyundai i10 Magna 1.1L,2010,200400,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mercedes-Benz New C-Class C 220 CDI Elegance AT,2008,120000,Diesel,Individual,Automatic,Second Owner,14.84,,170.0,5.0,Mercedes
+Maruti Alto LX,2010,100000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Swift Vdi BSIII,2010,120000,Diesel,Individual,Manual,Second Owner,17.8,1248.0,75.0,5.0,Maruti
+Volkswagen Vento Diesel Highline,2012,130000,Diesel,Individual,Ai,Second Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Maruti Alto K10 2010-2014 VXI,2011,76000,Petrol,Individual,Manual,Second Owner,20.92,998.0,67.1,5.0,Maruti
+Volkswagen Jetta 2.0L TDI Comfortline,2012,110000,Diesel,Individual,Manual,Third Owner,19.33,1968.0,138.1,5.0,Volkswagen
+Mahindra Scorpio VLX 4WD AIRBAG BSIV,2011,96000,Diesel,Individual,Manual,First Owner,12.05,2179.0,120.0,8.0,Mahindra
+Maruti Swift AMT ZDI,2018,90000,Diesel,Individual,Automatic,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Nissan Sunny Diesel XL,2012,110000,Electric,Individual,Manual,Third Owner,21.64,1461.0,84.8,5.0,Nissan

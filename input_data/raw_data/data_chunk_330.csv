@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra XUV500 W5 BSIV,2018,25000,Diesel,Individual,Manual,First Owner,15.1,2179.0,152.87,7.0,Mahindra
+Hyundai Xcent 1.2 Kappa S Option,2014,52000,Electric,Individual,Manual,First Owner,19.1,1197.0,81.86,5.0,Xcent
+Maruti Alto LXi,2006,44000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Volkswagen Polo Petrol Comfortline 1.2L,2011,17000,Petrol,Individual,Manual,First Owner,16.47,1198.0,73.9,5.0,Polo
+Honda City 1.5 E MT,2009,35000,Petrol,Individual,Manual,First Owner,17.0,1497.0,118.0,5.0,City
+Toyota Fortuner 3.0 Diesel,2011,120000,Diesel,Individual,Manual,Third Owner,11.5,2982.0,171.0,7.0,Toyota
+Hyundai i20 Asta 1.2,2015,100000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Toyota Innova 2.5 G (Diesel) 7 Seater,2014,300000,Electric,Partnership,Manual,Second Owner,12.99,2494.0,100.6,7.0,Toyota
+Mahindra Bolero Power Plus ZLX,2017,90000,Diesel,Individual,Manual,First Owner,16.5,1493.0,70.0,7.0,Bolero

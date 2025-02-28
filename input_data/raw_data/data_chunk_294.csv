@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Amaze V CVT Petrol BSIV,2019,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0,1199.0,88.76,5.0,Honda
+Skoda Rapid 1.6 MPI AT Elegance,2016,11000,Petrol,Dealer,Automatic,First Owner,14.3,1598.0,103.5,5.0,Skoda
+Volvo V40 D3 R-Design,2018,2000,Diesel,Dealer,Automatic,First Owner,16.8,1984.0,150.0,5.0,Volvo
+Hyundai Santro Xing GLS,2011,50000,Petrol,Individual,Manual,Third Owner,17.92,1086.0,62.1,5.0,Hyundai
+Tata Indigo CS eLX BS IV,2010,42000,Diesel,Individual,Manual,First Owner,23.03,1396.0,69.0,5.0,Tata
+Maruti Celerio ZXI AT,2016,17000,Petrol,Individual,Automatic,First Owner,23.1,998.0,67.04,5.0,Maruti
+Maruti Swift AMT VXI,2018,40000,Petrol,Individual,Automatic,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Tata Indigo LS,2009,137000,Diesel,Individual,Manual,Second Owner,17.0,1405.0,70.0,5.0,Tata
+Renault KWID RXL,2018,20000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault

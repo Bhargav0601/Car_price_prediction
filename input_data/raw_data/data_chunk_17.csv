@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Vento Petrol Highline,2011,49000,Petrol,Individual,Manual,Rent,15.04,1598.0,103.6,5.0,Volkswagen
+Hyundai Elantra SX,2012,95000,Petrol,Individual,Manual,First Owner,16.3,1797.0,147.5,5.0,Hyundai
+Skoda Rapid 1.6 MPI AT Elegance,2016,11000,Petrol,Dealer,Automatic,First Owner,14.3,1598.0,103.5,5.0,Skoda
+Mercedes-Benz CLA 200 CGI Sport,2018,18000,Petrol,Dealer,Automatic,First Owner,15.04,1991.0,183.0,5.0,Mercedes
+Maruti Ertiga ZXI,2014,46100,Petrol,Dealer,Manual,First Owner,16.02,1373.0,93.7,7.0,Maruti
+Mercedes-Benz New C-Class C 200 AVANTGARDE,2017,16000,Petrol,Dealer,Automatic,First Owner,14.74,1991.0,181.04,5.0,Mercedes
+Honda City V AT,2017,18000,Petrol,Dealer,Automatic,First Owner,15.6,1497.0,116.3,5.0,Honda
+Toyota Glanza V CVT,2019,9654,Petrol,Dealer,Automatic,First Owner,19.56,1197.0,81.8,5.0,Toyota
+Maruti Alto K10 VXI,2011,11000,Petrol,Dealer,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti

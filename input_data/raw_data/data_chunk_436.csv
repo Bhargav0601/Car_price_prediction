@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Amaze E i-DTEC,2017,60000,Diesel,Individual,Manual,Second Owner,25.8,1498.0,98.6,5.0,Honda
+Maruti Alto LXi,2008,120000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Wagon R VXI Optional,2016,5800,Petrol,Individual,Manual,Second Owner,20.51,998.0,67.04,5.0,Maruti
+Maruti A-Star Lxi,2010,68700,Petrol,Individual,Manual,Rent,19.0,998.0,66.1,5.0,Maruti
+Hyundai Verna Xi (Petrol),2007,108000,Petrol,Individual,Manual,Third Owner,13.9,1599.0,103.2,5.0,Hyundai
+Tata Zest Revotron 1.2 XT,6,40000,Petrol,Individual,Manual,First Owner,17.57,1193.0,88.7,5.0,Tata
+Ford Fiesta Classic 1.4 SXI Duratorq,2009,100000,Diesel,Individual,Manual,Second Owner,17.8,1399.0,67.0,5.0,Ford
+Chevrolet Beat Diesel LT,2015,40000,Diesel,Individual,Manual,First Owner,25.44,936.0,56.3,5.0,Chevrolet
+Ford EcoSport 1.5 Petrol Titanium Plus BSIV,2018,90000,Petrol,Individual,Manual,First Owner,17.0,1497.0,121.36,5.0,Ford

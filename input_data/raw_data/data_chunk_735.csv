@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault KWID RXT,2017,50000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Hyundai i20 Active 1.2 S,2017,40000,Petrol,Individual,Manual,First Owner,17.19,4056 CC,81.86,5.0,Hyundai
+Renault KWID 1.0 RXT Optional,2016,60000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Hyundai i20 1.2 Spotz,2018,40000,Electric,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Honda Jazz 1.5 VX i DTEC,2015,60000,Diesel,Individual,Manual,First Owner,27.3,1498.0,98.6,5.0,Honda
+Maruti Swift VDI,2012,90000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Swift
+Maruti Swift Dzire ZDI,2014,90000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Maruti Alto K10 LXI,2014,60000,Petrol,Individual,Manual,Second Owner,20.92,998.0,67.1,5.0,Maruti
+Maruti Swift Dzire ZDI,2013,80000,Diesel,Individual,Manual,Fourth & Above Owner,23.4,1248.0,74.0,5.0,Maruti

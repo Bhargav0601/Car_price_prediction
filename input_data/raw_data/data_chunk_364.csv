@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ciaz ZDi Plus,2015,60000,Diesel,Individual,Manual,Third Owner,26.21,1248.0,88.5,5.0,Maruti
+Renault Fluence Diesel E4,2012,120000,Diesel,Individual,Manual,Third Owner,21.8,1461.0,78.0,5.0,Renault
+Honda Amaze S i-DTEC,2016,80000,Diesel,Individual,Manual,Second Owner,25.8,1498.0,98.6,5.0,Honda
+Maruti Gypsy King Soft Top MPI BSIV,2019,9900,Petrol,Individual,Manual,First Owner,11.96,1298.0,80.0,8.0,Maruti
+Maruti Swift ZDi,2014,68000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Toyota Etios Liva G,2012,40000,Petrol,Individual,Manual,Third Owner,,,,,Toyota
+Honda BRV i-DTEC V MT,2016,60000,Diesel,Individual,Manual,First Owner,21.9,1498.0,98.6,7.0,Honda
+Chevrolet Tavera Neo 3 LS 10 Seats BSIII,2015,110000,Diesel,Individual,Manual,Second Owner,13.58,2499.0,72.4,10.0,Chevrolet
+Hyundai Grand i10 1.2 Kappa Sportz Dual Tone,2019,10000,Petrol,Individual,Ai,First Owner,18.9,1197.0,81.86,5.0,Hyundai

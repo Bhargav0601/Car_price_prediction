@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 Active 1.2,2018,52000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Hyundai i20 Magna 1.2,2016,70000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Mahindra Bolero Power Plus Plus AC BSIV PS,2017,110000,Diesel,Individual,Manual,First Owner,15.96,2523.0,63.0,9.0,Mahindra
+Tata Safari Storme LX,2014,77500,Electric,Individual,Manual,Second Owner,14.0,2179.0,138.1,7.0,Tata
+Maruti Swift VDI BSIV,2015,100000,Diesel,Individual,Manual,Second Owner,25.2,1248.0,74.0,5.0,Maruti
+Renault KWID RXL,2019,14700,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Maruti Omni MPI STD BSIV,2016,40000,Petrol,Individual,Manual,First Owner,16.8,796.0,34.2,5.0,Maruti
+Mahindra KUV 100 mFALCON G80 K2,2017,32000,Petrol,Individual,Manual,Second Owner,18.15,1198.0,82.0,6.0,Mahindra
+Maruti Alto LXI,2004,70000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti

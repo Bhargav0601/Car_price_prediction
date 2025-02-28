@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Zen LXI,2002,100000,Petrol,Individual,Manual,Fourth & Above Owner,17.3,993.0,60.0,5.0,Maruti
+Hyundai Verna 1.6 SX VTVT (O),2013,50000,Petrol,Individual,Manual,Second Owner,17.1,1591.0,121.3,5.0,Hyundai
+Maruti Zen Estilo LXI BSIII,2007,80000,Petrol,Individual,Manual,Second Owner,18.2,998.0,67.1,5.0,Maruti
+Hyundai Santro Xing XL,2005,60000,Petrol,Individual,Manual,Second Owner,,,,,Hyundai
+Maruti Alto LX,2005,80000,Petrol,Individual,Manual,Fourth & Above Owner,19.7,796.0,46.3,5.0,Alto
+Maruti Swift Dzire ZDi,2011,90000,Diesel,Individual,Manual,Fourth & Above Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti A-Star Vxi,2,162000,Petrol,Individual,Manual,Second Owner,19.0,998.0,66.1,5.0,Maruti
+Maruti Ertiga VDI,2013,110000,Diesel,Individual,Manual,Third Owner,20.77,1248.0,88.76,7.0,Maruti
+Maruti Swift Ldi BSIII,2008,120000,Diesel,Individual,Manual,Third Owner,17.8,1248.0,75.0,5.0,Maruti

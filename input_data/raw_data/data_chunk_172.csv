@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford EcoSport 1.5 Ti VCT MT Trend BSIV,2016,50478,Petrol,Individual,Manual,First Owner,15.85,1499.0,110.4,5.0,Ford
+Tata Tiago 1.2 Revotron XZA,8,9200,Petrol,Individual,Automatic,First Owner,23.84,1199.0,83.83,5.0,Tata
+Renault Duster 85PS Diesel RxE,2016,40000,Diesel,Individual,Manual,First Owner,19.87,1461.0,83.8,5.0,Renault
+Maruti Baleno Delta,2020,5000,Petrol,Individual,Manual,First Owner,Unknown,1197.0,81.8,5.0,Maruti
+Datsun RediGO A,2019,2300,Petrol,Individual,Manual,First Owner,22.7,799.0,53.64,5.0,Datsun
+Maruti Alto 800 LXI,2016,40000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Mahindra Xylo D2 BSIV,2012,119000,Diesel,Individual,Manual,First Owner,14.0,2489.0,95.0,8.0,Mahindra
+Maruti Alto LX,2005,100000,Petrol,Individual,Manual,Fourth & Above Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Ertiga SHVS ZDI Plus,2017,100000,Diesel,Individual,Ai,First Owner,44 kmpl,1248.0,88.5,7.0,Maruti

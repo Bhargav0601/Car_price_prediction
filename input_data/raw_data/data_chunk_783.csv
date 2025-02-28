@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mitsubishi Pajero Sport 4X4 Dual Tone,5,120000,Diesel,Individual,Manual,First Owner,Unknown,2477.0,175.56,7.0,Mitsubishi
+Tata New Safari Dicor EX 4X2 BS IV,2013,112011,Diesel,Individual,Manual,First Owner,13.93,2179.0,138.1,7.0,Tata
+Toyota Innova 2.5 G (Diesel) 7 Seater,2015,125000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Toyota Innova 2.5 G (Diesel) 7 Seater,2015,125000,Electric,Individual,Manual,First Owner,12.99,2494.0,100.6,7.0,Toyota
+Tata Manza Aura Quadrajet,2009,43000,Diesel,Individual,Manual,First Owner,18.8,1248.0,90.0,5.0,Tata
+Mahindra Bolero 2011-2019 SLE,2019,53534,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Tata Tigor 2017-2020 XZ Plus,2019,20000,Petrol,Partnership,Manual,First Owner,Unknown,1199.0,83.81,5.0,Tata
+Chevrolet Beat Diesel LT,2012,70000,Diesel,Individual,Manual,Second Owner,25.44,936.0,57.6,5.0,Chevrolet
+Mahindra XUV500 W8 2WD,2013,70000,Diesel,Individual,Manual,Third Owner,15.1,2179.0,140.0,7.0,Mahindra

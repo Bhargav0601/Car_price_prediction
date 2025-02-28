@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Grand i10 1.2 Kappa Sportz Option,2,5000,Petrol,Partnership,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Jeep Compass 2.0 Limited Option,2017,12000,Diesel,Individual,Manual,First Owner,17.1,1956.0,170.0,5.0,Jeep
+Mahindra Bolero 2011-2019 DI - AC BS III,2016,72000,Electric,Individual,Manual,First Owner,15.96,2523.0,63.0,9.0,Mahindra
+Mahindra Bolero 2011-2019 DI - AC BS III,2016,70000,Diesel,Individual,Manual,First Owner,15.96,2523.0,63.0,9.0,Mahindra
+Chevrolet Aveo U-VA 1.2 LS,2007,50000,Petrol,Individual,Manual,Second Owner,15.26,1150.0,74.9,5.0,Chevrolet
+Mahindra XUV500 W8 AWD,2014,70000,Electric,Individual,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra
+Chevrolet Aveo U-VA 1.2,2010,70000,Petrol,Individual,Manual,Third Owner,14.7,1150.0,76.0,5.0,Chevrolet
+Maruti Baleno Alpha 1.2,2015,50000,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Volkswagen Polo Petrol Trendline 1.2L,2012,40000,Petrol,Individual,Manual,First Owner,16.47,1198.0,73.9,5.0,Volkswagen

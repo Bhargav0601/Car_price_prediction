@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 Sportz 1.2,2013,49000,Petrol,Partnership,Manual,Second Owner,18.5,1197.0,82.85,5.0,Hyundai
+Hyundai Santro Xing ABS,2007,70000,Petrol,Individual,Manual,Third Owner,,,,,Hyundai
+Tata Manza Aura Quadrajet,2010,158000,Diesel,Individual,Manual,First Owner,18.8,1248.0,90.0,5.0,Tata
+Hyundai EON Era,2012,30000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Hyundai i10 Magna 1.2 iTech SE,2008,60000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Zen Estilo 1.1 LXI BSIII,2008,40000,Petrol,Individual,Manual,Second Owner,18.2,1061.0,64.0,5.0,Maruti
+Mahindra Bolero SLX,2011,60000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Ford Figo Diesel EXI,6,55130,Diesel,Dealer,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Maruti Wagon R VXI BS IV,2014,22000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti

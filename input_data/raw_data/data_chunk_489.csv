@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VXI,2014,30000,Electric,Individual,Manual,First Owner,19.1,1197.0,85.8,5.0,Maruti
+Maruti Alto LXi,2010,64000,Petrol,Individual,Ai,First Owner,19.7,796.0,46.3,5.0,Maruti
+Ford Figo 1.2P Titanium Opt MT,2016,10500,Petrol,Individual,Manual,First Owner,18.16,1196.0,86.8,5.0,Ford
+Maruti Alto LXi,2011,50000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Skoda Rapid 1.6 TDI Elegance,2012,60000,Diesel,Individual,Manual,First Owner,20.5,1598.0,103.5,5.0,Skoda
+Skoda Rapid 1.5 TDI Elegance Black Package,2015,35000,Diesel,Individual,Manual,First Owner,21.14,1498.0,103.52,5.0,Skoda
+Tata Safari DICOR 2.2 LX 4x2,4,135000,Diesel,Individual,Manual,First Owner,13.93,2179.0,138.03,7.0,Safari
+Mahindra Scorpio LX BSIV,2011,70000,Diesel,Individual,Manual,Second Owner,12.05,2179.0,120.0,9.0,Mahindra
+Maruti Vitara Brezza ZDi,2016,80000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti

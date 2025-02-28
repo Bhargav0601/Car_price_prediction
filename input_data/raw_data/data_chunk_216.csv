@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Verito 1.5 D4 BSIII,2012,80000,Diesel,Individual,Ai,Second Owner,20.8,1461.0,65.0,5.0,Mahindra
+Maruti Ritz VXi,2014,50000,Petrol,Individual,Manual,First Owner,18.5,1197.0,85.8,5.0,Maruti
+Hyundai EON Sportz,2018,15000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Datsun RediGO T,2017,25000,Petrol,Individual,Manual,Rent,22.7,799.0,53.64,5.0,Datsun
+Mahindra Verito 1.5 D4 BSIII,2011,57000,Diesel,Individual,Manual,Second Owner,21.0,1461.0,64.1,5.0,Mahindra
+Mahindra Bolero 2011-2019 ZLX,2012,75000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Eeco 5 Seater AC BSIV,2013,26000,Petrol,Partnership,Manual,First Owner,15.37,1196.0,73.0,5.0,Maruti
+Hyundai Xcent 1.1 CRDi S Option,2015,160000,Diesel,Individual,Manual,First Owner,24.4,1120.0,71.01,5.0,Hyundai
+Maruti Eeco 5 Seater AC BSIV,2013,26000,Petrol,Individual,Manual,First Owner,15.37,1196.0,73.0,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault KWID RXT Optional,2019,15000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Chevrolet Beat Diesel,2012,49000,Diesel,Individual,Manual,Third Owner,25.44,936.0,57.6,5.0,Chevrolet
+Toyota Innova Crysta 2.4 GX MT 8S BSIV,2016,56900,Diesel,Individual,Manual,Second Owner,13.68,2393.0,147.8,8.0,Toyota
+Maruti Swift VDI BSIV,2014,70000,Diesel,Individual,Manual,Second Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Swift Dzire VDi,2010,180000,Diesel,Individual,Manual,First Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti A-Star Lxi,2010,50000,Petrol,Individual,Manual,First Owner,19.0,998.0,66.1,5.0,Maruti
+Hyundai Accent GLE,2005,50000,Petrol,Individual,Manual,Third Owner,13.2,1495.0,94.0,5.0,Hyundai
+Maruti Ritz VDi,2013,88200,Electric,Partnership,Manual,First Owner,23.2,1248.0,73.94,5.0,Maruti
+Maruti Swift VXi BSIV,2006,93000,Electric,Individual,Manual,Second Owner,16.1,1197.0,85.0,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Elite i20 Asta Option Diesel,2019,10000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.76,5.0,Hyundai
+Mahindra Jeep CL 500 MDI,1994,100000,Diesel,Individual,Manual,Second Owner,,,,,Mahindra
+Honda WR-V i-DTEC VX,2017,65000,Diesel,Individual,Manual,Second Owner,25.5,1498.0,98.6,5.0,Honda
+Honda Civic 1.8 S MT,2007,90000,Petrol,Individual,Manual,Third Owner,13.5,1799.0,130.0,5.0,Honda
+Maruti Alto K10 2010-2014 VXI,2012,90000,Petrol,Individual,Manual,First Owner,20.92,998.0,67.1,5.0,Maruti
+Hyundai i20 Active SX Diesel,2016,42323,Diesel,Dealer,Manual,First Owner,21.19,1396.0,88.76,5.0,Hyundai
+Honda City V MT,2013,42462,Petrol,Partnership,Manual,First Owner,16.8,1497.0,116.3,5.0,Honda
+Maruti Swift VDI BSIV,2015,54723,Diesel,Dealer,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Honda Jazz 1.5 V i DTEC,2016,30000,Diesel,Individual,Manual,First Owner,27.3,1498.0,98.6,5.0,Honda

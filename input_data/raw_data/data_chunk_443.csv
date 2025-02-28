@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Fortuner 2.5 4x2 MT TRD Sportivo,2015,120000,Diesel,Partnership,Manual,Rent,13.0,2494.0,142.0,7.0,Toyota
+Tata Safari DICOR 2.2 EX 4x2,2010,120000,Diesel,Individual,Manual,Fourth & Above Owner,13.93,2179.0,138.03,7.0,Tata
+Fiat Avventura Power Up 1.3 Emotion,2015,96500,Diesel,Individual,Manual,First Owner,20.5,1248.0,91.72,5.0,Fiat
+Maruti Wagon R LXI BSIII,2017,52412,Petrol,Dealer,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Mahindra Scorpio SLE BS IV,2012,85472,Diesel,Dealer,Manual,First Owner,12.05,2179.0,120.0,8.0,Mahindra
+Ford EcoSport 1.5 TDCi Titanium Plus BSIV,2013,87452,Diesel,Partnership,Manual,Second Owner,22.77,1498.0,98.59,5.0,Ford
+Ford EcoSport 1.5 Diesel Ambiente BSIV,2018,17000,Diesel,Individual,Manual,Rent,23.0,1498.0,98.96,5.0,Ford
+Maruti Wagon R LXI Minor,2008,66530,Petrol,Individual,Manual,Second Owner,18.9,1061.0,67.0,5.0,Maruti
+Hyundai i20 Magna,2013,40000,Petrol,Partnership,Manual,First Owner,18.5,1197.0,82.85,5.0,Hyundai

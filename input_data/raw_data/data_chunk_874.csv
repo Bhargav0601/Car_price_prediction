@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Jazz VX,4,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2,1199.0,88.7,5.0,Honda
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99,2494.0,100.6,7.0,Toyota
+Maruti Swift AMT VVT VXI,2019,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Toyota Etios VX,2017,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78,1496.0,88.73,5.0,Toyota
+Maruti Swift AMT ZXI,2018,69779,Petrol,Dealer,Automatic,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Hyundai Grand i10 1.2 CRDi Sportz,2017,56290,Diesel,Dealer,Manual,First Owner,24.0,1186.0,73.97,5.0,Hyundai
+BMW X4 M Sport X xDrive20d,2019,7500,Diesel,Dealer,Automatic,First Owner,16.78,1995.0,190.0,5.0,BMW
+BMW X4 M Sport X xDrive20d,2019,8500,Diesel,Dealer,Ai,First Owner,16.78,1995.0,190.0,5.0,BMW
+Honda Amaze V CVT Petrol BSIV,2019,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0,1199.0,88.76,5.0,Honda

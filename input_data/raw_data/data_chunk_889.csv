@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Fiesta 1.4 ZXi Duratec,2011,80000,Petrol,Individual,Manual,Second Owner,16.6,1388.0,68.0,5.0,Ford
+Renault Lodgy 85PS Std,2016,7000,Diesel,Dealer,Manual,First Owner,21.04,1461.0,83.8,8.0,Renault
+Renault Fluence 2.0,2011,43000,Petrol,Dealer,Automatic,First Owner,13.4,1997.0,135.1,5.0,Renault
+Ford Figo Aspire Titanium Diesel,2016,85000,Diesel,Dealer,Manual,First Owner,24.4,1499.0,98.96,5.0,Ford
+Hyundai Verna CRDi 1.6 SX,2018,70000,Diesel,Individual,Manual,First Owner,22.0,1582.0,126.2,5.0,Hyundai
+Maruti Swift VDI Optional,2017,56000,Diesel,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Hyundai i20 Sportz 1.4 CRDi,2012,90000,Diesel,Individual,Manual,Second Owner,21.9,1396.0,88.76,5.0,Hyundai
+Maruti Alto K10 VXI Airbag,2017,40000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.1,5.0,Maruti
+Hyundai Santro Xing XS eRLX Euro III,2006,80000,Petrol,Individual,Manual,Second Owner,,,,,Hyundai

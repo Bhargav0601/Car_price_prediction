@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio S7 120,2019,20000,Diesel,Individual,Manual,First Owner,16.36,2179.0,120.0,7.0,Mahindra
+Ford Figo Diesel Celebration Edition,9,230000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.1,5.0,Ford
+Chevrolet Beat LT,2010,60000,Petrol,Individual,Manual,First Owner,18.6,1199.0,79.4,5.0,Chevrolet
+Maruti Zen Estilo LXI BS IV,2012,35000,Petrol,Individual,Manual,Second Owner,19.0,998.0,67.1,5.0,Zen
+Hyundai i20 Active Base Petrol,2015,45000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Tata Nano Cx BSIII,2012,45000,Petrol,Individual,Manual,First Owner,25.4,624.0,38.0,4.0,Nano
+Tata Zest Revotron 1.2T XM,2016,25000,Petrol,Individual,Manual,First Owner,17.57,1193.0,88.7,5.0,Tata
+Hyundai i20 Magna 1.2,2014,10000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Maruti Wagon R VXI Optional,2018,19000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti

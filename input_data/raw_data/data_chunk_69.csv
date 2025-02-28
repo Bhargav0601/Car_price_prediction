@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga SHVS VDI,2017,80000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Tata Safari Storme EX,2016,50000,Diesel,Individual,Manual,Third Owner,14.1,2179.0,147.94,7.0,Tata
+Maruti Alto K10 VXI,2016,25000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Hyundai Grand i10 1.2 CRDi Asta,2019,20000,Diesel,Individual,Manual,First Owner,24.0,1186.0,73.97,5.0,Hyundai
+Renault KWID RXT,2016,60000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Maruti Swift VDI,2011,70000,Electric,Individual,Manual,Second Owner,22.9,1248.0,74.0,5.0,Maruti
+Mahindra Bolero 2011-2019 SLX,2014,50000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,62.1,7.0,Mahindra
+Honda Accord V6 AT,3,100000,Petrol,Individual,Automatic,Second Owner,9.0,2997.0,218.0,5.0,Honda
+Maruti Alto K10 VXI,2015,52000,Electric,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti

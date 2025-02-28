@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault KWID 1.0,2016,20000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Honda Civic 1.8 S MT,2006,70000,Petrol,Individual,Manual,Second Owner,13.5,1799.0,130.0,5.0,Honda
+Tata Indigo CS eLX BS IV,2017,50000,Diesel,Individual,Manual,First Owner,25.0,1396.0,69.01,5.0,Tata
+Audi Q3 35 TDI Quattro Technology,2018,25000,Diesel,Individual,Automatic,Second Owner,15.17,1968.0,181.0,5.0,Audi
+Hyundai i20 1.4 CRDi Asta,2011,100000,Diesel,Individual,Manual,Second Owner,23.0,1396.0,90.0,5.0,i20
+Tata Nexon 1.2 Revotron XZ Plus,2020,20000,Petrol,Individual,Manual,First Owner,17.0,1198.0,108.5,5.0,Tata
+Hyundai i20 1.4 CRDi Asta,2011,155000,Diesel,Individual,Manual,First Owner,23.0,1396.0,90.0,5.0,Hyundai
+Ford Figo Diesel LXI,2012,70000,Diesel,Individual,Manual,Fourth & Above Owner,20.0,1399.0,68.0,5.0,Ford
+Maruti SX4 VDI,2012,25000,Diesel,Individual,Manual,Second Owner,21.5,1248.0,88.8,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Vdi BSIII,2008,60000,Diesel,Individual,Manual,Second Owner,17.8,1248.0,75.0,5.0,Maruti
+Hyundai i20 Active SX Petrol,2019,10000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Maruti Ertiga ZDI Plus,1,10000,Diesel,Individual,Manual,First Owner,25.47,1248.0,88.5,7.0,Maruti
+Hyundai Verna 1.6 SX CRDi (O),2011,35000,Diesel,Individual,Manual,Second Owner,22.32,1582.0,126.32,5.0,Hyundai
+Hyundai Santa Fe 2WD MT,2014,80000,Diesel,Individual,Manual,First Owner,14.74,2199.0,194.3,7.0,Hyundai
+Mahindra XUV500 W11 BSIV,2019,28000,Diesel,Individual,Manual,First Owner,15.1,2179.0,152.87,7.0,Mahindra
+Ford Figo Aspire 1.5 TDCi Sports Edition,2017,35000,Diesel,Individual,Manual,First Owner,24.29,1498.0,99.0,5.0,Ford
+Jeep Compass 2.0 Limited 4X4,2017,32000,Diesel,Individual,Manual,First Owner,16.3,1956.0,170.0,5.0,Jeep
+Maruti Wagon R LXI,2003,40000,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,5.0,Wagon

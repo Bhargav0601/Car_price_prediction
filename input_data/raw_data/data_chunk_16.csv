@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Corolla Altis 1.8 G CVT,2013,39000,Petrol,Dealer,Automatic,First Owner,14.28,1798.0,138.03,5.0,Toyota
+Volvo XC40 D4 R-Design,2018,22000,Diesel,Dealer,Automatic,First Owner,18.0,1969.0,190.0,5.0,Volvo
+Audi Q7 35 TDI Quattro Premium,2015,53000,Diesel,Dealer,Automatic,First Owner,12.07,2967.0,241.4,7.0,Audi
+Maruti Ciaz ZDi,2015,40000,Diesel,Dealer,Manual,First Owner,26.21,1248.0,88.5,5.0,Maruti
+Mercedes-Benz S-Class S 350 CDI,2017,47000,Diesel,Dealer,Automatic,First Owner,13.5,2987.0,282.0,5.0,Mercedes
+BMW 5 Series 523i,2010,72200,Petrol,Dealer,Automatic,Second Owner,10.8,2497.0,150.0,5.0,BMW
+Hyundai Elantra S,2016,49900,Petrol,Dealer,Manual,Rent,16.3,1797.0,147.5,5.0,Hyundai
+Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,9000,Diesel,Dealer,Automatic,First Owner,13.6,1999.0,177.0,5.0,Jaguar
+Tata Nexon 1.2 Revotron XZ Plus Dual Tone,2018,11000,Petrol,Dealer,Manual,First Owner,17.0,1198.0,108.5,5.0,Tata

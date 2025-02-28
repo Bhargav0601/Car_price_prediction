@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Enjoy TCDi LTZ 7 Seater,2,70000,Diesel,Individual,Manual,First Owner,18.2,1248.0,73.8,7.0,Chevrolet
+Maruti Wagon R LXI Minor,2009,120000,Petrol,Individual,Manual,First Owner,18.9,1061.0,67.0,5.0,Maruti
+Maruti Omni E MPI STD BS IV,9,25000,Petrol,Individual,Manual,First Owner,16.8,796.0,34.2,8.0,Maruti
+Maruti Vitara Brezza LDi Option,2017,70000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Fiat Palio 1.2 ELX,2003,50000,Petrol,Individual,Manual,Second Owner,,,,,Fiat
+Maruti Omni 8 Seater BSIV,1,35000,Petrol,Individual,Manual,Second Owner,14.0,796.0,35.0,5.0,Maruti
+Hyundai i20 1.2 Asta Dual Tone,2018,2388,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Maruti Vitara Brezza LDi,2017,16200,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Vitara
+Maruti Alto 800 CNG LXI Optional,2019,10000,CNG,Individual,Manual,Second Owner,33.44,796.0,40.3,4.0,Maruti

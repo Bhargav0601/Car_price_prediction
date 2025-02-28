@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Eeco 5 Seater AC BSIV,2014,49025,Petrol,Individual,Manual,First Owner,15.37,1196.0,73.0,5.0,Maruti
+Tata Nano Twist XE,2015,15000,Petrol,Individual,Manual,First Owner,25.4,624.0,37.5,4.0,Tata
+Maruti Alto K10 LXI,2014,90000,Petrol,Individual,Manual,Second Owner,23.95,998.0,67.05,5.0,Maruti
+Tata Tiago 1.2 Revotron XE,2016,90000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+BMW 7 Series 730Ld,2010,90000,Diesel,Individual,Automatic,Second Owner,14.49,2993.0,258.0,5.0,BMW
+Tata Indica V2 DLE BSII,2007,80000,Diesel,Individual,Ai,Third Owner,17.2,1396.0,53.5,5.0,Tata
+Chevrolet Tavera B1-10 seats BSII,2009,195000,Diesel,Individual,Manual,Second Owner,14.8,2499.0,80.0,10.0,Chevrolet
+Mahindra Scorpio 2.6 CRDe,2006,90000,Diesel,Individual,Manual,Third Owner,10.5,2179.0,120.0,8.0,Mahindra
+Maruti 800 AC,1997,80000,Petrol,Individual,Manual,Third Owner,16.1,796.0,37.0,4.0,Maruti

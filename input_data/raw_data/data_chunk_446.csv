@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Amaze VX i-DTEC,2015,75000,Diesel,Individual,Manual,Second Owner,25.8,1498.0,98.6,5.0,Honda
+Maruti Wagon R VXI BSIII,2012,70000,Petrol,Individual,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Volkswagen Vento 1.6 Highline,2014,64000,Petrol,Individual,Manual,Third Owner,15.04,1598.0,103.2,5.0,Volkswagen
+Maruti Gypsy King Soft Top MPI BSIV,2002,60000,Petrol,Partnership,Manual,First Owner,11.96,1298.0,80.0,8.0,Maruti
+Maruti Alto LXi,2009,40000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Audi Q7 3.0 TDI Quattro,2010,110000,Diesel,Individual,Automatic,Second Owner,12.07,2967.0,241.4,7.0,Audi
+Mahindra Scorpio VLX 2WD AIRBAG BSIII,6,60000,Diesel,Individual,Manual,First Owner,12.05,2179.0,120.0,8.0,Mahindra
+Hyundai i20 Sportz Option 1.4 CRDi,2015,72000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,9 seats,Hyundai
+Hyundai i20 Magna 1.4 CRDi (Diesel),2013,70000,Electric,Individual,Ai,Second Owner,21.9,4104 CC,88.76,5 seats,Hyundai

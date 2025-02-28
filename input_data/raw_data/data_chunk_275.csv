@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero Power Plus SLE,2017,45000,Diesel,Individual,Manual,Rent,16.5,1493.0,70.0,7.0,Mahindra
+Maruti Alto K10 VXI,2015,50000,Petrol,Individual,Manual,Second Owner,23.95,998.0,67.05,5.0,Maruti
+Maruti Alto 800 LXI,2017,58000,Petrol,Individual,Manual,Rent,24.7,796.0,47.3,5.0,Maruti
+Toyota Innova 2.5 VX 8 STR BSIV,2012,120000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Chevrolet Aveo U-VA 1.2,2007,30000,Petrol,Individual,Manual,Second Owner,14.7,1150.0,76.0,5.0,Chevrolet
+Tata Safari Storme EX,2017,162000,Diesel,Individual,Manual,First Owner,14.1,2179.0,147.94,5 seats,Tata
+Maruti Wagon R LXI CNG,2016,50000,CNG,Individual,Manual,Second Owner,26.6,998.0,58.16,5.0,Maruti
+Hyundai i20 1.2 Magna Executive,2018,25000,Petrol,Individual,Manual,Second Owner,18.6,1197.0,81.83,5.0,Hyundai
+Mahindra Scorpio 1.99 S6 Plus,2015,60000,Diesel,Individual,Manual,First Owner,15.4,1997.0,120.0,7.0,Mahindra

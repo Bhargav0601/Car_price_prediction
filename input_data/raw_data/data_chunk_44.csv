@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Verna XXi ABS (Petrol),2009,214000,Petrol,Individual,Manual,Second Owner,13.9,1599.0,103.2,5.0,Hyundai
+Hyundai Verna CRDi SX,2009,214000,Diesel,Individual,Manual,Second Owner,16.8,1493.0,110.0,5.0,Hyundai
+Maruti Alto 800 VXI,2016,50000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Honda City i-VTEC CVT V,2018,1000,Petrol,Individual,Automatic,First Owner,18.0,1497.0,117.6,5.0,Honda
+Maruti Swift Dzire AMT VDI,2017,19000,Diesel,Individual,Automatic,First Owner,28.4,1248.0,74.02,5.0,Swift
+Tata Indigo LS,2012,265000,Diesel,Individual,Manual,Second Owner,17.0,1405.0,70.0,5.0,Tata
+Maruti Eeco CNG 5 Seater AC,2020,35000,CNG,Individual,Manual,First Owner,20.88,1196.0,61.7,5.0,Maruti
+Maruti Alto K10 VXI,2014,80000,Petrol,Individual,Manual,Second Owner,23.95,998.0,67.05,5.0,Maruti
+Mahindra XUV500 AT W10 AWD,2016,50000,Diesel,Individual,Automatic,First Owner,16.0,2179.0,140.0,7.0,Mahindra

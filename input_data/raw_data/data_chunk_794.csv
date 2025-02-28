@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Amaze VX i-DTEC,2018,40000,Diesel,Individual,Manual,First Owner,25.8,1498.0,98.6,5.0,Honda
+Toyota Etios Cross 1.2L G,2016,50000,Petrol,Individual,Manual,Second Owner,18.16,1197.0,78.8,5.0,Toyota
+Honda CR-V 2.0L 2WD AT,2006,200000,Petrol,Individual,Automatic,Third Owner,13.1,1997.0,141.1,5.0,Honda
+Mahindra KUV 100 mFALCON G80 K6 AW,2016,14000,Electric,Individual,Manual,Second Owner,18.15,1198.0,82.0,6.0,Mahindra
+Chevrolet Tavera Neo 3 9 Str BSIII,2015,70000,Diesel,Individual,Manual,First Owner,13.58,2499.0,72.4,9.0,Tavera
+Maruti Ritz Genus VDi,2010,94000,Diesel,Individual,Manual,Second Owner,21.1,1248.0,75.0,5.0,Maruti
+Chevrolet Tavera Neo 3 10 Seats BSIII,2015,197000,Diesel,Individual,Manual,First Owner,13.58,2499.0,72.4,10.0,Chevrolet
+Ford Figo 1.5D Trend MT,2015,79000,Diesel,Individual,Manual,Second Owner,25.83,1498.0,99.0,5.0,Ford
+Skoda Octavia Rider 1.9 AT TDI,2008,120000,Diesel,Individual,Manual,Second Owner,18.7,1896.0,66.0,5.0,Skoda

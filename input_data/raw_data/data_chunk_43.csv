@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Skoda Rapid 1.6 MPI AT Elegance,2016,11000,Petrol,Dealer,Automatic,First Owner,14.3,1598.0,103.5,5.0,Skoda
+Volvo V40 D3 R-Design,2018,2000,Diesel,Dealer,Automatic,First Owner,16.8,1984.0,150.0,5.0,Volvo
+Hyundai i10 Magna,2010,106000,Electric,Individual,Manual,Third Owner,20.36,1197.0,78.9,5.0,Hyundai
+Toyota Etios Liva Diesel TRD Sportivo,2012,162000,Diesel,Individual,Manual,Third Owner,,,,,Toyota
+Honda CR-V 2.4L 4WD AT,6,120000,Petrol,Individual,Automatic,Second Owner,11.1,2354.0,158.8,5.0,Honda
+Maruti Swift Dzire VDI,2015,90000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Hyundai Verna 1.6 SX CRDi (O),2014,70000,Diesel,Individual,Manual,Third Owner,22.32,1582.0,126.32,5.0,Hyundai
+Toyota Innova 2.5 G1 Diesel 8-seater,8,240000,Diesel,Individual,Manual,Third Owner,12.8,2494.0,102.0,8.0,Innova
+Maruti SX4 Celebration Diesel,2012,100000,Diesel,Individual,Ai,Second Owner,21.5,1248.0,88.8,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto K10 LXI,2010,80000,Petrol,Individual,Manual,Rent,20.92,998.0,67.1,5.0,Maruti
+Hyundai EON Sportz,2013,50000,Petrol,Individual,Manual,Rent,21.1,814.0,55.2,5.0,Hyundai
+Tata Tiago 1.2 Revotron XE,2018,100000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Maruti Eeco Smiles 5 Seater AC,2013,120000,Electric,Individual,Manual,Second Owner,15.1,1196.0,73.0,5.0,Maruti
+Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,9000,Electric,Dealer,Automatic,Rent,13.6,1999.0,177.0,5.0,Jaguar
+Lexus ES 300h,2019,20000,Petrol,Dealer,Automatic,First Owner,22.37,2487.0,214.56,5.0,Lexus
+Jaguar XF 2.0 Diesel Portfolio,2017,45000,Diesel,Dealer,Automatic,First Owner,19.33,1999.0,177.0,5.0,XF
+Tata Safari Storme EX,2015,110000,Diesel,Partnership,Manual,First Owner,14.1,2179.0,147.94,7.0,Tata
+Volvo XC40 D4 Inscription BSIV,2019,20000,Diesel,Individual,Automatic,First Owner,18.0,1969.0,190.0,5.0,Volvo

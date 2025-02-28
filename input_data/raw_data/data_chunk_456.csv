@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VXI,2014,40000,Petrol,Individual,Manual,First Owner,19.1,1197.0,85.8,5.0,Maruti
+Mahindra Scorpio SLX 4WD,2008,136500,Diesel,Individual,Manual,Fourth & Above Owner,12.7,2609.0,120.0,8.0,Mahindra
+Mahindra KUV 100 mFALCON D75 K6 Plus,2016,70000,Diesel,Individual,Manual,Second Owner,25.32,1198.0,77.0,6.0,Mahindra
+Honda City i DTEC VX,2015,90000,Diesel,Individual,Manual,Second Owner,25.1,1498.0,98.6,5.0,Honda
+Maruti 800 DX,1996,32000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Wagon R AMT VXI Option,2018,8000,Petrol,Individual,Automatic,Second Owner,20.51,998.0,67.0,5.0,Maruti
+Toyota Etios Liva VD,2015,170000,Electric,Individual,Ai,First Owner,Unknown,1364.0,67.04,5.0,Toyota
+Maruti Alto 800 VXI,2014,25000,Petrol,Individual,Manual,Rent,22.74,796.0,47.3,5.0,Maruti
+Tata Sumo SE Plus BSII,2000,120000,Diesel,Individual,Manual,Fourth & Above Owner,12.2,1948.0,68.0,10.0,Tata

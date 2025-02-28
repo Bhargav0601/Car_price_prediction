@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga SHVS ZDI Plus,2017,40000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Ertiga
+Maruti Swift ZDi,2013,90000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Ertiga VXI,2015,90000,Petrol,Individual,Ai,First Owner,16.02,1373.0,93.7,7.0,Maruti
+Mahindra Bolero 2011-2019 ZLX,2015,80000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Wagon R LXI BSIII,2,60000,Petrol,Individual,Manual,Third Owner,18.9,998.0,67.1,5.0,Maruti
+Maruti Swift Dzire VDI,10,56000,Diesel,Partnership,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Mahindra Scorpio EX,2014,50000,Diesel,Individual,Manual,First Owner,14.0,2523.0,75.0,8.0,Mahindra
+Mahindra Scorpio 2009-2014 EX 2WD 9S,2014,50000,Diesel,Individual,Manual,Rent,14.0,2523.0,75.0,9.0,Mahindra
+Tata Sumo GX 7 Str BSII,2006,74000,Diesel,Individual,Manual,First Owner,13.7,1948.0,68.0,7.0,Tata

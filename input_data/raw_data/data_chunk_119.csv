@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+BMW 6 Series GT 630d Luxury Line,2018,28156,Diesel,Dealer,Automatic,First Owner,17.09,2993.0,261.4,4.0,BMW
+Honda Jazz 1.2 SV i VTEC,2015,30000,Petrol,Dealer,Manual,First Owner,18.7,1199.0,88.7,5.0,Honda
+Toyota Fortuner 2.8 2WD AT BSIV,2018,100000,Diesel,Partnership,Automatic,First Owner,12.9,2755.0,174.5,7.0,Toyota
+Hyundai Creta 1.6 CRDi SX,2017,63309,Diesel,Dealer,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+Toyota Innova Crysta 2.8 ZX AT BSIV,2016,94000,Diesel,Dealer,Automatic,First Owner,11.36,2755.0,171.5,7.0,Toyota
+Hyundai Elite i20 Asta Option CVT BSIV,2018,29000,Petrol,Dealer,Automatic,First Owner,17.4,1197.0,81.86,5.0,Hyundai
+Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,9000,Diesel,Dealer,Ai,First Owner,Unknown,1999.0,177.0,5.0,Jaguar
+Lexus ES 300h,2019,20000,Electric,Dealer,Automatic,First Owner,22.37,2487.0,214.56,5.0,Lexus
+Jaguar XF 2.0 Diesel Portfolio,2017,45000,Diesel,Partnership,Automatic,First Owner,19.33,1999.0,177.0,5.0,Jaguar

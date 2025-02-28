@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 1.2 Sportz,2014,62200,Electric,Dealer,Manual,First Owner,17.0,1197.0,80.0,5.0,Hyundai
+Maruti Ritz VDi,2013,77000,Diesel,Dealer,Manual,Rent,21.1,1248.0,73.9,5.0,Maruti
+Maruti 800 Std,1997,110000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Swift Dzire 1.2 Vxi BSIV,2012,30000,Petrol,Individual,Manual,First Owner,17.5,1197.0,85.8,5.0,Maruti
+Maruti Alto LXi BSIII,2009,60000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Mahindra Scorpio S4 9 Seater,2014,25000,Diesel,Individual,Manual,First Owner,15.4,2179.0,120.0,9.0,Mahindra
+Tata Sumo EX TC,2005,188000,Diesel,Individual,Manual,First Owner,12.3,1948.0,90.0,7.0,Tata
+Maruti Alto STD,2010,150000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai EON Sportz,2012,40000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai

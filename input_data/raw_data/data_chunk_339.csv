@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI,2013,85000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Vitara Brezza ZDi AMT,2018,25000,Diesel,Individual,Automatic,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Swift Dzire VXI 1.2,2018,15000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,7 seats,Maruti
+Maruti Swift Dzire VXi,2012,30000,Petrol,Individual,Manual,First Owner,17.5,1298.0,85.8,5.0,Maruti
+Maruti Omni E MPI STD BS IV,2016,80000,Petrol,Individual,Manual,Second Owner,16.8,796.0,34.2,8.0,Maruti
+Hyundai Verna CRDi 1.6 SX Option,2019,40000,Diesel,Individual,Manual,First Owner,22.0,1582.0,126.2,5.0,Hyundai
+Mahindra Bolero 2011-2019 EX NON AC,2013,160000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Hyundai Creta 1.6 CRDi SX,2015,108000,Diesel,Individual,Manual,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+Volkswagen Jetta 2.0 TDI Comfortline,2011,120000,Diesel,Individual,Manual,Second Owner,15.0,1896.0,105.0,5.0,Volkswagen

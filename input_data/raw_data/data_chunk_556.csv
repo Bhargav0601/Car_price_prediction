@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Vitara Brezza VDi,2020,15000,Diesel,Individual,Ai,First Owner,24.3,1248.0,88.5,4 seats,Maruti
+Fiat Palio 1.2,2006,35000,Petrol,Individual,Manual,First Owner,,,,,Fiat
+Tata Tiago 1.2 Revotron XE,2019,16000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Honda City 1.3 EXI,2005,130000,Petrol,Individual,Manual,First Owner,13.0,1343.0,90.0,5.0,Honda
+Tata Safari DICOR 2.2 EX 4x2,2012,118000,Diesel,Individual,Manual,Second Owner,13.93,2179.0,138.03,7.0,Tata
+Maruti Swift ZXI BSIII,2006,44000,Petrol,Individual,Manual,Second Owner,16.1,2121 CC,88.2,5.0,Maruti
+Maruti Ertiga ZDI,2013,50000,Diesel,Individual,Manual,Second Owner,20.77,1248.0,88.8,7.0,Maruti
+Maruti Eeco 5 Seater AC BSIV,2016,60000,Petrol,Individual,Manual,First Owner,15.37,1196.0,73.0,5.0,Maruti
+Hyundai i20 Sportz Option 1.2,2014,147000,Petrol,Individual,Manual,Second Owner,18.6,1197.0,81.83,5.0,Hyundai

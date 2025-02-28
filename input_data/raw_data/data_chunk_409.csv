@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti 800 EX BSII,2003,36088,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Mahindra Supro LX 8 Str,2018,50000,Diesel,Individual,Manual,First Owner,23.5,909.0,45.0,8.0,Mahindra
+Hyundai i20 Sportz 1.4 CRDi,2014,50000,Diesel,Individual,Manual,Rent,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Ciaz 1.4 Alpha,2018,25000,Petrol,Individual,Manual,First Owner,20.73,1373.0,91.1,5.0,Maruti
+Mahindra Bolero 2011-2019 SLE,2019,30000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Tata Hexa XT,2018,30000,Diesel,Partnership,Manual,First Owner,17.6,2179.0,153.86,7.0,Tata
+Force One SX ABS 7 Seating,2018,13000,Diesel,Individual,Manual,First Owner,17.0,2200.0,139.01,7.0,Force
+Maruti XL6 Alpha,2019,15000,Petrol,Individual,Manual,First Owner,19.01,1462.0,103.2,6.0,Maruti
+Maruti SX4 S Cross 2015-2017 DDiS 200 Sigma,2017,44000,Diesel,Dealer,Manual,First Owner,23.65,1248.0,88.5,5.0,Maruti

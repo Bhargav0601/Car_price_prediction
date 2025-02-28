@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI,2013,100000,Diesel,Individual,Manual,Third Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Swift VDI,2013,96000,Diesel,Individual,Manual,Second Owner,22.9,1248.0,74.0,5.0,Maruti
+Hyundai Santro Xing Base,2005,123219,Petrol,Individual,Manual,Third Owner,,,,8 seats,Hyundai
+Maruti Zen LX,2002,30000,Petrol,Individual,Manual,Third Owner,17.3,993.0,60.0,5.0,Maruti
+Maruti Ritz LDi,2,60000,Diesel,Individual,Manual,Third Owner,23.2,1248.0,73.94,5.0,Maruti
+Honda City 1.5 GXI CVT,2005,90000,Petrol,Individual,Automatic,Second Owner,,,,,Honda
+Maruti Swift VDI BSIV,2014,65000,Diesel,Individual,Ai,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Celerio ZXI,2014,48000,Petrol,Individual,Manual,First Owner,23.1,998.0,67.04,,Maruti
+Hyundai Grand i10 Magna,2016,65300,Petrol,Individual,Manual,Second Owner,18.9,1197.0,82.0,5.0,Hyundai

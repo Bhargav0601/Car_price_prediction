@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto LX,2002,80000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai i20 2015-2017 Asta 1.4 CRDi,9,100000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Mahindra Verito 1.5 D4 BSIII,2011,100000,Electric,Individual,Manual,Second Owner,21.0,1461.0,64.1,5.0,Mahindra
+Honda WR-V i-DTEC VX,2017,50000,Diesel,Individual,Manual,First Owner,25.5,1498.0,98.6,5.0,WR-V
+Maruti Swift Dzire ZDI,2015,40000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti SX4 ZDI,2012,72000,Diesel,Individual,Manual,First Owner,21.5,1248.0,88.8,5.0,Maruti
+Tata Tigor 2017-2020 XZ,2018,35000,Petrol,Individual,Manual,First Owner,20.3,1199.0,83.81,5.0,Tata
+Maruti Baleno Delta 1.2,2016,45000,Petrol,Individual,Manual,First Owner,21.4,,83.1,5.0,Maruti
+Maruti Alto 800 LXI,2017,28000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti

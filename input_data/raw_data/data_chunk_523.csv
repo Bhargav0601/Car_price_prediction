@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Fortuner 4x4 MT,2015,20000,Diesel,Individual,Manual,First Owner,12.55,2982.0,168.5,7.0,Toyota
+Tata Indigo LS,2004,248200,Diesel,Individual,Manual,Second Owner,16.1,1405.0,70.0,5.0,Tata
+Mahindra Scorpio SLX 2.6 Turbo 8 Str,2007,110000,Diesel,Individual,Manual,Second Owner,10.5,2301 CC,120.0,7.0,Mahindra
+Maruti Swift Dzire VDi,2009,100000,Diesel,Individual,Manual,First Owner,19.3,1248.0,73.9,5.0,Maruti
+Hyundai Verna Transform CRDi VGT SX ABS,2010,70000,Diesel,Partnership,Ai,Second Owner,16.2,1493.0,110.0,5.0,Hyundai
+Ambassador Classic 2000 DSZ AC PS,1994,100000,Diesel,Individual,Manual,Rent,Unknown,1995.0,52.0,5.0,Ambassador
+Maruti Ertiga SHVS ZDI,2016,50000,Diesel,Individual,Manual,Second Owner,24.52,1248.0,88.5,7.0,Maruti
+Maruti Ertiga VDI,2013,139000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.76,7.0,Maruti
+Skoda Octavia RS 1.8 Turbo Petrol MT,2006,120000,Petrol,Individual,Manual,Third Owner,13.1,1781.0,149.5,5.0,Skoda

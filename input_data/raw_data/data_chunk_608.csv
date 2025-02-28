@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Fiat Linea Emotion (Diesel),2012,77000,Diesel,Individual,Manual,First Owner,20.4,1248.0,91.7,5.0,Linea
+Honda City 2017-2020 GXi,2007,120000,Petrol,Individual,Manual,Second Owner,17.7,1497.0,78.0,5.0,Honda
+Hyundai Verna Xi (Petrol),2008,120000,Petrol,Partnership,Ai,Second Owner,13.9,1599.0,103.2,5.0,Hyundai
+Maruti Swift Dzire LDI,2013,190000,Diesel,Individual,Manual,Second Owner,23.4,1248.0,74.0,5.0,Maruti
+Mahindra Scorpio SLE BSIII,2013,110000,Diesel,Individual,Manual,Second Owner,12.05,2179.0,120.0,8.0,Mahindra
+Ford Figo Petrol EXI,2010,30000,Petrol,Individual,Manual,First Owner,15.6,1196.0,70.0,5.0,Ford
+Hyundai Verna 1.4 CRDi,2012,182000,Diesel,Individual,Manual,Second Owner,24.8,1396.0,88.7,5.0,Hyundai
+Maruti Swift Dzire VDI,2017,60000,Diesel,Partnership,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Hyundai Xcent 1.2 VTVT S,2019,40000,Petrol,Individual,Manual,First Owner,20.14,1197.0,81.86,5.0,Hyundai

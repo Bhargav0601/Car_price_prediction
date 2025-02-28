@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra TUV 300 mHAWK100 T8,2016,60000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Maruti Alto 800 LXI,2013,35000,Petrol,Individual,Manual,First Owner,22.74,,47.3,5.0,Maruti
+Volkswagen Vento Diesel Highline,2012,100000,Diesel,Individual,Manual,First Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Hyundai Xcent 1.1 CRDi Base,2015,90000,Diesel,Partnership,Manual,Second Owner,24.4,1120.0,71.0,5.0,Hyundai
+Ford Figo Diesel LXI,2011,120000,Electric,Individual,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Maruti A-Star Vxi,2009,95000,Petrol,Individual,Manual,Second Owner,19.0,998.0,66.1,5.0,Maruti
+Mahindra Bolero 2011-2019 ZLX,2017,35000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Tata Indica GLS BS IV,2007,38000,Petrol,Individual,Manual,Second Owner,15.3,1193.0,65.3,5.0,Tata
+Honda City i VTEC VX,2014,56000,Petrol,Individual,Manual,Second Owner,17.4,1497.0,117.3,5.0,Honda

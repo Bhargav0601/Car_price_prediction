@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto K10 VXI Airbag,2019,15000,Petrol,Individual,Ai,First Owner,23.95,998.0,67.1,5.0,Maruti
+Hyundai Verna VTVT 1.6 SX Option,2019,5000,Electric,Individual,Manual,First Owner,17.0,1591.0,121.3,5.0,Hyundai
+Datsun GO D,2016,42000,Petrol,Individual,Manual,First Owner,20.63,1198.0,67.0,5.0,Datsun
+Tata Safari DICOR 2.2 LX 4x2,2011,60000,Diesel,Individual,Manual,Second Owner,13.93,2179.0,138.03,7.0,Tata
+Maruti 800 Std,2012,76000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Jeep Compass 1.4 Limited Plus BSIV,2019,5000,Petrol,Individual,Automatic,First Owner,16.0,1368.0,160.77,5.0,Jeep
+Honda City i VTEC VX,2018,28900,Petrol,Dealer,Manual,First Owner,17.8,1497.0,117.3,5.0,Honda
+Honda City V MT,2013,86300,Petrol,Partnership,Manual,First Owner,16.8,1497.0,116.3,5.0,Honda
+Maruti Swift Dzire VXi AT,2018,23300,Petrol,Dealer,Automatic,First Owner,18.5,1197.0,83.14,5.0,Maruti

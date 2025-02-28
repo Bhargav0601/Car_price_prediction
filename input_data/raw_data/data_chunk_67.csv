@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Aria Pride,2011,142000,Diesel,Individual,Manual,Third Owner,13.7,2179.0,138.1,7.0,Tata
+Tata Sumo CX 10 Str BSIV,2011,20000,Diesel,Partnership,Manual,First Owner,12.2,1948.0,68.0,10.0,Tata
+Tata Manza Aura Plus Quadrajet,2009,120000,Diesel,Individual,Manual,Second Owner,18.8,1248.0,90.0,5.0,Tata
+Hyundai i10 Sportz 1.1L,2011,80000,Petrol,Individual,Manual,First Owner,19.81,1086.0,68.05,5.0,Hyundai
+Tata Indigo CS LX (TDI) BS-III,2016,60000,Diesel,Individual,Manual,First Owner,19.09,1405.0,69.01,5.0,Tata
+Renault KWID 1.0 RXT Optional,2016,25000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Mahindra Bolero SLX,2011,50000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Bolero
+Mahindra TUV 300 T8,2017,126000,Diesel,Individual,Manual,Rent,18.49,1493.0,100.0,7.0,Mahindra
+Maruti Swift Dzire LDI,2015,170000,Diesel,Individual,Manual,First Owner,26.59,1248.0,74.0,5.0,Maruti

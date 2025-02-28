@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda Brio 1.2 VX MT,2014,52442,Petrol,Trustmark Dealer,Manual,Second Owner,18.5,1198.0,86.8,5.0,Honda
+Hyundai i10 Magna,2013,39000,Petrol,Dealer,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Mercedes-Benz New C-Class C 200 Kompressor Elegance AT,4,42000,Petrol,Dealer,Automatic,First Owner,11.74,1796.0,186.0,5.0,Mercedes
+Volkswagen Polo 1.2 MPI Highline,2015,34156,Petrol,Dealer,Manual,First Owner,16.47,1198.0,74.0,5.0,Volkswagen
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2017,34152,Petrol,Dealer,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Audi A4 35 TDI Premium Plus,2015,37000,Diesel,Dealer,Automatic,First Owner,18.25,1968.0,187.74,5.0,Audi
+Toyota Innova Crysta 2.8 GX AT BSIV,2017,98000,Diesel,Partnership,Automatic,First Owner,11.36,2755.0,171.5,7.0,Toyota
+Hyundai Creta 1.6 SX Option,2019,31000,Petrol,Dealer,Manual,First Owner,15.8,1591.0,121.3,5.0,Hyundai
+Hyundai i20 1.2 Magna Executive,2018,62841,Petrol,Trustmark Dealer,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai

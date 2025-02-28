@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indica Vista Aqua TDI BSIII,2011,50000,Diesel,Individual,Manual,Second Owner,17.0,1405.0,71.0,5.0,Tata
+Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,2008,120000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,8.0,Toyota
+Hyundai Xcent 1.2 Kappa SX Option,2015,20000,Petrol,Individual,Manual,First Owner,19.1,1197.0,82.0,5.0,Xcent
+Hyundai Grand i10 Sportz,2015,10000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Maruti SX4 Celebration Diesel,2011,120000,Diesel,Individual,Manual,First Owner,21.5,1248.0,88.8,5.0,Maruti
+Hyundai Grand i10 1.2 Kappa Asta,2018,25000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Ford EcoSport 1.5 TDCi Titanium BSIV,2014,130000,Diesel,Individual,Manual,Second Owner,22.77,1498.0,98.59,5.0,Ford
+Toyota Premio Base,2004,120000,Petrol,Individual,Manual,Second Owner,,,,,Toyota
+Mahindra Quanto C6,2013,40000,Diesel,Individual,Manual,First Owner,17.21,1493.0,100.0,7.0,Mahindra

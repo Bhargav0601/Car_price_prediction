@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Baleno Delta 1.2,2016,65755,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Ford EcoSport 1.5 Diesel Titanium BSIV,2019,2600,Diesel,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Mahindra XUV500 AT W6 2WD,2017,46000,Diesel,Individual,Automatic,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Hyundai EON Era Plus,2017,15000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Swift Dzire VDI,2014,60000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Maruti Alto K10 VXI AGS Optional,2017,15500,Petrol,Individual,Automatic,First Owner,23.95,998.0,67.1,5.0,Maruti
+Honda Amaze S i-Dtech,2015,120000,Diesel,Individual,Manual,First Owner,25.8,1498.0,98.6,5.0,Honda
+Mitsubishi Lancer 2.0 GLd,2008,120000,Diesel,Individual,Manual,Third Owner,14.8,1998.0,68.0,,Mitsubishi
+Tata Spacio Gold-10/6 Str BSII,2007,120000,Diesel,Individual,Manual,Third Owner,14.6,2956.0,63.0,10.0,Tata

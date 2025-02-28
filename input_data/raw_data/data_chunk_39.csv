@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault KWID RXL,2018,13000,Petrol,Dealer,Manual,First Owner,20.71,799.0,53.26,5.0,Renault
+Honda Brio 1.2 VX MT,2012,40000,Petrol,Dealer,Manual,First Owner,18.5,1198.0,86.8,5.0,Honda
+Volkswagen Ameo 1.2 MPI Comfortline Plus,2019,10000,Petrol,Dealer,Manual,First Owner,17.0,1198.0,73.75,5.0,Volkswagen
+Nissan Sunny XV Special Edition,2012,9000,Petrol,Dealer,Manual,First Owner,16.95,1498.0,97.7,5.0,Nissan
+Toyota Etios Liva GD SP,2013,70000,Diesel,Dealer,Manual,Second Owner,23.59,1364.0,67.06,5.0,Toyota
+Hyundai i10 Sportz,2009,60000,Petrol,Partnership,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Renault Duster 85PS Diesel RxL,2014,40000,Diesel,Dealer,Manual,First Owner,20.45,1461.0,83.8,5.0,Renault
+Mahindra XUV500 W8 2WD,2012,93000,Diesel,Dealer,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Toyota Innova 2.5 V Diesel 7-seater,2008,80000,Diesel,Individual,Manual,Fourth & Above Owner,12.8,2494.0,102.0,7.0,Toyota

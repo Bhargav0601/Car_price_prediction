@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra XUV500 W9 BSIV,2018,24000,Diesel,Dealer,Manual,First Owner,15.1,2179.0,152.87,7.0,Mahindra
+Toyota Corolla Altis Diesel D4DG,2010,83585,Diesel,Dealer,Manual,First Owner,21.43,1364.0,87.2,5.0,Toyota
+Volkswagen Polo GT TSI,2014,31000,Petrol,Dealer,Automatic,Second Owner,17.21,1197.0,103.6,5.0,Volkswagen
+Toyota Innova Crysta 2.4 GX MT BSIV,2016,100000,Diesel,Partnership,Manual,First Owner,13.68,2393.0,147.8,7.0,Toyota
+Renault Duster 85PS Diesel RxL,2017,48406,Diesel,Dealer,Manual,First Owner,19.87,1461.0,83.8,5.0,Duster
+Hyundai i20 Era 1.4 CRDi,2016,56239,Diesel,Dealer,Manual,First Owner,22.54,1396.0,88.73,5.0,i20
+Maruti Baleno Delta 1.2,2015,33243,Petrol,Dealer,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Honda Jazz 1.2 S AT i VTEC,2016,26000,Petrol,Dealer,Automatic,First Owner,19.0,1199.0,88.7,5.0,Jazz
+Toyota Etios GD,2012,90000,Diesel,Individual,Manual,First Owner,,,,,Toyota

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Tavera Neo 3 LT 9 Seats BSIII,2014,50000,Diesel,Individual,Manual,First Owner,13.58,2499.0,72.4,9.0,Chevrolet
+Chevrolet Beat Diesel,2013,60000,Diesel,Individual,Manual,Second Owner,25.44,936.0,57.6,5.0,Chevrolet
+Renault Lodgy 85PS RxE 7 Seater,2018,35000,Diesel,Individual,Manual,First Owner,21.04,1461.0,83.8,7.0,Renault
+Ambassador CLASSIC 1500 DSL AC,2000,90000,Diesel,Partnership,Manual,Second Owner,12.8,1489.0,35.5,5.0,Ambassador
+Maruti Swift LXI Optional-O,2015,50000,Electric,Individual,Manual,First Owner,20.4,1197.0,83.11,5.0,Maruti
+Honda Mobilio RS i DTEC,2015,110000,Diesel,Individual,Manual,First Owner,24.5,1498.0,98.6,7.0,Honda
+Maruti Swift VDI,2015,87847,Diesel,Dealer,Manual,First Owner,28.4,1248.0,74.0,5.0,Maruti
+Maruti Alto LXi,2009,35000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Swift VXI 2018,2018,5000,Petrol,Individual,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VXI,2017,40000,Petrol,Individual,Manual,First Owner,20.85,1197.0,83.14,5.0,Maruti
+Maruti Wagon R VXI BS IV,2017,35000,Petrol,Individual,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Maruti Swift VDI BSIV,2010,120000,Diesel,Individual,Manual,Second Owner,,,,,Maruti
+Nissan Terrano XL 85 PS,2014,70000,Diesel,Individual,Manual,Third Owner,20.45,1461.0,83.8,5.0,Nissan
+Hyundai Creta 1.6 CRDi SX,2016,50000,Diesel,Individual,Ai,First Owner,Unknown,1582.0,126.2,5.0,Hyundai
+Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2017,76139,Diesel,Individual,Ai,First Owner,23.0,1498.0,98.96,5.0,Ford
+Maruti Swift Dzire VDi,2012,175000,Diesel,Individual,Manual,Fourth & Above Owner,19.3,1248.0,73.9,5.0,Maruti
+Renault KWID 1.0,2018,25000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Maruti Celerio VXI,3,40000,Petrol,Individual,Manual,Second Owner,23.1,998.0,67.04,5.0,Maruti

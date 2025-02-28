@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Spark 1.0 LT,2011,49563,Petrol,Dealer,Manual,First Owner,16.2,995.0,62.1,5.0,Chevrolet
+Maruti 800 Std BSIII,2004,56432,Petrol,Dealer,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti 800 AC,2,52365,Petrol,Partnership,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Maruti Alto LXi BSIII,2007,53512,Petrol,Dealer,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai Santro Xing XG,2005,53563,Petrol,Dealer,Manual,Rent,,,,,Hyundai
+Mahindra Ssangyong Rexton RX7,2013,40000,Diesel,Individual,Automatic,First Owner,11.18,2696.0,184.0,7.0,Mahindra
+Maruti Wagon R LXI BS IV,2010,46533,Petrol,Partnership,Manual,First Owner,18.9,998.0,67.1,5.0,Maruti
+Maruti Omni E 8 Str STD,2005,59635,Petrol,Dealer,Manual,Second Owner,,,,,Maruti
+Maruti Omni 8 Seater BSIV,2008,58632,Petrol,Dealer,Manual,Second Owner,14.0,796.0,35.0,5.0,Maruti

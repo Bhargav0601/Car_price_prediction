@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Eeco 5 Seater AC BSIV,2010,162000,Petrol,Individual,Manual,First Owner,15.37,1196.0,73.0,5.0,Eeco
+Tata Nano XE,2017,70000,Petrol,Individual,Manual,Third Owner,23.9,624.0,37.48,,Tata
+Maruti Wagon R Stingray VXI,2015,20000,Petrol,Individual,Manual,Second Owner,20.51,998.0,67.04,5.0,Maruti
+Tata New Safari DICOR 2.2 VX 4x2 BS IV,2012,80000,Diesel,Individual,Manual,Rent,13.93,2179.0,138.1,7.0,Tata
+Mahindra Bolero PLUS AC,2008,90000,Diesel,Individual,Manual,First Owner,13.6,2523.0,63.0,7.0,Mahindra
+Hyundai i10 Asta Sunroof AT,2008,120000,Petrol,Individual,Automatic,Second Owner,19.2,1197.0,80.0,5.0,i10
+Chevrolet Tavera B3 LT L1 10 Seats BSIII,2005,220000,Diesel,Individual,Manual,Rent,14.8,2499.0,80.0,10.0,Chevrolet
+Maruti Swift Ldi BSIV,2009,100000,Diesel,Individual,Manual,Second Owner,17.8,1248.0,75.0,5.0,Maruti
+Tata Zest Revotron 1.2 XT,2017,35000,Petrol,Partnership,Manual,First Owner,17.57,1193.0,88.7,5.0,Tata

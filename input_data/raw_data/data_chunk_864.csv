@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i10 Magna,2012,40000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Hyundai EON Magna Plus,2013,47000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Tata Hexa XT,2017,45000,Diesel,Individual,Manual,First Owner,17.6,2179.0,153.86,7.0,Tata
+Maruti Alto 800 LX,2017,15000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Toyota Innova 2.5 GX 8 STR,2012,90000,Diesel,Partnership,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Mahindra Thar CRDe,2018,35000,Diesel,Individual,Manual,First Owner,16.55,2498.0,105.0,6.0,Mahindra
+Mahindra Scorpio 1.99 S4,2015,70000,Diesel,Individual,Manual,First Owner,15.4,1997.0,120.0,7.0,Mahindra
+Hyundai i20 Asta 1.4 CRDi,2013,110000,Diesel,Individual,Manual,Second Owner,21.27,1396.0,88.76,5.0,Hyundai
+Mahindra Scorpio LX,2012,120000,Diesel,Individual,Ai,Second Owner,12.05,2179.0,120.0,9.0,Mahindra

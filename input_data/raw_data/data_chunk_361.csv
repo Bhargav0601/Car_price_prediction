@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Creta 1.6 SX Automatic Diesel,2015,40000,Diesel,Dealer,Automatic,First Owner,17.6,1582.0,126.2,5.0,Hyundai
+Toyota Corolla Altis 1.8 G CVT,2013,39000,Petrol,Dealer,Automatic,First Owner,14.28,1798.0,138.03,5.0,Toyota
+Volvo XC40 D4 R-Design,2018,22000,Diesel,Dealer,Automatic,First Owner,18.0,1969.0,190.0,5.0,Volvo
+Maruti Ciaz ZDi,2015,40000,Diesel,Dealer,Manual,First Owner,26.21,1248.0,88.5,5.0,Maruti
+Mahindra Bolero 2011-2019 SLX,2011,142000,Diesel,Individual,Ai,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Swift VXI Deca,2016,22947,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti
+Hyundai i10 Sportz,2013,30000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai
+Hyundai EON D Lite Plus,2016,7672,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Maruti Alto LXi,8,36659,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti

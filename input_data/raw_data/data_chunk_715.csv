@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Fiesta 1.5 TDCi Ambiente,2014,60000,Diesel,Individual,Manual,First Owner,25.01,1498.0,89.75,5.0,Ford
+Maruti Zen VXI,1998,50000,Petrol,Individual,Ai,Second Owner,17.3,993.0,60.0,5.0,Maruti
+Hyundai i10 Magna 1.2 iTech SE,2011,60000,Petrol,Individual,Manual,Second Owner,20.36,1197.0,78.9,5.0,Hyundai
+Mahindra XUV500 W10 2WD,2015,100000,Electric,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Mahindra Bolero 2011-2019 SLX,2013,70000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Mahindra Bolero 2011-2019 ZLX,2014,82500,Diesel,Individual,Manual,Second Owner,15.96,2523.0,62.1,7.0,Mahindra
+Mahindra Bolero 2011-2019 Plus AC,2014,76000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,9.0,Mahindra
+Tata Indica Vista Terra Quadrajet 1.3L BS IV,2011,87000,Diesel,Individual,Manual,First Owner,18.0,1248.0,75.0,5.0,Tata
+Mahindra Xylo E4,2010,120000,Diesel,Individual,Manual,First Owner,14.0,2498.0,112.0,7.0,Mahindra

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti SX4 S Cross 2015-2017 DDiS 200 Zeta,2016,52000,Diesel,Dealer,Manual,First Owner,23.65,1248.0,88.5,5.0,Maruti
+Maruti Swift ZXI,2013,62000,Petrol,Dealer,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Toyota Innova 2.5 V Diesel 8-seater,2012,155000,Diesel,Dealer,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Volkswagen Polo 1.5 TDI Highline,4,66000,Diesel,Dealer,Manual,First Owner,20.14,1498.0,88.8,5.0,Volkswagen
+Skoda Rapid 1.5 TDI AT Ambition,2016,78010,Diesel,Dealer,Automatic,First Owner,21.66,1498.0,103.52,5.0,Skoda
+Maruti Ertiga SHVS VDI,2018,83844,Diesel,Dealer,Manual,Rent,24.52,1248.0,88.5,7.0,Maruti
+Maruti Celerio VXI AT,2015,23999,Petrol,Dealer,Automatic,First Owner,23.1,998.0,67.04,5.0,Maruti
+Maruti Baleno Delta Diesel,2016,52000,Diesel,Dealer,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti
+Maruti Swift VDI,2012,145000,Diesel,Individual,Manual,Third Owner,22.9,4762 CC,74.0,4 seats,Maruti

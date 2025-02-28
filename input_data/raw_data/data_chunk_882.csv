@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Verna CRDi 1.6 SX Option,2018,40000,Diesel,Individual,Manual,First Owner,22.0,1582.0,126.2,5.0,Hyundai
+Maruti Baleno Zeta 1.3,2018,50000,Diesel,Individual,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti
+Hyundai i10 Sportz Option,2012,45000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Tata Tiago 1.2 Revotron XZ Plus Dual Tone,2019,5000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Chevrolet Beat LT,2012,70000,Petrol,Individual,Manual,Third Owner,18.6,1199.0,79.4,5.0,Chevrolet
+Hyundai EON D Lite Plus,2017,26263,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Mahindra KUV 100 mFALCON G80 K4 Plus 5str,2016,100000,Petrol,Individual,Manual,Second Owner,18.15,1198.0,82.0,5.0,Mahindra
+Toyota Innova 2.5 G (Diesel) 7 Seater,2012,250000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.0,7.0,Toyota
+Renault Duster 110PS Diesel RxZ,2018,18000,Diesel,Dealer,Manual,First Owner,19.6,1461.0,108.45,5.0,Renault

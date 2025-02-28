@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City 1.5 V AT,2010,60000,Petrol,Individual,Automatic,Second Owner,16.8,1497.0,118.0,5.0,Honda
+Toyota Etios Liva 1.2 V Dual Tone,2017,50000,Petrol,Individual,Ai,First Owner,17.71,1197.0,78.9,5.0,Toyota
+Ford Figo Diesel EXI,2011,70000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.0,5.0,Ford
+Honda Amaze E i-DTEC,2017,70000,Diesel,Individual,Manual,First Owner,25.8,1498.0,98.6,5.0,Honda
+Hyundai i20 1.4 CRDi Asta,2011,90000,Diesel,Individual,Manual,Third Owner,23.0,1396.0,90.0,5.0,Hyundai
+Maruti Ertiga SHVS LDI Option,2016,70000,Electric,Individual,Manual,Second Owner,24.52,1248.0,88.5,7.0,Maruti
+Maruti Alto 800 VXI,2014,50000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Omni 8 Seater BSII,2012,120000,Petrol,Individual,Manual,Second Owner,19.7,796.0,35.0,8.0,Maruti
+Hyundai i20 Active S Petrol,2019,5000,Petrol,Individual,Ai,First Owner,17.19,1197.0,81.86,5.0,Hyundai

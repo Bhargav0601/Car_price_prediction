@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VXI Optional,2015,68000,Petrol,Individual,Manual,Second Owner,20.4,1197.0,81.8,5.0,Maruti
+Mahindra Bolero 2011-2019 ZLX,2013,90000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,62.1,7.0,Mahindra
+Honda City V AT,2010,110000,Petrol,Individual,Automatic,Third Owner,15.6,1497.0,116.3,5.0,Honda
+Mahindra Bolero 2011-2019 SLX 2WD BSIII,2013,70000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,62.1,7.0,Mahindra
+Mahindra XUV500 W8 4WD,2011,80000,Diesel,Individual,Manual,Third Owner,15.1,2179.0,140.0,7.0,Mahindra
+Hyundai Santro Xing XS eRLX Euro III,2006,118000,Petrol,Individual,Manual,First Owner,,,,,Hyundai
+Hyundai i10 Era,2007,100000,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Maruti Wagon R LXI,2004,70000,Electric,Individual,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti
+Maruti 800 Std BSII,2004,77000,Electric,Individual,Manual,Third Owner,16.1,796.0,37.0,4.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Etios Liva GD SP,2012,100000,Diesel,Individual,Manual,First Owner,,,,,Toyota
+Hyundai Xcent 1.1 CRDi SX,2016,35000,Diesel,Individual,Manual,First Owner,24.4,1120.0,71.0,5.0,Hyundai
+Maruti Swift ZXI,2012,70000,Petrol,Individual,Manual,Second Owner,18.6,1197.0,85.8,5.0,Maruti
+Ford Classic 1.6 Duratec LXI,2013,90000,Petrol,Individual,Manual,First Owner,14.09,1596.0,99.6,5.0,Ford
+Mahindra XUV500 W10 2WD,2017,42000,Diesel,Individual,Manual,Second Owner,16.0,2179.0,140.0,7.0,Mahindra
+Hyundai Grand i10 Magna,2016,30000,Petrol,Partnership,Manual,Second Owner,18.9,1197.0,82.0,,Hyundai
+Maruti Ciaz 1.4 Alpha,2017,80000,Petrol,Individual,Manual,First Owner,20.73,1373.0,91.1,5.0,Maruti
+Hyundai i20 1.2 Sportz,2011,90000,Petrol,Individual,Manual,Third Owner,17.0,1197.0,80.0,5.0,Hyundai
+Chevrolet Beat LT,2012,60000,Petrol,Individual,Manual,First Owner,18.6,1199.0,79.4,5.0,Chevrolet

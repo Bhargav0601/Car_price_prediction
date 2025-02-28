@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto Green LXi (CNG),2010,70000,CNG,Individual,Manual,Rent,26.83,796.0,38.4,5.0,Maruti
+Maruti Ertiga VDI,2015,70000,Diesel,Individual,Manual,Rent,20.77,1248.0,88.76,7.0,Maruti
+Maruti Swift Ldi BSIII,5,120000,Diesel,Individual,Manual,First Owner,17.8,1248.0,75.0,5.0,Maruti
+Hyundai Grand i10 CRDi SportZ Edition,2014,76000,Diesel,Individual,Manual,Third Owner,24.0,1120.0,70.0,5.0,Hyundai
+Hyundai Grand i10 CRDi Asta,2014,80000,Diesel,Individual,Manual,Second Owner,24.0,1120.0,70.0,5.0,Hyundai
+Tata Indica V2 DLS,2008,110000,Diesel,Individual,Manual,Second Owner,17.2,1396.0,53.5,5.0,Tata
+Hyundai Accent GLS,2009,70000,Petrol,Individual,Manual,Third Owner,13.2,1495.0,94.0,5.0,Hyundai
+Hyundai i20 Active S Petrol,2019,13000,Petrol,Individual,Manual,First Owner,17.19,1197.0,81.86,5.0,Hyundai
+Ford Classic 1.6 Duratec CLXI,2013,60000,Petrol,Individual,Manual,Second Owner,14.09,1596.0,99.6,5.0,Ford

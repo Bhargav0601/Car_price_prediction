@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI,2011,60000,Diesel,Individual,Manual,First Owner,22.9,1248.0,74.0,5 seats,Maruti
+Mahindra Bolero 2011-2019 SLX,2013,90000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Tata New Safari Dicor LX 4X2 BS IV,1,70000,Diesel,Individual,Manual,Second Owner,13.93,2179.0,138.1,7.0,Tata
+Hyundai i10 Sportz,2012,65000,Petrol,Individual,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Maruti Swift Dzire VDI,2014,88000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Tata Manza Aura (ABS) Quadrajet,2009,80000,Diesel,Individual,Manual,Third Owner,18.8,1248.0,90.0,3 seats,Manza
+Mahindra Scorpio EX,2014,60000,Diesel,Individual,Manual,First Owner,14.0,2523.0,75.0,8.0,Mahindra
+Mahindra TUV 300 T4 Plus,2017,38000,Electric,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Tata Manza Aqua Safire,2010,80000,Petrol,Individual,Manual,Third Owner,15.0,1368.0,90.0,5.0,Tata

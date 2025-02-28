@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Omni LPG STD BSIV,2008,58632,LPG,Dealer,Ai,Second Owner,,,,,Maruti
+Mahindra XUV500 AT W6 2WD,2016,80000,Diesel,Individual,Automatic,Second Owner,16.0,2179.0,140.0,7.0,Mahindra
+Maruti Ertiga SHVS VDI,2016,70000,Diesel,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Renault KWID 1.0 RXT Optional,2017,90000,Petrol,Partnership,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Ford Classic 1.6 Duratec Titanium,2014,110000,Petrol,Individual,Manual,Second Owner,14.09,1596.0,99.6,5.0,Ford
+Mahindra Quanto C6,2013,90000,Diesel,Individual,Manual,First Owner,17.21,1493.0,100.0,7.0,Mahindra
+Mahindra Scorpio S10 7 Seater,2015,70000,Diesel,Individual,Manual,First Owner,15.4,2179.0,120.0,7.0,Mahindra
+Maruti Swift VXI with ABS,2009,80000,Petrol,Individual,Manual,First Owner,16.6,1197.0,85.0,5.0,Maruti
+Maruti Alto LX,2007,78000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti

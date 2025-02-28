@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Zen Estilo VXI BSIV,2010,59549,Petrol,Dealer,Manual,First Owner,19.0,998.0,67.1,5.0,Maruti
+Toyota Innova 2.5 G (Diesel) 8 Seater,9,94385,Diesel,Dealer,Manual,First Owner,12.99,2494.0,100.6,8.0,Toyota
+Maruti Zen Estilo LXI BSIII,2010,73730,Petrol,Dealer,Manual,First Owner,18.2,998.0,67.1,5.0,Maruti
+Hyundai Verna 1.6 SX,2011,221889,Diesel,Dealer,Manual,First Owner,22.32,1582.0,126.32,5.0,Hyundai
+Honda Amaze VX i-DTEC,2013,116104,Diesel,Dealer,Manual,First Owner,Unknown,1498.0,98.6,5.0,Honda
+Maruti Swift VXI BSIV,2015,150546,Petrol,Dealer,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Toyota Fortuner 2.8 2WD MT,2013,148120,Diesel,Dealer,Manual,First Owner,14.24,2755.0,174.5,7.0,Toyota
+Ford Ecosport 1.5 Ti VCT MT Titanium,2015,20000,Petrol,Individual,Manual,Second Owner,20 kmpl,1499.0,110.0,5.0,Ford
+Hyundai Grand i10 1.2 Kappa Magna AT,2018,30000,Petrol,Individual,Automatic,First Owner,18.9,1197.0,81.86,5.0,Hyundai

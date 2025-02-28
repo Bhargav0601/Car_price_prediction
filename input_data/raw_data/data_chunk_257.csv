@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Zen LXi - BS III,2005,70000,Petrol,Individual,Manual,Second Owner,17.3,993.0,60.0,5.0,Maruti
+Maruti SX4 Zxi with Leather BSIII,2008,89000,Petrol,Individual,Manual,Second Owner,15.6,1586.0,104.68,5.0,Maruti
+Honda Brio Exclusive Edition,2014,33033,Electric,Dealer,Manual,First Owner,19.4,1198.0,86.8,5.0,Honda
+Maruti Swift VDI,3,69000,Diesel,Individual,Manual,Second Owner,22.9,1248.0,74.0,5.0,Maruti
+Hyundai Grand i10 AT Asta,2015,63063,Petrol,Dealer,Automatic,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Tata Indica V2 eLX,2012,90000,Diesel,Individual,Manual,Second Owner,25.0,1396.0,69.0,5.0,Tata
+Hyundai EON Era Plus,2017,8000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,,Hyundai
+Hyundai i20 1.2 Sportz,2012,35000,Petrol,Individual,Manual,First Owner,17.0,1197.0,80.0,5.0,Hyundai
+Hyundai i20 1.2 Sportz,2011,45000,Petrol,Individual,Manual,First Owner,17.0,1197.0,80.0,5.0,Hyundai

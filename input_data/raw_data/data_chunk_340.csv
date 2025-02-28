@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Santro Xing GLS,2010,55000,Petrol,Individual,Manual,Fourth & Above Owner,17.92,1086.0,62.1,5.0,Hyundai
+Tata New Safari Dicor GX 4X2 BS IV,2008,110000,Diesel,Individual,Manual,Rent,13.93,2179.0,138.1,7.0,Tata
+Toyota Etios GD,2011,80000,Diesel,Individual,Manual,First Owner,,,,,Toyota
+Honda Brio E MT,2012,110000,Petrol,Individual,Manual,First Owner,19.4,1198.0,86.8,5.0,Honda
+Maruti Wagon R VXI,2006,62900,Electric,Individual,Manual,First Owner,18.9,4350 CC,67.1,5.0,Maruti
+Volkswagen Jetta 2.0L TDI Highline,2011,120000,Diesel,Individual,Manual,Second Owner,19.33,1968.0,138.1,5.0,Volkswagen
+Mahindra XUV500 W10 2WD,2016,70000,Diesel,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Ford Endeavour 4x2 XLT Limited Edition,2009,70000,Diesel,Individual,Manual,Third Owner,10.9,2499.0,143.0,7.0,Ford
+Maruti Swift Dzire LDI,2017,60000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti

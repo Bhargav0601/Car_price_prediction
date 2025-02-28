@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero GLX,2006,120000,Diesel,Individual,Manual,Second Owner,,,,,Mahindra
+Maruti Swift Dzire VDI,2013,40000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Renault Duster 110PS Diesel RxL,2014,90000,Diesel,Individual,Manual,Second Owner,19.01,1461.0,108.45,5.0,Renault
+Toyota Etios G,2015,110000,Petrol,Individual,Manual,Third Owner,16.78,4931 CC,88.73,5.0,Toyota
+Hyundai Santro Xing GLS,2010,86000,Petrol,Individual,Ai,Second Owner,17.92,1086.0,62.1,5.0,Hyundai
+Maruti Swift VDI BSIV,2009,120000,Diesel,Individual,Manual,First Owner,,,,,Maruti
+Ford Ikon 1.6 Really Sport,2003,80000,Petrol,Individual,Manual,Third Owner,14.2,1597.0,92.0,5.0,Ford
+Maruti Esteem LX - BSIII,1999,65000,Petrol,Individual,Manual,Fourth & Above Owner,15.9,1298.0,85.0,5.0,Maruti
+Maruti Esteem LX - BSIII,1999,70000,Petrol,Individual,Manual,Fourth & Above Owner,15.9,1298.0,85.0,5.0,Maruti

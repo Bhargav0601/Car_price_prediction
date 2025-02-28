@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford EcoSport 1.5 TDCi Titanium Plus BSIV,2016,50000,Diesel,Individual,Manual,First Owner,22.77,1498.0,98.59,,Ford
+Hyundai Creta 1.6 CRDi SX Option,2015,60000,Diesel,Partnership,Ai,First Owner,19.67,1582.0,126.2,5.0,Hyundai
+Renault Duster 110PS Diesel RxL,2013,100000,Diesel,Individual,Manual,Second Owner,19.01,1461.0,108.45,5.0,Renault
+Maruti Zen LXI,2001,10000,Petrol,Individual,Manual,First Owner,17.3,993.0,60.0,5.0,Maruti
+Maruti Swift VDI,2012,50000,Diesel,Individual,Manual,Second Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Wagon R Stingray VXI,2014,74537,Petrol,Individual,Manual,Second Owner,20.51,998.0,67.04,5.0,Maruti
+Maruti SX4 ZXI AT,2009,90000,Petrol,Individual,Automatic,Second Owner,12.6,1586.0,103.3,5.0,Maruti
+Tata Indica Vista Aqua 1.3 Quadrajet (ABS),2012,80000,Diesel,Individual,Manual,Second Owner,,,,,Tata
+Chevrolet Spark 1.0,2010,70000,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,5.0,Chevrolet

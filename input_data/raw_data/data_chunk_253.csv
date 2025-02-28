@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VDI BSIV,2007,112880,Diesel,Dealer,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti
+Tata Indica Vista TDI LS,4,135000,Diesel,Dealer,Manual,Second Owner,19.4,1405.0,70.0,5.0,Indica
+Maruti Wagon R LX,2006,80000,Electric,Individual,Manual,Third Owner,18.9,998.0,67.1,5.0,Maruti
+Chevrolet Beat LT,2012,128000,Petrol,Individual,Manual,Third Owner,30 kmpl,1199.0,79.4,5.0,Chevrolet
+Mahindra Bolero SLE BSIII,2011,120000,Diesel,Individual,Manual,First Owner,13.6,2523.0,63.0,7.0,Mahindra
+Maruti SX4 ZXI AT Leather,2010,30000,Petrol,Individual,Automatic,First Owner,12.6,1586.0,103.2,5.0,Maruti
+Tata Nexon 1.2 Revotron XM,2018,70000,Petrol,Individual,Manual,First Owner,17.0,1198.0,108.5,5.0,Tata
+Hyundai i20 Sportz Option 1.2,2015,41000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Toyota Etios V,2011,28100,Petrol,Individual,Manual,First Owner,,,,,Etios

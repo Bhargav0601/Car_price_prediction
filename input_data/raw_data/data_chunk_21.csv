@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Zest Quadrajet 1.3 75PS XM,2017,90000,Diesel,Individual,Manual,First Owner,22.95,1248.0,74.0,5.0,Tata
+Honda City 1.5 S MT,2009,47000,Petrol,Individual,Manual,Second Owner,17.0,1497.0,118.0,5.0,Honda
+Maruti Zen LXI,2005,90000,Petrol,Individual,Manual,First Owner,17.3,993.0,60.0,5.0,Maruti
+Maruti Wagon R VXI BS IV with ABS,2010,120600,Petrol,Individual,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti
+Hyundai Verna Transform SX VTVT,2010,100000,Petrol,Individual,Manual,Third Owner,16.2,1599.0,103.2,5.0,Hyundai
+Maruti Swift Dzire VXI,2016,60000,Electric,Individual,Manual,Second Owner,20.85,,83.14,5.0,Maruti
+Hyundai Getz GLS,2005,86000,Petrol,Individual,Ai,First Owner,Unknown,1341.0,83.0,2 seats,Hyundai
+Hyundai Elite i20 Sportz Plus BSIV,2020,5000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.86,5.0,Hyundai
+Maruti Ciaz 1.3 Alpha,2017,37000,Diesel,Individual,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti

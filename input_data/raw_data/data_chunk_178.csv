@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Xylo D2,2011,56000,Diesel,Individual,Manual,First Owner,13.0,2489.0,95.0,8.0,Mahindra
+Hyundai i10 Era,2008,90000,Petrol,Individual,Manual,First Owner,19.81,1086.0,68.05,5.0,Hyundai
+Hyundai Santro Xing GLS,2010,65000,Petrol,Individual,Manual,Second Owner,17.92,1086.0,62.1,5.0,Hyundai
+Tata New Safari DICOR 2.2 EX 4x4,2011,80000,Diesel,Individual,Manual,First Owner,13.93,2179.0,138.0,7.0,Tata
+Mahindra Scorpio VLX 2WD BSIV,2012,90000,Diesel,Individual,Manual,Third Owner,12.05,2179.0,120.0,8.0,Mahindra
+Maruti Alto K10 VXI,2015,40000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
+Hyundai Creta 1.6 CRDi SX,2016,58000,Diesel,Individual,Manual,Rent,19.67,1582.0,126.2,5.0,Hyundai
+Ford Freestyle Titanium Petrol BSIV,2018,19100,Petrol,Individual,Manual,First Owner,19.0,1194.0,94.68,5.0,Ford
+Maruti Ertiga ZXI Plus Petrol,2018,25000,Petrol,Individual,Manual,First Owner,19.34,1462.0,103.0,7.0,Maruti

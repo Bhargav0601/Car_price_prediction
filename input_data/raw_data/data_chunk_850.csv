@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero 2011-2019 ZLX,2012,50000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Swift VDI BSIV,2014,50000,Electric,Individual,Manual,First Owner,,,,,Maruti
+Maruti Alto 800 LXI Airbag,2015,70000,Petrol,Individual,Manual,First Owner,22.74,,47.3,5.0,Maruti
+Chevrolet Enjoy 1.3 TCDi LS 8,2016,80000,Diesel,Individual,Manual,First Owner,18.2,1248.0,73.74,8.0,Chevrolet
+Tata Tiago 1.2 Revotron XZ,2018,25000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Mahindra Scorpio S5 BSIV,2019,60000,Diesel,Individual,Manual,First Owner,16.36,2179.0,120.0,7.0,Mahindra
+Maruti Alto 800 LXI Optional,2017,25000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Maruti Alto 800 VXI Optional,2018,50000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Tata Nexon 1.5 Revotorq XZ Plus Dual Tone,2018,14000,Diesel,Individual,Manual,First Owner,21.5,,108.5,5.0,Tata

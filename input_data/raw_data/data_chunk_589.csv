@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VXI Deca,2016,50000,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti
+Ford EcoSport 1.5 TDCi Ambiente BSIV,2017,40000,Diesel,Individual,Manual,Fourth & Above Owner,22.77,1498.0,98.59,5.0,Ford
+Tata Tiago 1.2 Revotron XM Option,2017,30000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Chevrolet Beat LT,2016,30000,Petrol,Individual,Manual,First Owner,18.6,1199.0,76.8,5.0,Chevrolet
+Maruti Swift Dzire VXi,2009,35000,Petrol,Individual,Manual,First Owner,17.5,1298.0,85.8,5.0,Maruti
+Renault Duster Petrol RXS CVT,2018,30000,Petrol,Individual,Automatic,First Owner,14.99,1498.0,104.5,5.0,Renault
+Maruti Wagon R VXI Minor,2010,60000,Petrol,Individual,Manual,First Owner,18.9,1061.0,67.0,5.0,Maruti
+Hyundai Verna 1.6 VTVT S,2017,39000,Petrol,Individual,Manual,First Owner,17.01,1591.0,121.3,5.0,Hyundai
+Renault KWID 1.0 RXT Optional,2,15000,Petrol,Individual,Manual,Rent,23.01,999.0,67.0,5.0,Renault

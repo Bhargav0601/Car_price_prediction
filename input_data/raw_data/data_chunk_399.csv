@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Etios VXD,2011,100000,Diesel,Individual,Manual,Second Owner,23.59,1364.0,67.1,5.0,Toyota
+Ford Figo Diesel Titanium,2011,78562,Diesel,Dealer,Manual,Rent,20.0,1399.0,68.0,5.0,Ford
+Hyundai Verna 1.6 SX,2011,96000,Diesel,Individual,Manual,Rent,22.32,1582.0,126.32,5.0,Hyundai
+Hyundai Verna 1.6 SX,2011,96000,Diesel,Individual,Manual,Rent,22.32,1582.0,126.32,5.0,Hyundai
+Maruti 800 EX BSII,2003,36088,Petrol,Individual,Ai,First Owner,16.1,796.0,37.0,4.0,Maruti
+Hyundai i20 Sportz 1.4 CRDi,2014,50000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Toyota Etios Liva GD SP,2012,100000,Diesel,Individual,Manual,First Owner,,,,,Toyota
+Maruti S-Cross 2017-2020 Alpha DDiS 200 SH,2018,40000,Diesel,Individual,Manual,First Owner,25.1,1248.0,88.5,5.0,Maruti
+Datsun GO T Option,2020,10000,Petrol,Individual,Manual,First Owner,19.02,1198.0,67.05,5.0,Datsun

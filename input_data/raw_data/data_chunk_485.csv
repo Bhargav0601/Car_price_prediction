@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ritz VDi,2010,120000,Diesel,Individual,Manual,First Owner,21.1,1248.0,73.9,5.0,Maruti
+Hyundai Santro LE,2002,184000,Petrol,Individual,Manual,Second Owner,,,,,Hyundai
+Maruti Swift Dzire AMT ZXI Plus,2019,6500,Petrol,Individual,Automatic,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Maruti Gypsy King ST BSIII,2010,80000,Petrol,Individual,Manual,First Owner,11.96,1298.0,80.0,8.0,Maruti
+Mahindra Scorpio VLS 2.2 mHawk,2008,100000,Diesel,Partnership,Manual,Rent,12.05,2179.0,120.0,7.0,Mahindra
+Toyota Etios VD,2015,120000,Diesel,Individual,Manual,Second Owner,23.59,1364.0,67.05,5.0,Toyota
+Hyundai EON Era Plus,2012,120000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Opel Astra 1.6,1998,110000,Petrol,Individual,Manual,Third Owner,13.1,1598.0,77.0,5.0,Opel
+Skoda Octavia Classic 1.9 TDI MT,2006,150000,Diesel,Individual,Manual,Third Owner,18.7,1896.0,66.0,5.0,Skoda

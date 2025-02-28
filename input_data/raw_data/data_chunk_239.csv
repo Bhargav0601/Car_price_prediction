@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R VXI Minor,2010,80000,Petrol,Individual,Manual,Second Owner,18.9,1061.0,67.0,5.0,Maruti
+Hyundai Xcent 1.1 CRDi SX,2016,35000,Diesel,Individual,Manual,First Owner,24.4,1120.0,71.0,5.0,Hyundai
+Chevrolet Beat LT,2015,23500,Petrol,Individual,Manual,First Owner,18.6,1199.0,76.8,5.0,Chevrolet
+Honda City i-DTEC VX,2017,82000,Electric,Individual,Manual,First Owner,25.6,1498.0,97.9,5.0,Honda
+Toyota Innova 2.5 G (Diesel) 8 Seater,2014,100000,Diesel,Individual,Ai,Rent,12.99,2494.0,100.6,8.0,Toyota
+Hyundai i20 1.2 Spotz,2018,15000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Maruti Baleno Zeta 1.3,2017,30000,Electric,Individual,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti
+Hyundai Grand i10 Sportz,2016,30000,Petrol,Individual,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Maruti Celerio X ZXI BSIV,2019,11000,Petrol,Individual,Ai,First Owner,21.63,998.0,67.0,5.0,Maruti

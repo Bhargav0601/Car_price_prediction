@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R AMT VXI,2015,20000,Petrol,Individual,Automatic,First Owner,20.51,998.0,67.0,5.0,Maruti
+Hyundai Santro Xing XG AT eRLX Euro II,2004,90000,Petrol,Individual,Automatic,Second Owner,,,,,Hyundai
+Fiat Grande Punto 1.3 Dynamic (Diesel),2011,60000,Diesel,Individual,Manual,First Owner,20.3,1248.0,75.0,5.0,Grande
+Mahindra Scorpio M2DI,2011,475000,Diesel,Individual,Manual,Third Owner,13.5,2179.0,115.0,7 seats,Mahindra
+Maruti Wagon R LX BSIII,2009,70000,Petrol,Individual,Manual,Second Owner,17.3,1061.0,64.0,5.0,Maruti
+Maruti Wagon R VXI BS IV,2015,40000,Petrol,Individual,Manual,Second Owner,20.51,998.0,67.04,5.0,Maruti
+Maruti Swift Dzire VDI,2017,34000,Diesel,Individual,Manual,Second Owner,28.4,1248.0,74.02,5.0,Maruti
+Mahindra XUV500 W6 2WD,2014,120000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Tata Tigor 1.2 Revotron XZ,2018,10000,Petrol,Individual,Manual,First Owner,20.3,1199.0,84.0,,Tata

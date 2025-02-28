@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Santro Xing GL Plus,3,80000,Petrol,Individual,Manual,Rent,17.92,1086.0,62.1,5.0,Hyundai
+Maruti 800 DX,1998,100000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Ford Ikon 1.3 Flair,2005,90000,Petrol,Individual,Manual,Second Owner,13.8,1299.0,70.0,5.0,Ford
+Toyota Innova 2.5 G (Diesel) 7 Seater,2012,246000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.0,7.0,Toyota
+Maruti Baleno Sigma 1.2,2019,10000,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Tata Indigo CS LS (TDI) BS-III,2016,90000,Diesel,Individual,Manual,First Owner,19.09,1405.0,69.01,5.0,Tata
+Tata Tigor 2017-2020 XZ Plus,2019,5200,Petrol,Individual,Manual,First Owner,20.3,1199.0,83.81,5.0,Tata
+Maruti Zen LX - BS III,2006,120000,Petrol,Individual,Manual,Second Owner,17.3,993.0,60.0,5.0,Maruti
+Maruti Swift VDI,2013,90000,Diesel,Individual,Manual,Second Owner,22.9,1248.0,74.0,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 Active 1.4 SX,2016,80000,Diesel,Individual,Manual,First Owner,21.19,1396.0,88.73,5.0,Hyundai
+Honda City S,2011,110000,Petrol,Individual,Manual,Third Owner,16.8,1497.0,116.4,5.0,Honda
+Ford Figo Aspire 1.2 Ti-VCT Titanium,2018,25000,Petrol,Individual,Manual,First Owner,18.16,1196.0,86.8,5.0,Ford
+Honda Mobilio RS Option i DTEC,1,46000,Diesel,Individual,Manual,First Owner,24.5,1498.0,98.6,7.0,Honda
+Hyundai Santro Magna,2020,1000,Petrol,Individual,Manual,First Owner,20.3,1086.0,68.07,5.0,Hyundai
+Maruti 800 AC BSII,2007,60000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Renault Lodgy 85PS RxZ,2015,80000,Diesel,Individual,Manual,First Owner,21.04,1461.0,83.8,8.0,Renault
+Jeep Compass 2.0 Limited,2017,120000,Diesel,Individual,Manual,First Owner,17.1,1956.0,170.0,5.0,Jeep
+Tata Indica V2 1.2 GLE BSIII,2013,110000,Petrol,Individual,Manual,Second Owner,15.3,1193.0,65.3,5.0,Tata

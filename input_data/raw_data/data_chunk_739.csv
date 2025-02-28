@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Santro Xing GL CNG,2011,120000,CNG,Individual,Manual,Fourth & Above Owner,,,,,Hyundai
+Maruti Wagon R LX Minor,2010,120000,Petrol,Individual,Manual,Third Owner,18.9,1061.0,67.0,5.0,Maruti
+Mahindra XUV500 W6 2WD,2015,90000,Diesel,Individual,Manual,First Owner,16.0,2179.0,140.0,7.0,Mahindra
+Hyundai i20 1.2 Asta Option,2018,30000,Petrol,Individual,Ai,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Maruti Celerio ZXI Optional AMT BSIV,2018,30000,Petrol,Individual,Automatic,Second Owner,23.1,998.0,67.04,5.0,Maruti
+Hyundai Grand i10 Magna,2016,56000,Petrol,Individual,Manual,Third Owner,18.9,1197.0,82.0,5.0,Hyundai
+Toyota Innova 2.5 VX (Diesel) 8 Seater,2015,90000,Diesel,Individual,Manual,First Owner,12.99,2494.0,100.6,8.0,Toyota
+Mahindra TUV 300 T8,2015,120000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Maruti Swift VDI BSIV,2015,60000,Electric,Individual,Manual,First Owner,25.2,1248.0,74.0,5.0,Maruti

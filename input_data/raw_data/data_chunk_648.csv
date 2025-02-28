@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City 2017-2020 GXi,2008,120000,Petrol,Individual,Manual,Second Owner,17.7,1497.0,78.0,5.0,Honda
+Maruti Swift Dzire LDI,2013,185000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Mahindra XUV500 AT W6 2WD,2016,75000,Diesel,Individual,Automatic,Third Owner,16.0,2179.0,140.0,7.0,Mahindra
+Hyundai Grand i10 CRDi Magna,2015,80000,Diesel,Individual,Manual,Third Owner,24.0,1120.0,70.0,5.0,Hyundai
+Isuzu D-Max V-Cross Z Prestige,2019,30000,Diesel,Individual,Automatic,First Owner,12.4,1999.0,147.9,5.0,Isuzu
+Tata Nexon 1.2 Revotron XM,2020,5000,Petrol,Individual,Manual,First Owner,17.0,1198.0,108.5,5.0,Tata
+Volkswagen Polo 2015-2019 1.0 MPI Comfortline,2019,10000,Petrol,Individual,Ai,First Owner,18.78,999.0,75.0,5.0,Volkswagen
+Hyundai Santro LP - Euro II,2002,60000,Petrol,Individual,Manual,First Owner,,,,,Hyundai
+Maruti Ertiga VDI,2012,140000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.76,7.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R VXI BS IV,2015,5000,Petrol,Individual,Manual,First Owner,1 kmpl,998.0,67.04,5.0,Maruti
+Maruti Swift VXI Optional,2017,30000,Petrol,Individual,Manual,First Owner,20.4,1197.0,81.8,5.0,Maruti
+Hyundai EON D Lite Plus,2015,40000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Renault Duster 110PS Diesel RxZ,2015,60000,Diesel,Individual,Manual,First Owner,19.01,1461.0,108.45,5.0,Renault
+Honda City 2017-2020 GXi,9,70000,Petrol,Individual,Manual,Third Owner,17.7,1497.0,78.0,5.0,Honda
+Tata Tigor 1.2 Revotron XT,2019,15000,Petrol,Individual,Manual,First Owner,20.3,1199.0,84.0,5.0,Tata
+Maruti Swift Dzire ZDi,5,110000,Diesel,Individual,Manual,Second Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti 800 AC,2000,70000,Petrol,Individual,Manual,Fourth & Above Owner,16.1,796.0,37.0,4.0,Maruti
+Honda Amaze VX Diesel BSIV,2019,10000,Diesel,Individual,Manual,First Owner,27.4,1498.0,98.63,5.0,Honda

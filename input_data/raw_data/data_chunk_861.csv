@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Fortuner 4x2 Manual,2014,150000,Diesel,Individual,Manual,First Owner,13.0,2982.0,168.5,7.0,Toyota
+Maruti Celerio VXI AT,2014,65204,Petrol,Trustmark Dealer,Ai,First Owner,23.1,998.0,67.04,5.0,Maruti
+Hyundai Venue SX Plus Dual Tone Turbo DCT,2019,2286,Petrol,Trustmark Dealer,Automatic,First Owner,18.15,998.0,118.35,5.0,Hyundai
+Maruti Swift AMT ZXI,2018,15732,Petrol,Dealer,Automatic,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Mahindra Thar DI 4X4,2019,13000,Diesel,Dealer,Manual,First Owner,18.06,2523.0,63.0,7.0,Mahindra
+Maruti Ignis 1.2 Zeta BSIV,2018,33000,Petrol,Dealer,Manual,First Owner,20.89,1197.0,81.8,,Maruti
+Hyundai i10 Magna 1.1L,2014,100000,Electric,Individual,Manual,First Owner,19.81,1086.0,68.05,5.0,Hyundai
+BMW 3 Series 320d GT Luxury Line,2017,39000,Diesel,Partnership,Automatic,First Owner,19.59,1995.0,187.74,5.0,BMW
+BMW 5 Series 520d Luxury Line,2019,10000,Diesel,Dealer,Automatic,First Owner,28 kmpl,1995.0,190.0,5.0,BMW

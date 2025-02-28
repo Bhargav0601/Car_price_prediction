@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Nissan Micra Diesel XV,2011,45000,Diesel,Individual,Manual,First Owner,32 kmpl,1461.0,63.1,5.0,Nissan
+Maruti Wagon R LXI,2005,90000,Petrol,Individual,Manual,Second Owner,18.9,998.0,67.1,5.0,Maruti
+Ford Figo Diesel Titanium,2010,90000,Diesel,Individual,Manual,Second Owner,20.0,1399.0,68.0,5.0,Ford
+Mahindra XUV300 W8 Option BSIV,2019,16500,Petrol,Dealer,Manual,First Owner,17.0,1197.0,110.0,5.0,Mahindra
+Hyundai Creta 1.6 CRDi AT SX Plus,2017,67000,Diesel,Individual,Ai,First Owner,17.01,1582.0,126.2,5.0,Hyundai
+Maruti Swift VXI BSIV,2018,52000,Petrol,Dealer,Manual,Rent,22.0,1197.0,81.8,5.0,Maruti
+Datsun GO T Option BSIV,2016,40000,Petrol,Dealer,Manual,First Owner,20.63,1198.0,67.0,,Datsun
+Hyundai Grand i10 Asta,2015,40000,Petrol,Dealer,Manual,First Owner,18.9,1197.0,82.0,5.0,Hyundai
+Toyota Fortuner 2.8 2WD MT BSIV,2018,35000,Diesel,Individual,Manual,Rent,14.24,2755.0,174.5,7.0,Toyota

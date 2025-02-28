@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R VXI Minor,2011,80000,Petrol,Individual,Ai,First Owner,18.9,998.0,67.1,5.0,Maruti
+Ford Figo 1.5D Base MT,2015,110000,Diesel,Individual,Manual,Second Owner,25.83,4518 CC,99.0,5.0,Ford
+Tata Indigo CR4,2012,230000,Diesel,Individual,Manual,First Owner,23.57,1396.0,70.0,5.0,Tata
+Tata Indica V2 DLE BSIII,2011,172000,Diesel,Individual,Manual,Second Owner,17.88,1396.0,52.8,5.0,Tata
+Hyundai i20 Magna 1.2,2014,25000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Ford EcoSport 1.5 Diesel Trend BSIV,2019,35000,Diesel,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Mahindra Scorpio 2009-2014 SLE 7S BSIV,2014,126000,Diesel,Individual,Manual,First Owner,12.05,2179.0,120.0,7.0,Mahindra
+Honda WR-V i-DTEC VX,2018,30000,Diesel,Individual,Manual,First Owner,25.5,1498.0,98.6,5.0,Honda
+Hyundai i10 Era,2011,97000,Petrol,Individual,Manual,Third Owner,19.81,1086.0,68.05,5.0,Hyundai

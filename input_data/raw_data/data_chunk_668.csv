@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Polo GT TSI,2013,54327,Petrol,Dealer,Automatic,Second Owner,17.2,1197.0,103.6,5.0,Volkswagen
+Volkswagen Ameo 1.2 MPI Highline,2016,7949,Petrol,Dealer,Manual,First Owner,17.0,1198.0,73.75,5.0,Volkswagen
+Hyundai i10 Sportz 1.2 AT,2010,59734,Petrol,Dealer,Ai,First Owner,16.95,1197.0,78.9,5.0,Hyundai
+Honda City S,2012,49185,Petrol,Dealer,Manual,First Owner,16.8,1497.0,116.4,5.0,Honda
+Hyundai i10 Magna,2011,56389,Petrol,Dealer,Manual,First Owner,20.36,1197.0,78.9,5.0,Hyundai
+Volkswagen Polo Petrol Highline 1.2L,2013,58245,Petrol,Dealer,Manual,Rent,16.47,1198.0,73.9,5.0,Volkswagen
+Nissan Micra XL Optional,2015,36422,Petrol,Dealer,Manual,First Owner,18.44,1198.0,75.0,5.0,Nissan
+Honda Jazz Basic,2011,42535,Petrol,Dealer,Manual,First Owner,16.7,1198.0,88.8,5.0,Honda
+Hyundai i10 Sportz AT,6,40736,Petrol,Dealer,Automatic,First Owner,16.95,1197.0,78.9,5.0,Hyundai

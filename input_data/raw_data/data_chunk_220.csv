@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Innova Crysta 2.8 GX AT 8S BSIV,2018,20000,Diesel,Dealer,Automatic,First Owner,11.36,2755.0,171.5,8.0,Toyota
+Hyundai Santro Asta BSIV,2018,7000,Petrol,Dealer,Manual,First Owner,20.3,1086.0,68.0,5.0,Hyundai
+Force Gurkha Hard Top BS3 4WD,2018,20000,Diesel,Dealer,Ai,First Owner,17.0,2596.0,80.8,5.0,Force
+Maruti Celerio VXI,2019,4875,Petrol,Dealer,Manual,First Owner,21.63,998.0,67.04,5.0,Maruti
+Hyundai Creta 1.6 CRDi AT SX Plus,2020,2700,Diesel,Dealer,Automatic,First Owner,17.01,1582.0,126.2,5.0,Hyundai
+Maruti Vitara Brezza ZDi,2018,58511,Diesel,Dealer,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Ford Figo 1.5D Titanium MT,2015,105000,Diesel,Dealer,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Mahindra Thar CRDe ABS,2018,26235,Diesel,Dealer,Manual,First Owner,16.55,2498.0,105.0,6.0,Mahindra
+Tata Nexon 1.5 Revotorq XZ Plus,2017,26766,Diesel,Dealer,Manual,First Owner,21.5,1497.0,108.5,5.0,Tata

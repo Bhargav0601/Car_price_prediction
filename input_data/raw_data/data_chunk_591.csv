@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift VXI BSIII W/ ABS,2006,102000,Petrol,Individual,Manual,Third Owner,16.1,1298.0,88.2,5.0,Maruti
+Maruti Alto 800 Base,2015,50000,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Toyota Innova Crysta 2.4 VX MT BSIV,2016,110000,Diesel,Individual,Manual,Second Owner,13.68,2393.0,147.8,7.0,Toyota
+Maruti Omni LPG STD BSIV,1991,120000,LPG,Individual,Manual,Second Owner,,,,,Maruti
+Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,2009,285000,Diesel,Individual,Manual,Third Owner,12.8,2494.0,102.0,8.0,Toyota
+Honda City i VTEC VX Option,2015,50000,Petrol,Individual,Manual,First Owner,17.4,1497.0,117.3,5.0,Honda
+Maruti Swift VDI BSIV,2014,70000,Diesel,Individual,Manual,Second Owner,25.2,1248.0,74.0,5.0,Swift
+Maruti SX4 VDI,2012,120000,Diesel,Partnership,Manual,Second Owner,21.5,1248.0,88.8,5.0,Maruti
+Hyundai i20 1.4 CRDi Magna,2011,93000,Diesel,Individual,Manual,Second Owner,21.9,1396.0,90.0,5.0,Hyundai

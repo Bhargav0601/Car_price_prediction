@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 Sportz 1.4 CRDi,2014,70000,Diesel,Individual,Manual,Second Owner,22.54,1396.0,88.73,5.0,Hyundai
+Tata Tiago 1.2 Revotron XT,2017,40000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata
+Maruti 800 Std,2002,62000,Petrol,Individual,Manual,First Owner,16.1,796.0,37.0,4.0,Maruti
+Hyundai Verna VTVT 1.6 SX Option,2018,10000,Petrol,Partnership,Manual,First Owner,17.0,1591.0,121.3,5.0,Hyundai
+Honda City i DTEC VX,2014,160000,Diesel,Individual,Manual,First Owner,25.1,1498.0,98.6,5.0,Honda
+Hyundai i20 1.2 Asta,2010,60000,Petrol,Individual,Ai,First Owner,17.0,1197.0,80.0,5.0,Hyundai
+Mahindra Bolero SLE,2009,110000,Diesel,Individual,Ai,First Owner,13.6,2523.0,63.0,7.0,Mahindra
+Maruti Wagon R VXI,2005,60000,Petrol,Individual,Manual,Fourth & Above Owner,18.9,998.0,67.1,5.0,Maruti
+Mahindra Xylo E4 BS III,2014,78000,Diesel,Individual,Manual,First Owner,11.68,2498.0,112.0,7.0,Mahindra

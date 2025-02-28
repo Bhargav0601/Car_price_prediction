@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Vitara Brezza VDi,2017,40000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Mahindra Bolero 2011-2019 ZLX,2013,157000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,7.0,Mahindra
+Mahindra Scorpio S10 7 Seater,2015,90000,Diesel,Individual,Manual,First Owner,15.4,2179.0,120.0,7.0,Mahindra
+Hyundai i10 Magna 1.1L,2011,80000,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Hyundai Santro GLS I - Euro II,2004,90000,Petrol,Individual,Ai,Third Owner,,,,,Hyundai
+Hyundai Santro Xing XG AT eRLX Euro III,2004,80000,Petrol,Partnership,Automatic,Third Owner,,,,,Hyundai
+Toyota Etios Liva GD,2012,80000,Diesel,Individual,Ai,First Owner,,,,,Toyota
+Mahindra Verito 1.5 D4 BSIV,2012,70000,Diesel,Individual,Manual,Second Owner,21.03,1461.0,65.0,5.0,Mahindra
+Chevrolet Spark 1.0 E,2009,50000,Petrol,Partnership,Manual,Second Owner,16.0,995.0,63.0,5.0,Chevrolet

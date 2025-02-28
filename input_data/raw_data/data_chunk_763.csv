@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto K10 VXI,2019,15000,Petrol,Partnership,Manual,First Owner,23.95,998.0,67.05,,Maruti
+Maruti Alto 800 VXI,2020,5000,Petrol,Individual,Manual,First Owner,22.05,796.0,47.3,5.0,Maruti
+Renault KWID RXE,2017,5000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Maruti Alto 800 LX,2013,70000,Petrol,Individual,Manual,Second Owner,22.74,796.0,47.3,5.0,Maruti
+Datsun GO Plus D,2015,60000,Petrol,Individual,Manual,Second Owner,19.44,1198.0,67.0,7.0,Datsun
+Maruti Alto LXi,2007,120000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Alto
+Datsun RediGO 1.0 S,2018,7000,Petrol,Individual,Manual,First Owner,22.5,999.0,67.0,5.0,Datsun
+Mahindra Scorpio 2009-2014 SLE 7S BSIV,2014,120000,Diesel,Partnership,Manual,First Owner,12.05,2179.0,120.0,7.0,Mahindra
+Mahindra Scorpio 2009-2014 SLE 7S BSIII,2014,145241,Diesel,Individual,Ai,First Owner,12.05,2179.0,120.0,7.0,Mahindra

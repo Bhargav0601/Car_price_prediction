@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Chevrolet Beat LT,2015,50000,Petrol,Individual,Manual,First Owner,18.6,1199.0,76.8,5.0,Chevrolet
+Tata Tiago 1.2 Revotron XZ,10,42000,Petrol,Individual,Manual,Rent,23.84,1199.0,84.0,5.0,Tata
+Chevrolet Sail 1.2 LS ABS,2016,30000,Electric,Individual,Manual,Rent,18.2,1199.0,82.4,5.0,Chevrolet
+Maruti Alto LXi BSIII,2009,60000,Petrol,Individual,Manual,Third Owner,19.7,796.0,46.3,5.0,Maruti
+Jeep Compass 2.0 Longitude Option BSIV,2018,14000,Diesel,Partnership,Manual,First Owner,17.1,1956.0,170.0,5.0,Jeep
+Honda City i VTEC VX,2015,22000,Petrol,Individual,Manual,First Owner,17.4,1497.0,117.3,5.0,Honda
+Volkswagen Vento Diesel Highline,2012,90000,Diesel,Individual,Manual,First Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Maruti Alto K10 2010-2014 VXI,2011,46000,Petrol,Individual,Manual,First Owner,20.92,998.0,67.1,5.0,Maruti
+Hyundai i20 1.2 Asta Option,2018,20000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai

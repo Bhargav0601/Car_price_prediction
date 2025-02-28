@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Fiat Linea Classic 1.3 Multijet,2014,185000,Diesel,Individual,Manual,Third Owner,19.5,1248.0,75.0,5.0,Fiat
+Volkswagen Polo Diesel Highline 1.2L,2011,134000,Diesel,Individual,Manual,Second Owner,22.07,1199.0,73.9,5.0,Volkswagen
+Ford Figo Diesel ZXI,2014,120000,Diesel,Individual,Manual,Third Owner,20.0,1399.0,68.05,5.0,Ford
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2018,120000,Petrol,Individual,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai
+Mahindra XUV500 W6 2WD,2014,165000,Diesel,Individual,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra
+Maruti Ritz LDi,2016,120000,Diesel,Individual,Manual,Third Owner,23.2,1248.0,73.94,5.0,Ritz
+Hyundai i20 1.4 CRDi Sportz,2011,89000,Diesel,Individual,Manual,First Owner,23.0,1396.0,90.0,5.0,Hyundai
+Mahindra Renault Logan 1.5 DLE Diesel,2009,120000,Diesel,Individual,Manual,Third Owner,19.2,1461.0,65.0,5.0,Mahindra
+Hyundai Elantra GLS,2006,120000,Petrol,Individual,Automatic,First Owner,13.1,1795.0,127.0,5.0,Hyundai

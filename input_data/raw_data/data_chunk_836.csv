@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mitsubishi Lancer 2.0 LXd,3,280000,Diesel,Individual,Manual,Second Owner,14.8,1998.0,68.0,5.0,Mitsubishi
+Volkswagen Vento Diesel Highline,2013,155000,Diesel,Individual,Manual,Rent,20.54,1598.0,103.6,5.0,Volkswagen
+Ford Fiesta 1.4 SXi TDCi ABS,2010,163000,Diesel,Individual,Manual,First Owner,17.8,1399.0,68.0,5.0,Ford
+Honda City 2017-2020 GXi,2008,75000,Petrol,Individual,Manual,First Owner,17.7,1497.0,78.0,5.0,City
+Maruti Estilo LXI,2008,56000,Petrol,Individual,Manual,Third Owner,,,,,Maruti
+Honda City i DTec E,2016,80000,Diesel,Individual,Manual,First Owner,26.0,1498.0,98.6,5.0,Honda
+Honda City i DTEC V,2014,120000,Diesel,Individual,Manual,Second Owner,26.0,1498.0,98.6,5.0,Honda
+Tata Indica V2 DLE BSIII,2007,120000,Diesel,Individual,Manual,Third Owner,17.88,1396.0,52.8,5.0,Tata
+Skoda Octavia Ambiente 1.9 TDI MT,2007,175000,Diesel,Individual,Manual,Second Owner,18.7,1896.0,66.0,5.0,Skoda

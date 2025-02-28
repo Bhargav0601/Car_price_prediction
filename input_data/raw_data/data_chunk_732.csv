@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+BMW X4 M Sport X xDrive20d,2019,8500,Diesel,Dealer,Automatic,First Owner,16.78,1995.0,190.0,5.0,BMW
+Honda Amaze V CVT Petrol BSIV,2019,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0,1199.0,88.76,5.0,Honda
+Skoda Rapid 1.6 MPI AT Elegance,2016,11000,Petrol,Dealer,Automatic,First Owner,14.3,1598.0,103.5,5.0,Skoda
+Volvo V40 D3 R-Design,2018,2000,Diesel,Dealer,Automatic,First Owner,16.8,1984.0,150.0,5.0,Volvo
+Maruti Swift Dzire LDI,2019,70000,Diesel,Individual,Ai,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Hyundai Santro Xing GLS,2010,56000,Petrol,Individual,Manual,Third Owner,17.92,1086.0,62.1,5.0,Hyundai
+Hyundai i20 Sportz 1.4 CRDi,2012,80000,Diesel,Individual,Manual,Second Owner,21.9,1396.0,88.76,5.0,Hyundai
+Hyundai Santro Magna BSIV,2019,5000,Petrol,Individual,Manual,First Owner,20.3,1086.0,68.0,5.0,Santro
+Mahindra XUV500 W8 4WD,2012,100000,Diesel,Individual,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra

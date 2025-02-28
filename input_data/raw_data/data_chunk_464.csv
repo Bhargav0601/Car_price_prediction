@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Volkswagen Polo Diesel Trendline 1.2L,2010,80000,Diesel,Individual,Manual,Fourth & Above Owner,22.07,1199.0,73.9,5.0,Volkswagen
+Mahindra Bolero 2011-2019 ZLX,2013,146000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti 800 AC BSIII,2013,47200,Petrol,Individual,Manual,Third Owner,Unknown,796.0,37.0,4.0,Maruti
+Mahindra XUV500 W11 Option BSIV,2018,60000,Diesel,Individual,Manual,First Owner,15.1,2179.0,152.87,7.0,Mahindra
+Mahindra XUV500 W11 Option BSIV,2018,60000,Electric,Individual,Manual,First Owner,15.1,2179.0,152.87,7.0,Mahindra
+Tata Indica GLS BS IV,2007,100000,Petrol,Individual,Manual,Second Owner,15.3,1193.0,65.3,5.0,Tata
+Chevrolet Tavera B1-10 seats BSII,2010,100000,Diesel,Individual,Manual,Second Owner,14.8,2499.0,80.0,10.0,Chevrolet
+Hyundai i20 Magna 1.2,2015,35000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Tata Sumo CX,2012,120000,Diesel,Individual,Manual,Fourth & Above Owner,15.3,2956.0,83.8,7.0,Tata

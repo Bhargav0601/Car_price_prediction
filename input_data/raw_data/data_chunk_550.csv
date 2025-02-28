@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Audi A6 35 TFSI Matrix,2019,7800,Petrol,Dealer,Automatic,Test Drive Car,15.26,1798.0,187.74,5.0,Audi
+Audi A6 35 TFSI Matrix,2019,11500,Petrol,Dealer,Automatic,Test Drive Car,15.26,1798.0,187.74,5.0,A6
+Audi A6 35 TFSI Matrix,2019,23600,Petrol,Dealer,Automatic,Test Drive Car,15.26,1798.0,187.74,5.0,A6
+Toyota Fortuner 3.0 Diesel,2010,220000,Diesel,Individual,Manual,Second Owner,11.5,2982.0,171.0,7.0,Toyota
+Toyota Qualis GS C1,2004,218000,Diesel,Individual,Manual,Second Owner,,,,,Toyota
+Mahindra XUV500 W8 4WD,2015,120000,Diesel,Individual,Manual,Second Owner,15.1,2179.0,140.0,7.0,Mahindra
+Maruti Baleno Alpha Automatic,2018,25000,Petrol,Individual,Automatic,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Maruti Swift VDI BSIV,2015,31000,Diesel,Individual,Manual,Second Owner,25.2,1248.0,74.0,5.0,Maruti
+Maruti Baleno Sigma 1.2,2017,42000,Petrol,Individual,Manual,First Owner,21.4,1197.0,83.1,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i20 2015-2017 Asta 1.4 CRDi,2016,77000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Hyundai Verna 1.4 CRDi,2014,110000,Diesel,Individual,Manual,Second Owner,24.8,1396.0,88.7,5.0,Hyundai
+Ford Fiesta EXi 1.4 TDCi Ltd,2011,120000,Diesel,Individual,Manual,Second Owner,17.8,1399.0,68.0,5.0,Ford
+Hyundai Santro Xing GLS CNG,2011,170000,CNG,Partnership,Manual,First Owner,11.88,1086.0,62.1,5.0,Hyundai
+Hyundai Verna 1.6 SX,2012,100000,Diesel,Individual,Manual,Second Owner,22.32,1582.0,126.32,5.0,Hyundai
+Chevrolet Spark 1.0 LT,2007,40000,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,5.0,Chevrolet
+Tata Indica V2 DL BSIII,2007,50000,Diesel,Individual,Manual,First Owner,17.88,1396.0,52.8,5.0,Tata
+Toyota Etios GD,2015,125000,Diesel,Individual,Manual,First Owner,23.59,1364.0,67.05,5.0,Toyota
+Maruti Wagon R LXI CNG,2011,137000,CNG,Individual,Manual,First Owner,26.2,998.0,58.2,5.0,Maruti

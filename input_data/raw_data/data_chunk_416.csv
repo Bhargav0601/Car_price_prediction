@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ritz LXi,2016,82000,Petrol,Individual,Manual,Third Owner,18.5,1197.0,85.8,5.0,Maruti
+Maruti Ertiga VDI,2012,87000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.76,7.0,Maruti
+Maruti Alto K10 VXI,2015,80000,Petrol,Individual,Manual,Second Owner,23.95,998.0,67.05,5.0,Maruti
+Renault Duster 110PS Diesel RxZ,2012,110000,Diesel,Individual,Manual,Third Owner,19.01,1461.0,108.45,5.0,Renault
+Tata Manza Aura (ABS) Quadrajet BS IV,2011,148000,Diesel,Individual,Manual,Second Owner,21.12,1248.0,88.8,5.0,Tata
+Mahindra Scorpio S11 BSIV,2018,40000,Diesel,Individual,Manual,First Owner,16.36,2179.0,140.0,7.0,Mahindra
+Hyundai Accent Executive,2011,70000,Petrol,Individual,Manual,First Owner,16.36,1495.0,93.7,5.0,Accent
+Hyundai Santro Xing GLS LPG,2012,70000,LPG,Partnership,Manual,Second Owner,13.45,1086.0,62.1,5.0,Hyundai
+Maruti 800 AC,2008,40000,Petrol,Partnership,Manual,Second Owner,16.1,796.0,37.0,4.0,800

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto 800 LXI,2020,5000,Petrol,Individual,Manual,First Owner,22.05,796.0,47.3,5.0,Maruti
+Mahindra KUV 100 mFALCON G80 K8 5str AW,2017,59000,Petrol,Individual,Manual,First Owner,18.15,1198.0,82.0,5.0,Mahindra
+Chevrolet Enjoy TCDi LTZ 7 Seater,2013,100000,Diesel,Individual,Manual,Third Owner,Unknown,1248.0,73.8,7.0,Chevrolet
+Hyundai Sonata 2.4L AT,2008,50000,Petrol,Individual,Automatic,First Owner,11.0,2359.0,165.0,5.0,Hyundai
+Renault KWID RXT,2016,45000,Petrol,Individual,Manual,Second Owner,25.17,799.0,53.3,5.0,Renault
+Maruti Swift Dzire VDi,2010,80000,Diesel,Individual,Manual,Fourth & Above Owner,19.3,1248.0,73.9,5.0,Maruti
+Maruti Wagon R LXI Minor,2008,80000,Petrol,Individual,Manual,Fourth & Above Owner,18.9,1061.0,67.0,5.0,Wagon
+Maruti Vitara Brezza ZDi Plus,2016,100000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Ertiga VDI,2014,110000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.76,7.0,Maruti

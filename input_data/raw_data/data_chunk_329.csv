@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Thar DI 4X4 PS,2016,60000,Diesel,Individual,Manual,First Owner,18.06,2523.0,63.0,7.0,Mahindra
+Skoda Fabia 1.2 TDI Ambition Plus,2012,70000,Diesel,Individual,Manual,Third Owner,20.86,1199.0,75.0,5.0,Skoda
+Maruti Swift AMT VXI,2020,1000,Petrol,Individual,Automatic,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Skoda Rapid 1.6 MPI AT Ambition BSIV,2019,10000,Petrol,Individual,Automatic,First Owner,14.84,1598.0,103.2,5.0,Skoda
+Ford Fiesta 1.6 ZXi ABS,9,47000,Petrol,Individual,Manual,First Owner,15.3,1596.0,101.0,5.0,Ford
+Maruti Swift VXI,2019,18000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Maruti Swift Dzire VXI,2016,60000,Petrol,Individual,Manual,First Owner,20.85,1197.0,83.14,5.0,Maruti
+Renault KWID 1.0 RXL,2018,20000,Petrol,Individual,Manual,First Owner,23.01,999.0,67.0,5.0,Renault
+Ford Figo 1.2P Titanium MT,2017,60000,Petrol,Individual,Manual,First Owner,18.16,1196.0,86.8,5.0,Ford

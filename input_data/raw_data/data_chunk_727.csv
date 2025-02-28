@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Aspire Titanium,2015,18000,Petrol,Partnership,Manual,Second Owner,18.5,1194.0,94.93,5.0,Ford
+Mahindra Verito 1.5 D2 BSIII,2011,218000,Diesel,Individual,Manual,First Owner,21.0,1461.0,64.1,5.0,Mahindra
+Hyundai i20 2015-2017 Magna 1.4 CRDi,2016,10000,Diesel,Individual,Manual,First Owner,22.54,1396.0,88.73,5.0,Hyundai
+Maruti Swift VDi BSIII W/ ABS,2010,80000,Diesel,Individual,Manual,First Owner,17.8,1248.0,75.0,5.0,Maruti
+Mahindra Verito 1.5 D2 BSIII,2011,215000,Diesel,Partnership,Ai,First Owner,21.0,1461.0,64.1,5.0,Mahindra
+Ford Fiesta Classic 1.4 Duratorq CLXI,2012,137000,Diesel,Partnership,Manual,First Owner,17.8,1399.0,67.0,5.0,Ford
+Volkswagen Vento Diesel Highline,2011,65000,Diesel,Individual,Manual,Second Owner,20.54,1598.0,103.6,5.0,Volkswagen
+Honda City 2017-2020 GXi,1,120000,Petrol,Individual,Manual,Third Owner,17.7,1497.0,78.0,5.0,Honda
+Maruti Celerio VXI AT,2017,10000,Petrol,Individual,Automatic,First Owner,23.1,998.0,67.04,5.0,Maruti

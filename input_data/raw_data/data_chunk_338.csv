@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai i10 Sportz 1.1L LPG,2015,60000,LPG,Individual,Manual,First Owner,19.2,1086.0,68.05,5.0,Hyundai
+Tata Safari DICOR 2.2 EX 4x2,2015,60000,Diesel,Individual,Manual,First Owner,13.93,2179.0,138.03,,Tata
+Maruti Swift VDI,2013,76000,Diesel,Individual,Manual,Second Owner,22.9,1248.0,74.0,5.0,Maruti
+Maruti Ritz VDi,2012,70000,Diesel,Individual,Manual,First Owner,23.2,1248.0,73.94,5.0,Ritz
+Maruti 800 DX,1998,80000,Petrol,Individual,Manual,Fourth & Above Owner,15 kmpl,796.0,37.0,4.0,Maruti
+Toyota Innova 2.5 G4 Diesel 8-seater,2010,210000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,8.0,Toyota
+Mahindra Bolero Power Plus Plus AC BSIV PS,2015,128000,Diesel,Individual,Manual,Third Owner,15.96,2523.0,63.0,9.0,Mahindra
+Renault Triber RXZ BSIV,2019,5000,Petrol,Individual,Manual,First Owner,20.0,999.0,72.0,7.0,Renault
+Maruti Wagon R LXI LPG BSIV,2011,70000,LPG,Individual,Manual,First Owner,26.2,998.0,58.2,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i DTEC VX,2014,200000,Diesel,Individual,Manual,First Owner,25.1,1498.0,98.6,5.0,Honda
+Hyundai i20 2015-2017 Asta Option 1.2,2016,29000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Maruti Wagon R LXI DUO BSIII,2007,90000,LPG,Individual,Manual,Second Owner,17.3,1061.0,57.5,5.0,Maruti
+Mahindra Renault Logan 1.5 Diesel DLSX,2009,176000,Diesel,Individual,Manual,Second Owner,17.0,1461.0,66.0,5.0,Mahindra
+Tata Indigo CS LX (TDI) BS III,2013,150000,Diesel,Individual,Manual,First Owner,19.09,1396.0,69.0,5.0,Tata
+Maruti Omni E MPI STD BS IV,2016,90000,Petrol,Individual,Manual,First Owner,16.8,796.0,34.2,8.0,Maruti
+Volkswagen Vento 1.6 Highline,2014,70000,Petrol,Individual,Manual,Second Owner,15.04,1598.0,103.2,5.0,Volkswagen
+Mahindra Renault Logan 1.5 DLX Diesel,2007,99000,Diesel,Individual,Ai,Second Owner,19.2,1461.0,65.0,5.0,Mahindra
+Tata Tiago 1.2 Revotron XZ,2018,5000,Petrol,Individual,Manual,First Owner,23.84,1199.0,84.0,5.0,Tata

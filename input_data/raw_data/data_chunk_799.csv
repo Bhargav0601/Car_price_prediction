@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Hyundai Verna 1.4 VTVT,2016,40000,Petrol,Individual,Manual,First Owner,17.43,1396.0,105.5,5.0,Hyundai
+Maruti Wagon R LXI BS IV,2013,108916,Petrol,Individual,Manual,Second Owner,20.51,998.0,67.04,5.0,Maruti
+Hyundai EON Magna Optional,2013,40000,Petrol,Individual,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai
+Hyundai EON Era Plus,2014,80000,Petrol,Individual,Manual,First Owner,21.1,814.0,55.2,5.0,Hyundai
+Honda City i DTec VX,2016,50000,Diesel,Individual,Manual,Second Owner,26.0,1498.0,98.6,5.0,Honda
+Hyundai Santro Xing GL Plus,2012,90000,Petrol,Individual,Manual,Second Owner,17.92,1086.0,62.1,5.0,Hyundai
+Maruti Alto LX,2004,70000,Petrol,Individual,Manual,Fourth & Above Owner,19.7,796.0,46.3,5.0,Maruti
+Hyundai i20 1.4 CRDi Asta,2012,90000,Electric,Individual,Manual,First Owner,23.0,1396.0,90.0,5.0,Hyundai
+Maruti Ritz VDi ABS,2009,70000,Diesel,Individual,Manual,First Owner,21.1,1248.0,73.9,5.0,Maruti

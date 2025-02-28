@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio 1.99 S6 Plus,2015,70000,Diesel,Individual,Manual,First Owner,15.4,1997.0,120.0,7.0,Mahindra
+Mahindra XUV500 W6 2WD,2014,69000,Diesel,Dealer,Manual,First Owner,15.1,2179.0,140.0,7.0,Mahindra
+Maruti S-Cross 2017-2020 Zeta DDiS 200 SH,2018,15000,Diesel,Partnership,Manual,First Owner,25.1,1248.0,88.5,5.0,Maruti
+Maruti Swift Dzire VDI,2,35700,Diesel,Dealer,Manual,First Owner,28.4,1248.0,74.02,4 seats,Maruti
+Hyundai Verna 1.6 SX,2012,120000,Diesel,Individual,Manual,Third Owner,22.32,1582.0,126.32,7 seats,Hyundai
+Volkswagen Polo Diesel Comfortline 1.2L,2013,120000,Diesel,Individual,Manual,First Owner,22.07,1199.0,73.9,5.0,Volkswagen
+Volkswagen Polo Diesel Comfortline 1.2L,2013,80000,Diesel,Individual,Manual,First Owner,22.07,1199.0,73.9,5.0,Volkswagen
+Maruti Alto K10 2010-2014 VXI,2010,120000,Petrol,Individual,Manual,First Owner,20.92,998.0,67.1,5.0,Maruti
+Maruti Baleno Delta 1.3,2017,36000,Diesel,Individual,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Swift Dzire VDI,2017,20000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Swift
+Hyundai i20 Active SX Diesel,2016,42323,Diesel,Dealer,Manual,First Owner,21.19,1396.0,88.76,5.0,Hyundai
+BMW X1 sDrive20d M Sport,5,42545,Diesel,Dealer,Automatic,First Owner,19.62,1998.0,190.0,5.0,X1
+Maruti S-Cross 2017-2020 Delta DDiS 200 SH,2016,32000,Diesel,Dealer,Manual,First Owner,25.1,1248.0,88.5,,S-Cross
+Maruti Swift Dzire VDI Optional,2017,41232,Diesel,Dealer,Manual,First Owner,26.59,3403 CC,74.0,5.0,Maruti
+Mahindra Bolero B4,2015,40200,Diesel,Dealer,Manual,First Owner,21.0,1498.0,74.96,7.0,Mahindra
+Ford Ecosport Sports Diesel,2013,48000,Diesel,Dealer,Manual,Second Owner,21.7,1498.0,98.96,5.0,Ford
+Honda Amaze E Diesel BSIV,2014,27233,Diesel,Dealer,Manual,First Owner,27.4,1498.0,98.63,5.0,Honda
+Tata Manza Aura Safire,2011,35000,Petrol,Individual,Manual,First Owner,15.0,1368.0,90.0,5.0,Tata

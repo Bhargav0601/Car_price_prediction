@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford Figo Petrol Titanium,2011,80000,Petrol,Individual,Manual,Second Owner,15.6,1196.0,70.0,5.0,Ford
+Chevrolet Spark 1.0 LT LPG,2012,70000,LPG,Individual,Manual,First Owner,13.2,995.0,60.2,5.0,Chevrolet
+Datsun RediGO S,2018,50000,Petrol,Individual,Manual,First Owner,22.7,799.0,53.64,5.0,Datsun
+Maruti Ritz VDi,2011,118000,Diesel,Individual,Manual,Second Owner,21.1,1248.0,73.9,5.0,Maruti
+Tata Indica Vista TDI LS,2014,250000,Diesel,Individual,Manual,Second Owner,19.1,1405.0,70.0,5.0,Tata
+Tata Nexon 1.5 Revotorq XZ Plus,2018,20000,Diesel,Individual,Manual,First Owner,21.5,1497.0,108.5,5.0,Tata
+Tata Nexon 1.5 Revotorq XZ Plus,2018,21871,Diesel,Individual,Manual,Rent,Unknown,1497.0,108.5,5.0,Tata
+Mahindra KUV 100 mFALCON D75 K8,2016,120000,Diesel,Individual,Manual,First Owner,25.32,1198.0,77.0,6.0,Mahindra
+Tata Indica Vista TDI LX,2014,100000,Diesel,Individual,Manual,First Owner,19.1,1405.0,70.0,5.0,Tata

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i VTEC VX,8,28900,Petrol,Dealer,Manual,First Owner,17.8,1497.0,117.3,5.0,Honda
+Honda City 1.5 S MT,2017,49523,Petrol,Dealer,Manual,First Owner,17.0,1497.0,118.0,5.0,Honda
+Maruti Vitara Brezza VDi,2018,48000,Diesel,Dealer,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Vitara Brezza ZDi,2018,17000,Diesel,Dealer,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Volkswagen Polo 1.5 TDI Comfortline,2019,36800,Diesel,Dealer,Manual,First Owner,20.14,1498.0,88.0,5.0,Volkswagen
+Maruti Vitara Brezza LDi Option,2018,36521,Electric,Dealer,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Maruti Swift Dzire VXI 1.2 BS IV,2017,90000,Petrol,Individual,Manual,First Owner,22.0,1197.0,81.8,5.0,Maruti
+Maruti Zen Classic,1998,80000,Petrol,Individual,Manual,Third Owner,17.3,993.0,60.0,5.0,Maruti
+Nissan Sunny Diesel XL,2014,71000,Diesel,Dealer,Manual,Rent,21.64,1461.0,84.8,5.0,Nissan

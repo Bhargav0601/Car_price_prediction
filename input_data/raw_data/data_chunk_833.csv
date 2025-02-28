@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Fiat Linea Emotion (Diesel),2010,110000,Diesel,Individual,Manual,Third Owner,20.4,1248.0,91.7,5.0,Fiat
+Toyota Innova 2.5 V Diesel 8-seater,2007,200000,Diesel,Individual,Manual,Third Owner,12.8,2494.0,102.0,8.0,Toyota
+Volkswagen Jetta 2.0L TDI Highline,2013,80000,Diesel,Individual,Manual,Second Owner,19.33,1968.0,138.1,5.0,Volkswagen
+Maruti Swift Dzire ZDI,2019,24000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Maruti Swift Dzire VDI,2013,150000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti
+Renault KWID RXT,2015,60000,Petrol,Individual,Manual,Rent,25.17,799.0,53.3,5.0,Renault
+Renault Duster 110PS Diesel RxL,2014,116000,Diesel,Individual,Manual,First Owner,19.01,1461.0,108.45,5.0,Renault
+Ford Figo Diesel Celebration Edition,2013,104300,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.1,5.0,Ford
+Mahindra KUV 100 D75 K8,5,30000,Diesel,Individual,Manual,First Owner,25.32,1198.0,77.0,6.0,Mahindra

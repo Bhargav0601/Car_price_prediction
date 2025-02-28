@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Corolla Altis D-4D G,2015,126000,Diesel,Individual,Manual,Third Owner,21.43,1364.0,87.2,5.0,Toyota
+Toyota Innova 2.5 V Diesel 7-seater,2011,300000,Diesel,Individual,Manual,Third Owner,12.8,2494.0,102.0,7.0,Toyota
+Honda Mobilio RS i DTEC,2015,94000,Diesel,Individual,Manual,Rent,24.5,1498.0,98.6,7.0,Honda
+Toyota Corolla Altis D-4D J,2015,129000,Diesel,Individual,Manual,Third Owner,21.43,1364.0,87.2,5.0,Toyota
+Hyundai i10 Magna 1.1L,2010,55000,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Ford EcoSport 1.5 Diesel Trend Plus BSIV,2019,40000,Diesel,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Tata Manza Aura (ABS) Quadrajet BS IV,2011,50000,Diesel,Individual,Manual,First Owner,21.12,1248.0,88.8,5.0,Tata
+Hyundai i20 1.2 Asta Option,2017,25000,Petrol,Individual,Manual,Second Owner,18.6,1197.0,81.83,5.0,Hyundai
+Toyota Corolla H2,2008,60000,Petrol,Individual,Manual,Second Owner,13.4,1794.0,125.0,5.0,Toyota

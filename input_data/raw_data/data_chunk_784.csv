@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio 1.99 S4 Plus,6,150000,Diesel,Individual,Manual,First Owner,15.4,1997.0,120.0,7.0,Mahindra
+Tata Indica Vista TDI LX,2012,100000,Diesel,Individual,Manual,Second Owner,19.4,1405.0,70.0,5.0,Tata
+Mahindra Thar 4X4,3,50000,Diesel,Individual,Manual,First Owner,16.55,2498.0,105.0,7.0,Mahindra
+Hyundai i20 Magna,2013,120000,Petrol,Individual,Manual,Second Owner,18.5,1197.0,82.85,5.0,Hyundai
+Maruti Swift VDI,2013,110000,Electric,Partnership,Manual,Third Owner,22.9,1248.0,74.0,5.0,Maruti
+Honda BRV i-VTEC V MT,2016,140000,Petrol,Individual,Manual,First Owner,15.4,1497.0,117.3,7.0,Honda
+Tata Venture EX 7 Str,2012,120000,Electric,Individual,Manual,First Owner,15.42,1405.0,70.0,7.0,Tata
+Maruti 800 AC,2002,70000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,2 seats,Maruti
+Toyota Innova 2.5 E Diesel MS 8-seater,2007,248119,Diesel,Individual,Manual,Fourth & Above Owner,Unknown,2494.0,102.0,8.0,Toyota

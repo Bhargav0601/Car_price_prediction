@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Bolero SLX,2007,80000,Diesel,Individual,Manual,Second Owner,13.6,2523.0,63.0,7.0,Mahindra
+Mahindra Marazzo M2 BSIV,2019,40000,Diesel,Individual,Manual,First Owner,17.3,1497.0,121.0,7.0,Mahindra
+Ford Figo Aspire 1.2 Ti-VCT Trend,2018,15000,Petrol,Individual,Manual,First Owner,18.16,1196.0,86.8,5.0,Ford
+Tata Aria Pride,2013,110000,Diesel,Individual,Manual,Rent,13.7,2179.0,138.1,7.0,Tata
+Toyota Innova 2.5 G (Diesel) 8 Seater,2014,80000,Diesel,Individual,Manual,Second Owner,12.99,2494.0,100.6,8.0,Toyota
+Renault Duster 110PS Diesel RxL AMT,2017,50000,Diesel,Individual,Automatic,First Owner,19.6,1461.0,108.45,2 seats,Renault
+Mahindra Scorpio VLS AT 2.2 mHAWK,2010,110000,Diesel,Individual,Automatic,First Owner,11.79,2179.0,120.0,8.0,Mahindra
+Honda Amaze S i-Dtech,2013,100000,Diesel,Individual,Manual,First Owner,25.8,1498.0,98.6,5.0,Honda
+Hyundai Verna CRDi 1.6 AT SX Option,2019,20000,Diesel,Individual,Automatic,First Owner,22.0,1582.0,126.2,5.0,Hyundai

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto 800 LXI,2014,55000,Petrol,Individual,Manual,First Owner,22.74,796.0,47.3,5.0,Maruti
+Maruti Celerio ZDi,2015,25000,Diesel,Individual,Manual,First Owner,27.62,854 CC,47.0,5.0,Maruti
+Mahindra Xylo E4,10,300000,Diesel,Individual,Manual,First Owner,14.0,2498.0,112.0,7.0,Mahindra
+Ford Figo 1.5D Titanium MT,2016,143200,Diesel,Individual,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Jeep Compass 2.0 Longitude Option BSIV,2017,60000,Electric,Individual,Manual,First Owner,17.1,1956.0,170.0,5.0,Jeep
+Nissan Micra Diesel XV Premium,5,120000,Diesel,Individual,Manual,First Owner,23.08,1461.0,63.1,5.0,Nissan
+Maruti Ciaz VDi Plus,2014,145000,Diesel,Individual,Manual,Second Owner,26.21,1248.0,88.5,5.0,Maruti
+Hyundai i20 2015-2017 Magna 1.2,2017,30000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Hyundai Grand i10 1.2 Kappa Sportz Dual Tone,2019,8000,Petrol,Partnership,Manual,First Owner,18.9,1197.0,81.86,5.0,Hyundai

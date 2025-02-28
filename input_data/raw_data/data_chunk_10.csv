@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Wagon R LXI LPG BSIV,2010,44000,LPG,Dealer,Ai,Rent,26.2,998.0,58.2,5.0,Maruti
+Volkswagen Polo 1.2 MPI Comfortline,2015,42000,Petrol,Dealer,Manual,First Owner,16.47,1198.0,74.0,5.0,Volkswagen
+Hyundai i10 Magna 1.1L,2015,45000,Petrol,Dealer,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Volkswagen Vento Petrol Highline,2012,12000,Petrol,Dealer,Manual,Second Owner,15.04,1598.0,103.6,5.0,Volkswagen
+Maruti Zen Estilo LXI BSIII,2009,55500,Petrol,Dealer,Manual,First Owner,18.2,998.0,67.1,5.0,Maruti
+Hyundai i20 Asta Optional with Sunroof 1.2,2013,61500,Petrol,Dealer,Manual,First Owner,18.5,1197.0,82.85,5.0,Hyundai
+Maruti Swift Dzire LDI,3,150000,Diesel,Individual,Manual,Rent,26.59,1248.0,74.0,5.0,Maruti
+Hyundai Xcent 1.2 Kappa SX Option AT,2016,72000,Petrol,Dealer,Automatic,First Owner,19.1,1197.0,82.0,5.0,Hyundai
+Maruti Alto LX BSIII,2008,68000,Petrol,Dealer,Manual,Third Owner,19.7,3197 CC,46.3,5.0,Maruti

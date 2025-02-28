@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ertiga SHVS VDI,2017,50000,Electric,Individual,Manual,First Owner,24.52,1248.0,88.5,7.0,Maruti
+Maruti Alto 800 VXI,2018,22000,Petrol,Partnership,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Hyundai Creta 1.4 E Plus,2019,19600,Diesel,Individual,Manual,First Owner,22.1,1396.0,88.7,5.0,Hyundai
+Tata Indigo CS eGLS BS IV,2017,104000,Petrol,Individual,Manual,First Owner,15.64,1193.0,64.1,5.0,Tata
+Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2017,33000,Diesel,Individual,Manual,First Owner,23.0,1498.0,98.96,5.0,Ford
+Mahindra TUV 300 mHAWK100 T8,2017,60000,Diesel,Partnership,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Mahindra Bolero 2011-2019 DI - AC BS III,2016,60000,Diesel,Individual,Manual,First Owner,15.96,2523.0,63.0,9.0,Mahindra
+Nissan Terrano XL,2015,40000,Petrol,Individual,Manual,First Owner,13.24,1598.0,102.5,5.0,Nissan
+Tata Tiago 1.05 Revotorq XT,2016,60000,Diesel,Individual,Manual,First Owner,27.28,1047.0,69.0,5.0,Tata

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Alto LXi BSIII,2010,120000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Alto LXi,2014,50000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Alto LX,2012,40000,Petrol,Individual,Manual,First Owner,19.7,796.0,46.3,5.0,Maruti
+Toyota Etios GD,2011,90000,Diesel,Individual,Manual,Third Owner,,,,,Toyota
+Maruti Esteem Vxi - BSII,2005,120000,Petrol,Individual,Manual,Third Owner,,,,,Maruti
+Honda City i VTEC V,2017,28000,Petrol,Individual,Manual,First Owner,17.8,1497.0,117.3,5.0,Honda
+Maruti Swift Dzire LDI,2018,50000,Diesel,Individual,Manual,First Owner,28.4,1248.0,74.02,5.0,Maruti
+Maruti Ertiga ZDI,2014,90000,Diesel,Individual,Manual,First Owner,20.77,1248.0,88.8,7.0,Maruti
+Hyundai Verna 1.4 CRDi,2016,40000,Diesel,Individual,Manual,Rent,24.8,1396.0,88.7,5.0,Hyundai

@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Toyota Corolla Altis 1.8 VL AT,2012,100000,Petrol,Individual,Automatic,First Owner,14.53,1794.0,138.1,5.0,Toyota
+Honda Brio S MT,2012,60000,Petrol,Individual,Manual,Rent,19.4,1198.0,86.8,5.0,Honda
+Maruti Baleno Alpha Automatic,2018,5000,Petrol,Individual,Ai,First Owner,21.4,1197.0,83.1,5.0,Maruti
+Tata Safari Storme EX,2017,60000,Electric,Individual,Manual,First Owner,14.1,2179.0,147.94,7.0,Tata
+Maruti Alto LXi,2011,25000,Petrol,Individual,Manual,Second Owner,Unknown,796.0,46.3,5.0,Maruti
+Renault KWID RXT,2018,30000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Datsun GO T BSIV,2017,80000,Petrol,Individual,Manual,Second Owner,20.63,1198.0,67.0,5.0,Datsun
+Maruti Vitara Brezza VDi Option,2017,75000,Diesel,Individual,Manual,First Owner,24.3,1248.0,88.5,5.0,Maruti
+Hyundai Xcent 1.2 VTVT SX,2020,32000,Petrol,Individual,Manual,First Owner,20.14,1197.0,81.86,5.0,Hyundai

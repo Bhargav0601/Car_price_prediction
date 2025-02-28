@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mahindra Scorpio VLS AT 2.2 mHAWK,4,120000,Diesel,Individual,Automatic,Third Owner,11.79,2179.0,120.0,8.0,Mahindra
+Maruti Wagon R VXI Optional,2016,80000,Petrol,Partnership,Manual,First Owner,20.51,998.0,67.04,5.0,Maruti
+Toyota Innova 2.5 VX 7 STR,2012,159000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,7.0,Toyota
+Mahindra Bolero 2011-2019 SLE,2012,110000,Diesel,Individual,Manual,Second Owner,15.96,2523.0,62.1,7.0,Mahindra
+Maruti Alto LXi,2010,75000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Swift Dzire LDi,2010,120000,Diesel,Individual,Manual,Third Owner,19.3,1248.0,73.9,5.0,Maruti
+Honda City 1.5 V Inspire,2010,110000,Petrol,Individual,Manual,Third Owner,17.0,1497.0,118.0,5.0,Honda
+Chevrolet Spark 1.0 LS,2009,80000,Petrol,Partnership,Manual,Fourth & Above Owner,18.0,995.0,62.0,5.0,Chevrolet
+Hyundai EON Magna Plus,2012,80000,Petrol,Partnership,Manual,Second Owner,21.1,814.0,55.2,5.0,Hyundai

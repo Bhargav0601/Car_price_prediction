@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Renault KWID RXL,2015,50000,Petrol,Individual,Manual,First Owner,25.17,799.0,53.3,5.0,Renault
+Maruti Wagon R VXI 1.2,2019,25000,Petrol,Individual,Manual,First Owner,20.52,1197.0,81.8,5.0,Maruti
+Mahindra Bolero 2011-2019 Plus AC,2013,100000,Diesel,Individual,Manual,First Owner,15.96,2523.0,62.1,9.0,Mahindra
+Hyundai i20 1.2 Asta,2018,6000,Petrol,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Honda BRV i-DTEC V MT,2016,72113,Diesel,Individual,Manual,First Owner,21.9,1498.0,98.6,7.0,Honda
+Tata Indigo CR4,2012,40000,Diesel,Individual,Manual,First Owner,23.57,1396.0,70.0,5.0,Tata
+Hyundai i20 1.2 Asta Option,2017,8000,Electric,Individual,Manual,First Owner,18.6,1197.0,81.83,5.0,Hyundai
+Maruti Ritz VXI,2010,20000,Petrol,Individual,Manual,First Owner,21.1,1197.0,85.8,5.0,Maruti
+Tata Indigo CS LS (TDI) BS-III,2014,45000,Diesel,Individual,Manual,First Owner,19.09,1405.0,69.01,5.0,Tata

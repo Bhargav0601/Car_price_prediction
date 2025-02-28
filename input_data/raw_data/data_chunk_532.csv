@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Mercedes-Benz CLA 200 CGI Sport,2018,18000,Petrol,Dealer,Automatic,First Owner,15.04,1991.0,183.0,,Mercedes
+Mercedes-Benz New C-Class C 200 AVANTGARDE,2017,16000,Petrol,Dealer,Automatic,First Owner,14.74,1991.0,181.04,5.0,Mercedes
+Volkswagen Ameo 1.2 MPI Highline Plus 16,2017,18816,Petrol,Dealer,Manual,First Owner,17.0,1198.0,73.75,5.0,Volkswagen
+Toyota Innova Crysta 2.4 ZX MT BSIV,2017,33019,Diesel,Dealer,Manual,First Owner,13.68,2393.0,147.8,7.0,Innova
+Honda City V AT,2017,18000,Petrol,Dealer,Automatic,First Owner,15.6,1497.0,116.3,5.0,Honda
+Toyota Glanza V CVT,2019,9654,Petrol,Dealer,Automatic,First Owner,19.56,1197.0,81.8,5.0,Toyota
+Maruti Alto K10 VXI,2011,11000,Electric,Dealer,Manual,First Owner,Unknown,998.0,67.05,5.0,Maruti
+Maruti Swift VXI,2012,24300,Petrol,Dealer,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Toyota Innova Crysta 2.8 ZX AT BSIV,2016,42163,Diesel,Dealer,Automatic,Second Owner,11.36,2755.0,171.5,7.0,Innova

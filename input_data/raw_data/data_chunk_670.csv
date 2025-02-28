@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Tata Indica V2 eLS,2016,110000,Diesel,Individual,Manual,Second Owner,25.0,1396.0,69.0,5.0,Tata
+Ford Fiesta 1.4 TDCi EXI,2005,120000,Diesel,Individual,Manual,Third Owner,17.8,1399.0,68.0,5.0,Ford
+Ford Fiesta Classic 1.4 Duratorq CLXI,2012,105358,Diesel,Individual,Manual,Rent,17.8,1399.0,67.0,5.0,Ford
+Hyundai i20 Sportz Option 1.2,2014,70000,Petrol,Individual,Manual,Second Owner,18.6,1197.0,81.83,5.0,Hyundai
+Hyundai i10 Era,2010,49200,Petrol,Individual,Manual,Second Owner,19.81,1086.0,68.05,5.0,Hyundai
+Honda City i-VTEC VX,2017,40000,Petrol,Individual,Manual,First Owner,17.4,1497.0,117.6,5.0,Honda
+Honda Mobilio V i DTEC,2014,40000,Diesel,Individual,Manual,Second Owner,24.2,1498.0,98.6,7.0,Honda
+Mahindra TUV 300 T8,2017,40000,Diesel,Individual,Manual,First Owner,18.49,1493.0,100.0,7.0,Mahindra
+Chevrolet Beat LS,2013,70000,Petrol,Individual,Manual,Rent,18.6,1199.0,79.4,5.0,Chevrolet

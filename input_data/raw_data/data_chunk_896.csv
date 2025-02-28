@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Honda City i VTEC V,2015,28161,Petrol,Dealer,Manual,First Owner,17.8,1497.0,117.3,5.0,Honda
+Chevrolet Spark 1.0 LS,2010,60000,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,5.0,Spark
+Chevrolet Spark 1.0 LS,2010,60000,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,5.0,Chevrolet
+Mahindra Scorpio M2DI,2011,100000,Diesel,Individual,Ai,Fourth & Above Owner,13.5,2179.0,115.0,5.0,Mahindra
+Ford Figo Aspire Facelift,2017,165000,Diesel,Individual,Manual,First Owner,,,,,Ford
+Maruti Swift Dzire Tour S CNG,2017,130000,Petrol,Individual,Ai,Second Owner,19.0,1197.0,85.8,5.0,Maruti
+Honda Amaze VX O iDTEC,2015,60000,Diesel,Individual,Manual,First Owner,25.8,1498.0,98.6,5.0,Honda
+Toyota Innova 2.5 V Diesel 7-seater,2010,200000,Diesel,Individual,Manual,Second Owner,12.8,2494.0,102.0,7.0,Toyota
+Nissan Terrano XL 85 PS,2014,82000,Diesel,Individual,Manual,Second Owner,20.45,1461.0,83.8,5.0,Nissan

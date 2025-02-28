@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti Ciaz S 1.3,2018,40000,Diesel,Individual,Manual,First Owner,28.09,1248.0,88.5,5.0,Maruti
+Maruti Zen LX,2000,70000,Petrol,Individual,Manual,Fourth & Above Owner,17.3,993.0,60.0,5.0,Maruti
+Honda City 2017-2020 GXi,2008,120000,Petrol,Individual,Manual,Rent,17.7,1497.0,78.0,5.0,Honda
+Maruti Swift Dzire VDI,2015,60000,Diesel,Individual,Ai,First Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti Zen Estilo LXI BS IV,2009,60000,Petrol,Individual,Manual,First Owner,19.0,998.0,67.1,5.0,Maruti
+Maruti Alto LXI,2004,60000,Petrol,Individual,Manual,Second Owner,19.7,796.0,46.3,5.0,Maruti
+Maruti Baleno Delta 1.3,2016,78000,Diesel,Individual,Manual,First Owner,27.39,1248.0,74.0,5.0,Maruti
+Renault Duster 85PS Diesel RxL Optional,2013,80000,Diesel,Individual,Manual,Second Owner,20.46,1461.0,83.8,5.0,Renault
+Maruti Alto LXi,2006,120000,Petrol,Individual,Manual,Fourth & Above Owner,19.7,796.0,46.3,5.0,Maruti

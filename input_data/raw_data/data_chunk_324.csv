@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Ford EcoSport 1.5 Ti VCT MT Titanium BSIV,2015,50000,Petrol,Individual,Manual,First Owner,15.85,,110.4,5.0,Ford
+Maruti Alto 800 LXI,2013,52000,Petrol,Dealer,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Mahindra XUV500 W11 Option BSIV,2018,15000,Diesel,Individual,Manual,Rent,15.1,2179.0,152.87,7.0,Mahindra
+Mahindra XUV500 AT W10 FWD,2015,50000,Diesel,Individual,Automatic,Rent,16.0,2179.0,140.0,7.0,Mahindra
+Honda City i DTEC VX,2014,56000,Diesel,Individual,Manual,Second Owner,25.1,1498.0,98.6,5.0,Honda
+Ford Figo Aspire 1.5 TDCi Trend,2018,82000,Diesel,Individual,Manual,First Owner,25.83,1498.0,99.0,5.0,Ford
+Hyundai Xcent 1.2 Kappa S,2014,121000,Petrol,Dealer,Manual,First Owner,19.1,1197.0,82.0,5.0,Hyundai
+Mahindra Scorpio VLX 2WD AIRBAG BSIV,2012,101903,Diesel,Partnership,Manual,Second Owner,12.05,2179.0,120.0,,Mahindra
+Maruti Swift Dzire Tour LDI,2018,120000,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,Maruti

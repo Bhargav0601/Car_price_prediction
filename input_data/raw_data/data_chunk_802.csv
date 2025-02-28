@@ -1,0 +1,10 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,car_company_name
+Maruti 800 AC,1997,60000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,Maruti
+Volkswagen Polo Diesel Highline 1.2L,2011,120000,Diesel,Individual,Manual,Third Owner,22.07,1199.0,73.9,5.0,Volkswagen
+Maruti Swift Dzire VXI 1.2,2019,10000,Petrol,Individual,Manual,First Owner,21.21,1197.0,81.8,5.0,Maruti
+Maruti Swift Dzire VDI,5,147000,Diesel,Individual,Manual,Second Owner,26.59,1248.0,74.0,5.0,Maruti
+Maruti S-Cross 2017-2020 Zeta DDiS 200 SH,2018,51000,Diesel,Individual,Manual,First Owner,25.1,1248.0,88.5,5.0,Maruti
+Honda City 2017-2020 GXi,2007,60000,Petrol,Individual,Manual,Third Owner,17.7,1497.0,78.0,5.0,Honda
+Toyota Innova 2.5 G4 Diesel 8-seater,2009,220000,Diesel,Individual,Manual,First Owner,12.8,2494.0,102.0,8.0,Toyota
+Maruti Alto 800 VXI Optional,2017,20000,Petrol,Individual,Manual,First Owner,24.7,796.0,47.3,5.0,Maruti
+Maruti Alto K10 VXI,2017,40000,Petrol,Individual,Manual,First Owner,23.95,998.0,67.05,5.0,Maruti
