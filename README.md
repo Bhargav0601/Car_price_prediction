@@ -105,14 +105,6 @@ The project is structured into several components:
  
 - **Grafana Dashboards**: Access the Grafana dashboards to monitor ingested data quality and model performance.
  
-## Contributors
- 
-- Anandhu Krishan
-- Bhargav Ravi
-- Garima Mori
-- Hardik Anil Kolhe
-- Taara Vijendra Kumar
- 
 ## Support
  
 For support or inquiries related to the project, please contact us.
