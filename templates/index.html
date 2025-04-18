@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vehicle Price Prediction</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        .form-container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .result-container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-top: 20px;
+        }
+        .tab-content {
+            padding: 20px 0;
+        }
+        .nav-tabs {
+            margin-bottom: 20px;
+        }
+        .prediction-card {
+            border-left: 4px solid #0d6efd;
+            padding: 15px;
+            margin-bottom: 15px;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+        }
+        .table-container {
+            max-height: 500px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center mb-4">Vehicle Price Prediction</h1>
+        
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="single-tab" data-bs-toggle="tab" data-bs-target="#single" type="button" role="tab">Single Prediction</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="batch-tab" data-bs-toggle="tab" data-bs-target="#batch" type="button" role="tab">Batch Prediction</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="history-tab" data-bs-toggle="tab" data-bs-target="#history" type="button" role="tab">Past Predictions</button>
+            </li>
+        </ul>
+        
+        <div class="tab-content" id="myTabContent">
+            <!-- Single Prediction Tab -->
+            <div class="tab-pane fade show active" id="single" role="tabpanel">
+                <div class="form-container">
+                    <form id="predictionForm">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="year" class="form-label">Year</label>
+                                    <input type="number" class="form-control" id="year" min="1980" max="2024" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="km_driven" class="form-label">Kilometers Driven</label>
+                                    <input type="number" class="form-control" id="km_driven" min="0" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="seats" class="form-label">Seats</label>
+                                    <input type="number" class="form-control" id="seats" min="1" max="10" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="mileage" class="form-label">Mileage (km/l)</label>
+                                    <input type="number" step="0.1" class="form-control" id="mileage" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="engine" class="form-label">Engine (CC)</label>
+                                    <input type="number" step="0.1" class="form-control" id="engine" required>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="max_power" class="form-label">Max Power (bhp)</label>
+                                    <input type="number" step="0.1" class="form-control" id="max_power" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="car_company_name" class="form-label">Car Company Name</label>
+                                    <input type="text" class="form-control" id="car_company_name" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="fuel" class="form-label">Fuel Type</label>
+                                    <select class="form-select" id="fuel" required>
+                                        <option value="Petrol">Petrol</option>
+                                        <option value="Diesel">Diesel</option>
+                                        <option value="CNG">CNG</option>
+                                        <option value="LPG">LPG</option>
+                                        <option value="Electric">Electric</option>
+                                    </select>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="transmission" class="form-label">Transmission</label>
+                                    <select class="form-select" id="transmission" required>
+                                        <option value="Manual">Manual</option>
+                                        <option value="Automatic">Automatic</option>
+                                    </select>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="owner" class="form-label">Owner Type</label>
+                                    <select class="form-select" id="owner" required>
+                                        <option value="First">First</option>
+                                        <option value="Second">Second</option>
+                                        <option value="Third">Third</option>
+                                        <option value="Fourth & Above">Fourth & Above</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Predict Price</button>
+                    </form>
+                </div>
+                
+                <div id="singleResult" class="result-container" style="display: none;">
+                    <h3>Prediction Result</h3>
+                    <div class="prediction-card">
+                        <h5>Predicted Price: <span id="predictedPrice"></span></h5>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p><strong>Car Company:</strong> <span id="resultCompany"></span></p>
+                                <p><strong>Year:</strong> <span id="resultYear"></span></p>
+                                <p><strong>Kilometers Driven:</strong> <span id="resultKm"></span></p>
+                                <p><strong>Seats:</strong> <span id="resultSeats"></span></p>
+                            </div>
+                            <div class="col-md-6">
+                                <p><strong>Fuel Type:</strong> <span id="resultFuel"></span></p>
+                                <p><strong>Transmission:</strong> <span id="resultTransmission"></span></p>
+                                <p><strong>Owner:</strong> <span id="resultOwner"></span></p>
+                                <p><strong>Prediction Time:</strong> <span id="resultTime"></span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Batch Prediction Tab -->
+            <div class="tab-pane fade" id="batch" role="tabpanel">
+                <div class="form-container">
+                    <form id="batchForm">
+                        <div class="mb-3">
+                            <label for="csvFile" class="form-label">Upload CSV File</label>
+                            <input class="form-control" type="file" id="csvFile" accept=".csv" required>
+                            <div class="form-text">Please upload a CSV file with the required vehicle data.</div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Predict Prices</button>
+                    </form>
+                </div>
+                
+                <div id="batchResult" class="result-container" style="display: none;">
+                    <h3>Batch Prediction Results</h3>
+                    <div class="table-container">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Car Company</th>
+                                    <th>Year</th>
+                                    <th>Km Driven</th>
+                                    <th>Predicted Price</th>
+                                </tr>
+                            </thead>
+                            <tbody id="batchResultsTable">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Past Predictions Tab -->
+            <div class="tab-pane fade" id="history" role="tabpanel">
+                <div class="form-container">
+                    <form id="historyForm">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="mb-3">
+                                    <label for="startDate" class="form-label">Start Date</label>
+                                    <input type="date" class="form-control" id="startDate" required>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="mb-3">
+                                    <label for="endDate" class="form-label">End Date</label>
+                                    <input type="date" class="form-control" id="endDate" required>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="mb-3">
+                                    <label for="source" class="form-label">Prediction Source</label>
+                                    <select class="form-select" id="source" required>
+                                        <option value="all">All</option>
+                                        <option value="webapp">Web App</option>
+                                        <option value="scheduled predictions">Scheduled</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Fetch Predictions</button>
+                    </form>
+                </div>
+                
+                <div id="historyResult" class="result-container" style="display: none;">
+                    <h3>Past Predictions</h3>
+                    <p>Total predictions found: <span id="predictionCount"></span></p>
+                    <div class="table-container">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Car Company</th>
+                                    <th>Year</th>
+                                    <th>Km Driven</th>
+                                    <th>Predicted Price</th>
+                                    <th>Date</th>
+                                    <th>Source</th>
+                                </tr>
+                            </thead>
+                            <tbody id="historyResultsTable">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Set default dates for history form
+        document.addEventListener('DOMContentLoaded', function() {
+            const today = new Date().toISOString().split('T')[0];
+            const thirtyDaysAgo = new Date();
+            thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+            const thirtyDaysAgoStr = thirtyDaysAgo.toISOString().split('T')[0];
+            
+            document.getElementById('endDate').value = today;
+            document.getElementById('startDate').value = thirtyDaysAgoStr;
+            
+            // Initialize tabs
+            const tabEls = document.querySelectorAll('button[data-bs-toggle="tab"]');
+            tabEls.forEach(tabEl => {
+                tabEl.addEventListener('click', event => {
+                    event.preventDefault();
+                    const tab = new bootstrap.Tab(tabEl);
+                    tab.show();
+                });
+            });
+        });
+
+        // Single Prediction Form Submission
+        document.getElementById('predictionForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = {
+                year: document.getElementById('year').value,
+                km_driven: document.getElementById('km_driven').value,
+                seats: document.getElementById('seats').value,
+                mileage: document.getElementById('mileage').value,
+                engine: document.getElementById('engine').value,
+                max_power: document.getElementById('max_power').value,
+                car_company_name: document.getElementById('car_company_name').value,
+                fuel: document.getElementById('fuel').value,
+                transmission: document.getElementById('transmission').value,
+                owner: document.getElementById('owner').value
+            };
+            
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: new URLSearchParams(formData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    const result = data.prediction;
+                    document.getElementById('predictedPrice').textContent = '₹' + result.predicted_price.toLocaleString();
+                    document.getElementById('resultCompany').textContent = result.car_company_name;
+                    document.getElementById('resultYear').textContent = result.year;
+                    document.getElementById('resultKm').textContent = result.km_driven.toLocaleString();
+                    document.getElementById('resultSeats').textContent = result.seats;
+                    document.getElementById('resultFuel').textContent = result.fuel;
+                    document.getElementById('resultTransmission').textContent = result.transmission;
+                    document.getElementById('resultOwner').textContent = result.owner;
+                    
+                    const timestamp = new Date(result.timestamp);
+                    document.getElementById('resultTime').textContent = timestamp.toLocaleString();
+                    
+                    document.getElementById('singleResult').style.display = 'block';
+                } else {
+                    alert('Error: ' + data.message);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('An error occurred while making the prediction.');
+            });
+        });
+
+        // Batch Prediction Form Submission
+        document.getElementById('batchForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const fileInput = document.getElementById('csvFile');
+            if (fileInput.files.length === 0) {
+                alert('Please select a CSV file first.');
+                return;
+            }
+            
+            const formData = new FormData();
+            formData.append('file', fileInput.files[0]);
+            
+            fetch('/predict_csv', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    const resultsTable = document.getElementById('batchResultsTable');
+                    resultsTable.innerHTML = '';
+                    
+                    data.predictions.forEach(prediction => {
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td>${prediction.car_company_name}</td>
+                            <td>${prediction.year}</td>
+                            <td>${prediction.km_driven.toLocaleString()}</td>
+                            <td>₹${prediction.predicted_price.toLocaleString()}</td>
+                        `;
+                        resultsTable.appendChild(row);
+                    });
+                    
+                    document.getElementById('batchResult').style.display = 'block';
+                } else {
+                    alert('Error: ' + data.message);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('An error occurred while processing the file.');
+            });
+        });
+
+        // Past Predictions Form Submission
+        document.getElementById('historyForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = {
+                start_date: document.getElementById('startDate').value,
+                end_date: document.getElementById('endDate').value,
+                source: document.getElementById('source').value
+            };
+            
+            fetch('/past_predictions', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(formData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    document.getElementById('predictionCount').textContent = data.count;
+                    
+                    const resultsTable = document.getElementById('historyResultsTable');
+                    resultsTable.innerHTML = '';
+                    
+                    data.predictions.forEach(prediction => {
+                        const row = document.createElement('tr');
+                        const date = new Date(prediction.timestamp);
+                        row.innerHTML = `
+                            <td>${prediction.car_company_name}</td>
+                            <td>${prediction.year}</td>
+                            <td>${prediction.km_driven.toLocaleString()}</td>
+                            <td>₹${prediction.predicted_price.toLocaleString()}</td>
+                            <td>${date.toLocaleString()}</td>
+                            <td>${prediction.source}</td>
+                        `;
+                        resultsTable.appendChild(row);
+                    });
+                    
+                    document.getElementById('historyResult').style.display = 'block';
+                } else {
+                    alert('Error: ' + data.message);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('An error occurred while fetching past predictions.');
+            });
+        });
+    </script>
+</body>
+</html>
