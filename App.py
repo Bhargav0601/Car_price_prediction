@@ -1,13 +1,14 @@
-import streamlit as st
+from flask import Flask, request, jsonify, render_template
 import pandas as pd
 import requests
 import datetime
 import json
+from datetime import date
+
+app = Flask(__name__)
 
 # Set the API base URL as a global variable
 API_BASE_URL = "http://34.16.139.133:5001"
-st.set_page_config(layout="wide")
-
 
 def fetch_past_predictions(start_date, end_date, source):
     # API endpoint URL for fetching past predictions
@@ -22,17 +23,13 @@ def fetch_past_predictions(start_date, end_date, source):
         # Send GET request to the API endpoint with the date range
         response = requests.get(api_url)
         if response.status_code == 200:
-            past_predictions = (
-                response.json()
-            )  # Get the past predictions from the response
+            past_predictions = response.json()  # Get the past predictions from the response
             return past_predictions
         else:
-            st.error(f"Failed to fetch past predictions: {response.text}")
             return None
     except Exception as e:
-        st.error(f"Error fetching past predictions: {e}")
+        print(f"Error fetching past predictions: {e}")
         return None
-
 
 def upload_file(file):
     default_source = "webapp"
@@ -41,132 +38,116 @@ def upload_file(file):
     uploaded_data = uploaded_file.to_dict(orient="records")
 
     try:
-        headers = {
-            "Content-Type": "application/json"
-        }  # This header is technically optional here as requests infers it
-
+        headers = {"Content-Type": "application/json"}
         response = requests.post(
             api_url, data=json.dumps({"data": uploaded_data}), headers=headers
         )
-
-        # Check if the request was successful
         return response.status_code, response.json()
     except Exception as e:
         print(f"Error uploading file: {e}")
         return None
 
+@app.route('/')
+def home():
+    return render_template('index.html')
 
-def main():
-    st.sidebar.title("Navigation")
-    page = st.sidebar.radio(
-        "Go to", ["Vehicle Price Prediction", "Past Predictions"])
-    if page == "Vehicle Price Prediction":
-        # Streamlit app layout
-        st.title("Vehicle Price Prediction")
+@app.route('/predict', methods=['POST'])
+def predict():
+    try:
+        vehicle_data = {
+            "year": int(request.form['year']),
+            "km_driven": int(request.form['km_driven']),
+            "seats": int(request.form['seats']),
+            "mileage": float(request.form['mileage']),
+            "engine": float(request.form['engine']),
+            "max_power": float(request.form['max_power']),
+            "car_company_name": request.form['car_company_name'],
+            "fuel": request.form['fuel'],
+            "transmission": request.form['transmission'],
+            "owner": request.form['owner'],
+        }
 
-        # Form for user input
-        with st.form(key="vehicle_form"):
-            year = st.number_input("Year", min_value=1980,
-                                   max_value=2024, step=1)
-            km_driven = st.number_input("Kilometers Driven", min_value=0)
-            seats = st.number_input("Seats", min_value=1, max_value=10, step=1)
-            mileage = st.number_input("Mileage (km/l)")
-            engine = st.number_input("Engine (CC)")
-            max_power = st.number_input("Max Power (bhp)")
-            car_company_name = st.text_input("Car Company Name")
-            fuel = st.selectbox(
-                "Fuel Type", ["Petrol", "Diesel", "CNG", "LPG", "Electric"]
-            )
-            transmission = st.selectbox("Transmission",
-                                        ["Manual", "Automatic"])
-            owner = st.selectbox(
-                "Owner Type", ["First", "Second", "Third", "Fourth & Above"]
-            )
+        data_to_send = [vehicle_data]
+        default_source = "webapp"
+        api_url = f"{API_BASE_URL}/predict/?source={default_source}"
+        response = requests.post(api_url, data=json.dumps({"data": data_to_send}))
 
-            submit_button = st.form_submit_button(label="Predict Price")
+        if response.status_code == 200:
+            response_data = response.json()
+            predictions_df = pd.DataFrame(response_data["data"])
+            return jsonify({
+                'status': 'success',
+                'prediction': predictions_df.to_dict(orient='records')[0]
+            })
+        else:
+            return jsonify({
+                'status': 'error',
+                'message': f"Failed to predict price. Error: {response.text}"
+            }), 400
 
-        # POST request to the endpoint
-        if submit_button:
-            vehicle_data = {
-                "year": year,
-                "km_driven": km_driven,
-                "seats": seats,
-                "mileage": mileage,
-                "engine": engine,
-                "max_power": max_power,
-                "car_company_name": car_company_name,
-                "fuel": fuel,
-                "transmission": transmission,
-                "owner": owner,
-            }
+    except Exception as e:
+        return jsonify({
+            'status': 'error',
+            'message': str(e)
+        }), 500
 
-            data_to_send = [vehicle_data]
-            # Endpoint URL
-            default_source = "webapp"
-            api_url = f"{API_BASE_URL}/predict/?source={default_source}"
-            response = requests.post(api_url, data=json.dumps(
-                {"data": data_to_send}))
+@app.route('/predict_csv', methods=['POST'])
+def predict_csv():
+    if 'file' not in request.files:
+        return jsonify({'status': 'error', 'message': 'No file uploaded'}), 400
+    
+    file = request.files['file']
+    if file.filename == '':
+        return jsonify({'status': 'error', 'message': 'No file selected'}), 400
+    
+    if file and file.filename.endswith('.csv'):
+        status_code, predictions_json = upload_file(file)
+        if status_code == 200:
+            predictions_df = pd.DataFrame(predictions_json["data"])
+            return jsonify({
+                'status': 'success',
+                'predictions': predictions_df.to_dict(orient='records')
+            })
+        else:
+            return jsonify({
+                'status': 'error',
+                'message': 'Failed to get predictions from API'
+            }), 400
+    else:
+        return jsonify({
+            'status': 'error',
+            'message': 'Invalid file type. Please upload a CSV file.'
+        }), 400
 
-            if response.status_code == 200:
-                response_data = response.json()
-                print("Response data:", response_data)
-                if response_data:
-
-                    predictions_df = pd.DataFrame(response_data["data"])
-
-                    st.dataframe(predictions_df)
-            else:
-
-                st.error(f"Failed to predict price. Error: {response.text}")
-
-        st.title("Upload file for prediction ")
-
-        # File uploader widget
-        uploaded_file = st.file_uploader("Upload CSV file here :",
-                                         type=["csv"])
-
-        # Add a "Predict" button
-        if st.button("Predict on CSV file"):
-            if uploaded_file is not None:
-                # Call the function to upload the file and get predictions
-
-                status_code, predictions_json = upload_file(uploaded_file)
-                if status_code == 200:
-                    print(predictions_json)
-                    # Convert the JSON response to a DataFrame
-                    predictions_df = pd.DataFrame(predictions_json["data"])
-
-                    # Display the DataFrame in Streamlit
-                    st.write("## Predictions from CSV file")
-                    st.dataframe(predictions_df)
-            else:
-                st.write("Please upload a CSV file to proceed.")
-    elif page == "Past Predictions":
-        st.title("Past predictions ")
-
-        start_date = st.date_input(
-            "Start Date", datetime.date.today() - datetime.timedelta(days=30)
+@app.route('/past_predictions', methods=['POST'])
+def past_predictions():
+    try:
+        data = request.get_json()
+        start_date = data['start_date']
+        end_date = data['end_date']
+        prediction_source = data['source']
+        
+        past_predictions = fetch_past_predictions(
+            start_date, end_date, source=prediction_source
         )
-        end_date = st.date_input("End Date", datetime.date.today())
-        prediction_source = st.selectbox(
-            "Select Prediction Source",
-            options=["webapp", "scheduled predictions", "all"],
-            index=2,
-        )  # Default to 'all'
 
-        if st.button("Fetch Past Predictions"):
-            past_predictions = fetch_past_predictions(
-                start_date, end_date, source=prediction_source
-            )
+        if past_predictions:
+            past_predictions_df = pd.DataFrame(past_predictions)
+            return jsonify({
+                'status': 'success',
+                'predictions': past_predictions_df.head(20).to_dict(orient='records'),
+                'count': len(past_predictions_df)
+            })
+        else:
+            return jsonify({
+                'status': 'error',
+                'message': 'No predictions found for the given criteria'
+            }), 404
+    except Exception as e:
+        return jsonify({
+            'status': 'error',
+            'message': str(e)
+        }), 500
 
-            if past_predictions:
-                # Convert the list of dictionaries to a DataFrame for display
-                past_predictions_df = pd.DataFrame(past_predictions)
-
-                st.write("The length of the dataframe is ",
-                         len(past_predictions_df))
-                st.dataframe(past_predictions_df.head(20))
-
-
-if __name__ == "__main__":
-    main()
+if __name__ == '__main__':
+    app.run(debug=True)
